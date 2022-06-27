@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding="windows-1250"?>
 
 <xml>
-<!---------------------------MONOLIT REGULAR with RPG----------------------->
+<!--  MONOLIT REGULAR with RPG -->
 	<specific_character id="aes_Monolit_rpg" team_default = "1">
 		<name>GENERATE_NAME_stalker</name>
 		<icon>ui_npc_u_stalker_mo_mask</icon>
@@ -34,13 +34,13 @@
 		</supplies>
 
 #include "gameplay\character_criticals_1.xml"
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
-<!---------------------------MONOLIT SPECNAZ---------------------->
+<!--MONOLIT SPECNAZ-->
   <specific_character id="aes_Monolit_specnaz" team_default = "1">
     <name>GENERATE_NAME_stalker</name>
     <icon>ui_npc_u_stalker_mo_hood_9</icon>
@@ -69,13 +69,13 @@
     </supplies>
 
 #include "gameplay\character_criticals_1.xml"
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
   </specific_character>
 
-<!---------------------------MONOLIT SPECNAZ RG6---------------------->
+<!--MONOLIT SPECNAZ RG6-->
   <specific_character id="aes_Monolit_specnaz_rg6" team_default = "1">
     <name>GENERATE_NAME_stalker</name>
     <icon>ui_npc_u_stalker_mo_hood_9</icon>
@@ -97,15 +97,15 @@
       wpn_colt1911 \n
       ammo_11.43x23_hydro  = 1 \n
     </supplies>
-    
+
 #include "gameplay\character_criticals_1.xml"
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
   </specific_character>
-  
-<!---------------------------MONOLIT SNIPER---------------------->
+
+<!--MONOLIT SNIPER-->
   <specific_character id="aes_Monolit_sniper" team_default = "1">
     <name>GENERATE_NAME_stalker</name>
     <icon>ui_npc_u_stalker_mo_head_1</icon>
@@ -134,12 +134,12 @@
     </supplies>
 
 #include "gameplay\character_criticals_1.xml"
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
   </specific_character>
-<!---------------------------MONOLIT SNIPER GAUSS---------------------->
+<!--MONOLIT SNIPER GAUSS-->
   <specific_character id="aes_Monolit_sniper_gauss" team_default = "1">
     <name>GENERATE_NAME_stalker</name>
     <icon>ui_npc_u_stalker_mo_mask</icon>
@@ -152,7 +152,7 @@
     <rank>890</rank>
     <reputation>-789</reputation>
 
-    <snd_config>characters_voice\human_01\monolith\</snd_config> 
+    <snd_config>characters_voice\human_01\monolith\</snd_config>
 	<crouch_type>-1</crouch_type>
 
 	<panic_threshold>0.0</panic_threshold>
@@ -166,14 +166,14 @@
 #include "gameplay\character_food.xml" \n
 #include "gameplay\character_drugs.xml"
     </supplies>
-    
-#include "gameplay\character_criticals_1.xml"	
+
+#include "gameplay\character_criticals_1.xml"
 #include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
   </specific_character>
-<!---------------------------MONOLIT MASTER----------------------->
+<!--MONOLIT MASTER-->
   <specific_character id="aes_Monolit_master" team_default = "1">
     <name>GENERATE_NAME_stalker</name>
     <icon>ui_npc_u_stalker_mo_exo</icon>
@@ -210,9 +210,9 @@
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
   </specific_character>
-	
-<!---------------------------SOLDIERS PROFILES----------------------->
-<!---------------------------SOLDIER COMMANDER----------------------->
+
+<!--SOLDIERS PROFILES-->
+<!--SOLDIER COMMANDER-->
 	<specific_character id="aes_Soldier_commander" team_default = "1">
 		<name>GENERATE_NAME_captain</name>
 		<icon>ui_npc_u_soldier_beret_5</icon>
@@ -221,7 +221,7 @@
 
 		<class>aes_Soldier_commander</class>
 		<community>military</community> <terrain_sect>stalker_military_terrain</terrain_sect>
-		
+
 		<rank>860</rank>
 		<reputation>12</reputation>
 
@@ -230,7 +230,7 @@
         <snd_config>characters_voice\human_02\military\</snd_config>
 		<crouch_type>0</crouch_type>
 
-		<visual>actors\soldier\soldier_beret_5</visual>		
+		<visual>actors\soldier\soldier_beret_5</visual>
 		<supplies>
 			[spawn] \n
 			wpn_usp  \n
@@ -240,15 +240,15 @@
 #include "gameplay\character_food.xml" \n
 #include "gameplay\character_drugs.xml"
 #include "gameplay\character_items.xml"
-		</supplies>	
+		</supplies>
 
 #include "gameplay\character_criticals_5.xml"
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
-<!---------------------------SOLDIER MASTER----------------------->
+<!--SOLDIER MASTER-->
 	<specific_character id="aes_Soldier_military" team_default = "1">
 		<name>GENERATE_NAME_lieutenant</name>
 		<icon>ui_npc_u_stalker_militari_antigas_2</icon>
@@ -256,7 +256,7 @@
 		<bio>aes_Soldier_military_bio</bio>
 
 		<team>Soldier_military</team>
-		
+
 		<class>aes_Soldier_military</class>
 		<community>exmon</community> <terrain_sect>stalker_military_terrain</terrain_sect>
 
@@ -268,7 +268,7 @@
 
     	<panic_threshold>0.0</panic_threshold>
 
-		<visual>actors\militari\stalker_militari_antigas_2</visual>		
+		<visual>actors\militari\stalker_militari_antigas_2</visual>
 		<supplies>
 			[spawn] \n
 			wpn_usp  \n
@@ -278,15 +278,15 @@
 #include "gameplay\character_items.xml"\n
 #include "gameplay\character_food.xml" \n
 #include "gameplay\character_drugs.xml"
-		</supplies>		
+		</supplies>
 
 #include "gameplay\character_criticals_6.xml"
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
-<!---------------------------SOLDIER SPECNAZ---------------------->
+<!--SOLDIER SPECNAZ-->
 	<specific_character id="aes_Soldier_specnaz" team_default = "1">
 		<name>GENERATE_NAME_sergeant</name>
 		<icon>ui_npc_u_soldier_antigas</icon>
@@ -294,10 +294,10 @@
 		<bio>aes_Soldier_specnaz_bio</bio>
 
 		<team>Soldier_specnaz</team>
-		
+
 		<class>aes_Soldier_specnaz</class>
 		<community>exmon</community> <terrain_sect>stalker_military_terrain</terrain_sect>
-		
+
 		<rank>850</rank>
 		<reputation>20</reputation>
 
@@ -306,7 +306,7 @@
         <snd_config>characters_voice\human_03\military\</snd_config>
 		<crouch_type>0</crouch_type>
 
-		<visual>actors\soldier\soldier_antigas</visual>		
+		<visual>actors\soldier\soldier_antigas</visual>
 		<supplies>
 			[spawn] \n
 			wpn_usp \n
@@ -316,15 +316,15 @@
 #include "gameplay\character_items.xml"	\n
 #include "gameplay\character_food.xml" \n
 #include "gameplay\character_drugs.xml"
-		</supplies>	
-		
+		</supplies>
+
 #include "gameplay\character_criticals_6.xml"
-#include "gameplay\character_dialogs.xml"											
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
-<!---------------------------SOLDIER SPECNAZ AES---------------------->
+<!--SOLDIER SPECNAZ AES-->
 	<specific_character id="aes_Soldier_specnaz_aes" team_default = "1">
 		<name>Wasyl Nieszczęsny</name>
 		<icon>ui_npc_u_stalker_militari_antigas_2</icon>
@@ -332,10 +332,10 @@
 		<bio>aes_Soldier_specnaz_aes_bio</bio>
 
 		<team>Soldier_specnaz</team>
-		
+
 		<class>aes_Soldier_specnaz_aes</class>
 		<community>military</community> <terrain_sect>stalker_military_terrain</terrain_sect>
-		
+
 		<rank>890</rank>
 		<reputation>15</reputation>
 
@@ -344,7 +344,7 @@
 
     	<panic_threshold>0.0</panic_threshold>
 
-		<visual>actors\militari\stalker_militari_antigas_2</visual>		
+		<visual>actors\militari\stalker_militari_antigas_2</visual>
 		<supplies>
 			[spawn] \n
 			wpn_usp \n
@@ -354,14 +354,14 @@
 #include "gameplay\character_items.xml"\n
 #include "gameplay\character_food.xml" \n
 #include "gameplay\character_drugs.xml"
-		</supplies>		
+		</supplies>
 
 #include "gameplay\character_criticals_6.xml"
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
-<!---------------------------SOLDIER SNIPER---------------------->
+<!--SOLDIER SNIPER-->
 	<specific_character id="aes_Soldier_sniper" team_default = "1">
 		<name>GENERATE_NAME_private</name>
 		<icon>ui_npc_u_stalker_militari_1</icon>
@@ -369,10 +369,10 @@
 		<bio>aes_Soldier_sniper_bio</bio>
 
 		<team>Soldier_sniper</team>
-		
+
 		<class>aes_Soldier_sniper</class>
 		<community>military</community> <terrain_sect>stalker_military_terrain</terrain_sect>
-		
+
 		<rank>660</rank>
 		<reputation>-13</reputation>
 
@@ -381,7 +381,7 @@
 
     	<panic_threshold>0.0</panic_threshold>
 
-		<visual>actors\militari\stalker_militari_1</visual>		
+		<visual>actors\militari\stalker_militari_1</visual>
 		<supplies>
 			[spawn] \n
 			wpn_walther \n
@@ -391,17 +391,17 @@
 #include "gameplay\character_items.xml"\n
 #include "gameplay\character_food.xml" \n
 #include "gameplay\character_drugs.xml"
-		</supplies>		
+		</supplies>
 
 #include "gameplay\character_criticals_6.xml"
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
-		
+
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
-<!---------------------------SOLDIER SNIPER---------------------->
+<!--SOLDIER SNIPER-->
 	<specific_character id="aes_x" team_default = "1">
 		<name>GENERATE_NAME_private</name>
 		<icon>ui_npc_u_stalker_militari_antigas_1</icon>
@@ -409,10 +409,10 @@
 		<bio>Zwykły żołnierz. Brak szczegółowych danych.</bio>
 
 		<team>Soldier_sniper</team>
-		
+
 		<class>aes_x</class>
 		<community>military</community> <terrain_sect>stalker_military_terrain</terrain_sect>
-		
+
 		<rank>900</rank>
 		<reputation>0</reputation>
 
@@ -420,7 +420,7 @@
 		<crouch_type>0</crouch_type>
     	<panic_threshold>0.0</panic_threshold>
 
-		<visual>actors\militari\stalker_militari_antigas_1</visual>		
+		<visual>actors\militari\stalker_militari_antigas_1</visual>
 		<supplies>
 			[spawn] \n
 			wpn_walther \n
@@ -430,16 +430,16 @@
 #include "gameplay\character_items.xml"\n
 #include "gameplay\character_food.xml" \n
 #include "gameplay\character_drugs.xml"
-		</supplies>		
+		</supplies>
 
 #include "gameplay\character_criticals_6.xml"
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
-		
+
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
-<!---------------------------SOLDIER SNIPER---------------------->
+<!--SOLDIER SNIPER-->
 	<specific_character id="aes_x_2" team_default = "1">
 		<name>GENERATE_NAME_private</name>
 		<icon>ui_npc_u_stalker_militari_antigas_1</icon>
@@ -447,10 +447,10 @@
 		<bio>Zwykły żołnierz. Brak szczegółowych danych.</bio>
 
 		<team>Soldier_sniper</team>
-		
+
 		<class>aes_x_2</class>
 		<community>stalker</community> <terrain_sect>stalker_terrain</terrain_sect>
-		
+
 		<rank>900</rank>
 		<reputation>0</reputation>
 
@@ -459,7 +459,7 @@
 
     	<panic_threshold>0.0</panic_threshold>
 
-		<visual>actors\militari\stalker_militari_antigas_1</visual>		
+		<visual>actors\militari\stalker_militari_antigas_1</visual>
 		<supplies>
 			[spawn] \n
 			wpn_walther \n
@@ -469,15 +469,15 @@
 #include "gameplay\character_items.xml"\n
 #include "gameplay\character_food.xml" \n
 #include "gameplay\character_drugs.xml"
-		</supplies>		
+		</supplies>
 
 #include "gameplay\character_criticals_6.xml"
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
-		
+
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
-	
+
 </xml>
