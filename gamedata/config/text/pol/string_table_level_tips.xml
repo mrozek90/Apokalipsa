@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="bar_rostok">
+		<text>Do Dziczy</text>
+	</string>
+	<string id="car_character_use">
+		<text>Otwórz drzwi ($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>Rozmawiaj ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>Przeszukaj ciało ($$ACTION_USE$$) \n Przeciągnij ciało (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>Przeszukaj ciało ($$ACTION_USE$$)</text>
+	</string>
+	<string id="general_complete_task">
+		<text>Zadanie wykonane:</text>
+	</string>
+	<string id="general_fail_task">
+		<text>Zadanie nie powiodło się:</text>
+	</string>
+	<string id="general_help">
+		<text>Szybko! Potrzebuję apteczki! Umieram!</text>
+	</string>
+	<string id="general_in_item">
+		<text>Otrzymany przedmiot:</text>
+	</string>
+	<string id="general_in_money">
+		<text>Otrzymane pieniądze:</text>
+	</string>
+	<string id="general_new_diary">
+		<text>Nowy wpis w dzienniku.</text>
+	</string>
+	<string id="general_new_encyclopedy">
+		<text>Nowe hasło w encyklopedii.</text>
+	</string>
+	<string id="general_new_task">
+		<text>Nowe zadanie:</text>
+	</string>
+	<string id="general_out_item">
+		<text>Utracony przedmiot:</text>
+	</string>
+	<string id="general_out_money">
+		<text>Utracone pieniądze:</text>
+	</string>
+	<string id="general_update_task">
+		<text>Nowe informacje o zadaniu:</text>
+	</string>
+	<string id="physic_shell_use">
+		<text>Przesuń obiekt ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_codelock">
+		<text>Zamek szyfrowy ($$ACTION_USE$$)</text>
+	</string>
+	<string id="to_aes">
+		<text>Do Czarnobylskiej Elektrowni Jądrowej</text>
+	</string>
+	<string id="to_agroprom">
+		<text>Na Agroprom</text>
+	</string>
+	<string id="to_agroprom_underground">
+		<text>Do katakumb</text>
+	</string>
+	<string id="to_bar">
+		<text>Do Baru</text>
+	</string>
+	<string id="to_darkvalley">
+		<text>Do Doliny Mroku</text>
+	</string>
+	<string id="to_escape">
+		<text>Na Kordon</text>
+	</string>
+	<string id="to_garbage">
+		<text>Na Wysypisko</text>
+	</string>
+	<string id="to_military">
+		<text>Na Magazyny</text>
+	</string>
+	<string id="to_pripyat">
+		<text>Do Prypeci</text>
+	</string>
+	<string id="to_radar">
+		<text>Do Mózgozwęglacza</text>
+	</string>
+	<string id="to_rostok">
+		<text>Do Dziczy</text>
+	</string>
+	<string id="to_yantar">
+		<text>Nad Jantar</text>
+	</string>
+	<string id="st_helmet_countdown">
+		<text>Wyłączenie ochrony</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>Krytyczny poziom emisji psionicznych. Natychmiast opuść niebezpieczną strefę.</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>Niebezpieczny poziom promieniowania. Żeby przejść, konieczna jest ochrona.</text>
+	</string>
+	<string id="st_found_new_pda">
+		<text>Zdobyte informacje:</text>
+	</string>
+             
+	<string id="esc2yan">
+		<text>Do Sacharowa</text>
+	</string>
+	<string id="yan2bar">
+		<text>Do Baru</text>
+	</string>
+	<string id="yan2esc">
+		<text>Na Kordon</text>
+	</string>
+              <string id="yan2esc_2">
+		<text>Do Sidorowicza</text>
+	</string>
+	<string id="bar2yan">
+		<text>Do bunkra naukowców</text>
+	</string>
+	<string id="yan2pri">
+		<text>Do Prypeci</text>
+	</string>
+	<string id="pri2esc">
+		<text>Do Sidorowicza</text>
+	</string>
+	<string id="pri2yan">
+		<text>Na Jantar</text>
+	</string>
+	<string id="yan2agr">
+		<text>Na Agroprom</text>
+	</string>
+	<string id="yan2gar">
+		<text>Na Wysypisko</text>
+	</string>
+	<string id="yan2val">
+		<text>Do Doliny Mroku</text>
+	</string>
+	<string id="yan2mil">
+		<text>Na Magazyny Wojskowe</text>
+	</string>
+	<string id="yan2rad">
+		<text>Do Mózgozwęglacza</text>
+	</string>
+	<string id="bar2esc">
+		<text>Do Sidorowicza</text>
+	</string>
+	<string id="bar2val">
+		<text>Do Doliny Mroku</text>
+	</string>
+	<string id="bar2agr">
+		<text>Na Agroprom</text>
+	</string>
+	<string id="esc2pri">
+		<text>Do Prypeci</text>
+	</string>
+	<string id="esc2ros">
+		<text>Do Dziczy</text>
+	</string>
+	<string id="val2yan">
+		<text>Na Jantar</text>
+	</string>
+	<string id="val2bar">
+		<text>Do Baru</text>
+	</string>
+	<string id="gar2bar">
+		<text>Do Baru</text>
+	</string>
+	<string id="gar2yan">
+		<text>Na Jantar</text>
+	</string>
+	<string id="yan2mon">
+		<text>Do bunkra sterowania MONOLITEM</text>
+	</string>
+	<string id="yan2aes2">
+		<text>Na Czarnobyl 2</text>
+	</string>
+	<string id="aes2yan">
+		<text>Do naukowców na Jantarze</text>
+	</string>
+	<string id="aes2esc">
+		<text>Do Sidorowicza</text>
+	</string>
+	<string id="yan2aes_1">
+		<text>Na Czarnobyl</text>
+	</string>
+	<string id="aes_22esc">
+		<text>Do Sidorowicza</text>
+	</string>
+	<string id="aes_22yan">
+		<text>Do profesora Sacharowa</text>
+	</string>
+	<string id="esc2aes">
+		<text>Na Czarnobyl</text>
+	</string>
+	<string id="esc2sar">
+		<text>Do Sarkofagu</text>
+	</string>
+	<string id="bun2aes">
+		<text>Do Sarkofagu</text>
+	</string>
+	<string id="esc2val">
+		<text>Do Doliny Mroku</text>
+	</string>
+	<string id="esc2agr">
+		<text>Na Agroprom</text>
+	</string>
+	<string id="esc2x18">
+		<text>Do laboratorium X18</text>
+	</string>
+	<string id="rad2val">
+		<text>Do Doliny Mroku</text>
+	</string>
+	<string id="agr2esc">
+		<text>Na Kordon</text>
+	</string>
+</string_table>
+

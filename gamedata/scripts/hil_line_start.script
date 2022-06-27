@@ -1,0 +1,3 @@
+function adv_start(first_speaker, second_speaker)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Serdecznie pozdrawiam!\n%c[default] Witam ciê stalkerze w modzie APOKALIPSA!\n Przyjemnej gry!\n %c[255,255,128,128] Zaurus", nil, nil, 35000)
+end

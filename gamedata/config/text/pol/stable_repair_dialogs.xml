@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+<string id="list_repair_0">
+<text>Koszt naprawy broni w pierwszym slocie:</text>
+</string>
+<string id="list_repair_1">
+<text>Koszt naprawy broni w drugim slocie:</text>
+</string>
+<string id="list_repair_2">
+<text>Koszt naprawy kombinezonu:</text>
+</string>
+
+<!--********************************-->
+<!-- Repair dialog start -->
+<!--********************************-->
+<string id="escape_repair_0">
+<text>A ty w ogóle remontujesz broń?</text>
+</string>
+<string id="escape_repair_1">
+<text>Coś tam naprawiam. Ale uprzedzam: to nie są tanie rzeczy. Im większe zużycie - tym drożej. No to jak?\n \n Lista możliwych napraw:</text>
+</string>
+<string id="escape_repair_2">
+<text>Remontuj pierwszą broń.</text>
+</string>
+<string id="escape_repair_3">
+<text>Remontuj drugą broń.</text>
+</string>
+<string id="escape_repair_4">
+<text>Remontuj kombinezon.</text>
+</string>
+<string id="escape_repair_5">
+<text>Brak mi gotówki. Przyjdę kiedyś indziej.</text>
+</string>
+<string id="escape_repair_6">
+<text>Już... Migiem to zrobię...\n \nGotowe, możesz zabrać!</text>
+</string>
+<string id="escape_repair_7">
+<text>Sam próbowałeś naprawiać? Żartuję.\n \nBierz, jest jak nowy!</text>
+</string>
+<string id="escape_repair_8">
+<text>Świetna robota. Dziękuję</text>
+</string>
+<string id="escape_repair_9">
+<text>Mistrzowska robota, nie bez powodu takie pieniądze bierzesz.</text>
+</string>
+<string id="escape_repair_10">
+<text>Możesz jeszcze coś naprawić?</text>
+</string>
+<string id="escape_repair_11">
+<text>Oczywiście.\n \nLista możliwych napraw:</text>
+</string>
+
+
+</string_table> 

@@ -1,0 +1,2225 @@
+<?xml version='1.0' encoding="windows-1251"?>
+
+<xml>
+
+	<specific_character id="sim_apclps_1" team_default = "1">
+		<name>n_1</name>
+		<icon>ui_npc_u_stalker_mo_exo</icon>
+		<bio>esc_soldier_regular_bio</bio>
+
+		<class>sim_apclps_1</class>
+		<community>apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\militari\stalker_militari_antigas_2</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_colt1911 \n
+			ammo_11.43x23_hydro = 1 \n
+			wpn_gauss \n
+			ammo_gauss = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"
+		<actor_dialog>ex_apclps_dialog</actor_dialog>
+		<start_dialog>dm_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_2" team_default = "1">
+		<name>n_2</name>
+		<icon>ui_npc_u_stalker_mo_exo</icon>
+		<bio>esc_soldier_regular_bio</bio>
+
+		<class>sim_apclps_2</class>
+		<community>apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\militari\stalker_militari_antigas_2</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_colt1911 \n
+			ammo_11.43x23_hydro = 1 \n
+			wpn_rpg7 \n
+			ammo_og-7b = 30 \n
+			
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"	
+		<actor_dialog>ex_apclps_dialog</actor_dialog>				
+		<start_dialog>dm_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	
+	<specific_character id="apclps_nomer11" team_default = "1">
+		<name>n_11</name>
+		<icon>ui_npc_u_stalker_mo_exo</icon>
+		<bio>esc_soldier_regular_bio</bio>
+
+		<class>apclps_nomer11</class>
+		<community>apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\militari\stalker_militari_antigas_2</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_colt1911 \n
+			ammo_11.43x23_hydro = 1 \n
+			wpn_fn2000 \n
+			ammo_5.56x45_ap = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+		<actor_dialog>hil_apn11_dialog</actor_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	
+	<specific_character id="apclps" team_default = "1">
+		<name>n_30</name>
+		<icon>ui_npc_u_stalker_mo_exo</icon>
+		<bio>esc_soldier_regular_bio</bio>
+
+		<class>apclps</class>
+		<community>apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\militari\stalker_militari_antigas_2</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_colt1911 \n
+			ammo_11.43x23_hydro = 1 \n
+			wpn_fn2000 \n
+			ammo_5.56x45_ap = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"	
+		<actor_dialog>ex_apclps_dialog</actor_dialog>				
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+
+
+<!--***************************************************-->
+<!--***************EX_APCLPS***************************-->
+<!--***************************************************-->
+	
+	<specific_character id="sim_apclps_3" team_default = "1">
+		<name>n_3</name>
+		<icon>ui_npc_u_stalker_bandit_3</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_3</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\bandit\stalker_bandit_3</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_colt1911 \n
+			ammo_11.43x23_hydro = 1 \n
+			wpn_toz34 \n
+			ammo_12x76_dart = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"	
+		<actor_dialog>ex_apclps_dialog</actor_dialog>				
+		<start_dialog>dm_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_4" team_default = "1">
+		<name>n_4</name>
+		<icon>ui_npc_u_stalker_bandit_4</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_4</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\bandit\stalker_bandit_4</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_colt1911 \n
+			ammo_11.43x23_hydro = 1 \n
+			wpn_bm16 \n
+			ammo_12x76_dart = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"
+		<actor_dialog>ex_apclps_dialog</actor_dialog>
+		<start_dialog>dm_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_5" team_default = "1">
+		<name>n_5</name>
+		<icon>ui_npc_u_stalker_bandit_5</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_5</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\bandit\stalker_bandit_5</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_colt1911 \n
+			ammo_11.43x23_hydro = 1 \n
+			wpn_toz34 \n
+			ammo_12x76_dart = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"	
+		<actor_dialog>ex_apclps_dialog</actor_dialog>				
+		<start_dialog>dm_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_6" team_default = "1">
+		<name>n_6</name>
+		<icon>ui_npc_u_green_stalker_2</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_6</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\novice\green_stalker_2</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_fmj \n
+			wpn_mp5 \n
+			ammo_9x19_fmj = 1 \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"
+		<actor_dialog>ex_apclps_dialog</actor_dialog>					
+		<start_dialog>dm_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_7" team_default = "1">
+		<name>n_7</name>
+		<icon>ui_npc_u_stalker_neytral_balon_8</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_7</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\neytral\stalker_neytral_balon_8</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_fmj \n
+			wpn_mp5 \n
+			ammo_9x19_fmj = 1 \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"	
+		<actor_dialog>ex_apclps_dialog</actor_dialog>				
+		<start_dialog>dm_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_8" team_default = "1">
+		<name>n_8</name>
+		<icon>ui_npc_u_stalker_neytral_hood_9</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_8</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\neytral\stalker_neytral_hood_9</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_fmj \n
+			wpn_mp5 \n
+			ammo_9x19_fmj = 1 \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"	
+		<actor_dialog>ex_apclps_dialog</actor_dialog>				
+		<start_dialog>dm_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_9" team_default = "1">
+		<name>n_9</name>
+		<icon>ui_npc_u_stalker_neytral_rukzak_2</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_9</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\neytral\stalker_neytral_rukzak_2</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_pm \n
+			ammo_9x18_pmm = 1 \n
+			wpn_ak74u \n
+			ammo_5.45x39_ap = 1 \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"	
+		<actor_dialog>ex_apclps_dialog</actor_dialog>				
+		<start_dialog>dm_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_10" team_default = "1">
+		<name>n_10</name>
+		<icon>ui_npc_u_stalker_neytral_hood_8</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_10</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\neytral\stalker_neytral_hood_8</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_pm \n
+			ammo_9x18_pmm = 1 \n
+			wpn_ak74u \n
+			ammo_5.45x39_ap = 1 \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"
+		<actor_dialog>ex_apclps_dialog</actor_dialog>
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+
+	
+	<specific_character id="sim_apclps_12" team_default = "1">
+		<name>n_12</name>
+		<icon>ui_npc_u_stalker_neytral_rukzak_2</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_12</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\neytral\stalker_neytral_rukzak_2</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_pm \n
+			ammo_9x18_pmm = 1 \n
+			wpn_ak74u \n
+			ammo_5.45x39_ap = 1 \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_13" team_default = "1">
+		<name>n_13</name>
+		<icon>ui_npc_u_stalker_ecolog</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_13</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\ecolog\stalker_ecolog</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_lr300 \n
+			ammo_5.56x45_ss190 = 1 \n
+			device_torch \n
+			wpn_pm \n
+			ammo_9x18_fmj = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_14" team_default = "1">
+		<name>n_14</name>
+		<icon>ui_npc_u_stalker_ecolog</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_14</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\ecolog\stalker_ecolog</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_lr300 \n
+			ammo_5.56x45_ss190 = 1 \n
+			device_torch \n
+			wpn_pm \n
+			ammo_9x18_fmj = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_15" team_default = "1">
+		<name>n_15</name>
+		<icon>ui_npc_u_stalker_ecolog</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_15</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\ecolog\stalker_ecolog</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_lr300 \n
+			ammo_5.56x45_ss190 = 1 \n
+			device_torch \n
+			wpn_pm \n
+			ammo_9x18_fmj = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_16" team_default = "1">
+		<name>n_16</name>
+		<icon>ui_npc_u_stalker_mo_head_1</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_16</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\monolit\stalker_mo_head_1</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+            ammo_9x19_pbp = 1 \n
+            wpn_ak74 \n
+            ammo_5.45x39_fmj = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_17" team_default = "1">
+		<name>n_17</name>
+		<icon>ui_npc_u_stalker_mo_hood_9</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_17</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\monolit\stalker_mo_hood_9</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+            ammo_9x19_pbp = 1 \n
+            wpn_ak74 \n
+            ammo_5.45x39_fmj = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_18" team_default = "1">
+		<name>n_18</name>
+		<icon>ui_npc_u_stalker_mo_hood_9</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_18</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\monolit\stalker_mo_hood_9</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+            ammo_9x19_pbp = 1 \n
+            wpn_ak74 \n
+            ammo_5.45x39_fmj = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_19" team_default = "1">
+		<name>n_19</name>
+		<icon>ui_npc_u_stalker_sv_rukzak_1_1</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_19</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\svoboda\stalker_sv_rukzak_1_1</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_fmj \n
+			wpn_lr300 \n
+			ammo_5.56x45_ss190 = 1 \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_20" team_default = "1">
+		<name>n_20</name>
+		<icon>ui_npc_u_stalker_sv_rukzak_1_1</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_20</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\svoboda\stalker_sv_rukzak_1_1</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_fmj \n
+			wpn_lr300 \n
+			ammo_5.56x45_ss190 = 1 \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_21" team_default = "1">
+		<name>n_21</name>
+		<icon>ui_npc_u_stalker_sv_rukzak_3_1</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_21</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\svoboda\stalker_sv_rukzak_3_1</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_sig220 \n
+			ammo_11.43x23_hydro = 1 \n
+            wpn_svu \n
+            ammo_7.62x54_ap = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_22" team_default = "1">
+		<name>n_22</name>
+		<icon>ui_npc_u_stalker_do_mask</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_22</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\dolg\stalker_do_mask</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_fmj \n
+			wpn_abakan \n
+			ammo_5.45x39_fmj \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_23" team_default = "1">
+		<name>n_23</name>
+		<icon>ui_npc_u_stalker_do_balon_8</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_23</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\dolg\stalker_do_balon_8</visual>		
+		<supplies>
+			[spawn] \n
+			ammo_9x19_fmj \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_24" team_default = "1">
+		<name>n_24</name>
+		<icon>ui_npc_u_stalker_do_mask_1</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_24</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\dolg\stalker_do_mask_1</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_fmj \n
+			wpn_abakan \n
+			ammo_5.45x39_fmj \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_25" team_default = "1">
+		<name>n_25</name>
+		<icon>ui_npc_u_stalker_do_balon_8</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_25</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\dolg\stalker_do_balon_8</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_fmj = 1 \n
+			wpn_l85 \n
+			ammo_5.56x45_ap = 1 \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_26" team_default = "1">
+		<name>n_26</name>
+		<icon>ui_npc_u_soldier_obichniy</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_26</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\soldier\soldier_obichniy</visual>		
+		<supplies>
+			[spawn] \n
+			ammo_9x18_fmj = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_27" team_default = "1">
+		<name>n_27</name>
+		<icon>ui_npc_u_soldier_bandana_1</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_27</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\soldier\soldier_bandana_1</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_pm \n
+			ammo_9x18_fmj = 1 \n
+			wpn_ak74u \n
+			ammo_5.45x39_fmj = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_28" team_default = "1">
+		<name>n_28</name>
+		<icon>ui_npc_u_soldier_bandana_2</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_28</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\soldier\soldier_bandana_2</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_pm \n
+			ammo_9x18_fmj = 1 \n
+			wpn_ak74 \n
+			ammo_5.45x39_fmj = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	<specific_character id="sim_apclps_29" team_default = "1">
+		<name>n_29</name>
+		<icon>ui_npc_u_soldier_bandana_4</icon>
+		<bio>Bojownik Apokalipsy dziaіaj№cy w przebraniu.Bardzo niebezpieczny.</bio>
+
+		<class>sim_apclps_29</class>
+		<community>ex_apclps</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\soldier\soldier_bandana_4</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_pm \n
+			ammo_9x18_fmj = 1 \n
+			wpn_ak74u \n
+			ammo_5.45x39_fmj = 1 \n
+			device_torch \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"			
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+	
+<!-------------------Ермол--------------------------------------------->
+<specific_character id="sim_ermol" team_default = "1">
+		<name>ermol_name</name>
+		<icon>ui_ermol</icon>
+		<bio>esc_soldier_regular_bio</bio>
+
+		<class>ermol</class>
+		<community>exmon</community> <terrain_sect>stalker_terrain</terrain_sect>
+		<money min="10000000" max="100000000" infinitive="1"/>
+		
+		<rank>476</rank>
+		<reputation>509</reputation>
+		
+		<snd_config>characters_voice\human_02\bandit\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\bandit\stalker_bandit_borov</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_colt1911 \n
+			ammo_11.43x23_hydro = 1 \n
+			wpn_fn2000 \n
+			ammo_5.56x45_ap = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"			
+		<start_dialog>ermol_hello_dialog</start_dialog>
+		<actor_dialog>ermol_weapon1</actor_dialog>
+		<actor_dialog>ermol_weapon2</actor_dialog>
+		<actor_dialog>hil_ermol_dialog1</actor_dialog>
+		<actor_dialog>hil_ermol_dialog2</actor_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+
+<!--------------------------------------------------------------------->
+
+<specific_character id="remezov" team_default = "1">
+		<name>remezov_name</name>
+		<icon>ui_remezov</icon>
+		<bio>esc_soldier_regular_bio</bio>
+
+		<class>remezov</class>
+		<community>ecolog</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>476</rank>
+		<reputation>-90</reputation>
+		
+		<snd_config>characters_voice\human_03\ecolog\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\ucheniy\ucheniy_4</visual>		
+		<supplies>
+			[spawn] \n
+			
+			ammo_11.43x23_hydro = 1 \n
+			ammo_5.56x45_ap = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"			
+		<start_dialog>remezov_hello_dialog</start_dialog>
+		<actor_dialog>hil_reuch_dialog</actor_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+<!-------------------Доктор------------------------------->
+	<specific_character id="docktor" team_default = "1">
+		<name>hil_docktor_name</name>
+		<icon>ui_npc_u_izgoy</icon>
+		<bio>esc_soldier_regular_bio</bio>
+
+		<class>docktor</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>900</rank>
+		<reputation>100</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\izgoy\izgoy</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_colt1911 \n
+			ammo_11.43x23_hydro = 1 \n
+			wpn_gauss \n
+			ammo_gauss = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_5.xml"			
+		<start_dialog>docktor_hello_dialog</start_dialog>
+		<actor_dialog>hil_doc_dialog</actor_dialog>
+		<actor_dialog>hil_doctor_dialog2</actor_dialog>
+		<actor_dialog>hil_doc_dialog_dub</actor_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+		<actor_dialog>otdat_cc</actor_dialog>
+		<actor_dialog>vst_v_cnn</actor_dialog>
+		<actor_dialog>doc_pda_dialog</actor_dialog>
+	</specific_character>
+
+
+<!-------------------Харон и телохранители------------------>
+
+	<specific_character id="haron" team_default = "1">
+        <name>haron_name</name>
+        <icon>ui_npc_u_stalker_mo_exo</icon>
+        <map_icon x="3" y="0"></map_icon>
+        <bio>pri_monolith_exo_bio</bio>
+
+        <class>haron</class>
+        <community>monolith</community> <terrain_sect>stalker_terrain</terrain_sect>
+
+        <rank>997</rank>
+        <reputation>0</reputation>
+
+        <visual>actors\monolit\stalker_mo_exo</visual>
+        <snd_config>characters_voice\human_03\monolith\</snd_config>
+	  	<crouch_type>-1</crouch_type>
+        <supplies>
+			[spawn] \n
+			wpn_m1000 \n
+            ammo_11.43x23_hydro = 1 \n
+            #include "gameplay\character_items.xml" \n
+		</supplies>
+		
+#include "gameplay\character_criticals_1.xml"
+		<start_dialog>haron_hello_dialog</start_dialog>
+		<actor_dialog>hil_haron_dialog1</actor_dialog>
+		<actor_dialog>haron_last_dialog</actor_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+    </specific_character>
+	
+	
+		<specific_character id="haron_bg1" team_default = "1">
+        <name>haron_bg1_name</name>
+        <icon>ui_npc_u_stalker_mo_exo</icon>
+        <map_icon x="3" y="0"></map_icon>
+        <bio>pri_monolith_exo_bio</bio>
+
+        <class>haron_bg1</class> <terrain_sect>stalker_terrain</terrain_sect>
+        <community>monolith</community>
+
+        <rank>997</rank>
+        <reputation>-1</reputation>
+
+        <visual>actors\monolit\stalker_mo_exo</visual>
+        <snd_config>characters_voice\human_03\monolith\</snd_config>
+	  	<crouch_type>0</crouch_type>
+        <supplies>
+			[spawn] \n
+			wpn_m1000 \n
+            ammo_11.43x23_hydro = 1 \n
+            #include "gameplay\character_items.xml" \n
+		</supplies>
+		
+#include "gameplay\character_criticals_1.xml"			
+		<start_dialog>haron_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+    </specific_character>
+	
+	
+		<specific_character id="haron_bg2" team_default = "1">
+        <name>haron_bg2_name</name>
+        <icon>ui_npc_u_stalker_mo_exo</icon>
+        <map_icon x="3" y="0"></map_icon>
+        <bio>pri_monolith_exo_bio</bio>
+
+        <class>haron_bg2</class>
+        <community>monolith</community> <terrain_sect>stalker_terrain</terrain_sect>
+
+        <rank>997</rank>
+        <reputation>0</reputation>
+
+        <visual>actors\monolit\stalker_mo_exo</visual>
+        <snd_config>characters_voice\human_03\monolith\</snd_config>
+	  	<crouch_type>-1</crouch_type>
+        <supplies>
+			[spawn] \n
+			wpn_m1000 \n
+            ammo_11.43x23_hydro = 1 \n
+            #include "gameplay\character_items.xml" \n
+		</supplies>
+		
+#include "gameplay\character_criticals_1.xml"			
+		<start_dialog>haron_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+    </specific_character>
+	
+	
+<!-----------Поиск в Припяти------------------------------>
+
+	<specific_character id="sl2" team_default = "1">
+		<name>bar_sl_name</name>
+		<icon>ui_slaven</icon>
+		<bio>esc_fox_bio</bio>
+
+		<class>sl2</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>338</rank>
+		<reputation>93</reputation>
+		
+		<snd_config>characters_voice\human_01\stalker\</snd_config>
+		<crouch_type>-1</crouch_type>
+		<panic_treshold>0</panic_treshold>
+
+		<visual>actors\monolit\stalker_mo_exo</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 1 \n
+			wpn_m1000 \n
+			ammo_11.43x23_hydro = 1 \n
+			device_torch \n
+		</supplies>		
+#include "gameplay\character_criticals_4.xml"
+			<start_dialog>cnn_hello_dialog</start_dialog>
+			<actor_dialog>sl_last_dialog</actor_dialog>
+			<actor_dialog>escape_repair</actor_dialog>
+			<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	
+	<specific_character id="andry2" team_default = "1">
+		<name>bar_andry_name</name>
+		<icon>ui_a_che</icon>
+		<bio>esc_fox_bio</bio>
+
+		<class>andry2</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>338</rank>
+		<reputation>93</reputation>
+		
+		<snd_config>characters_voice\human_01\stalker\</snd_config>
+		<crouch_type>-1</crouch_type>
+		<panic_treshold>0</panic_treshold>
+
+		<visual>actors\monolit\stalker_mo_exo</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 1 \n
+			wpn_m1000 \n
+			ammo_11.43x23_hydro = 1 \n
+			device_torch \n
+		</supplies>		
+#include "gameplay\character_criticals_4.xml"
+		<start_dialog>cnn_hello_dialog</start_dialog>
+		<actor_dialog>escape_repair</actor_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	
+	<specific_character id="tzar12" team_default = "1">
+		<name>bar_tzar1_name</name>
+		<icon>ui_tzar1</icon>
+		<bio>esc_fox_bio</bio>
+
+		<class>tzar12</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>338</rank>
+		<reputation>93</reputation>
+		
+		<snd_config>characters_voice\human_01\stalker\</snd_config>
+		<crouch_type>-1</crouch_type>
+		<panic_treshold>0</panic_treshold>
+
+		<visual>actors\monolit\stalker_mo_exo</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 1 \n
+			wpn_m1000 \n
+			ammo_11.43x23_hydro = 1 \n
+			device_torch \n
+		</supplies>		
+#include "gameplay\character_criticals_4.xml"
+		<start_dialog>cnn_hello_dialog</start_dialog>
+		<actor_dialog>escape_repair</actor_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	
+	<specific_character id="tzar22" team_default = "1">
+		<name>bar_tzar2_name</name>
+		<icon>ui_tzar2</icon>
+		<bio>esc_fox_bio</bio>
+
+		<class>tzar22</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>338</rank>
+		<reputation>93</reputation>
+		
+		<snd_config>characters_voice\human_01\stalker\</snd_config>
+		<crouch_type>-1</crouch_type>
+		<panic_treshold>0</panic_treshold>
+
+		<visual>actors\monolit\stalker_mo_exo</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 1 \n
+			wpn_m1000 \n
+			ammo_11.43x23_hydro = 1 \n
+			device_torch \n
+		</supplies>		
+#include "gameplay\character_criticals_4.xml"
+		<start_dialog>cnn_hello_dialog</start_dialog>
+		<actor_dialog>escape_repair</actor_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	
+	<specific_character id="timych2" team_default = "1">
+		<name>bar_timych_name</name>
+		<icon>ui_timych</icon>
+		<bio>esc_fox_bio</bio>
+
+		<class>timych2</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>338</rank>
+		<reputation>93</reputation>
+		
+		<snd_config>characters_voice\human_01\stalker\</snd_config>
+		<crouch_type>-1</crouch_type>
+		<panic_treshold>0</panic_treshold>
+
+		<visual>actors\monolit\stalker_mo_exo</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 1 \n
+			wpn_m1000 \n
+			ammo_11.43x23_hydro = 1 \n
+			device_torch \n
+		</supplies>
+				
+#include "gameplay\character_criticals_4.xml"			
+		<start_dialog>cnn_hello_dialog</start_dialog>
+		<actor_dialog>escape_repair</actor_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+		
+	</specific_character>
+	
+	
+	<specific_character id="egor2" team_default = "1">
+		<name>egor_name</name>
+		<icon>ui_egor</icon>
+		<bio>esc_fox_bio</bio>
+
+		<class>egor2</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>338</rank>
+		<reputation>93</reputation>
+		
+		<snd_config>characters_voice\human_01\stalker\</snd_config>
+		<crouch_type>-1</crouch_type>
+		<panic_treshold>0</panic_treshold>
+
+		<visual>actors\monolit\stalker_mo_exo</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 1 \n
+			wpn_m1000 \n
+			ammo_11.43x23_hydro = 1 \n
+			device_torch \n
+		</supplies>
+				
+#include "gameplay\character_criticals_4.xml"			
+		<start_dialog>cnn_hello_dialog</start_dialog>
+		<actor_dialog>escape_repair</actor_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+		
+	</specific_character>
+	
+<!--*****************************************************-->
+<!-------------------Охотники за головами------------------>
+<!-------------------hh_esc-------------------------------->
+<specific_character id="esc_head_hunter" team_default = "1">
+		<name>GENERATE_NAME_stalker</name>
+		<icon>ui_npc_u_stalker_neytral_hood_uzor</icon>
+		<map_icon x="2" y="0"></map_icon>
+		<bio>sim_killer_master_bio</bio>
+
+		<class>esc_head_hunter</class>
+		<community>head_hunter</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>909</rank>
+		<reputation>-132</reputation>
+	
+		<snd_config>characters_voice\human_03\killer\</snd_config>
+		<crouch_type>-1</crouch_type>		
+		<visual>actors\neytral\stalker_neytral_hood_uzor</visual>
+		<supplies>
+			[spawn] \n
+			wpn_pb \n
+			ammo_9x18_pmm = 1 \n
+			wpn_ak74u \n
+			ammo_5.45x39_ap = 1 \n
+			device_torch \n
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_4.xml"
+#include "gameplay\character_dialogs.xml"
+<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+<!------------------hh_gar------------------------------------>
+<specific_character id="gar_head_hunter" team_default = "1">
+		<name>GENERATE_NAME_stalker</name>
+		<icon>ui_npc_u_stalker_bandit_5</icon>
+		<map_icon x="2" y="0"></map_icon>
+		<bio>sim_killer_master_bio</bio>
+
+		<class>gar_head_hunter</class>
+		<community>head_hunter</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>909</rank>
+		<reputation>-132</reputation>
+	
+		<snd_config>characters_voice\human_03\killer\</snd_config>
+		<crouch_type>-1</crouch_type>		
+		<visual>actors\bandit\stalker_bandit_5</visual>
+		<supplies>
+			[spawn] \n
+			wpn_pb \n
+			ammo_9x18_pmm = 1 \n
+			wpn_mp5 \n
+			ammo_9x19_fmj \n
+			device_torch \n
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_4.xml"
+<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+<!------------------hh_agr------------------------------------->
+<specific_character id="agr_head_hunter" team_default = "1">
+		<name>GENERATE_NAME_stalker</name>
+		<icon>ui_npc_u_stalker_ki_nauchniy</icon>
+		<map_icon x="2" y="0"></map_icon>
+		<bio>sim_killer_master_bio</bio>
+
+		<class>agr_head_hunter</class>
+		<community>head_hunter</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>909</rank>
+		<reputation>-132</reputation>
+	
+		<snd_config>characters_voice\human_03\killer\</snd_config>
+		<crouch_type>-1</crouch_type>		
+		<visual>actors\bandit\stalker_bandit_master</visual>
+		<supplies>
+			[spawn] \n
+			wpn_fort \n
+			ammo_9x18_fmj = 1 \n
+			wpn_mp5 \n
+			ammo_9x19_fmj = 1 \n
+			device_torch \n
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_4.xml"
+<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+<!------------------hh_val----------------------------------->
+<specific_character id="val_head_hunter" team_default = "1">
+		<name>GENERATE_NAME_stalker</name>
+		<icon>ui_npc_u_stalker_ki_nauchniy</icon>
+		<map_icon x="2" y="0"></map_icon>
+		<bio>sim_killer_master_bio</bio>
+
+		<class>val_head_hunter</class>
+		<community>head_hunter</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>909</rank>
+		<reputation>-132</reputation>
+	
+		<snd_config>characters_voice\human_03\killer\</snd_config>
+		<crouch_type>-1</crouch_type>		
+		<visual>actors\bandit\stalker_bandit_master</visual>
+		<supplies>
+			[spawn] \n
+			wpn_beretta \n
+			ammo_9x19_pbp = 1 \n			
+			wpn_ak74 = 1, 1, 1, 0 \n
+			ammo_5.45x39_ap = 1 \n
+			device_torch \n
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_4.xml"
+<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+<!-------------------hh_mil------------------------------>
+	<specific_character id="head_hunter" team_default = "1">
+		<name>GENERATE_NAME_stalker</name>
+		<icon>ui_npc_u_stalker_ki_nauchniy</icon>
+		<map_icon x="2" y="0"></map_icon>
+		<bio>sim_killer_master_bio</bio>
+
+		<class>head_hunter</class>
+		<community>head_hunter</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>909</rank>
+		<reputation>-132</reputation>
+	
+		<snd_config>characters_voice\human_03\killer\</snd_config>
+		<crouch_type>-1</crouch_type>		
+		<visual>actors\killer\stalker_ki_nauchniy</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 2 \n
+			wpn_sig550 \n
+			ammo_5.56x45_ss190 = 1 \n
+			device_torch \n
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_4.xml"
+<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+<!----------------------hh_yan----------------------------->
+<specific_character id="yan_head_hunter" team_default = "1">
+		<name>GENERATE_NAME_stalker</name>
+		<icon x="10" y="4"></icon>
+		<map_icon x="2" y="0"></map_icon>
+		<bio>sim_killer_master_bio</bio>
+
+		<class>yan_head_hunter</class>
+		<community>head_hunter</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>909</rank>
+		<reputation>-132</reputation>
+	
+		<snd_config>characters_voice\human_03\killer\</snd_config>
+		<crouch_type>-1</crouch_type>		
+		<visual>actors\nauchniy\nauchniy_0</visual>
+		<supplies>
+			[spawn] \n
+			wpn_hpsa \n
+			ammo_9x19_fmj = 1 \n
+			wpn_sig550 \n
+			ammo_5.56x45_ss190 = 1 \n
+			device_torch \n
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_4.xml"
+<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+<!---------------------SNIPERS----------------------------------->
+<specific_character id="head_hunter_sniper" team_default = "1">
+		<name>GENERATE_NAME_stalker</name>
+		<icon>ui_npc_u_stalker_sv_rukzak_3_1</icon>
+		<bio>Снайпер-одиночка. Очень опасен.</bio>
+
+		<class>head_hunter_sniper</class>
+		<community>head_hunter</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>876</rank>
+		<reputation>-500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\svoboda\stalker_sv_rukzak_3_1</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_sig220 \n
+			ammo_11.43x23_hydro = 1 \n
+            wpn_svu \n
+            ammo_7.62x54_7h14 = 1 \n
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>ex_apclps_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"			
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+<!----------------------Heli_hunter------------------------------>
+<specific_character id="head_hunter_hh" team_default = "1">
+		<name>GENERATE_NAME_stalker</name>
+		<icon>ui_npc_u_stalker_ki_nauchniy</icon>
+		<map_icon x="2" y="0"></map_icon>
+		<bio>sim_killer_master_bio</bio>
+
+		<class>head_hunter_hh</class>
+		<community>head_hunter</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>909</rank>
+		<reputation>-132</reputation>
+	
+		<snd_config>characters_voice\human_03\killer\</snd_config>
+		<crouch_type>-1</crouch_type>		
+		<visual>actors\killer\stalker_ki_nauchniy</visual>
+		<supplies>
+			[spawn] \n
+			wpn_colt1911 \n
+			ammo_11.43x23_hydro = 1 \n
+			wpn_rpg7 \n
+			ammo_og-7b = 30 \n
+#include "gameplay\character_food.xml"
+#include "gameplay\character_drugs.xml"
+		</supplies>
+		
+#include "gameplay\character_criticals_4.xml"
+<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+<!--*********************************************************** -->
+<!--*********************************************************** -->	
+	<!-- ************************ Хакер *********************** -->	
+	<specific_character id="hacker" team_default = "1">
+		<name>hacker_name</name>
+		<icon>ui_npc_u_green_stalker_7</icon>
+		<map_icon x="0" y="0"></map_icon>
+		<bio>ros_freeman_bio</bio>
+
+		<class>hacker</class>
+		<community>stalker</community> <terrain_sect>stalker_terrain</terrain_sect> <terrain_sect>stalker_terrain</terrain_sect>
+		<money min="200" max="600" infinitive="0"></money>
+		
+		<rank>201</rank>
+		<reputation>90</reputation>
+
+		<visual>actors\novice\green_stalker_7</visual>
+		<snd_config>characters_voice\human_01\newbie\</snd_config>
+		<crouch_type>0</crouch_type>
+
+		<supplies>
+			[spawn] \n
+			wpn_desert_eagle \n
+			ammo_11.43x23_fmj \n
+		</supplies>
+		
+	<actor_dialog>hacker_dialog</actor_dialog>
+	<start_dialog>hacker_hello_dialog</start_dialog>
+	<!--actor_dialog>tm_hacker_task_dialog</actor_dialog>
+	<actor_dialog>tm_hacker_reward_dialog</actor_dialog-->
+	<actor_dialog>hacker_find_notebook_dialog</actor_dialog>
+	<actor_dialog>hacker_notebook_dialog</actor_dialog>
+	<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+#include "gameplay\character_criticals_3.xml"
+	</specific_character>
+	
+	
+<!---------------------------Verbovshik---------------------->
+	<specific_character id="verbovshik" team_default = "1">
+		<name>verbovshik_name</name>
+		<icon>ui_npc_budulay</icon>
+		<map_icon x="0" y="0"></map_icon>
+		<bio>bar_drunk_bio</bio>
+		
+		<class>verbovshik</class>
+		<community>stalker</community> <terrain_sect>stalker_dolg_terrain</terrain_sect>
+		<money min="600" max="2000" infinitive="0"></money>
+		
+		<rank>417</rank>
+		<reputation>0</reputation>
+ 
+		<visual>actors\neytral\stalker_neytral_rukzak_4</visual>
+		<snd_config>characters_voice\human_01\dolg\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<supplies>
+			[spawn] \n
+			detector_advances \n
+		</supplies>
+		
+#include "gameplay\character_criticals_6.xml"
+		<start_dialog>budulay_hello_dialog</start_dialog>
+		<actor_dialog>hil_budulay_dialog1</actor_dialog>	
+		<actor_dialog>hil_budulay_dialog2</actor_dialog>
+		<actor_dialog>hil_budulay_dialog3</actor_dialog>
+<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>		
+		
+	</specific_character>
+	
+	
+<!-----------------------------------Timych----------------------------------->
+	<specific_character id="bar_timych" team_default = "1">
+		<name>bar_timych_name</name>
+		<icon>ui_timych</icon>
+		<bio>esc_fox_bio</bio>
+
+		<class>bar_timych</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>338</rank>
+		<reputation>93</reputation>
+		
+		<snd_config>characters_voice\human_01\stalker\</snd_config>
+		<crouch_type>-1</crouch_type>
+		<panic_treshold>0</panic_treshold>
+
+		<visual>actors\bandit\stalker_bandit_master</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 1 \n
+			wpn_groza_m1 \n
+			ammo_5.45x39_ap = 1 \n
+			device_torch \n
+		</supplies>
+				
+#include "gameplay\character_criticals_4.xml"			
+		<start_dialog>cnn_hello_dialog</start_dialog>
+		<actor_dialog>mercul_dialog</actor_dialog>
+
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+		<actor_dialog>escape_repair</actor_dialog>
+		<actor_dialog>take_stvol3</actor_dialog>
+	</specific_character>
+	
+<!-----------------------------------Andry----------------------------------->
+	<specific_character id="bar_andry" team_default = "1">
+		<name>bar_andry_name</name>
+		<icon>ui_a_che</icon>
+		<bio>esc_fox_bio</bio>
+
+		<class>bar_andry</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>338</rank>
+		<reputation>93</reputation>
+		
+		<snd_config>characters_voice\human_01\stalker\</snd_config>
+		<crouch_type>-1</crouch_type>
+		<panic_treshold>0</panic_treshold>
+
+		<visual>actors\bandit\stalker_bandit_master</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 1 \n
+			wpn_groza_m1 \n
+			ammo_5.45x39_ap = 1 \n
+			device_torch \n
+		</supplies>
+				
+#include "gameplay\character_criticals_4.xml"		
+		<start_dialog>cnn_hello_dialog</start_dialog>
+		<actor_dialog>andry_dialog</actor_dialog>
+
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+		<actor_dialog>escape_repair</actor_dialog>
+		<actor_dialog>take_stvol4</actor_dialog>
+	</specific_character>
+	
+<!-----------------------------------Tzar1----------------------------------->
+	<specific_character id="bar_tzar1" team_default = "1">
+		<name>bar_tzar1_name</name>
+		<icon>ui_tzar1</icon>
+		<bio>esc_fox_bio</bio>
+
+		<class>bar_tzar1</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>338</rank>
+		<reputation>93</reputation>
+		
+		<snd_config>characters_voice\human_01\stalker\</snd_config>
+		<crouch_type>-1</crouch_type>
+		<panic_treshold>0</panic_treshold>
+
+		<visual>actors\bandit\stalker_bandit_master</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 1 \n
+			wpn_groza_m1 \n
+			ammo_5.45x39_ap = 1 \n
+			device_torch \n
+		</supplies>
+				
+#include "gameplay\character_criticals_4.xml"		
+		<start_dialog>cnn_hello_dialog</start_dialog>
+		<actor_dialog>tzar1_dialog</actor_dialog>
+
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+		<actor_dialog>escape_repair</actor_dialog>
+		<actor_dialog>take_stvol1</actor_dialog>
+	</specific_character>
+	
+<!-----------------------------------Tzar2----------------------------------->
+	<specific_character id="bar_tzar2" team_default = "1">
+		<name>bar_tzar2_name</name>
+		<icon>ui_tzar2</icon>
+		<bio>esc_fox_bio</bio>
+
+		<class>bar_tzar2</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>338</rank>
+		<reputation>93</reputation>
+		
+		<snd_config>characters_voice\human_01\stalker\</snd_config>
+		<crouch_type>-1</crouch_type>
+		<panic_treshold>0</panic_treshold>
+
+		<visual>actors\bandit\stalker_bandit_master</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 1 \n
+			wpn_groza_m1 \n
+			ammo_5.45x39_ap = 1 \n
+			device_torch \n
+		</supplies>
+				
+#include "gameplay\character_criticals_4.xml"			
+		<start_dialog>cnn_hello_dialog</start_dialog>
+		<actor_dialog>tzar2_dialog</actor_dialog>
+
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+		<actor_dialog>escape_repair</actor_dialog>
+		<actor_dialog>take_stvol2</actor_dialog>
+	</specific_character>
+	
+<!-----------------------------------Sl----------------------------------->
+	<specific_character id="bar_sl" team_default = "1">
+		<name>bar_sl_name</name>
+		<icon>ui_slaven</icon>
+		<bio>esc_fox_bio</bio>
+
+		<class>bar_sl</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>338</rank>
+		<reputation>93</reputation>
+		
+		<snd_config>characters_voice\human_01\stalker\</snd_config>
+		<crouch_type>-1</crouch_type>
+		<panic_treshold>0</panic_treshold>
+
+		<visual>actors\bandit\stalker_bandit_master</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 1 \n
+			wpn_groza_m1 \n
+			ammo_5.45x39_ap = 1 \n
+			device_torch \n
+		</supplies>
+				
+#include "gameplay\character_criticals_4.xml"			
+		<start_dialog>cnn_hello_dialog</start_dialog>
+		<actor_dialog>sl_dialog</actor_dialog>
+		<actor_dialog>hil_sl_dialog2</actor_dialog>
+		<actor_dialog>hil_sl_dialog1</actor_dialog>
+
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+		<actor_dialog>escape_repair</actor_dialog>
+		<actor_dialog>stvol_end</actor_dialog>
+	</specific_character>
+	
+	
+<!-----------------------------------Nemez----------------------------------->
+	<specific_character id="esc_nemez" team_default = "1">
+		<name>esc_nemez_name</name>
+		<icon>ui_actor_nemez</icon>
+		<bio>esc_fox_bio</bio>
+
+		<class>esc_nemez</class>
+		<community>cnn</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>338</rank>
+		<reputation>93</reputation>
+		
+		<snd_config>characters_voice\human_01\stalker\</snd_config>
+		<crouch_type>-1</crouch_type>
+		<panic_treshold>0</panic_treshold>
+
+		<visual>actors\monolit\stalker_mo_exo</visual>
+		<supplies>
+			[spawn] \n
+			wpn_walther \n
+			ammo_9x19_pbp = 1 \n
+			wpn_groza_m1 \n
+			ammo_5.45x39_ap = 1 \n
+			device_torch \n
+		</supplies>
+				
+#include "gameplay\character_criticals_4.xml"			
+		<start_dialog>nemez_hello_dialog</start_dialog>
+		<actor_dialog>nemez_dialog</actor_dialog>
+		<actor_dialog>escape_repair</actor_dialog>
+		<actor_dialog>nemez_last_dialog</actor_dialog>
+		<actor_dialog>hil_tell_nemez</actor_dialog>
+
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+		<actor_dialog>escape_repair</actor_dialog>
+	</specific_character>
+	
+<!---------------------------------------esc_mehanik----------------------------------------------------->
+<specific_character id="mehanik" team_default = "1">
+<name>mehanik</name>
+<icon>ui_npc_u_green_stalker_5</icon>
+<bio>esc_stalker_novice_bio</bio>
+
+<class>mehanik</class>
+<community>exmon</community> <terrain_sect>stalker_terrain</terrain_sect>
+
+<rank>350</rank>
+<reputation>10</reputation>
+<money min="200" max="600" infinitive="0"/>
+
+<snd_config>characters_voice\human_01\newbie\</snd_config>
+<crouch_type>-1</crouch_type>
+
+<visual>actors\soldier\soldier_bandana_6</visual>
+<supplies>
+[spawn] \n
+wpn_pm \n
+ammo_9x18_fmj = 1 \n
+wpn_spas12 \n
+ammo_12x70_buck \n
+device_torch \n
+#include "gameplay\character_items.xml"
+#include "gameplay\character_food.xml"
+</supplies>
+#include "gameplay\character_criticals_1.xml"
+<start_dialog>mehanik_hello_dialog</start_dialog>
+<actor_dialog>hil_story_start_dialog</actor_dialog>
+<actor_dialog>escape_repair</actor_dialog>
+<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+</specific_character> 
+
+<!-------------------Ученишки--------------------------------->
+
+<specific_character id="renegade_1" team_default = "1">
+<name>renegade_1_name</name>
+<icon>ui_npc_u_ucheniy_2</icon>
+<bio>esc_stalker_novice_bio</bio>
+
+<class>renegade_1</class>
+<community>ecolog</community> <terrain_sect>stalker_terrain</terrain_sect>
+
+<rank>350</rank>
+<reputation>-10</reputation>
+<money min="200" max="600" infinitive="0"/>
+
+<snd_config>characters_voice\human_03\ecolog\</snd_config>
+<crouch_type>-1</crouch_type>
+
+<visual>actors\ucheniy\ucheniy_2</visual>
+<supplies>
+[spawn] \n
+wpn_pm \n
+ammo_9x18_fmj = 1 \n
+apclps_pda	\n
+#include "gameplay\character_items.xml"
+#include "gameplay\character_food.xml"
+</supplies>
+#include "gameplay\character_criticals_1.xml"
+<start_dialog>reuch_hello_dialog</start_dialog>
+<actor_dialog>hil_renegade_dialog</actor_dialog>
+<actor_dialog>hil_renegade_dialog2</actor_dialog>
+<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+
+</specific_character>
+
+
+<specific_character id="renegade_2" team_default = "1">
+<name>renegade_2_name</name>
+<icon>ui_npc_u_ucheniy_2</icon>
+<bio>esc_stalker_novice_bio</bio>
+
+<class>renegade_2</class>
+<community>ecolog</community> <terrain_sect>stalker_terrain</terrain_sect>
+
+<rank>350</rank>
+<reputation>-10</reputation>
+<money min="200" max="600" infinitive="0"/>
+
+<snd_config>characters_voice\human_03\ecolog\</snd_config>
+<crouch_type>-1</crouch_type>
+
+<visual>actors\ucheniy\ucheniy_2</visual>
+<supplies>
+[spawn] \n
+wpn_pm \n
+ammo_9x18_fmj = 1 \n
+#include "gameplay\character_items.xml"
+#include "gameplay\character_food.xml"
+</supplies>
+#include "gameplay\character_criticals_1.xml"
+<start_dialog>reuch_hello_dialog</start_dialog>
+<actor_dialog>hil_renegade_dialog</actor_dialog>
+<actor_dialog>hil_renegade_dialog2</actor_dialog>
+<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+
+</specific_character>
+
+
+<specific_character id="renegade_3" team_default = "1">
+<name>renegade_3_name</name>
+<icon>ui_npc_u_ucheniy_2</icon>
+<bio>esc_stalker_novice_bio</bio>
+
+<class>renegade_3</class>
+<community>ecolog</community> <terrain_sect>stalker_terrain</terrain_sect>
+
+<rank>350</rank>
+<reputation>-10</reputation>
+<money min="200" max="600" infinitive="0"/>
+
+<snd_config>characters_voice\human_03\ecolog\</snd_config>
+<crouch_type>-1</crouch_type>
+
+<visual>actors\ucheniy\ucheniy_2</visual>
+<supplies>
+[spawn] \n
+wpn_pm \n
+ammo_9x18_fmj = 1 \n
+#include "gameplay\character_items.xml"
+#include "gameplay\character_food.xml"
+</supplies>
+#include "gameplay\character_criticals_1.xml"
+<start_dialog>reuch_hello_dialog</start_dialog>
+<actor_dialog>hil_renegade_dialog</actor_dialog>
+<actor_dialog>hil_renegade_dialog2</actor_dialog>
+<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+
+</specific_character>
+
+
+
+<!------------------Призрак Стрелка-------------------------->
+
+
+<specific_character id="unknown" team_default = "1">
+<name>unknown_name</name>
+<icon>ui_gunman</icon>
+<bio>esc_stalker_novice_bio</bio>
+
+<class>unknown</class>
+<community>actor</community> <terrain_sect>stalker_terrain</terrain_sect>
+
+<rank>798</rank>
+<reputation>100</reputation>
+<money min="2" max="6" infinitive="0"/>
+
+<snd_config>characters_voice\human_01\newbie\</snd_config>
+<crouch_type>-1</crouch_type>
+
+<visual>actors\hero\stalker_novice</visual>
+<supplies>
+[spawn] \n
+wpn_pm \n
+ammo_9x18_fmj = 1 \n
+wpn_spas12 \n
+ammo_12x70_buck \n
+device_torch \n
+</supplies>
+</specific_character> 
+
+
+<!-----------------Десант на Янтаре--------------->
+<specific_character id="desantnik" team_default = "1">
+		<name>GENERATE_NAME_private</name>
+		<icon>ui_npc_u_soldier_obichniy</icon>
+		<bio>esc_soldier_regular_bio</bio>
+
+		<class>desantnik</class>
+		<community>military</community> <terrain_sect>stalker_military_terrain</terrain_sect>
+		
+		<rank>223</rank>
+		<reputation>86</reputation>
+		
+		<snd_config>characters_voice\human_01\military\</snd_config>
+		<crouch_type>0</crouch_type>
+
+		<visual>actors\soldier\soldier_obichniy</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_pm \n
+			ammo_9x18_fmj = 1 \n
+			wpn_ak74u \n
+			ammo_5.45x39_fmj = 1 \n
+			conserva	= 20 \n
+			kolbasa		= 20 \n
+			vodka		= 20 \n
+		</supplies>
+			
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
+	</specific_character>
+	
+	
+<!------------------Козел-провокатор------------------>
+	<specific_character id="kozel" team_default = "1">
+		<name>kozel_name</name>
+		<icon>ui_npc_u_green_stalker_2</icon>
+		<bio>esc_stalker_novice_bio</bio>
+
+		<class>kozel</class>
+		<community>stalker</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>140</rank>
+		<reputation>-12</reputation>
+		<money min="200" max="600" infinitive="0"/>
+		
+		<snd_config>characters_voice\human_01\newbie\</snd_config>
+		<crouch_type>-1</crouch_type>
+		
+		<visual>actors\neytral\stalker_neytral_hood_uzor</visual>
+		<supplies>
+			[spawn] \n
+			wpn_spas12 \n
+			ammo_12x70_buck = 10\n
+#include "gameplay\character_items.xml"
+#include "gameplay\character_food.xml"
+		</supplies>
+					
+#include "gameplay\character_criticals_3.xml"
+		<actor_dialog>kozel_dialog</actor_dialog>
+		<actor_dialog>kozel_dialog2</actor_dialog>
+		<actor_dialog>kozel_dialog3</actor_dialog>
+		<start_dialog>kozel_hello_dialog</start_dialog>
+		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>	
+	</specific_character>
+	
+	
+<!--****************Спецназ на ЧАЭС*********************-->
+<specific_character id="chaes_escort" team_default = "1">
+		<name>GENERATE_NAME_captain</name>
+		<icon x="6" y="4"></icon>
+		<map_icon x="2" y="2"></map_icon>
+		<bio>Wojskowy stalker. Uzbrojony i bardzo niebezpieczny.</bio>
+		
+		<class>chaes_escort</class>
+		<community>military</community>
+		
+		<rank>900</rank>
+		<reputation>500</reputation>
+
+		<visual>actors\militari\stalker_militari_antigas_2</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_usp \n
+			ammo_11.43x23_hydro = 1 \n
+			wpn_vintorez \n
+			ammo_9x39_sp5 = 1 \n
+			device_torch \n
+#include "gameplay\character_items.xml"
+		</supplies>		
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>dm_hello_dialog</start_dialog>
+	</specific_character>
+	
+<!--*************Черный Сталкер**************************-->
+<specific_character id="black_canine" team_default = "1">
+		<name>black_canine_name</name>
+		<icon>ui_pinochet</icon>
+		<bio>Siergiej Czernienko - Pinochet.</bio>
+
+		<class>black_canine</class>
+		<community>actor</community> <terrain_sect>stalker_terrain</terrain_sect>
+		
+		<rank>900</rank>
+		<reputation>500</reputation>
+		
+		<snd_config>characters_voice\human_02\military\</snd_config>
+		<crouch_type>-1</crouch_type>
+
+		<visual>actors\svoboda\stalker_sv_rukzak_3_2</visual>		
+		<supplies>
+			[spawn] \n
+			wpn_sig220 \n
+			ammo_11.43x23_hydro = 1 \n
+
+#include "gameplay\character_items.xml" \n
+#include "gameplay\character_drugs.xml" \n
+#include "gameplay\character_food.xml"
+		</supplies>
+		<actor_dialog>bc_dialog</actor_dialog>		
+#include "gameplay\character_criticals_5.xml"
+#include "gameplay\character_dialogs.xml"					
+		<start_dialog>pinochet_hello_dialog</start_dialog>
+	</specific_character>
+	
+	
+	<specific_character id="remezov_jailor" team_default = "1">
+		<name>GENERATE_NAME_stalker</name>
+		<icon>ui_npc_u_stalker_do_nauchniy</icon>
+		<map_icon x="4" y="0"></map_icon>
+		<bio>sim_dolg_master_bio</bio>
+		
+		<class>remezov_jailor</class>
+		<community>dolg</community> <terrain_sect>stalker_dolg_terrain</terrain_sect>
+		<money min="2000" max="5000" infinitive="0"></money>
+		
+		<rank>820</rank>
+		<reputation>60</reputation>
+
+		<visual>actors\dolg\stalker_do_nauchniy</visual>
+		<snd_config>characters_voice\human_03\dolg\</snd_config>
+		<crouch_type>0</crouch_type>
+		<supplies>
+			[spawn] \n
+			wpn_sig220 \n
+			ammo_11.43x23_fmj \n		
+			wpn_groza \n
+			ammo_9x39_sp5 = 2 \n
+			ammo_vog-25p = 2 \n
+#include "gameplay\character_items.xml"	\n
+#include "gameplay\character_food.xml" \n
+#include "gameplay\character_drugs.xml"
+		</supplies>	
+
+#include "gameplay\character_criticals_6.xml"
+#include "gameplay\character_dialogs.xml"
+
+	</specific_character>
+	
+</xml>

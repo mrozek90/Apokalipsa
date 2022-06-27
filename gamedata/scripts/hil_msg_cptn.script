@@ -1,0 +1,7 @@
+function cptn_msg(first_speaker, second_speaker)
+
+	local snd_obj = xr_sound.get_safe_sound_object( [[msgs\yaroslavkin_2]] )
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Kapitan Jaros³awkin:\n%c[default] Strie³ok, mamy tu ma³y problem. Bêdziesz mia³ czas - wpadnij na posterunek.", nil, nil, 35000)
+end

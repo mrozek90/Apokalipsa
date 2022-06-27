@@ -1,0 +1,7 @@
+function stranger_msg1(first_speaker, second_speaker)
+
+	local snd_obj = xr_sound.get_safe_sound_object( [[msgs\hacker]] )
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+
+	news_manager.send_tip(db.actor, "%c[255,255,128,128]Nieznany:\n%c[default] Mo¿esz spróbowaæ rozwi¹zaæ konflikt pokojowo: haker Gienia potrafi zmieniæ przynale¿noœæ frakcyjn¹.", nil, nil, 35000)
+end

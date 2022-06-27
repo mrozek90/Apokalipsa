@@ -1,0 +1,2302 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+	<string id="new_barman_dialog_0">
+		<text>Witaj, Barman!</text>
+	</string>
+	<string id="new_barman_dialog_1">
+		<text>Dawno cię nie było w moim barze, Striełok. Skąd wracasz?</text>
+	</string>
+	<string id="new_barman_dialog_2">
+		<text>Z fabryki "Jantar". Co ty tak pobladłeś?</text>
+	</string>
+	<string id="new_barman_dialog_3">
+		<text>Straszne rzeczy się dzieją, Striełok. Widziałeś co na Jantarze się stało?</text>
+	</string>
+	<string id="new_barman_dialog_4">
+		<text>Widziałem... I co o tym myślisz?</text>
+	</string>
+	<string id="new_barman_dialog_5">
+		<text>A co tu myśleć. Wolność, Powinność i wojsko w końcu się dogadali i ustanowili na Jantarze ogólny rozejm. No a dalej to sam widziałeś czym to się skończyło, pozabijali się wzajemnie.</text>
+	</string>
+	<string id="new_barman_dialog_6">
+		<text>Aha. A przy okazji wszystkie zombie i mutanty. Jak w anegdocie: pisze marynarz Żeleźniak wyrok dla Trybunału Rewolucyjnego. "Kupca Puziakina, jako hydrę światowego kapitału - rozstrzelać. I od razu czterdziestu jego współwięźniów." Wierzysz sam w to co mówisz?</text>
+	</string>
+	<string id="new_barman_dialog_7">
+		<text>Nie wiem, Striełok. Był tu taki jeden, zwą go Merk. Opowiadał, że jak był tam ze swoją grupą to widział, co i jak tam się działo.</text>
+	</string>
+	<string id="new_barman_dialog_8">
+		<text>Tak? No i co tam się działo?</text>
+	</string>
+	<string id="new_barman_dialog_9">
+		<text>Nie zdążył dokończyć. Pił za szybko, stakanami wlewał w siebie wódkę...</text>
+	</string>
+	<string id="new_barman_dialog_10">
+		<text>Gdzie go znajdę?</text>
+	</string>
+	<string id="new_barman_dialog_11">
+		<text>Dzisiaj tu w Barze jego szajka odpoczywa.</text>
+	</string>
+	<string id="new_barman_dialog_12">
+		<text>Cóż to - to są bandyci?</text>
+	</string>
+	<string id="new_barman_dialog_13">
+		<text>Dlaczego zaraz bandyci?</text>
+	</string>
+	<string id="new_barman_dialog_14">
+		<text>Sam powiedziałeś - szajka.</text>
+	</string>
+	<string id="new_barman_dialog_15">
+		<text>Aaa, ja tak po ojcowsku. Nie ma wątpliwości, chłopaki są w porządku. Twardzi, ale porządni. Nazywają siebie Poszukiwaczami. Zaginionych bez wieści, na prośbę krewnych, szukają w Zonie. Prawie za darmo.</text>
+	</string>
+	<string id="new_barman_dialog_16">
+		<text>Dobra. Pójdę pogadać sobie z tym Merkiem.</text>
+	</string>
+	
+	<string id="sl_dialog_0">
+		<text>Witaj! Ty jesteś z grupy Poszukiwaczy?</text>
+	</string>
+	<string id="sl_dialog_1">
+		<text>A ty kto taki i czego tu szukasz?</text>
+	</string>
+	<string id="sl_dialog_2">
+		<text>Coś ty taki gburowaty? Zwą mnie Striełok, szukam Merka, ludzie mówili, że tu go można znaleźć.</text>
+	</string>
+	<string id="sl_dialog_3">
+		<text>Striełok powiadasz? Słyszałem, słyszałem. A do czego ci Merk potrzebny?</text>
+	</string>
+	<string id="sl_dialog_4">
+		<text>Mówili, że na Jantarze był, jak się tam Powinność z Wolnością starła. Kłamali?</text>
+	</string>
+	<string id="sl_dialog_5">
+		<text>Kłamali.</text>
+	</string>
+	<string id="sl_dialog_6">
+		<text>Słuchaj, ja i tak go znajdę.</text>
+	</string>
+	<string id="sl_dialog_7">
+		<text>Powodzenia w poszukiwaniach. Bywaj.</text>
+	</string>
+	<string id="sl_dialog_8">
+		<text>Zobaczymy.</text>
+	</string>
+	
+	<string id="tzar2_dialog_0">
+		<text>Witaj stalkerze! Nie widziałeś gdzieś Merka?</text>
+	</string>
+	<string id="tzar2_dialog_1">
+		<text>Spadaj braciszku, nie dla ciebie on.</text>
+	</string>
+	<string id="tzar2_dialog_2">
+		<text>Interes mam do niego.</text>
+	</string>
+	<string id="tzar2_dialog_3">
+		<text>Interes masz, powiadasz? To idź i zrób z niego użytek.</text>
+	</string>
+	<string id="tzar2_dialog_4">
+		<text>Dobra, na razie.</text>
+	</string>
+	
+	<string id="tzar1_dialog_0">
+		<text>Jak leci Sania? Gdzie wasz dowódca?</text>
+	</string>
+	<string id="tzar1_dialog_1">
+		<text>Przyjdź później, gdzieś za rok</text>
+	</string>
+	<string id="tzar1_dialog_2">
+		<text>Co z was wszystkich za gbury?</text>
+	</string>
+	
+	<string id="andry_dialog_0">
+		<text>Ty jesteś Andriej Cze?</text>
+	</string>
+	<string id="andry_dialog_1">
+		<text>Tak, tak się nazywam. A ty to kto?</text>
+	</string>
+	<string id="andry_dialog_2">
+		<text>Striełok. Szukam Merka. Gdzie go znajdę?</text>
+	</string>
+	<string id="andry_dialog_3">
+		<text>A po drodze tu go nie spotkałeś? Dziwne. Słuchaj Striełok, ja ci tylko dobrze radzę, spotkasz Merka - nie stawiaj mu, już drugi dzień jak chleje wódę, rozebrało go zwyczajnie, jak małą dziewczynkę.</text>
+	</string>
+	<string id="andry_dialog_4">
+		<text>A czemu on tak? Stało się coś?</text>
+	</string>
+	<string id="andry_dialog_5">
+		<text>Z nim zawsze się coś dzieje.Taki on już pokręcony. Tylko mu nie stawiaj!</text>
+	</string>
+	<string id="andry_dialog_6">
+		<text>Postaram się.</text>
+	</string>
+	
+	<string id="mercul_dialog_0">
+		<text>No, dzięki Bogu cię znalazłem. Witaj Timosza!</text>
+	</string>
+	<string id="mercul_dialog_1">
+		<text>Witaj Striełok. Sławik mówił mi, że mnie szukasz. Wiem dlaczego, ale nic ci nie powiem. Dopóki nie postawisz mi kolejki.</text>
+	</string>
+	<string id="mercul_dialog_2">
+		<text>Twoi przyjaciele prosili, by ci wódki nie dawać .</text>
+	</string>
+	<string id="mercul_dialog_3">
+		<text>No. Tu nikt nie stawia. Nawet Barman tylko dowcipkuje o wątrobie. Niby, łyknij raz mineralnej, zadziw swoją wątrobę. Co ja nie proponowałem za sto gram - nie i już! A ja jestem chory, rozumiesz?</text>
+	</string>
+	<string id="mercul_dialog_4">
+		<text>Dobrze, postawię ci flaszkę.</text>
+	</string>
+	<string id="mercul_dialog_5">
+		<text>Sam pić nie będę. Nalej i sobie. Sobie możesz mniej.</text>
+	</string>
+	<string id="mercul_dialog_6">
+		<text>Dobrze. No, za porozumienie!</text>
+	</string>
+	<string id="mercul_dialog_7">
+		<text>Poszło jak po szynach. Przywitajmy się ze szczęśliwym upojeniem alkoholowym.</text>
+	</string>
+	<string id="mercul_dialog_8">
+		<text>Poszukiwacze. Barman mówił, że wy ludzi ratujecie?</text>
+	</string>
+	<string id="mercul_dialog_9">
+		<text>To zależy. Czasami kogoś uratujemy. Częściej rodzinie rzeczy zaginionego oddajemy. Zona. No, coś tak między pierwszym a drugim...</text>
+	</string>
+	<string id="mercul_dialog_10">
+		<text>...jeszcze trochę zostało. Dalej, za Zonę, do diabła z nią!</text>
+	</string>
+	<string id="mercul_dialog_11">
+		<text>No dobra. Stan normalny. Pytaj o co chciałeś.</text>
+	</string>
+	<string id="mercul_dialog_12">
+		<text>Parę dni temu byłeś ze swą grupą na Jantarze.</text>
+	</string>
+	<string id="mercul_dialog_13">
+		<text>Byliśmy tam. I wiem o co zaraz zapytasz. Ogólnie to tak, trzeciego dnia przeszliśmy na Jantar od strony... W sumie nie jest ważne, z której strony przyszliśmy. Chłopaki zeszli do laboratorium X16, ja ukryłem się przy wejściu i obserwowałem obóz przez lornetkę, cholera wie co sojusznikom do łbów strzeli. Przez półtora godziny dwa snorki widziałem, i nagle zaczęło się.... Ty nalewaj, zasnąłeś czy co?</text>
+	</string>
+	<string id="mercul_dialog_14">
+		<text>Dalej! Za bractwo stalkerów!</text>
+	</string>
+	<string id="mercul_dialog_15">
+		<text>Taa... zaczęło się. Najpierw powiało niesamowitym chłodem, ściemniło się, włączyłem noktowizor - ni cholery! Ledwo - ledwo co widać. Słyszę tylko - jak zawyło, zajęczało, zazgrzytało zębami, ale nie uszami słyszę, a w samej głowie. Nagle się rozjaśniło... Lepiej by się nie rozjaśniało... Wszędzie mutanty... Zombie, od strony bunkra syrena, helikopter się podniósł, wali rakietami we wszystkie strony, w obozie piekło, ze środka nikt nie wybiega, a huk taki jak z pola bitwy. Dalej niewiele pamiętam: strzelałem, potem jak nabojów zabrakło, ciąłem nożem. Uciekałem do tunelu, trzeba było oczywiście do laboratorium, ale nie myślałem już wcale... I nagle, jak grom z jasnego nieba, siła wybuchu wyrzuciła mnie w bagno... Ocknąłem się w tunelu. Chłopaki w pobliżu. Nic nie widzieli. I mi nie wierzyli, dopóki na powierzchnię nie wyszliśmy. Ani jednego żywego stworzenia, nawet snorków, których nic nie rusza. </text>
+	</string>
+	<string id="mercul_dialog_16">
+		<text>Daj jeszcze po maluchu... Jak myślisz, emisja?</text>
+	</string>
+	<string id="mercul_dialog_17">
+		<text>Głupi czy co? Emisja całą Zonę pokrywa. Nie, Striełok. To broń jest nowa. Sam popatrz: naukowcy, zwiększenie obecności wojskowej, Powinność, Wolność. Oczywiście powinnościowców i wolnościowców, tych idiotów, wojsko wykorzystało.</text>
+	</string>
+	<string id="mercul_dialog_18">
+		<text>Znaczy się, broń powiadasz. "WuWa".</text>
+	</string>
+	<string id="mercul_dialog_19">
+		<text>Dokładnie tak, Striełok. Wunderwaffe. Od kiedy ty takie słowa znasz?</text>
+	</string>
+	<string id="mercul_dialog_20">
+		<text>Nie pamiętam. Słuchaj Merk, Barman zarekomendował waszą grupę jako porządną i szanowaną w całej Zonie. Jak coś, to pomożecie się z tą "wuwą" rozprawić?</text>
+	</string>
+	<string id="mercul_dialog_21">
+		<text>W zasadzie niczego się nie boję, z wyjątkiem głodówki. Ale co do pomocy rozmawiaj ze Sławikiem - on u nas za starszego.</text>
+	</string>
+	<string id="mercul_dialog_22">
+		<text>Dziękuję ci za rozmowę. Powodzenia stalkerze!</text>
+	</string>
+
+	<string id="cap_yar_dialog_0">
+		<text>Kapitanie, ja muszę się stąd wynieść, i tak już ponad rok siedzę w Zonie.</text>
+	</string>
+	<string id="cap_yar_dialog_1">
+		<text>Obiecaliśmy pomóc - pomożemy. Znaleźliśmy nowe przejście. Rozpoznamy i przeprawimy cię na Wielką Ziemię.</text>
+	</string>
+	<string id="cap_yar_dialog_2">
+		<text>Długo będziecie rozpoznawać?</text>
+	</string>
+	<string id="cap_yar_dialog_3">
+		<text>A to już zależy jak pójdzie. Trzy do pięciu dni.</text>
+	</string>
+	<string id="cap_yar_dialog_4">
+		<text>No cóż, to mnie urządza. W końcu się wyśpię.</text>
+	</string>
+	<string id="cap_yar_dialog_5">
+		<text>Tak właśnie zrób. Jak to mówią: żołnierz śpi - służba leci.</text>
+	</string>
+	
+	<string id="new_sid_dialog_0">
+		<text>No, witaj Sidorowicz.</text>
+	</string>
+	<string id="new_sid_dialog_1">
+		<text>Naznaczony!</text>
+	</string>
+	<string id="new_sid_dialog_2">
+		<text>Nazywam się Striełok.</text>
+	</string>
+	<string id="new_sid_dialog_3">
+		<text>Ha! Znaczy pamiętasz? Plon, podejdź no, na mnie tu już naostrzoną brzytwę szykują.</text>
+	</string>
+	<string id="new_sid_dialog_4">
+		<text>Jesteśmy sami - i co teraz myślisz?</text>
+	</string>
+	<string id="new_sid_dialog_5">
+		<text>A myślę sobie Striełok, że nic ci nie jestem winny. Cóż, wykorzystałem cię, ale też uratowałem ci życie.</text>
+	</string>
+	<string id="new_sid_dialog_6">
+		<text>Czemu od razu nie powiedziałeś, że Striełok to ja?</text>
+	</string>
+	<string id="new_sid_dialog_7">
+		<text>No co ty, Striełok! Opowiem ci kim jesteś, czemu znalazłeś się na Kordonie półmartwy i bez mózgu, że pół Zony na twoją głowę poluje - poszedłbyś jeszcze raz do serca Zony?</text>
+	</string>
+	<string id="new_sid_dialog_8">
+		<text>Nie wiem.</text>
+	</string>
+	<string id="new_sid_dialog_9">
+		<text>O to właśnie chodzi. Miałeś tu zostać bez pieniędzy, bez przeszłości. Tego ci było trzeba?</text>
+	</string>
+	<string id="new_sid_dialog_10">
+		<text>Taa... Więc uważasz - wszystko jest w porządku?</text>
+	</string>
+	<string id="new_sid_dialog_11">
+		<text>Uważam że TAK! Przywróciłem cię do życia, ty przetarłeś szlak do centrum Zony. Ale, jeśli chcesz, mogę jeszcze dorzucić trochę szmalu. Sto kawałków wystarczy?</text>
+	</string>
+	<string id="new_sid_dialog_12">
+		<text>Dziękuję Sidorowicz. Pieniędzy mam dość.</text>
+	</string>
+	<string id="new_sid_dialog_13">
+		<text>To czego jeszcze chcesz?</text>
+	</string>
+	<string id="new_sid_dialog_14">
+		<text>Tak naprawdę to nic. Za pięć dni wojsko mnie stąd wywiezie. Przez rok w wannie się nie kąpałem, normalnego psa czy też świni nie widziałem.</text>
+	</string>
+	<string id="new_sid_dialog_15">
+		<text>Powrócisz do Zony. Zona to nie terytorium. To - CHOROBA!</text>
+	</string>
+	<string id="new_sid_dialog_16">
+		<text>Pewnie tak będzie.</text>
+	</string>
+	<string id="new_sid_dialog_17">
+		<text>Dobra. Wpadnij, jakby co. Udanych łowów stalkerze.</text>
+	</string>
+	<string id="new_sid_dialog_18">
+		<text>I ty bądź zdrów Sidorowicz.</text>
+	</string>
+	
+	<string id="new_wolf_dialog_0">
+		<text>Wilk, cieszę się że żyjesz!</text>
+	</string>
+	<string id="new_wolf_dialog_1">
+		<text>Ja też, Naznaczony. Gdzie byłeś?</text>
+	</string>
+	<string id="new_wolf_dialog_2">
+		<text>Nazywam się Striełok.</text>
+	</string>
+	<string id="new_wolf_dialog_3">
+		<text>Takie sprawy... To jak to było - na samego siebie zlecenie wziąłeś? Taa... W Zonie nie takie rzeczy się działy.</text>
+	</string>
+	<string id="new_wolf_dialog_4">
+		<text>Nic już mów, Wilk. Kto jeszcze z naszych jest tutaj?</text>
+	</string>
+	<string id="new_wolf_dialog_5">
+		<text>Pietruchę pamiętasz? Gdzieś się tu kręci. Tylko... Jakiś dziwny jest ostatnio.</text>
+	</string>
+	<string id="new_wolf_dialog_6">
+		<text>No i co? Nam wszystkim można postawić diagnozę - postępująca schizofrenia.</text>
+	</string>
+	<string id="new_wolf_dialog_7">
+		<text>Widzisz Striełok, oni utworzyli organizację. Weterani Zony. Czym się zajmują - nikt nie wie. Ale ich ludzie są wszędzie.</text>
+	</string>
+	<string id="new_wolf_dialog_8">
+		<text>Aha! Jeśli ty nie jesteś paranoikiem - to jeszcze nie znaczy że ONI cię nie śledzą!</text>
+	</string>
+	<string id="new_wolf_dialog_9">
+		<text>Śmiej się Striełok. Powiem ci, że w Zonie coś się szykuje. Widziałeś ile techniki wojsko naściągało? Jakby do wojny się gotowali. Pełno podejrzanych typów, łowców. Ciekawe na kogo będą polować?</text>
+	</string>
+	<string id="new_wolf_dialog_10">
+		<text>To już nie moja wojna.</text>
+	</string>
+	<string id="new_wolf_dialog_11">
+		<text>Taa.</text>
+	</string>
+	<string id="new_wolf_dialog_12">
+		<text>Powodzenia Wilk! I do zobaczenia na Wielkiej Ziemi.</text>
+	</string>
+	<string id="new_wolf_dialog_13">
+		<text>Tak będzie. Do zobaczenia Striełok!</text>
+	</string>
+	
+	<string id="new_petr_dialog_0">
+		<text>Witaj Pietrucha! Co tak sam stoisz?</text>
+	</string>
+	<string id="new_petr_dialog_1">
+		<text>Witaj. My się znamy?</text>
+	</string>
+	<string id="new_petr_dialog_2">
+		<text>Pamiętasz jak we czterech ATP braciakom odbiliśmy?</text>
+	</string>
+	<string id="new_petr_dialog_3">
+		<text>Naznaczony? Nie poznałem cię.</text>
+	</string>
+	<string id="new_petr_dialog_4">
+		<text>Nazywam się Striełok.</text>
+	</string>
+	<string id="new_petr_dialog_5">
+		<text>Striełok? No, cholera, nieczęsto żywą legendę Zony można zobaczyć. Słuchaj, a może wstąpisz do nas, do Weteranów Zony?</text>
+	</string>
+	<string id="new_petr_dialog_6">
+		<text>Nie, dziękuję, ja zawsze sam dla siebie.</text>
+	</string>
+	<string id="new_petr_dialog_7">
+		<text>No, jak się namyślisz - znajdziesz mnie tutaj. Powodzenia Striełok.</text>
+	</string>
+	<string id="new_petr_dialog_8">
+		<text>Bądź zdrów Pietrucha.</text>
+	</string>
+	
+	<string id="new_kuz_dialog_0">
+		<text>A ja słyszałem - major Kuźniecow zabity w boju.</text>
+	</string>
+	<string id="new_kuz_dialog_1">
+		<text>Mój imiennik. A ty, zdaje się - Striełok?</text>
+	</string>
+	<string id="new_kuz_dialog_2">
+		<text>Striełok. Mogę przejść?</text>
+	</string>
+	<string id="new_kuz_dialog_3">
+		<text>Śmiało. Ty przecież już prawie nasz.</text>
+	</string>
+	
+	<string id="nemez_dialog_0">
+		<text>Dawno już monolitowców nie widziałem. Ty, mam nadzieję, nie jesteś jednym z nich?</text>
+	</string>
+	<string id="nemez_dialog_1">
+		<text>Jestem z grupy Poszukiwaczy.</text>
+	</string>
+	<string id="nemez_dialog_2">
+		<text>A kto wami dowodzi? Znam go?</text>
+	</string>
+	<string id="nemez_dialog_3">
+		<text>Może i znasz. Wszystkie pytania do niego. A ja nie jestem upoważniony. Jasne?</text>
+	</string>
+	<string id="nemez_dialog_4">
+		<text>Jaśniej nie można. Gdzie znajdę dowódcę?</text>
+	</string>
+	<string id="nemez_dialog_5">
+		<text>W Barze zapytaj.</text>
+	</string>
+	<string id="nemez_dialog_6">
+		<text>Dobra, zapytam. Powodzenia stalkerze.</text>
+	</string>
+	
+	<string id="ask_yar_0">
+		<text>No, jak tam - nasze sprawy?</text>
+	</string>
+	<string id="ask_yar_1">
+		<text>Sprawy, Striełok, to w prokuraturze. A u nas wciąż jeszcze bałagan. Słuchaj, nie masz już dość bezrobocia?</text>
+	</string>
+	<string id="ask_yar_2">
+		<text>Jeśli trzeba kogoś sprzątnąć - to nie do mnie.</text>
+	</string>
+	<string id="ask_yar_3">
+		<text>Nic z tych rzeczy, sami kogo zechcesz uprzątniemy... do piwnicy. Towar trzeba by przerzucić do naszego obozu na Jantarze.</text>
+	</string>
+	<string id="ask_yar_4">
+		<text>Tak daleko? Na piechotę? Myślisz, że z drzewa spadłem?</text>
+	</string>
+	<string id="ask_yar_5">
+		<text>Dlaczego na piechotę? Polecisz helikopterem. Radiostacje, rozumiesz, na Jantarze zamilkły. Rozejrzyj się tam dokładnie, jesteś dobrym stalkerem. Czekaj.. pół oddziału z tobą pójdzie. Wyposażenie ci dam, automat, pancerz. No to jak, pójdziesz?</text>
+	</string>
+	<string id="ask_yar_6">
+		<text>No, jeśli zwiad przeprowadzić, zawsze jestem gotowy.</text>
+	</string>
+	
+
+    <string id="new_ghost_dialog_0">
+		<text>Duch?!</text>
+	</string>
+	<string id="new_ghost_dialog_1">
+		<text>Witaj Striełok.</text>
+	</string>
+	<string id="new_ghost_dialog_2">
+		<text>Przecież widziałem twojego trupa! Tu, w tym laboratorium!</text>
+	</string>
+	<string id="new_ghost_dialog_3">
+		<text>A co, według ciebie, wyglądam na żywego?</text>
+	</string>
+	<string id="new_ghost_dialog_4">
+		<text>Faktycznie - nie za bardzo.</text>
+	</string>
+	<string id="new_ghost_dialog_5">
+		<text>Zona bawi się nami nawet po naszej śmierci.</text>
+	</string>
+	<string id="new_ghost_dialog_6">
+		<text>Taa, mogę ci jakoś pomóc?</text>
+	</string>
+	<string id="new_ghost_dialog_7">
+		<text>Zastrzel mnie. Ha-ha. No, ale nie wróciłeś tu tak bez powodu, prawda?</text>
+	</string>
+	<string id="new_ghost_dialog_8">
+		<text>Jarosławkin, kapitan z posterunku wojskowego, prosił mnie, bym do miejscowego obozu przerzucił zaopatrzenie. Zaraz po przylocie wpadliśmy w zasadzkę Łowców. Potem rozejrzałem się trochę. Nikogo żywego. Nawet snorków nie ma. Czyżby Łowcy tak wysprzątali? Ich tylko kilkunastu było.</text>
+	</string>
+	<string id="new_ghost_dialog_9">
+		<text>Bitwa była na zewnątrz, Striełok, straszna bitwa. Zasadzka w którą wpadliście, to przy tym dziecinna zabawa w wojenkę. A przedtem, kto przeciw komu - nie wiem. Potem, jak grzmotnęło! Jakby dwieście ton trotylu wybuchło. I nagle cisza.</text>
+	</string>
+	<string id="new_ghost_dialog_10">
+		<text>Emisja?</text>
+	</string>
+	<string id="new_ghost_dialog_11">
+		<text>Nie. tylko BUUM!!! - i koniec. Pinoczet z Baru szedł, na "Jantar" wyszedł gdzieś tak godzinę po wszystkim. Wszędzie leżały trupy.</text>
+	</string>
+	<string id="new_ghost_dialog_12">
+		<text>Kiedy to się stało?</text>
+	</string>
+	<string id="new_ghost_dialog_13">
+		<text>A skąd mam wiedzieć? Może godzinę temu, a może trzysta lat już minęło.</text>
+	</string>
+	<string id="new_ghost_dialog_14">
+		<text>No nie. Może ty jesteś tylko przywidzeniem!</text>
+	</string>
+	<string id="new_ghost_dialog_15">
+		<text>No tak... Zagadka Zony. W połowie trup, a w połowie Duch.</text>
+	</string>
+	<string id="new_ghost_dialog_16">
+		<text>Przykro mi...</text>
+	</string>
+	<string id="new_ghost_dialog_17">
+		<text>Drobiazg. Poszperaj tu dookoła, może coś znajdziesz. A jak znajdziesz - przyjdź, razem się zastanowimy. Kła nie spotkałeś?</text>
+	</string>
+	<string id="new_ghost_dialog_18">
+		<text>Tylko twojego Pinocheta. A Kieł... Co... On też?...</text>
+	</string>
+	<string id="new_ghost_dialog_19">
+		<text>W Zonie nie ma nic niemożliwego. Dobra, będzie coś nowego - przychodź.</text>
+	</string>
+	<string id="new_ghost_dialog_20">
+		<text>Wrócę.</text>
+	</string>
+	
+	<string id="ghost_ob_poi_0">
+		<text>Więc obejrzałem sobie te trupy. Oni, jakby ci to powiedzieć, po prostu umarli. Nie ma ran ani krwi. Po prostu padli na ziemię i umarli. Kontrolera spotkałem, jeszcze mnie głowa boli. Ale to nie jego robota, niedawno się pojawił, w bunkrze się zaczaił, nie wyciągniesz go. Jeszcze łowców widziałem. Ostrzelali mnie. Też w Zonie nieobyci.</text>
+	</string>
+	<string id="ghost_ob_poi_1">
+		<text>Ale słyszałem w tym dniu odgłosy walki na powierzchni. Pamiętam! W czasie bitwy w laboratorium była grupa stalkerów. Na powierzchnię wyszli już po bitwie i finałowym wybuchu. Może ktoś z nich coś wie. Nie bez powodu tu wchodzili. Popytaj ludzi - ciebie szanują, może ktoś coś podpowie. I wpadnij, jakby co.</text>
+	</string>
+	<string id="ghost_ob_poi_2">
+		<text>Dobra, spróbuję się czegoś dowiedzieć.</text>
+	</string>
+
+	<string id="yar_chc_0">
+		<text>Czego chciałeś, towarzyszu kapitanie?</text>
+	</string>
+	<string id="yar_chc_1">
+		<text>Striełok, co myślisz? Armia ma teraz w Zonie dobrą reputację, stalkerzy nas zaakceptowali, może wstąpisz w szeregi wojskowych stalkerów?</text>
+	</string>
+	<string id="yar_chc_2">
+		<text>Dziękuję kapitanie, nie skorzystam. Ja swoje sześć lat w piechocie morskiej odsłużyłem.</text>
+	</string>
+	<string id="yar_chc_3">
+		<text>Jeśli obiecasz, że nie będziesz na mnie za mocno naciskał - to zgoda.</text>
+	</string>
+	
+	<string id="yar_chc_out_0">
+		<text>Opuszczam was na razie. Nie pogniewacie się?</text>
+	</string>
+	<string id="yar_chc_out_1">
+		<text>Rób co chcesz. Zdecydujesz się wrócić, zawsze przyjmiemy cię z powrotem.</text>
+	</string>
+	<string id="yar_chc_out_2">
+		<text>Pożyjemy - zobaczymy.</text>
+	</string>
+	
+	<string id="hil_barman_dialog1_0">
+		<text>Co teraz zrobimy, Barman?</text>
+	</string>
+	<string id="hil_barman_dialog1_1">
+		<text>Co - tak źle jest?</text>
+	</string>
+	<string id="hil_barman_dialog1_2">
+		<text>Myślę, że tak. Rozmawiałem z Merkiem. Opowiedział mi, że widział test jakiejś nowej broni, "wuwa" - tak powiedział. Co to takiego "wuwa", mam nadzieję, że wiesz.</text>
+	</string>
+	<string id="hil_barman_dialog1_3">
+		<text>Urodziłem się i wychowałem w bardzo oczytanym kraju, Striełok. A Merk niczego nie pomylił? Może to nie broń tylko jakaś nowa anomalia,  taki kaprys Zony?</text>
+	</string>
+	<string id="hil_barman_dialog1_4">
+		<text>Diabli wiedzą, Barman.</text>
+	</string>
+	<string id="hil_barman_dialog1_5">
+		<text>Co teraz zrobisz?</text>
+	</string>
+	<string id="hil_barman_dialog1_6">
+		<text>Przez kilka dni będę odpoczywał, wojskowi obiecali mnie wyciągnąć. No, a póki tu jestem, spróbuję się czegoś dowiedzieć.</text>
+	</string>
+	<string id="hil_barman_dialog1_7">
+		<text>Nigdy nie myliłem się co do ciebie, Striełok. Ty - nasz człowiek. Będziesz czegoś potrzebował - pieniędzy, wyposażenia, informacji - możesz na mnie liczyć.</text>
+	</string>
+	<string id="hil_barman_dialog1_8">
+		<text>Dogadaliśmy się.</text>
+	</string>
+	
+	<string id="hil_lu_dialog1_0">
+		<text>Cześć Łukasz. Jest interes do ciebie.</text>
+	</string>
+	<string id="hil_lu_dialog1_1">
+		<text>Żywy? No, witaj Striełok. Z czym przychodzisz?</text>
+	</string>
+	<string id="hil_lu_dialog1_2">
+		<text>Twoi ludzie polegli w pobliżu fabryki Jantar. Chcę znaleźć winnych.</text>
+	</string>
+	<string id="hil_lu_dialog1_3">
+		<text>Nie pchaj się w to Striełok, to śmierdząca sprawa.</text>
+	</string>
+	<string id="hil_lu_dialog1_4">
+		<text>Łukasz - tu wszystko tak śmierdzi! Ty coś wiesz?</text>
+	</string>
+	<string id="hil_lu_dialog1_5">
+		<text>Trochę się domyślam. Ale pachnie z tych domysłów bardzo brzydko. Jak myślisz, ile pożyjesz jak się nimi z tobą podzielę?</text>
+	</string>
+	<string id="hil_lu_dialog1_6">
+		<text>Straszysz mnie czy co? Uważaj. W pojedynkę rozniosę twoją bazę, jeśli tylko jedna lufa skieruje się w moją stronę.</text>
+	</string>
+	<string id="hil_lu_dialog1_7">
+		<text>Nie wymyślaj. Ostrzegam cię tylko. Widziałeś się niedawno z Woroninem?</text>
+	</string>
+	<string id="hil_lu_dialog1_8">
+		<text>On też jest w to zamieszany?</text>
+	</string>
+	<string id="hil_lu_dialog1_9">
+		<text>Wszyscy są w to w jakimś stopniu zamieszani. Wszyscy! Uciekaj Striełok, koniec rozmowy.</text>
+	</string>
+	<string id="hil_lu_dialog1_10">
+		<text>Dobra, do następnego...</text>
+	</string>
+	
+	<string id="hil_sckr_dialog1_0">
+		<text>Jak się masz, przyjacielu?</text>
+	</string>
+	<string id="hil_sckr_dialog1_1">
+		<text>Striełok! Skąd się tu wziąłeś? Słyszałem, że wojaki i kagiebiści pomogli ci wydostać się z Prypeci. Że do Kijowa cię wywieźli. Do kliniki na eksperymenty, ha-ha!</text>
+	</string>
+	<string id="hil_sckr_dialog1_2">
+		<text>Wkrótce wyjadę, jeśli dożyję. Łukasz u siebie?</text>
+	</string>
+	<string id="hil_sckr_dialog1_3">
+		<text>No pewnie, a gdzieżby indziej? Striełok, nie trzeba go niepokoić - jest na granicy wytrzymałości.</text>
+	</string>
+	<string id="hil_sckr_dialog1_4">
+		<text>Zobaczymy. Powodzenia!</text>
+	</string>
+	
+	<string id="hil_max_dialog1_0">
+		<text>Maks! Cieszę się, że cię widzę, przyjacielu!</text>
+	</string>
+	<string id="hil_max_dialog1_1">
+		<text>Naznaczony?</text>
+	</string>
+	<string id="hil_max_dialog1_2">
+		<text>Striełok.</text>
+	</string>
+	<string id="hil_max_dialog1_3">
+		<text>Wybacz. Jesteś bardzo podobny do Naznaczonego. To twój brat?</text>
+	</string>
+	<string id="hil_max_dialog1_4">
+		<text>Wszyscy ludzie to bracia.</text>
+	</string>
+	<string id="hil_max_dialog1_5">
+		<text>Aha. Aż między nimi worek pieniędzy nie stanie.</text>
+	</string>
+	<string id="hil_max_dialog1_6">
+		<text>Czym się martwisz, Maks?</text>
+	</string>
+	<string id="hil_max_dialog1_7">
+		<text>Dziesięciu naszych, na kontrakcie u uczonych, na Jantarze pracowało. I tak już drugą dobę piję i rozpamiętuję. Rodzina rozumiesz? Też... Też tam gdzieś niepogrzebani leżą... Takie to sprawy. Mi... wybacz Striełok.</text>
+	</string>
+	<string id="hil_max_dialog1_8">
+		<text>A co na to Łukasz?</text>
+	</string>
+	<string id="hil_max_dialog1_9">
+		<text>Co Łukasz. Takim go jeszcze nigdy nie widziałem. Kiedyś we dwóch na trzydziestu bandytów poszliśmy, ostatnich to już nożami kroiliśmy. A teraz... On się czegoś boi. Ochroną się otoczył, ze sztabu nosa nie wychyla.</text>
+	</string>
+	<string id="hil_max_dialog1_10">
+		<text>Cóż, pójdę się z nim zobaczyć.</text>
+	</string>
+	
+	<string id="hil_vor_dialog1_0">
+		<text>Dużo zdrowia, towarzyszu generale.</text>
+	</string>
+	<string id="hil_vor_dialog1_1">
+		<text>Witaj Striełok. Czekałem na ciebie. Kapitan Jarosławkin powiadomił mnie o twoim powrocie. Pomogłeś nam, szkoda, że na próżno. Droga do elektrowni jest znów zablokowana. Wojsko szykuje szturm. Myślę, że tylko ludzie na próżno poginą.</text>
+	</string>
+	<string id="hil_vor_dialog1_2">
+		<text>Wyjaśnijcie, generale.</text>
+	</string>
+	<string id="hil_vor_dialog1_3">
+		<text>Wiem, że po swoim powrocie byłeś na terytorium fabryki Jantar. Znam też plotki krążące wokół tej strasznej tragedii. Plotki o testowaniu nowej broni.</text>
+	</string>
+	<string id="hil_vor_dialog1_4">
+		<text>Tak generale, byłem tam. I w podziemia, do laboratorium X16 też zszedłem.</text>
+	</string>
+	<string id="hil_vor_dialog1_5">
+		<text>Do laboratorium? To niemożliwe! Wejście do laboratorium jest zablokowane!</text>
+	</string>
+	<string id="hil_vor_dialog1_6">
+		<text>Mylicie się generale, wszystko jest tak samo jak rok temu.</text>
+	</string>
+	<string id="hil_vor_dialog1_7">
+		<text>Możesz to udowodnić?</text>
+	</string>
+	<string id="hil_vor_dialog1_8">
+		<text>Czemu miałbym kłamać? Jeśli chcecie się upewnić - porozmawiajcie z chłopakami z grupy Poszukiwaczy. Oni też tam byli. Przeżyli tylko dlatego, że przed wybuchem schronili się w laboratorium.</text>
+	</string>
+	<string id="hil_vor_dialog1_9">
+		<text>Tak? Hmm. Znam tych chłopaków. Teraz jasne skąd te plotki o nowej broni. Dobrze. Porozmawiam sobie z nimi. Ciekawe czy wejście do laboratorium X18 też jest otwarte? Jak myślisz, Striełok?</text>
+	</string>
+	<string id="hil_vor_dialog1_10">
+		<text>Wyślijcie ludzi, niech sprawdzą.</text>
+	</string>
+	<string id="hil_vor_dialog1_11">
+		<text>A jeśli poprosiłbym ciebie? Zgodziłbyś się pomóc Powinności?</text>
+	</string>
+	<string id="hil_vor_dialog1_12">
+		<text>Tak, tylko bez długów, które w Powinności zawsze spłacają. Słyszałem dużo o tym.</text>
+	</string>
+	<string id="hil_vor_dialog1_13">
+		<text>To ile chcesz? Wymień sumę.</text>
+	</string>
+	<string id="hil_vor_dialog1_14">
+		<text>Nie jestem biednym człowiekiem generale. Pomogę wam z czystego altruizmu.</text>
+	</string>
+	<string id="hil_vor_dialog1_15">
+		<text>Wspaniale. Bierz hasła do drzwi.</text>
+	</string>
+	<string id="hil_vor_dialog1_16">
+		<text>A klucze? Dwa klucze potrzebne. Spytać u Barmana?</text>
+	</string>
+	<string id="hil_vor_dialog1_17">
+		<text>Tych kluczy ani ja, ani Barman, nie mamy. Rzecz w tym Striełok, że Dolina Mroku już trzy tygodnie jest pod kontrolą dużej bandy.</text>
+	</string>
+	<string id="hil_vor_dialog1_18">
+		<text>No to już jest świństwo, generale! Znowu?</text>
+	</string>
+	<string id="hil_vor_dialog1_19">
+		<text>Znowu. Zapamiętaj - główny u nich - Behemot. Myślę, że klucze są u niego. Weź to - M-1000 Sztylet. Ze stopu tytanu, kaliber 0.45 - najbardziej stabilna i mordercza broń w Zonie. Jakoś wydaje mi się, że może ci się przydać.</text>
+	</string>
+	<string id="hil_vor_dialog1_20">
+		<text>Tak. Słyszałem o  tym M-1000, ale nigdy nie myślałem, że będę go trzymał w rękach. Towar specjalny. No dobra, jak to mówią, jeśli nie wrócę - proszę zapisać mnie do komunistów.</text>
+	</string>
+	
+	<string id="hil_osv_dialog1_0">
+		<text>Potrzebuję kluczy do laboratorium X18.</text>
+	</string>
+	<string id="hil_osv_dialog1_1">
+		<text>Kluczy potrzebujesz? Mam je. Łącznie za 50000 rubli.</text>
+	</string>
+	<string id="hil_osv_dialog1_2">
+		<text>Słuchaj no! Ja dopiero co z pięćdziesięciu takich gnoi jak ty załatwiłem, a jeszcze się nie uspokoiłem. Masz wybór - miłosierdzie czy serce wybierasz.</text>
+	</string>
+	<string id="hil_osv_dialog1_3">
+		<text>Po co ci to, Striełok. Rozumiesz, żywy byś z baru nie wyszedł. Mam dla ciebie propozycję: pomożesz mi, a ja pomogę tobie.</text>
+	</string>	
+    <string id="hil_osv_dialog1_4"> 
+		<text>Czego chcesz?</text>
+	</string>
+	<string id="hil_osv_dialog1_5">
+		<text>Kret powiadomił mnie, że znalazł "Czarną Duszę". I kontakt z nim się urwał.</text>.
+	</string>
+	<string id="hil_osv_dialog1_6">
+		<text>Co to jest "Czarna Dusza"?</text>
+	</string>
+	<string id="hil_osv_dialog1_7">
+		<text>Artefakt. Przy umiejętnym obchodzeniu się z nim, obdarza posiadacza nadprzyrodzonymi zdolnościami. Otóż, Kret znalazł artefakt i zakomunikował mi, że jest on bardzo podobny do "Czarnej Duszy". Powiedziałem mu, by go przyniósł. Więcej go nikt nie widział. Mówię o Krecie.</text>.
+	</string>
+	<string id="hil_osv_dialog1_8">
+		<text>Sygnał z jego PDA jest?</text>
+	</string>
+	<string id="hil_osv_dialog1_9">
+		<text>Jest. Z Agropromu. Ale bardzo słaby</text>.
+	</string>
+	<string id="hil_osv_dialog1_10">
+		<text>No i co? Kret to przecież kopacz. Pewnie siedzi gdzieś w jakichś katakumbach. Dobra, handlarzu powietrzem. Poszukam tego Kreta.</text>.
+	</string>
+	
+	<string id="hil_osv_dialog3_0">
+		<text>Kret nie żyje. Przyczepił artefakt do pasa... i po wszystkim. Co to za świństwo?!</text>
+	</string>
+	<string id="hil_osv_dialog3_1">
+		<text>A to już nie twoja sprawa, Striełok. Oto twoje klucze, dawaj artefakt!</text>
+	</string>
+	<string id="hil_osv_dialog3_2">
+		<text>Masz. Patrz by sam do trumny nie trafić. Chociaż... Kreta żal. Ciebie nie.</text>.
+	</string>
+	
+	<string id="barman_osv_dialog_0">
+		<text>A co się stało z Kablem?</text>
+	</string>
+	<string id="barman_osv_dialog_1">
+		<text>Nie wiem, Striełok. Grzebał coś przy pasie, potem zawył, zajęczał, upadł - i już! Gotowy.</text>.
+	</string>
+	<string id="barman_osv_dialog_2">
+		<text>"Czarną Duszę" dureń do pasa przyczepił. Pochowacie go, Barman?</text>
+	</string>
+	<string id="barman_osv_dialog_3">
+		<text>Stalkerzy boją się go dotykać. Może ty?</text>.
+	</string>
+	<string id="barman_osv_dialog_4">
+		<text>Nie. Jakoś nie mam ochoty. Chociaż... Wyniosę go na zewnątrz.</text>.
+	</string>
+
+    <string id="hil_barman_dialog2_0">
+		<text>Mam do ciebie pytanie, Barman. Co wiesz o ugrupowaniu Apokalipsa?</text>
+	</string>
+	<string id="hil_barman_dialog2_1">
+		<text>Apokalipsa? Hmm, nigdy o nich nie słyszałem. Jacyś nowicjusze?</text>
+	</string>
+	<string id="hil_barman_dialog2_2">
+		<text>Ja bym tak nie powiedział. Ledwo z życiem uszedłem. Konkretne chłopaki.</text>
+	</string>
+	<string id="hil_barman_dialog2_3">
+		<text>To gdzie ich spotkałeś?</text>
+	</string>
+	<string id="hil_barman_dialog2_4">
+		<text>W laboratorium X18.</text>
+	</string>
+	<string id="hil_barman_dialog2_5">
+		<text>A mówili - wejście zamknięte. Łgali, znaczy się. Co jeszcze interesującego masz w tym temacie?</text>
+	</string>
+	<string id="hil_barman_dialog2_6">
+		<text>Walizkę stamtąd przyniosłem. Jak myślisz, jeśli na razie poleży u ciebie, nie będzie problemu?</text>
+	</string>
+	<string id="hil_barman_dialog2_7">
+		<text>Eee, Naznaczony, to jest Striełok... To... Ty lepiej Woroninowi to zanieś do depozytu, tak bezpieczniej będzie.</text>
+	</string>
+	<string id="hil_barman_dialog2_8">
+		<text>Jaki depozyt?! Do tego włamać się trzeba! Obudowa jakaś, z czegoś bardzo twardego zrobiona, i kod na zamku, cholera go wie co ustawić.</text>
+	</string>
+	<string id="hil_barman_dialog2_9">
+		<text>No, powinnościowi hackerzy szybko sobie z tym poradzą... Wybacz Striełok, ale ja naprawdę się boję trzymać ten pojemnik u siebie. Starzeję się pewnie.</text>
+	</string>
+	<string id="hil_barman_dialog2_10">
+		<text>No, nie gniewam się na ciebie, rozumiem. Pójdę do generała.</text>
+	</string>
+	
+	<string id="hil_vor_dialog2_0">
+		<text>Zdrowia życzę, towarzyszu generale!</text>
+	</string>
+	<string id="hil_vor_dialog2_1">
+		<text>Jak sprawy, Striełok? Od razu do baru poszedłeś. Zapomniałeś w prawo skręcić?</text>
+	</string>
+	<string id="hil_vor_dialog2_2">
+		<text>Musiałem naprawić wyposażenie. W laboratorium X18 wpadłem w zasadzkę.</text>
+	</string>
+	<string id="hil_vor_dialog2_3">
+		<text>Najemnicy?</text>
+	</string>
+	<string id="hil_vor_dialog2_4">
+		<text>Nie, nie najemnicy. Ludzie z ugrupowania Apokalipsa.</text>
+	</string>
+	<string id="hil_vor_dialog2_5">
+		<text>Apokalipsa?</text>
+	</string>
+	<string id="hil_vor_dialog2_6">
+		<text>Wiecie coś o nich?</text>
+	</string>
+	<string id="hil_vor_dialog2_7">
+		<text>Przekazano mi, że jeden stalker coś tam plótł w barze, niby że widział oddział na Wysypisku, dobrze wyekwipowani, szli ukradkiem w stronę Doliny Mroku. Może to oni? Jak myślisz?</text>
+	</string>
+	<string id="hil_vor_dialog2_8">
+		<text>Być może. Czyste bestie, od razu atakowali, nawet nie próbowali żywcem wziąć. Oto co od nich przyniosłem. Niech popatrzą wasi technicy - może otworzą?</text>
+	</string>
+	<string id="hil_vor_dialog2_9">
+		<text>Daj. Hmm, znajomy pojemnik. Dam ci znać jak dokładniej obejrzę.</text>
+	</string>
+	<string id="hil_vor_dialog2_10">
+		<text>Dobrze. Będę czekać.</text>
+	</string>
+	
+	<string id="hil_osv_dialog2_0">
+		<text>W mordę chcesz? To twoi przyjaciele tam na mnie czekali?</text>
+	</string>
+	<string id="hil_osv_dialog2_1">
+		<text>Ja nie mam przyjaciół.</text>
+	</string>
+	<string id="hil_osv_dialog2_2">
+		<text>Co mam teraz zrobić z walizką?</text>
+	</string>
+	<string id="hil_osv_dialog2_3">
+		<text>A ja skąd mam wiedzieć? Jeśli rzecz cenna - sprzedaj barmanowi i po problemie!</text>
+	</string>
+	<string id="hil_osv_dialog2_4">
+		<text>Ja jeszcze tu wrócę, trzymaj gębę na kłódkę.</text>
+	</string>
+	
+	<string id="hil_story_start_dialog_0">
+		<text>Witaj. Co nowego na Kordonie?</text>
+	</string>
+	<string id="hil_story_start_dialog_1">
+		<text>Wszystko po staremu. Dom wariatów jednym słowem.</text>
+	</string>
+	<string id="hil_story_start_dialog_2">
+		<text>Czyli normalnie.</text>
+	</string>
+	
+	<string id="hil_apn11_dialog_0">
+		<text>Witaj dowódco!</text>
+	</string>
+	<string id="hil_apn11_dialog_1">
+		<text>A ty kim jesteś?</text>
+	</string>
+	<string id="hil_apn11_dialog_2">
+		<text>Zwykły handlarz.</text>
+	</string>
+	<string id="hil_apn11_dialog_3">
+		<text>Z czym przychodzisz?</text>
+	</string>
+	<string id="hil_apn11_dialog_4">
+		<text>Jestem handlarzem. Moja rzecz - handlowy biznes. Kupno - sprzedaż. Pieniądze - towar - pieniądze.</text>
+	</string>
+	<string id="hil_apn11_dialog_5">
+		<text>Wyglądam jak idiota?</text>
+	</string>
+	<string id="hil_apn11_dialog_6">
+		<text>No co wy, jak tak można, komendancie?</text>
+	</string>
+	<string id="hil_apn11_dialog_7">
+		<text>Więc czemu rozmawiasz ze mną jak z debilem. I nie wyglądasz mi na handlarza. Więc, powiedz mi - kurs dolara na dzisiejszy dzień?</text>
+	</string>
+	<string id="hil_apn11_dialog_8">
+		<text>Nie wiem dokładnie - mój PDA wariuje.</text>
+	</string>
+	<string id="hil_apn11_dialog_9">
+		<text>Około trzydzieści do jednego.</text>
+	</string>
+	<string id="hil_apn11_dialog_10">
+		<text>29 rubli i 38 kopiejek za jeden dolar USA po kursie MMWW.</text>
+	</string>
+	<string id="hil_apn11_dialog_11">
+		<text>DO BRONI!!! TO SZPIEG!!!</text>
+	</string>
+	<string id="hil_apn11_dialog_12">
+		<text>Co, coś nie tak?!</text>
+	</string>
+	
+	<string id="hil_reuch_dialog_0">
+		<text>Teraz sobie porozmawiamy i od twojej prawdomówności zależy czy zobaczysz dzisiaj zachód słońca, czy nie. Więc kim jesteś?</text>
+	</string>
+	<string id="hil_reuch_dialog_1">
+		<text>Doktor Remezow.</text>
+	</string>
+	<string id="hil_reuch_dialog_2">
+		<text>Nienawidzę doktorków. Ty zatrudniłeś grupę Apokalipsa, albo to oni zatrudnili ciebie?</text>
+	</string>
+	<string id="hil_reuch_dialog_3">
+		<text>Stalkerze, jestem prostym człowiekiem, co mi kazali to robiłem. Przeważnie odczytywałem pomiary. Przed i po zastosowaniu PRO-66.</text>
+	</string>
+	<string id="hil_reuch_dialog_4">
+		<text>Co to jest PRO-66?</text>
+	</string>
+	<string id="hil_reuch_dialog_5">
+		<text>Maszyna zdolna do przekierowania energii Monolitu.</text>
+	</string>
+	<string id="hil_reuch_dialog_6">
+		<text>Do diabła z tobą! Czy ty rozumiesz, że to jest straszna broń, botaniku nieszczęsny?!</text>
+	</string>
+	<string id="hil_reuch_dialog_7">
+		<text>Mnie interesuje tylko teoretyczna strona tego zagadnienia.</text>
+	</string>
+	<string id="hil_reuch_dialog_8">
+		<text>Ty draniu. Ilu ludzi przez ciebie zginęło na Jantarze. Mam nadzieję zobaczyć twoje flaki wypływające z tłustego brzucha.</text>
+	</string>
+	<string id="hil_reuch_dialog_9">
+		<text>Jestem zwykłym naukowcem! Za co?</text>
+	</string>
+	<string id="hil_reuch_dialog_10">
+		<text>Odpowiadaj szybko - gdzie główne laboratorium i jak się tam dostać?</text>
+	</string>
+	<string id="hil_reuch_dialog_11">
+		<text>Gdzie główne to ja nie wiem. Pracowałem w bunkrze sterowania Mózgozwęglaczem. Niemożliwe jest dostać się tam niezauważonym.</text>
+	</string>
+	<string id="hil_reuch_dialog_12">
+		<text>Prowiant i wyposażenie dostarczają im śmigłowcem?</text>
+	</string>
+	<string id="hil_reuch_dialog_13">
+		<text>Nie wiem. Moim zdaniem nie. Kupują wszystko u miejscowych handlarzy.</text>
+	</string>
+	<string id="hil_reuch_dialog_14">
+		<text>Rozumiem. Znaczy się, handlarza nie zaatakują? Dobrze. No, do zobaczenia w piekle!</text>
+	</string>
+	
+	<string id="hil_good_sidorych_dialog_0">
+		<text>Potrzebuję porady, Sidorze Sidorowiczu.</text>
+	</string>
+	<string id="hil_good_sidorych_dialog_1">
+		<text>Wiem już - Woronin dał znać. W czym mogę - pomogę.</text>
+	</string>
+	<string id="hil_good_sidorych_dialog_2">
+		<text>Wymyśliłem sobie, Sidorowicz , że Apokalipsa nie zaatakuje handlarza...</text>
+	</string>
+	<string id="hil_good_sidorych_dialog_3">
+		<text>Nie słyszałem o nich, ale Woronin opowiadał, że się pojawili. Znaczy, mam się o nic nie martwić? Dobra, dobra. Właściwie to problem nie tylko twój i Woronina.</text>
+	</string>
+	<string id="hil_good_sidorych_dialog_4">
+		<text>Mógłbym się przebrać za handlarza...</text>
+	</string>
+	<string id="hil_good_sidorych_dialog_5">
+		<text>Tak będzie. Już po sieci puściłem info, że pojawił się nowy handlarz. Młody i głupi. Chce punkt na Radarze otworzyć. To o tobie.</text>
+	</string>
+	<string id="hil_good_sidorych_dialog_6">
+		<text>Dzięki Sidorowicz.</text>
+	</string>
+	<string id="hil_good_sidorych_dialog_7">
+		<text>I dokumenty ci przygotowałem. Certyfikat handlarza w Zonie. Lipa oczywiście, ale myślę że wystarczy. Bierz. I uważaj na siebie, łowcy pojawili się w okolicy.</text>
+	</string>
+	<string id="hil_good_sidorych_dialog_8">
+		<text>Łowcy to nie problem. Świetne dokumenty. No to żegnaj Sidorowicz. Da Bóg - spotkamy się jeszcze!</text>
+	</string>
+	
+	<string id="hil_vor_dialog3_0">
+		<text>Jak nasze sprawy, towarzyszu generale? Udało się?</text>
+	</string>
+	<string id="hil_vor_dialog3_1">
+		<text>Tak, mój mechanik  otworzył twój pojemnik.  W środku był notebook. Z bardzo interesującymi informacjami. Ta grupa Apokalipsa, wynajęła naukowców i prowadzi w Zonie badania broni klimatycznej.</text>
+	</string>
+	<string id="hil_vor_dialog3_2">
+		<text>Merk miał rację.</text>
+	</string>
+	<string id="hil_vor_dialog3_3">
+		<text>Na to wychodzi. Złapaliśmy niedawno jednego bardzo podejrzanego typa. Pietrenko go teraz pilnuje. Idź, przyciśnij go. I... trzeba by znaleźć ich siedzibę.</text>
+	</string>
+	<string id="hil_vor_dialog3_4">
+		<text>Dobrze. Będzie się opierał - zastrzelę drania.</text>
+	</string>
+	
+	<string id="hil_vor_dialog4_0">
+		<text>Nie myślałem, że znów się zobaczymy, generale...</text>
+	</string>
+	<string id="hil_vor_dialog4_1">
+		<text>Tak źle?</text>
+	</string>
+	<string id="hil_vor_dialog4_2">
+		<text>Nie jest dobrze. Powiem jedno - ugrupowanie Apokalipsa - najpotężniejsza frakcja w Zonie na dzisiejszy dzień. Tylko na Radarze jest ich około setki.</text>
+	</string>
+	<string id="hil_vor_dialog4_3">
+		<text>Około setki? Nie może to być! Jak?! Czemu nikt nic nie słyszał ani nie widział?!</text>
+	</string>
+	<string id="hil_vor_dialog4_4">
+		<text>Przypadkowych świadków nie zostawiają wśród żywych. Są dobrze wyekwipowani, niczego im nie brakuje, w przeciwnym razie - dlaczego by napadli na handlarza?</text>
+	</string>
+	<string id="hil_vor_dialog4_5">
+		<text>Kiepska legenda?</text>
+	</string>
+	<string id="hil_vor_dialog4_6">
+		<text>Nie, Sidor wszystko bardzo dobrze przygotował. Po prostu oni nie potrzebują handlarzy. Zaopatrzenie mają własne i to takie, o jakim Sidorowi się nie śniło!</text>
+	</string>
+	<string id="hil_vor_dialog4_7">
+		<text>O nowej broni co powiesz?</text>
+	</string>
+	<string id="hil_vor_dialog4_8">
+		<text>PRO-66. Póki co, na oczy jej nie widziałem, ale bardzo chcę zobaczyć. Z przywiązaną do niej kostką trotylu.</text>
+	</string>
+	<string id="hil_vor_dialog4_9">
+		<text>No tak. Doktor się pojawił. Prosił by ci przekazać, żebyś szybko się z nim spotkał.</text>
+	</string>
+	<string id="hil_vor_dialog4_10">
+		<text>Doktor?! On żyje?! Uciekam towarzyszu generale. Będzie coś nowego - dam znać.</text>
+	</string>
+	
+	<string id="hil_doc_dialog_0">
+		<text>Doktor! Cieszę się, że cię widzę!</text>
+	</string>
+	<string id="hil_doc_dialog_1">
+		<text>Ja też Striełok. O tobie w Zonie legendy krążą. No, ale czasu mamy mało, więc słuchaj. Sprzedajni naukowcy badają możliwość wykorzystania nietypowej energii Zony do celów wojskowych. Na razie udało im się wywołać lokalną emisję na Jantarze, ale to tylko początek: Na razie mają prototyp przetwornika, ma małą moc, niemniej to wystarczyło by zamienić Jantar w martwą strefę. Następny test prawdopodobnie będzie na Agropromie. Na jego terenie są rozmieszczone trzy skanery. Sondują aktywność anomalii. Rozumiesz o czym mówię? Znajdź je i odnieś generałowi. Będzie wiedział co z nimi zrobić. Czekaj, co tam masz? "Cordium Controlleri"? Serce Kontrolera! Czyś ty zgłupiał, Striełok? Wyrzuć je! Albo lepiej mi oddaj, odniosę je na miejsce. Ty naprawdę nie wiesz? Jeśli Serce Kontrolera straci właściciela, a ty nim w żadnym wypadku nie jesteś, Zona wysyła na jego poszukiwanie tłumy kontrolerów i pijawek. Oddaj, nie igraj z Zoną!</text>
+	</string>
+	<string id="hil_doc_dialog_2">
+		<text>No, a ja się zastanawiałem, co się dzieje? Bierz. Wracając do sprawy, co wiesz o Apokalipsie?</text>
+	</string>
+	<string id="hil_doc_dialog_3">
+		<text>Ochrona projektu. Umożliwili mi swobodne spotkanie z tobą. Zrozumiałeś już wszystko?</text>
+	</string>
+	<string id="hil_doc_dialog_4">
+		<text>Pułapka.</text>
+	</string>
+	<string id="hil_doc_dialog_5">
+		<text>Tak Striełok. Sprzątać za sobą trzeba dokładniej. Na ciebie zaczęło się polowanie. Na razie tylko Apokalipsa, ale oni są nowi w Zonie, więc niedługo dołączą do nich najemnicy, bandyci, czy też łowcy. Łowcy cię wcześniej atakowali bo mają stare zlecenie "Zabić Striełoka." Powróciłeś do imienia Striełok, tak i oni zaczęli cię tropić. No, a teraz jeszcze drugie zlecenie. Ale chciałem się z tobą spotkać dlatego, że mam dla ciebie ustne zaproszenie na rozmowę od samego Charona.</text>
+	</string>
+	<string id="hil_doc_dialog_6">
+		<text>Dowódcy Monolitu? Przecież to wrogowie!</text>
+	</string>
+	<string id="hil_doc_dialog_7">
+		<text>Tak. Ale nie idioci i fanatycy, jakimi się ich przedstawia. Charon proponuje tymczasowy sojusz. Wojsko, Wolność, wojskowi Stalkerzy, Powinność i Monolit. Przed spotkaniem z Charonem musisz przekonać dowódców tych ugrupowań do zgody na ten sojusz. Potem możesz iść na spotkanie z Charonem. Prypeć w rękach Apokalipsy, by dostać się na miejsce spotkania z Charonem, będziesz potrzebował pomocy moich chłopców - grupy Poszukiwaczy. Kiedy wszystko będzie gotowe - pogadaj ze Sławikiem - on i jego oddział wesprą twoją grupę. Są naprawdę dobrzy - możesz mi wierzyć. O... wydaje się, że mamy gości... Ale jesteśmy przygotowani, czyż nie?</text>
+	</string>
+	<string id="hil_doc_dialog_8">
+		<text>W porządku, Dok! Pociągnę ich za sobą. Powodzenia!</text>
+	</string>
+	<string id="hil_doc_dialog_9">
+		<text>Nie. Nie oddam. Przyzwyczaiłem się już do niego... Może później... Co wiesz o Apokalipsie?</text>
+	</string>
+	
+	<string id="hil_doc_dialog_dub_0">
+		<text>Doktor! Cieszę się, że cię widzę!</text>
+	</string>
+	<string id="hil_doc_dialog_dub_1">
+		<text>Ja też Striełok. O tobie w Zonie legendy krążą. No, ale czasu mamy mało, więc słuchaj. Sprzedajni naukowcy badają możliwość wykorzystania nietypowej energii Zony do celów wojskowych. Na razie udało im się wywołać lokalną emisję na Jantarze, ale to tylko początek: Na razie mają prototyp przetwornika, ma małą moc, niemniej to wystarczyło by zamienić Jantar w martwą strefę. Następny test prawdopodobnie będzie na Agropromie. Na jego terenie są rozmieszczone trzy skanery. Sondują aktywność anomalii. Rozumiesz o czym mówię? Znajdź je i odnieś generałowi. Będzie wiedział co z nimi zrobić.</text>
+	</string>
+	<string id="hil_doc_dialog_dub_2">
+		<text>Wszystko jasne. A co wiesz o Apokalipsie?</text>
+	</string>
+	<string id="hil_doc_dialog_dub_3">
+		<text>Ochrona projektu. Umożliwili mi swobodne spotkanie z tobą. Zrozumiałeś już wszystko?</text>
+	</string>
+	<string id="hil_doc_dialog_dub_4">
+		<text>Pułapka</text>
+	</string>
+	<string id="hil_doc_dialog_dub_5">
+		<text>Tak Striełok. Sprzątać za sobą trzeba dokładniej. Na ciebie zaczęło się polowanie. Na razie tylko Apokalipsa, ale oni są nowi w Zonie, więc niedługo dołączą do nich najemnicy, bandyci, czy też łowcy. Łowcy cię wcześniej atakowali bo mają stare zlecenie "Zabić Striełoka." Powróciłeś do imienia Striełok, tak i oni zaczęli cię tropić. No, a teraz jeszcze drugie zlecenie. Ale chciałem się z tobą spotkać dlatego, że mam dla ciebie ustne zaproszenie na rozmowę od samego Charona.</text>
+	</string>
+	<string id="hil_doc_dialog_dub_6">
+		<text>Dowódcy Monolitu? Przecież to wrogowie!</text>
+	</string>
+	<string id="hil_doc_dialog_dub_7">
+		<text>Tak. Ale nie idioci i fanatycy, jakimi się ich przedstawia. Charon proponuje tymczasowy sojusz. Wojsko, Wolność, wojskowi Stalkerzy, Powinność i Monolit. Przed spotkaniem z Charonem musisz przekonać dowódców tych ugrupowań do zgody na ten sojusz. Potem możesz iść na spotkanie z Charonem. Prypeć w rękach Apokalipsy, by dostać się na miejsce spotkania z Charonem, będziesz potrzebował pomocy moich chłopców - grupy Poszukiwaczy. Kiedy wszystko będzie gotowe - pogadaj ze Sławikiem - on i jego oddział wesprą twoją grupę. Są naprawdę dobrzy - możesz mi wierzyć. O... wydaje się, że mamy gości... Ale jesteśmy przygotowani, czyż nie?</text>
+	</string>
+	<string id="hil_doc_dialog_dub_8">
+		<text>W porządku, Dok! Pociągnę ich za sobą. Powodzenia!</text>
+	</string>
+	
+	<string id="otdat_cc_0">
+		<text>Odnośnie Serca Kontrolera, Dok...</text>
+	</string>
+	<string id="otdat_cc_1">
+		<text>Namyśliłeś się?</text>.
+	</string>
+	<string id="otdat_cc_2">
+		<text>Weź go sobie, przeklęte mutanty.</text>
+	</string>
+	
+	<string id="hil_vor_dialog5_0">
+		<text>Generale! Stalkerzy oferują zjednoczyć się i szturmować CEA.</text>
+	</string>
+	<string id="hil_vor_dialog5_1">
+		<text>O czym ty teraz do licha mówisz?</text>
+	</string>
+	<string id="hil_vor_dialog5_2">
+		<text>Stworzymy sojusz. W jego skład wejdą Powinność, wojskowi i wolni stalkerzy, Wolność i Monolit.</text>
+	</string>
+	<string id="hil_vor_dialog5_3">
+		<text>Monolit? Tak, oni się mocno zmienili od czasu jak zgasło ich bóstwo. Nie ulega wątpliwości, Striełok, że my stać z boku nie będziemy.</text>
+	</string>
+	<string id="hil_vor_dialog5_4">
+		<text>Dziękuję generale. Nigdy w to nie wątpiłem.</text>
+	</string>
+	
+	<string id="hil_lukash_dialog2_0">
+		<text>Słuchaj Łukasz, koniec z ukrywaniem się! Nadszedł czas by wyjść i pourywać tym demonom głowy.</text>
+	</string>
+	<string id="hil_lukash_dialog2_1">
+		<text>Nie masz pojęcia jacy oni silni.</text>
+	</string>
+	<string id="hil_lukash_dialog2_2">
+		<text>Spotkałem się z Apokalipsą. Żołnierze poważni, ale i my nie palcem zrobieni! Stalkerzy zwiążą się sojuszem. Wszyscy. I Monolit też.</text>
+	</string>
+	<string id="hil_lukash_dialog2_3">
+		<text>Monolit? Myślałem, że ich już za dużo nie ma na CEA. Teraz na barierze, na naszym skrzydle siedzą. Dobrze. Uważaj Striełok, że jesteśmy z wami.</text>
+	</string>
+	<string id="hil_lukash_dialog2_4">
+		<text>Wcale nie wątpiłem.</text>
+	</string>
+	
+	<string id="hil_yar_dialog2_0">
+		<text>Kapitanie, wiem, że wojsko planuje szturm na elektrownię.</text>
+	</string>
+	<string id="hil_yar_dialog2_1">
+		<text>Widzę, że to już dla nikogo nie jest tajemnicą.</text>
+	</string>
+	<string id="hil_yar_dialog2_2">
+		<text>Chcielibyśmy dołączyć.</text>
+	</string>
+	<string id="hil_yar_dialog2_3">
+		<text>Myślę, że dowództwo nie będzie miało nic przeciwko temu, by w operacji uczestniczyli doświadczeni stalkerzy. Wszystko dogadam, możesz się nie martwić.</text>
+	</string>
+	<string id="hil_yar_dialog2_4">
+		<text>No i załatwione.</text>
+	</string>
+	
+	<string id="hil_petr_dialog2_0">
+		<text>Witaj Pietrucha! Jak się masz staruszku?</text>
+	</string>
+	<string id="hil_petr_dialog2_1">
+		<text>Jak się mam? Tak sobie myślę, spierdalać z Zony trzeba. Nudy!</text>
+	</string>
+	<string id="hil_petr_dialog2_2">
+		<text>My tu organizujemy szturm CEA. Przyłącz się.</text>
+	</string>
+	<string id="hil_petr_dialog2_3">
+		<text>Szturm CEA? To jest to! Już dwa lata w Zonie jestem a Prypeci jeszcze nie widziałem, wszystkich kotów w obozie wytrenuję. Zobaczysz, że nasi też będą chcieli wstrząsnąć starymi i pokazać zielonym kto tu jest prawdziwym stalkerem!</text>
+	</string>
+	<string id="hil_petr_dialog2_4">
+		<text>Czekaj na sygnał.</text>
+	</string>
+	
+	<string id="hil_haron_dialog1_0">
+		<text>Pozdrawiam cię Charon.</text>
+	</string>
+	<string id="hil_haron_dialog1_1">
+		<text>Witaj Striełok. No i spotkaliśmy się. Rozmawiałeś z stalkerami i wojskowymi?</text>
+	</string>
+	<string id="hil_haron_dialog1_2">
+		<text>Tak.</text>
+	</string>
+	<string id="hil_haron_dialog1_3">
+		<text>Zgodzili się na sojusz z nami?</text>
+	</string>
+	<string id="hil_haron_dialog1_4">
+		<text>Zgodzili się.</text>
+	</string>
+	<string id="hil_haron_dialog1_5">
+		<text>Dobrze. Powiedz Doktorowi by stalkerzy przenieśli się na CEA i sam do nich dołącz. Do zobaczenia przy bramie na CEA.</text>
+	</string>
+	<string id="hil_haron_dialog1_6">
+		<text>Powodzenia nam wszystkim.</text>
+	</string>
+	
+	<string id="hil_sl_dialog2_0">
+		<text>Doktor powiedział, że mogę liczyć na pomoc twojej grupy.</text>
+	</string>
+	<string id="hil_sl_dialog2_1">
+		<text>Kiedy wyruszamy?</text>
+	</string>
+	<string id="hil_sl_dialog2_2">
+		<text>To dobrze, że jesteście gotowi. A jakichś pancerzy lepszych od waszych płaszczy nie macie? No i broń musicie mieć skuteczniejszą.</text>
+	</string>
+	<string id="hil_sl_dialog2_3">
+		<text>Pancerze mamy. Sześć kompletów monolitowskich egzoszkieletów. Sztyletów takich jak u ciebie, oczywiście nie mamy, zadowalamy się OC-14. To też jak wiesz, nie byle jaka pukawka.</text>
+	</string>
+	<string id="hil_sl_dialog2_4">
+		<text>Sztylety wam załatwię. Przejdziemy przez Prypeć jak Czyngis Chan przez Azję Środkową. A dlaczego sześć? Niemiec też będzie działał?</text>
+	</string>
+	<string id="hil_sl_dialog2_5">
+		<text>Nie, on u nas od łączności. Ale jest jeszcze Igor Gonczar. Spotkamy się z nim w Prypeci. A o Sztyletach powiem - ja ciebie za język nie ciągnąłem.</text>
+	</string>
+	<string id="hil_sl_dialog2_6">
+		<text>Powiedziałem zdobędę - to znaczy, że zdobędę. Poczekaj tu.</text>
+	</string>
+	
+	<string id="hil_barman_dialog3_0">
+		<text>Pamiętasz, mówiłeś mi, że jak coś - to pomożesz?</text>
+	</string>
+	<string id="hil_barman_dialog3_1">
+		<text>Oczywiście! Jak mówił Smirnow. " Cześć większej korzyści! " Jeśli coś obiecałem - tak będzie.</text>
+	</string>
+	<string id="hil_barman_dialog3_2">
+		<text>Który Smirnow? Witalik?</text>
+	</string>
+	<string id="hil_barman_dialog3_3">
+		<text>Nie. Ten który najlepszą wódkę na świecie produkował.</text>
+	</string>
+	<string id="hil_barman_dialog3_4">
+		<text>???! No, ale ja wódki nie potrzebuję. Sześć karabinów. M-1000 Sztylet. Pomożesz?</text>
+	</string>
+	<string id="hil_barman_dialog3_5">
+		<text>Oszalałeś? Sześć Sztyletów - to jest sześć milionów rubli! Ta broń jest zbyt rzadka!</text>
+	</string>
+	<string id="hil_barman_dialog3_6">
+		<text>Milion będę miał.</text>
+	</string>
+	<string id="hil_barman_dialog3_7">
+		<text>Cieszę się bardzo. Gdzie jeszcze pięć znajdziesz?</text>
+	</string>
+	<string id="hil_barman_dialog3_8">
+		<text>Barman, broń jest potrzebna dla naszej wspólnej sprawy. Z Kałasza Apokalipsy nie załatwisz.</text>
+	</string>
+	<string id="hil_barman_dialog3_9">
+		<text>Cholera, Striełok, ja dam milion. Pogadaj z Sidorem - on też coś dorzuci, na pewno nie mniej niż milion, nie będzie gorszy ode mnie. A resztę skąd wziąć?...</text>
+	</string>
+	<string id="hil_barman_dialog3_10">
+		<text>Jesteś inteligentny. Myśl jak zarobić.</text>
+	</string>
+	<string id="hil_barman_dialog3_11">
+		<text>Kto ci tu taką robo... Chociaż, poczekaj... Jermoł, coś tam wspominał. Tam stoi przy stoliku. Idź pogadać, może coś dostaniesz. Idź też pogadać z Budułajem.</text>
+	</string>
+	<string id="hil_barman_dialog3_12">
+		<text>No dobrze.A kto to? I gdzie...</text>
+	</string>
+	
+	<string id="hil_ermol_dialog1_0">
+		<text>Potrzebuję szybko zarobić. I to bardzo dużą kwotę.</text>
+	</string>
+	<string id="hil_ermol_dialog1_1">
+		<text>Znam cię, Striełok. Tobie można zaufać. Braciaków się nie boisz. Słyszałeś o Behemocie?</text>
+	</string>
+	<string id="hil_ermol_dialog1_2">
+		<text>To ten typ, który w Dolinie Mroku rządzi?</text>
+	</string>
+	<string id="hil_ermol_dialog1_3">
+		<text>On. Przekręcił mnie na półtora miliona zielonych. Partię artefaktów, którą przerzucałem na Wielką Ziemię przechwycił. Moich ludzi jego braciaki wystrzelali.</text>
+	</string>
+	<string id="hil_ermol_dialog1_4">
+		<text>Jasne. Ile płacisz?</text>
+	</string>
+	<string id="hil_ermol_dialog1_5">
+		<text>Wszystkie moje pieniądze są u niego, już pewnie pozbył się całego towaru, sukinsyn. Striełok, wystarczy, że przytaszczysz walizkę z jego sejfu - dostaniesz dwadzieścia pięć procent.</text>
+	</string>
+	<string id="hil_ermol_dialog1_6">
+		<text>A na ruble ile to będzie?</text>
+	</string>
+	<string id="hil_ermol_dialog1_7">
+		<text>Nie wiem Striełok. Może miliard. A może nic nie będzie. No jak? Uzgodnione?</text>
+	</string>
+	<string id="hil_ermol_dialog1_8">
+		<text>Dobra, zaryzykuję. Uzgodnione.</text>
+	</string>
+	
+	<string id="hil_ermol_dialog2_0">
+		<text>Nie było tam żadnych pieniędzy ani walizki, Jermoł. Wszystko stracone.</text>
+	</string>
+	<string id="hil_ermol_dialog2_1">
+		<text>No i jak poszło?</text>
+	</string>
+	<string id="hil_ermol_dialog2_2">
+		<text>Oczyściłem terytorium. Wierz mi, wszystkich wybiłem.</text>
+	</string>
+	<string id="hil_ermol_dialog2_3">
+		<text>Wierzę ci, potrzebowałeś pięć milionów? No cóż, pięciu nie mam. Mam milion sto. Proszę, weź.</text>
+	</string>
+	<string id="hil_ermol_dialog2_4">
+		<text>Nie rozumiem?</text>
+	</string>
+	<string id="hil_ermol_dialog2_5">
+		<text>Dobrze rozumiesz, Striełok. Oni moich ludzi zabili. Ty ich pomściłeś. Doczekasz się swojej broni! Wśród tych, których oni zamęczyli na śmierć, był mój przyjaciel najbliższy... Lecha. Cóż, a teraz możesz strzelać.</text>
+	</string>
+	<string id="hil_ermol_dialog2_6">
+		<text>Żegnaj Jermoł.</text>
+	</string>
+	
+	<string id="hil_barman_dialog4_0">
+		<text>Masz pieniądze, Barman.</text>
+	</string>
+	<string id="hil_barman_dialog4_1">
+		<text>Szybki jesteś. Trzymaj swoje karabiny.</text>
+	</string>
+	<string id="hil_barman_dialog4_2">
+		<text>Pójdę chłopaków przezbroić.</text>
+	</string>
+	
+	<string id="hil_good_sidorych_dialog1_0">
+		<text>Sidorowicz, ja tylko...</text>
+	</string>
+	<string id="hil_good_sidorych_dialog1_1">
+		<text>Wiem. Bierz pieniądze i wracaj z powrotem. Stój! Byłbym zapomniał: Fanat cię szukał, jest tu w obozie. No, powodzenia stalkerze. </text>
+	</string>
+	<string id="hil_good_sidorych_dialog1_2">
+		<text>Sidorowicz, choć jesteś pijawką, to naszą pijawką!</text>
+	</string>
+	
+	<string id="hil_sl_dialog1_0">
+		<text>Mam Sztylety, Sławik.</text>
+	</string>
+	<string id="hil_sl_dialog1_1">
+		<text>Zdobyłeś je! Jesteś niesamowity! Plan znasz? Rozdaj broń chłopakom i wróć do mnie.</text>
+	</string>
+	<string id="hil_sl_dialog1_2">
+		<text>Cholera, kto taki plan wymyślił?!</text>
+	</string>
+	
+	<string id="take_stvol1_0">
+		<text>Bierz broń</text>
+	</string>
+		<string id="take_stvol1_1">
+		<text>To dla mnie? Dziękuję!</text>
+	</string>
+		<string id="take_stvol1_2">
+		<text>Spotkamy się w Prypeci.</text>
+	</string>
+	
+		<string id="take_stvol2_0">
+		<text>Bierz broń.</text>
+	</string>
+		<string id="take_stvol2_1">
+		<text>To dla mnie? Nie żartuj sobie!</text>
+	</string>
+		<string id="take_stvol2_2">
+		<text>Spotkamy się w Prypeci.</text>
+	</string>
+	
+		<string id="take_stvol3_0">
+		<text>Bierz broń.</text>
+	</string>
+		<string id="take_stvol3_1">
+		<text>Oo! Teraz w Zonie to tylko gotowanych jajek pijawki mi brakuje! Dziękuję.</text>
+	</string>
+		<string id="take_stvol3_2">
+		<text>Spotkamy się w Prypeci.</text>
+	</string>
+	
+		<string id="take_stvol4_0">
+		<text>Bierz broń.</text>
+	</string>
+		<string id="take_stvol4_1">
+		<text>To dla mnie? Świetny karabin!</text>
+	</string>
+		<string id="take_stvol4_2">
+		<text>Spotkamy się w Prypeci.</text>
+	</string>
+	
+	<string id="stvol_end_0">
+		<text>A co z szóstym karabinem?</text>
+	</string>
+	<string id="stvol_end_1">
+		<text>Daj mi. Sam Igorowi w Prypeci oddam. Muszę na Kordon zajrzeć, uprzedzić Niemca o naszej misji. Sam rozumiesz, że w eter taka informacja nie może uciec.</text>
+	</string>
+	<string id="stvol_end_2">
+		<text>Bierz karabin. A Niemca ja sam ostrzegę, tak szybciej będzie. Idźcie na miejsce spotkania.</text>
+	</string>
+	
+	<string id="hil_tell_nemez_0">
+		<text>Niemiec, twoi towarzysze ruszyli pomóc mi w Prypeci.</text>
+	</string>
+	<string id="hil_tell_nemez_1">
+		<text>W Prypeci? Cholera! To i ja z wami.</text>
+	</string>
+	<string id="hil_tell_nemez_2">
+		<text>Sławik kazał byś został na Kordonie z łącznością. Jakby co - podeślesz wojsko na odsiecz.</text>
+	</string>
+	<string id="hil_tell_nemez_3">
+		<text>Zawsze tak jest. Jak z wojskowymi się dogadywać, to Niemiec. A jak coś poważniejszego - to inni. No dobra, wykonam. Czekaj, prawie zapomniałem! Widziałeś, tu za posterunkiem BTR stoi. Rozpracowaliśmy jego sekret - to jednorazowy teleporter. Energii powinno wystarczyć by przenieść się do Prypeci. No, ale sam rozumiesz, nikt tego nie sprawdzał. I diabli wiedzą skąd ten BTR się tu wziął. Chcesz spróbować - masz tu fleszkę z jednorazowym kodem aktywacyjnym. Żołnierze przy trupie jednego ekologa znaleźli.</text>
+	</string>
+	<string id="hil_tell_nemez_4">
+		<text>Jednorazowy, mówisz? Dobra, pewnie sprawdzę skąd ten BTR się wziął.</text>
+	</string>
+	
+	<string id="assault_cnn_dialog_0">
+		<text>Gotowi?</text>
+	</string>
+	<string id="assault_cnn_dialog_1">
+		<text>Tak. Zaczynamy?</text>
+	</string>
+	<string id="assault_cnn_dialog_2">
+		<text>Naprzód!</text>
+	</string>
+	
+	<string id="hacker_dialog_0">
+		<text>Możesz troszkę podkręcić bazę stalkerskiej sieci?</text>
+	</string>
+	<string id="hacker_dialog_1">
+		<text>Co dokładnie trzeba zmienić?</text>
+	</string>
+	<string id="hacker_dialog_2">
+		<text>Zmienić ugrupowanie.</text>
+	</string>
+	<string id="hacker_dialog_3">
+		<text>Za to będzie 500$. Jaką przynależność wpisać w twój PDA?</text>
+	</string>
+	<string id="hacker_dialog_4">
+		<text>Powinność.</text>
+	</string>
+	<string id="hacker_dialog_5">
+		<text>Chcę być żołnierzem.</text>
+	</string>
+	<string id="hacker_dialog_6">
+		<text>Zapisz mi, Wolność.</text>
+	</string>
+	<string id="hacker_dialog_7">
+		<text>Postanowiłem na trochę wstąpić do bandytów.</text>
+	</string>
+	<string id="hacker_dialog_8">
+		<text>Najemników możesz?</text>
+	</string>
+	<string id="hacker_dialog_9">
+		<text>No i już ty powinnościowiec.</text>
+	</string>
+	<string id="hacker_dialog_10">
+		<text>Piękny przebieg służby, żołnierzu.</text>
+	</string>
+	<string id="hacker_dialog_11">
+		<text>Maksa pozdrów!</text>
+	</string>
+	<string id="hacker_dialog_12">
+		<text>Jak leci braciak?</text>
+	</string>
+	<string id="hacker_dialog_13">
+		<text>Że jak? Najemnik to nie grupa a reputacja.</text>
+	</string>
+	<string id="hacker_dialog_14">
+		<text>Dobrze. Jak ty to tak szybko?</text>
+	</string>
+	<string id="hacker_dialog_15">
+		<text>Nie, rozmyśliłem się.</text>
+	</string>
+	
+	<string id="hil_budulay_dialog1_0">
+		<text>Barman powiedział, że masz dla mnie robotę.</text>
+	</string>
+	<string id="hil_budulay_dialog1_1">
+		<text>Tak Striełok. Słyszałem, że byłeś w samym środku Zony i żywy wróciłeś.</text>
+	</string>
+	<string id="hil_budulay_dialog1_2">
+		<text>Różnie bywało. Co to za robota. Tylko pamiętaj - nie jestem mordercą.</text>
+	</string>
+	<string id="hil_budulay_dialog1_3">
+		<text>Przyjaciel mój zaginął gdzieś w Dziczy. Znajdź go Striełok, a zapłacę ci ćwierć miliona w rublach.</text>
+	</string>
+	<string id="hil_budulay_dialog1_4">
+		<text>Zgoda.</text>
+	</string>
+	
+	<string id="hil_budulay_dialog2_0">
+		<text>Znalazłem twojego koleżkę, Budułaj. Daj, wypijemy - martwy on. Jakieś dranie go wypatroszyły.</text>
+	</string>
+	<string id="hil_budulay_dialog2_1">
+		<text>Jak to tak?... My razem od pierwszej klasy... Ech Witek... Co ja twojej żonie powiem? Oto twoje pieniądze, Striełok. Dziękuję.</text>
+	</string>
+	<string id="hil_budulay_dialog2_2">
+		<text>Bywaj.</text>
+	</string>
+	
+	<string id="hil_begemot_dialog_0">
+		<text>Witaj braciszku!</text>
+	</string>
+	<string id="hil_begemot_dialog_1">
+		<text>Tyś kto? Po co przyszedłeś? Szpiegujesz!</text>
+	</string>
+	<string id="hil_begemot_dialog_2">
+		<text>Jermoła znasz?</text>
+	</string>
+	<string id="hil_begemot_dialog_3">
+		<text>A to co za frajer?</text>
+	</string>
+	<string id="hil_begemot_dialog_4">
+		<text>Okradłeś go.</text>
+	</string>
+	<string id="hil_begemot_dialog_5">
+		<text>Coś ty! Oszalałeś? Wystarczy, że mrugnę i braciaki cię załatwią!</text>
+	</string>
+	<string id="hil_begemot_dialog_6">
+		<text>Twoi łotrzyki dobrych ludzi pozabijali. Za to ci przyjdzie zapłacić. Gdzie walizka?</text>
+	</string>
+	<string id="hil_begemot_dialog_7">
+		<text>A ty kto?!</text>
+	</string>
+	<string id="hil_begemot_dialog_8">
+		<text>Striełok.</text>
+	</string>
+	
+	<string id="hil_renegade_dialog_0">
+		<text>Nie jestem dzisiaj w nastroju do dyskusji i sporów, więc - jeśli wierzycie w Boga - pomódlcie się, zaraz przed nim staniecie.</text>
+	</string>
+	<string id="hil_renegade_dialog_1">
+		<text>Chwileczkę młody człowieku! Ludzie zawsze mogą się dogadać!</text>
+	</string>
+	<string id="hil_renegade_dialog_2">
+		<text>Nie jesteście ludźmi.</text>
+	</string>
+	<string id="hil_renegade_dialog_3">
+		<text>Zabijesz nas - nie wyjdziesz z bunkra!</text>
+	</string>
+	<string id="hil_renegade_dialog_4">
+		<text>Wszystko jedno. Do zobaczenia w piekle.</text>
+	</string>
+	<string id="hil_renegade_dialog_5">
+		<text>No. A co ty możesz mi zaproponować?</text>
+	</string>
+	<string id="hil_renegade_dialog_6">
+		<text>1000000$. I robotę dla nas.</text>
+	</string>
+	<string id="hil_renegade_dialog_7">
+		<text>Hmm... Kuszące. Zgadzam się.</text>
+	</string>
+	<string id="hil_renegade_dialog_8">
+		<text>Ach tak. Myślisz - każdego można kupić? Ale w przeciwieństwie do ciebie ja jestem człowiekiem.</text>
+	</string>
+	<string id="hil_renegade_dialog_9">
+		<text>A teraz zejdziesz na dół i... "przekonasz" swoich dawnych przyjaciół. Oni mogą zaszkodzić naszej sprawie.</text>
+	</string>
+	<string id="hil_renegade_dialog_10">
+		<text>Już wykonuję.</text>
+	</string>
+	<string id="hil_renegade_dialog_11">
+		<text>Ja tego nie zrobię.</text>
+	</string>
+	<string id="hil_renegade_dialog_12">
+		<text> Odmawiasz pracy dla nas? W takim razie oddawaj pieniądze!</text>
+	</string>
+	<string id="hil_renegade_dialog_13">
+		<text>Taa, udław się swoimi brudnymi pieniędzmi!</text>
+	</string>
+	
+	<string id="hil_renegade_dialog2_0">
+		<text>Mam dla was dwie propozycje - pierwsze: likwidujecie swoje interesy, wypierdalacie z Zony i ratujecie swoje życie. Drugie: odrzucacie moją pierwszą propozycję i wtedy wybiję was co do jednego.</text>
+	</string>
+	<string id="hil_renegade_dialog2_1">
+		<text>Mamy propozycję, młody człowieku. Popracuj dla nas. Dobrze płacimy.</text>
+	</string>
+	<string id="hil_renegade_dialog2_2">
+		<text>Nie. Wynoś się.</text>
+	</string>
+	<string id="hil_renegade_dialog2_3">
+		<text>Ile?</text>
+	</string>
+	<string id="hil_renegade_dialog2_4">
+		<text>Na początek - milion dolarów USA, z możliwością podwyżki.</text>
+	</string>
+	<string id="hil_renegade_dialog2_5">
+		<text>No tak. Kuszące. Tylko, że ja taki nie jestem.</text>
+	</string>
+	<string id="hil_renegade_dialog2_6">
+		<text>Zgadzam się.</text>
+	</string>
+	<string id="hil_renegade_dialog2_7">
+		<text>Więc, skoro jesteś teraz przyjęty do ochrony - zejdziesz na niższy poziom i ... "zatrzymasz" swoich starych przyjaciół.</text>
+	</string>
+	<string id="hil_renegade_dialog2_8">
+		<text>Rozkaz!</text>
+	</string>
+	<string id="hil_renegade_dialog2_9">
+		<text>Co? Nie będę strzelał do przyjaciół!</text>
+	</string>
+	<string id="hil_renegade_dialog2_10">
+		<text>Więc jesteś zwolniony. Oddawaj pieniądze.</text>
+	</string>
+	<string id="hil_renegade_dialog2_11">
+		<text>Bierz!</text>
+	</string>
+	
+	<string id="hil_doctor_dialog2_0">
+		<text>Witaj Doktorze. Wszystko załatwiłem - Monolit, Powinność, Wolność, razem przemieszczają się pod bramę CEA.</text>
+	</string>
+	<string id="hil_doctor_dialog2_1">
+		<text>To dobrze, Striełok.</text>
+	</string>
+	<string id="hil_doctor_dialog2_2">
+		<text>Jakie mamy dalsze plany?</text>
+	</string>
+	<string id="hil_doctor_dialog2_3">
+		<text>Z posterunku na Kordonie lada moment odleci ostatni śmigłowiec na Elektrownię. Z Jarosławkinem już wszystko uzgodniłem. Innego sposobu nie ma. No, a w Sarkofagu - myślę, że trzeba odnaleźć i zlikwidować tych profesorków.</text>
+	</string>
+	<string id="hil_doctor_dialog2_4">
+		<text>Dobrze. Tak zrobię.</text>
+	</string>
+	
+	<string id="hacker_notebook_dialog_0">
+		<text>Słuchaj, jakoś mi wcale nie wyglądasz na stalkera. Bardziej mi przypominasz uczonego - studenta.</text>
+	</string>
+	<string id="hacker_notebook_dialog_1">
+		<text>Nie, jestem patcherem, programistą, testerem...</text>
+	</string>
+	<string id="hacker_notebook_dialog_2">
+		<text>Aaa... Hacker jednym słowem?</text>
+	</string>
+	<string id="hacker_notebook_dialog_3">
+		<text>Tak.</text>
+	</string>
+	<string id="hacker_notebook_dialog_4">
+		<text>Możesz pomóc po hackersku: PDA poprawić?</text>
+	</string>
+	<string id="hacker_notebook_dialog_5">
+		<text>Mogę. Tylko czym: gdzieś na Wysypisku napadli na mnie... Zabrali mi notebooka. Na tym co na stole - tylko bajki można oglądać lub w Countera grać. A będzie sprzęt - będziemy działać.</text>
+	</string>
+	<string id="hacker_notebook_dialog_6">
+		<text>Dobrze. Postaram się odnaleźć twoją maszynę.</text>
+	</string>
+	
+	<string id="hacker_find_notebook_dialog_0">
+		<text>Znalazłem twojego notebooka - w siedzibie bandytów pod dźwigiem był.</text>
+	</string>
+	<string id="hacker_find_notebook_dialog_1">
+		<text>Bardzo dziękuję! Aleś mnie ucieszył! No tak, jeśli będziesz czegoś potrzebował - tylko powiedz.</text>
+	</string>
+	<string id="hacker_find_notebook_dialog_2">
+		<text>Koniecznie.</text>
+	</string>
+	
+	<string id="haron_last_dialog_0">
+		<text>Charon, Czarnobyl w naszych rękach. Został ostatni zryw - przejąć punkt dowodzenia.</text>
+	</string>
+	<string id="haron_last_dialog_1">
+		<text>Nie Striełok... Moja droga skończona...</text>
+	</string>
+	<string id="haron_last_dialog_2">
+		<text>Jesteś ranny?</text>
+	</string>
+	<string id="haron_last_dialog_3">
+		<text>Ja nie żyję. Po tym jak Apokalipsa wybiła nas na Czarnobylu, moim jedynym celem i pragnieniem było wrócić tutaj, zobaczyć Monolit, służyć Monolitowi, żyć przy Monolicie... Widziałeś już? Nie ma Monolitu... Rację mieli ci co twierdzili, że Monolit to tylko iluzja. Striełok, ja służyłem iluzji, moi ludzie oddawali swoje życie w imię iluzji.</text>
+	</string>
+	<string id="haron_last_dialog_4">
+		<text>Jeśli to dla ciebie takie ważne - po wszystkim uruchomimy generator - i służcie sobie dalej.</text>
+	</string>
+	<string id="haron_last_dialog_5">
+		<text>Nie Striełok... Nie można służyć iluzji... Żegnaj.</text>
+	</string>
+	<string id="haron_last_dialog_6">
+		<text>Czekaj, czekaj! Możesz pomóc ludziom. Ja wiem - w centrum sterowania grupa naukowców tworzy nową straszną broń. Musimy zniszczyć prototyp, musimy uniemożliwić kontynuowanie tych prac.</text>
+	</string>
+	<string id="haron_last_dialog_7">
+		<text>Nie ma żadnego prototypu, Striełok. Ci jajogłowi coś tam usiłują stworzyć, ale ja myślę, że nic nie mają. Inaczej by bez problemu powstrzymali atak naszego oddziału.</text>
+	</string>
+	<string id="haron_last_dialog_8">
+		<text>No, a co z Jantarem?</text>
+	</string>
+	<string id="haron_last_dialog_9">
+		<text>Nie wiem, Striełok. Myślę, że po prostu lokalna emisja. Wykorzystałem ją, to ja rozpuściłem plotki o testowaniu nowej broni, ja połączyłem Zonę, żeby odbić elektrownię Apokalipsie. Ale celem było - powrócić do służby Monolitowi. Monolitu nie ma... Moje życie było iluzją, więc się z nim rozstaję. Pamiętaj Striełok, kiedy przyjdzie czas na najważniejszy w twoim życiu wybór - nie pomyl się - drugiej szansy nie będzie. Żegnaj...</text>
+	</string>
+	<string id="haron_last_dialog_10">
+		<text>Żegnaj Charon.</text>
+	</string>
+	
+	<string id="sl_last_dialog_0">
+		<text>I co teraz z waszą grupą?</text>
+	</string>
+	<string id="sl_last_dialog_1">
+		<text>Dopóki w Zonie są stalkerzy, to myślę, że nie zabraknie nam roboty.</text>
+	</string>
+	<string id="sl_last_dialog_2">
+		<text>Powodzenia.</text>
+	</string>
+	<string id="sl_last_dialog_3">
+		<text>Hej, poczekaj chwilę! Odwiedź Niemca - ma dla ciebie dobre wieści.</text>
+	</string>
+	<string id="sl_last_dialog_4">
+		<text>Tak? Dobrze, dziękuję.</text>
+	</string>
+	
+	<string id="nemez_last_dialog_0">
+		<text>Witaj Niemiec! Sławik powiedział, że masz dla mnie jakieś dobre wieści?</text>
+	</string>
+	<string id="nemez_last_dialog_1">
+		<text>Witamy z powrotem, Striełok. Gotowy odlecieć na Wielką Ziemię?</text>
+	</string>
+	<string id="nemez_last_dialog_2">
+		<text>No wreszcie! Pewnie, że gotowy!</text>
+	</string>
+	<string id="nemez_last_dialog_3">
+		<text>Wiesz co, Niemiec, daj mi jeszcze chwilkę.</text>
+	</string>
+	<string id="nemez_last_dialog_4">
+		<text>Jak chcesz. Daj znać, jak się zdecydujesz.</text>
+	</string>
+	
+	<string id="shuban_quest_dialog1_0">
+		<text>Witaj Żwawy! Jak leci stalkerze?</text>
+	</string>
+	<string id="shuban_quest_dialog1_1">
+		<text>Tak jakoś... Kiepsko...</text>
+	</string>
+	<string id="shuban_quest_dialog1_2">
+		<text>Coś ty taki blady? Znowu w piwnicy pod kluczem siedziałeś?</text>
+	</string>
+	<string id="shuban_quest_dialog1_3">
+		<text>Śmiej się Striełok... Boję się z obozu wychodzić po tej imprezie z bandytami. Nie mogę się zmusić. Do domu trzeba się będzie zbierać... Co wspomnę jak oni mi palce łamali...</text>
+	</string>
+	<string id="shuban_quest_dialog1_4">
+		<text>Tabletek na odwagę ci przynieść?</text>
+	</string>
+	<string id="shuban_quest_dialog1_5">
+		<text>Nabijasz się ze mnie...</text>
+	</string>
+	<string id="shuban_quest_dialog1_6">
+		<text>Dobrze, pomogę ci.</text>
+	</string>
+	
+	<string id="shuban_quest_dialog2_0">
+		<text>No i gotowe Żwawy: na Kordonie nie ma już ani jednego bandyty.</text>
+	</string>
+	<string id="shuban_quest_dialog2_1">
+		<text>Dziękuję Striełok. Z pieniędzmi po prawdzie u mnie... Weź tego mauzera. Rarytas. Mówią, że samego kombryga Kotowskiego zabawka.</text>
+	</string>
+	<string id="shuban_quest_dialog2_2">
+		<text>Dziękuję ci, przyjacielu. Piękna broń.</text>
+	</string>
+	
+    <string id="bman_weapon_0">
+		<text>Cześć, Barman. Słuchaj, dlaczego u ciebie taki asortyment skąpy? Broni konkretnej nie masz?</text>
+	</string>
+	<string id="bman_weapon_1">
+		<text>Cały handel bronią przejął Jermoł, z nim rozmawiaj.</text>.
+	</string>
+	<string id="bman_weapon_2">
+		<text>Dziwnie mówisz. Obraziłeś się?</text>
+	</string>
+	<string id="bman_weapon_3">
+		<text>To nie tak. Procent mam z jego interesu. Zawracania głowy mniej, pieniądze te same. </text>.
+	</string>
+	<string id="bman_weapon_4">
+		<text>Dobra. Porozmawiam z z Jermołem.</text>.
+	</string>
+	
+	<string id="ermol_weapon1_0">
+		<text>Jest na sprzedaż coś oprócz wódki i konserw?</text>
+	</string>
+	<string id="ermol_weapon1_1">
+		<text>U Jermoła jak w Kanadzie, wszystko jest. Ale nie dla wszystkich.</text>.
+	</string>
+	<string id="ermol_weapon1_2">
+		<text>Nie rozumiem, mój wyraz twarzy ci się nie podoba?</text>
+	</string>
+	<string id="ermol_weapon1_3">
+		<text>Może i podoba. Sprawdzić by trzeba. Złości mnie to, jak zielony młodziak z pieniędzmi kupuje sobie doskonałą broń i potem rozrabia w Zonie.</text>.
+	</string>
+	<string id="ermol_weapon1_4">
+		<text>I co trzeba zrobić, byś pojął, że nie jestem żółtodziobem?</text>
+	</string>
+	<string id="ermol_weapon1_5">
+		<text>Tunel na Wysypisku znasz? Trup tam leży.</text>.
+	</string>
+	<string id="ermol_weapon1_6">
+		<text>Znam. I trupa już od dawna PDA mi wyświetlało.</text>.
+	</string>
+	<string id="ermol_weapon1_7">
+		<text>A przy tym trupie broń znajdziesz. Nic szczególnego, MP-5 zmodernizowany. Ale drugiego takiego w Zonie nie ma. Przyniesiesz broń - ja już żadnych zastrzeżeń mieć nie będę.</text>.
+	</string>
+	<string id="ermol_weapon1_8">
+		<text>Taa, Jermoł. Niebezpieczne to miejsce. Dobra, będziesz miał swój MP-5 zmodernizowany. Tym bardziej, że w Zonie są takie dwa.</text>.
+	</string>
+	
+	<string id="ermol_weapon2_0">
+		<text>Ale zadanie mi dałeś. Masz swoją zamówioną armatę.</text>.
+	</string>
+	<string id="ermol_weapon2_1">
+		<text>No tak, hehe! Dokładnie, broń tego właśnie trupa. Tylko - na co mi ona? Próbę przeszedłeś. A broń - sobie zostaw.</text>.
+	</string>
+	<string id="ermol_weapon2_2">
+		<text>Umowa ważniejsza od pieniędzy. Bierz automat. Pokaż co tam masz na sprzedaż!</text>
+	</string>
+	
+	<string id="cap_yar_dialog_ay_0">
+		<text>Kapitanie, na Jantarze wpadliśmy w zasadzkę. Żołnierze zginęli. Śmigłowiec...</text>
+	</string>
+	<string id="cap_yar_dialog_ay_1">
+		<text>Już o tym wiem. O naukowcach też. Nie zamartwiaj się, nie ma w tym twojej winy, że żołnierzy postrzelali... Niepotrzebnie łowcy armię obrazili...</text>
+	</string>
+	<string id="cap_yar_dialog_ay_2">
+		<text>Co mam robić?</text>
+	</string>
+	<string id="cap_yar_dialog_ay_3">
+		<text>Nie plącz się pod nogami. Sami to załatwimy.</text>
+	</string>
+	<string id="cap_yar_dialog_ay_4">
+		<text>Zobaczymy.</text>
+	</string>
+	
+	<string id="vor_detector_dialog_0">
+		<text>Generale, znalazłem na Agropromie trzy detektory anomalii.</text>
+	</string>
+	<string id="vor_detector_dialog_1">
+		<text>Powodzi się ludziom! Drogi sprzęt.</text>
+	</string>
+	<string id="vor_detector_dialog_2">
+		<text>Doktor sądzi, że następny test broni PRO-66 będzie na Agropromie. Z tego powodu były tam ustawione te trzy detektory. Myślał, że te detektory was zainteresują.</text>
+	</string>
+	<string id="vor_detector_dialog_3">
+		<text>Wiesz co, Striełok. Pozbądź się ich. Sprzedaj albo jeszcze lepiej zniszcz. Detektor jak detektor, co w nim może być ciekawego?</text>
+	</string>
+	<string id="vor_detector_dialog_4">
+		<text>Dobra. Pomyślę nad tym.</text>
+	</string>
+	
+	<string id="fanat_dialog1_0">
+		<text>Szukałeś mnie, Fanat?</text>
+	</string>
+	<string id="fanat_dialog1_1">
+		<text>Tak. Ty pewnie nie wiesz, Striełok, że ja zanim zostałem stalkerem, pracowałem nad nowymi rodzajami uzbrojenia, a dokładnie nad działem impulsowym. Pracowałem w jednym z oddziałów laboratorium X16. Potem przyszło się nagle ewakuować.</text>
+	</string>
+	<string id="fanat_dialog1_2">
+		<text>Po co mi to opowiadasz? Z laboratorium X16 skończone.</text>
+	</string>
+	<string id="fanat_dialog1_3">
+		<text>W pośpiechu zostawiłem tam aktówkę z wszystkimi dokumentami i notesami, i tak sobie pomyślałem: jeśli Striełok przyniesie mi aktówkę (znaleźć nietrudno - jak zejdziesz w dół, zaraz na pierwszym stanowisku operatora zostawiłem aktówkę, lub gdzieś w okolicy), to ja podaruję Striełokowi doświadczalny prototyp stunnera. To prototyp, nie był przygotowany do działań wojennych, tak więc optyki czy też granatnika nie przyczepisz. Ale ma wielką moc. Całkowicie gasi fale alfa mózgu celu.</text>
+	</string>
+	<string id="fanat_dialog1_4">
+		<text>Sprytny jesteś. Wiesz czym mnie zainteresować. Dobrze, znajdę ci tę twoją aktówkę.</text>
+	</string>
+	<string id="fanat_dialog1_5">
+		<text>Później. Bez obrazy. Roboty mam dużo</text>
+	</string>
+	
+	<string id="fanat_dialog2_0">
+		<text>Masz swoją dyplomatkę. W dobry czas ją z X16 wydostaliśmy, już tam źli ludzie jej szukali.</text>
+	</string>
+	<string id="fanat_dialog2_1">
+		<text>Bardzo dziękuję! Trzymaj stunnera. I baterie do niego. 120 ładunków. Jeśli się uda - zrobię ci jeszcze.</text>
+	</string>
+	<string id="fanat_dialog2_2">
+		<text>Dogadaliśmy się.</text>
+	</string>
+	
+	<string id="wolf_quest_dialog1_0">
+		<text>Coś ty taki zamyślony, Wilk?</text>
+	</string>
+	<string id="wolf_quest_dialog1_1">
+		<text>Tak sobie myślę. Na Magazynach Wojskowych, w chutorze, widziałem skrzynkę ciekawą. Nie wziąłem - za ciężka się okazała. A teraz żal bierze.</text>
+	</string>
+	<string id="wolf_quest_dialog1_2">
+		<text>A w skrzynce - dynamit, co?</text>
+	</string>
+	<string id="wolf_quest_dialog1_3">
+		<text>Raczej nie. To mało prawdopodobne. Jak będziesz w okolicy to ją zabierz, jeśli nie będzie za ciężka. A ja ci też jeden drobiazg ciekawy załatwię.</text>
+	</string>
+	<string id="wolf_quest_dialog1_4">
+		<text>Dobra. Na nos padnę a przytaszczę.</text>
+	</string>
+	<string id="wolf_quest_dialog1_5">
+		<text>Nie szkodzi, innym razem.</text>
+	</string>
+	
+	<string id="wolf_quest_dialog2_0">
+		<text>Oto twoja skrzynka, Wilk. Jakoś bardzo na skrzynkę z dynamitem wygląda, jak myślisz?</text>
+	</string>
+	<string id="wolf_quest_dialog2_1">
+		<text>Czyżby... Trochę tylko podobna i tyle. A dla ciebie, proszę - baterie. Nie wiem od czego, ale pojemne - zgroza. Dla próby jedną na detonator postawiłem, odbiegłem, ukryłem się - eksplozja pół ceglanego domu rozniosła.</text>
+	</string>
+	<string id="wolf_quest_dialog2_2">
+		<text>No, byle by były baterie, a gdzie przyczepić - to sobie już znajdę.</text>
+	</string>
+	
+	<string id="fox_quest_dialog1_0">
+		<text>Cześć, Lis! Dawno się nie widzieliśmy.</text>
+	</string>
+	<string id="fox_quest_dialog1_1">
+		<text>Cześć, Striełok, czym się zajmujesz?</text>
+	</string>
+	<string id="fox_quest_dialog1_2">
+		<text>A co?</text>
+	</string>
+	<string id="fox_quest_dialog1_3">
+		<text>Fiedia Srogi opowiadał, że w Prypeci w hotelu, w jednym pokoju leży kontener. Mówi że w kontenerze są dwa unikalne artefakty. Podejmiesz się dostarczyć? Dobrze zapłacę.</text>
+	</string>
+	<string id="fox_quest_dialog1_4">
+		<text>Będę w okolicy - zabiorę.</text>
+	</string>
+	<string id="fox_quest_dialog1_5">
+		<text>Nie, Lis. Idź sobie sam.</text>
+	</string>
+	
+	<string id="fox_quest_dialog2_0">
+		<text>Trzymaj swój kontener, Lis. Uważaj, czuję, że tam jakieś draństwo jest w środku.</text>
+	</string>
+	<string id="fox_quest_dialog2_1">
+		<text>Dziękuję. Za kontener i za ostrzeżenie. Trzymaj kasę.</text>
+	</string>
+	<string id="fox_quest_dialog2_2">
+		<text>Wpadnij, jakby co.</text>
+	</string>
+	
+	<string id="tolik_legend_dialog_0">
+		<text>Witaj Tolik! Przeniosłeś się w pobliże wojskowych?</text>
+	</string>
+	<string id="tolik_legend_dialog_1">
+		<text>Witaj Striełok. Nie spodziewałem się jeszcze cię zobaczyć.</text>
+	</string>
+	<string id="tolik_legend_dialog_2">
+		<text>A to dlaczego?</text>
+	</string>
+	<string id="tolik_legend_dialog_3">
+		<text>Boś szalony, włazisz tam, gdzie innych końmi nie zaciągną.</text>
+	</string>
+	<string id="tolik_legend_dialog_4">
+		<text>No, ale tak sobie tylko siedzieć w Zonie, to według mnie niebezpieczna głupota. Co nowego słychać?</text>
+	</string>
+	<string id="tolik_legend_dialog_5">
+		<text>Innemu bym nie opowiedział. I tobie, myślę, że też nie można: zginiesz z powodu mojej opowieści, a ja ci życie jestem winny. Nie, nic nie ma nowego.</text>
+	</string>
+	<string id="tolik_legend_dialog_6">
+		<text>Przestań jęczeć, opowiadaj.</text>
+	</string>
+	<string id="tolik_legend_dialog_7">
+		<text>Co, bohatera zgrywasz? Słyszałeś starą stalkerską legendę o Sercu Kontrolera?</text>
+	</string>
+	<string id="tolik_legend_dialog_8">
+		<text>Nie. Oświeć mnie.</text>
+	</string>
+	<string id="tolik_legend_dialog_9">
+		<text>Jest w Zonie unikatowy artefakt, nazywa się Serce Kontrolera. Jeśli powiesisz go na pasie - będzie cię bronił przed wszystkimi oddziaływaniami Zony. Niełatwo go znaleźć, a jeszcze trudniej nim zawładnąć!.. Trzech kontrolerów i trzy pijawki strzegą go dniem i nocą, a komenderuje nimi stary, mówią starszy od samej Zony kontroler.</text>
+	</string>
+	<string id="tolik_legend_dialog_10">
+		<text>Hehe... Sam to wymyśliłeś, Łukanienko ty nasz? Gdzieś ty widział by czterech kontrolerów na jednym terytorium się uchowało. Oni by jeden drugiemu mózgi wyjedli.</text>
+	</string>
+	<string id="tolik_legend_dialog_11">
+		<text>Kieł opowiadał.</text>.
+	</string>
+	<string id="tolik_legend_dialog_12">
+		<text>Kieł? A czemu mi nigdy o tym nie wspomniał?... No i co dalej?</text>
+	</string>
+	<string id="tolik_legend_dialog_13">
+		<text>Dwa tygodnie temu byłem na Magazynach Wojskowych. Posiedzieliśmy trochę, zakąsiliśmy. I wolnościowiec Sierioża Czarny, znasz go? opowiada jak widział w wiosce, przy starej wieży, siedem mutantów - czterech kontrolerów i trzy pijawki. No i sobie pomyślałem...</text>
+	</string>
+	<string id="tolik_legend_dialog_14">
+		<text>Ty tyle nie myśl, Tolik. Czarny, zanim tą siódemkę spotkał, pewnie parę ścieżek wciągnął. Brednie to wszystko.</text>
+	</string>
+	
+	<string id="kozel_dialog_0">
+		<text>Witaj stalkerze. Co tak sam stoisz?</text>
+	</string>
+	<string id="kozel_dialog_1">
+		<text>Pomocy potrzebuję.</text>
+	</string>
+	<string id="kozel_dialog_2">
+		<text>Co trzeba zrobić?</text>
+	</string>
+	<string id="kozel_dialog_3">
+		<text>Kumpel mój w tunelu utkwił, nogę mu płytą przywaliło, sam go nie wytaszczę. Pomożesz?</text>
+	</string>
+	<string id="kozel_dialog_4">
+		<text>Oczywiście! Chodźmy!</text>
+	</string>
+	<string id="kozel_dialog_5">
+		<text>Tam anomalia na anomalii. Więc idziemy krok w krok! Rozumiesz?</text>
+	</string>
+	<string id="kozel_dialog_6">
+		<text>Tak rozumiem, rozumiem! Chodźmy już!</text>
+	</string>
+	
+	<string id="kozel_dialog2_0">
+		<text>Gdzie ten twój kumpel?</text>
+	</string>
+	<string id="kozel_dialog2_1">
+		<text>Nie wiem. Może jakieś zwierzę go zżarło?</text>
+	</string>
+	<string id="kozel_dialog2_2">
+		<text>Jakie zwierzę?</text>
+	</string>
+	
+	<string id="kozel_dialog3_0">
+		<text>Słyszałem, Gitler, że ty drań, ale nie, że do takiego stopnia?!</text>
+	</string>
+	<string id="kozel_dialog3_1">
+		<text>Nie złość się, Striełok. Od razu cię poznałem. Przypomniałem sobie, że byłem ci winny trochę pieniędzy. I nagle zwątpiłem: a co jeśli to nie Striełok? Spotykali stalkerzy jednego typa, bardzo podobnego do ciebie. Dziwny on jakiś był. Jakby nikogo nie widział i nie słyszał. No i sobie pomyślałem: prawdziwy Striełok rozprawi się z czterema pijawkami jak dziecko z kaszką. Więc postanowiłem sprawdzić.</text>
+	</string>
+	<string id="kozel_dialog3_2">
+		<text>Głupcem jesteś Wańka. Obaj mogliśmy tu głowę położyć. Zgoda, zapomniane. Pieniądze oddawaj!</text>
+	</string>
+	
+	<string id="yar_escort_dialog_0">
+		<text>Kapitanie, Doktor powiedział, że jest miejsce w śmigłowcu...</text>
+	</string>
+	<string id="yar_escort_dialog_1">
+		<text>Jasne, dla takich jak ty, spóźnialskich. Dawaj biegiem, śmigłowiec właśnie się podnosi!</text>
+	</string>
+	<string id="yar_escort_dialog_2">
+		<text>Już biegnę!</text>
+	</string>
+	
+	<string id="barman_pro_concord_0">
+		<text>Barman, mam pytanie: jak uwolnić się od Serca Kontrolera?</text>
+	</string>
+	<string id="barman_pro_concord_1">
+		<text>Po coś je podnosił? Po prostu jak dzieci! Tylko z większymi siusiakami. Zgoda, oddaj mi je i zapomnij.</text>
+	</string>
+	<string id="barman_pro_concord_2">
+		<text>Jak to - oddaj? Nie. Szkoda mi go.</text>
+	</string>
+	<string id="barman_pro_concord_3">
+		<text>Bierz. Przeklęte mutanty.</text>
+	</string>
+	
+	<string id="vor_about_clearning_0">
+		<text>No co, towarzyszu  generale, będziemy się żegnać?</text>
+	</string>
+	<string id="vor_about_clearning_1">
+		<text>Znaczy, jednak wyjeżdżasz Striełok?</text>
+	</string>
+	<string id="vor_about_clearning_2">
+		<text>Tak, już pora. Wykonałem zadanie.</text>
+	</string>
+	<string id="vor_about_clearning_3">
+		<text>Apokalipsa też wynosi się z Zony. Finansowanie ustało, to i wrócili do domu.</text>
+	</string>
+	<string id="vor_about_clearning_4">
+		<text>Coś mi się zdaje, że nie podoba się to wam, generale. A ja myślę niech uciekają, lepiej bez nich będzie w Zonie.</text>
+	</string>
+	<string id="vor_about_clearning_5">
+		<text>Ale pomyśl Striełok, na jak długo? Kto będzie chciał, ten szybko się dowie, że jest dostępne paramilitarne i obyte z Zoną ugrupowanie. Uzbroić, zapłacić, dać wstęp - i nowe pobojowisko w Zonie.</text>
+	</string>
+	<string id="vor_about_clearning_6">
+		<text>To możliwe. Ale i czasochłonne.</text>
+	</string>
+	<string id="vor_about_clearning_7">
+		<text>Oni uciekają. Podszywają się pod zwykłych stalkerów, bandytów, nawet moich bojców udają. Uciekają małymi grupami. Ja sobie myślę, Striełok, Zona powinna stać się ich mogiłą. Paru może przeżyje i do diabła z nimi, nawet dobrze, będą się bali w Zonę leźć i jeszcze innych odstraszą.</text>
+	</string>
+	<string id="vor_about_clearning_8">
+		<text>Tak. Sprawiedliwie.</text>
+	</string>
+	<string id="vor_about_clearning_9">
+		<text>No i widzisz, Striełok. I u ciebie gniew na nich, jestem pewny, że im nie odpuścisz.</text>
+	</string>
+	<string id="vor_about_clearning_10">
+		<text>Dobrze. Zrobię na koniec dobry uczynek. Tylko jak ich rozpoznać skoro się maskują?</text>
+	</string>
+	<string id="vor_about_clearning_11">
+		<text>Moi chłopcy zatrzymali podejrzaną parkę. Przesłuchali i rozstrzelali. Tam w rowie leżą. Idź, popatrz, pomyśl. Nie mogli wszystkiego przewidzieć! Iwancowowi nie podobało się, że oni papierosy Extra Mocne palili. Już bardzo rzadkie. Tym bardziej w Zonie. W ogóle porozglądaj się. Głupi przecież nie jesteś.</text>.
+	</string>
+	<string id="vor_about_clearning_12">
+		<text>Dobra, pójdę, popatrzę...</text>
+	</string>
+	
+	<string id="cap_ivanzov_dialog_0">
+		<text>Kapitanie, ja w związku z rozstrzelanymi. Czyżby naprawdę za papierosy?</text>
+	</string>
+	<string id="cap_ivanzov_dialog_1">
+		<text>Jakie papierosy, Striełok? A! Extra Mocne? To bzdura jest! Nie w papierosach rzecz.</text>
+	</string>
+	<string id="cap_ivanzov_dialog_2">
+		<text>Intuicja?</text>
+	</string>
+	<string id="cap_ivanzov_dialog_3">
+		<text>Coś w tym stylu. Coś w nich było nieprawidłowe. Jak to mówią: "instynktownie czuję że litr - ale udowodnić nie mogę".</text>
+	</string>
+	<string id="cap_ivanzov_dialog_4">
+		<text>Czyli: "Zabijaj wszystkich - Bóg rozpozna swoich"? Dobra. Pomyślimy.</text>
+	</string>
+	
+	<string id="ex_apclps_dialog_0">
+		<text>Co nowego w Zonie?</text>
+	</string>
+	<string id="ex_apclps_dialog_1">
+		<text>Tak ogólnie to nic.</text>
+	</string>
+	<string id="ex_apclps_dialog_2">
+		<text>No, to na razie.</text>
+	</string>
+	
+	<string id="vor_last_dialog_0">
+		<text>No, gotowe generale. Oczyszczona Zona.</text>
+	</string>
+	<string id="vor_last_dialog_1">
+		<text>Dziękuję ci, Striełok. Do domu?</text>
+	</string>
+	<string id="vor_last_dialog_2">
+		<text>Tak. Do zobaczenia, generale.</text>
+	</string>
+	
+	<string id="dm_intro_help_13">
+		<text>Daj apteczkę...</text>
+	</string>
+	<string id="dm_intro_help_14">
+		<text>Daj apteczkę...</text>
+	</string>
+	<string id="dm_intro_help_15">
+		<text>Daj apteczkę...</text>
+	</string>
+	<string id="dm_intro_help_16">
+		<text>Daj apteczkę...</text>
+	</string>
+	<string id="dm_intro_help_17">
+		<text>Daj apteczkę...</text>
+	</string>
+	<string id="dm_intro_help_18">
+		<text>Daj apteczkę...</text>
+	</string>
+	<string id="dm_intro_help_19">
+		<text>Daj apteczkę...</text>
+	</string>
+	<string id="dm_intro_help_20">
+		<text>Daj apteczkę...</text>
+	</string>
+	
+	<string id="sidor_joke1_0">
+		<text>Sidorowicz, a co to za rydwan u ciebie przy wejściu stoi? FSO chcesz przejąć? Hehe..</text>
+	</string>
+	<string id="sidor_joke1_1">
+		<text>Sam żeś jest FSO. Widziałeś film "Czarna błyskawica"? A to jest moja "Biała błyskawica." Przeleżała półtora roku w "elektrze", wojacy BTR-em wyciągnęli i okazało się... Lata teraz trochę wolniej od helikoptera i trochę niżej. Za to bardzo cicho. Sprzedać nie sprzedam, ale mogę wynająć. Doba - sto baksów.</text>
+	</string>
+	<string id="sidor_joke1_2">
+		<text>A co - dawaj. Sprzykrzyło się wszędzie na piechotę.</text>
+	</string>
+	<string id="sidor_joke1_3">
+		<text>Za durnia mnie bierzesz? Idź do diabła, Sidorowicz.</text>
+	</string>
+	<string id="sidor_joke1_4">
+		<text>Nie złość się, żartowałem sobie. Nie nabrałeś się. Tylko nikomu nic nie mów, trzy setki  na tym dowcipie, co dzień mam.</text>
+	</string>
+	
+	<string id="sidor_joke2_0">
+		<text>Coś nie działa, Sidorowicz ta twoja "Biała błyskawica."</text>
+	</string>
+	<string id="sidor_joke2_1">
+		<text>Kiedy wy wydoroślejecie, chłopaki, w każdą bzdurę uwierzycie. Trzysta baksów co dzień z tej zardzewiałej kupy żelaza mam. No nie może samochód po niebie latać - i koniec!</text>
+	</string>
+	<string id="sidor_joke2_2">
+		<text>Pieniądze zwróć.</text>
+	</string>
+	<string id="sidor_joke2_3">
+		<text>Jeszcze czego! Pieniądze zatrzymam. Za naukę!</text>
+	</string>
+	<string id="sidor_joke2_4">
+		<text>Jeszcze czego! Pieniądze zatrzymam. Za naukę!</text>
+	</string>
+	
+	<string id="barman_pro_black_soul_0">
+		<text>Przypadkowo znalazłem "Czarną Duszę." Nosić ją przy sobie jest dość niebezpiecznie. I wyrzucić też strach - ktoś nieobeznany powiesi na pasie - i tylko pamięć po nim zostanie. Co radzisz?</text>
+	</string>
+	<string id="barman_pro_black_soul_1">
+		<text>Taa, że też ty w rzeczy samej zawsze na jakieś świństwo natrafisz! Dawaj ją tu - schowam ją głęboko.</text>
+	</string>
+	<string id="barman_pro_black_soul_2">
+		<text>Bierz.</text>
+	</string>
+	
+	<string id="pro_radio_0">
+		<text>W X18 znalazłem takie coś.</text>
+	</string>
+	<string id="pro_radio_1">
+		<text>Radiostacja? Tam tego dobra dużo. Nic interesującego.</text>
+	</string>
+	<string id="pro_radio_2">
+		<text>Cholera! Niepotrzebnie to taszczyłem!</text>
+	</string>
+	
+	<string id="pro_book_0">
+		<text>W X18 znalazłem takie coś.</text>
+	</string>
+	<string id="pro_book_1">
+		<text>Netbook? "ASUS"? Dobra maszyna. Za piętnaście tysięcy można sprzedać.</text>
+	</string>
+	<string id="pro_book_2">
+		<text>Jak powiedziałeś - tak sprzedam.</text>
+	</string>
+	
+	<string id="pro_block_0">
+		<text>W X18 znalazłem takie coś.</text>
+	</string>
+	<string id="pro_block_1">
+		<text>Gdzie ty taką staroć znalazłeś? Akurat by muzeum na Wysypisku zorganizować.</text>
+	</string>
+	<string id="pro_block_2">
+		<text>Cholera! Niepotrzebnie to taszczyłem!</text>
+	</string>
+	
+	<string id="doc_pda_dialog_0">
+		<text>Doktorze, wszystko zrobiłem. Zabijać naukowców nie było rozkazu, ale... nie ja pierwszy otworzyłem ogień. I oto co znalazłem przy ich głównym. Przy Numerze I.</text>
+	</string>
+	<string id="doc_pda_dialog_1">
+		<text>PDA? Interesujące. Rozszyfrujemy, poczytamy, dowiemy się nad czym pracowali... Zdaje się, że ty jeszcze nie skończyłeś...</text>
+	</string>
+	<string id="doc_pda_dialog_2">
+		<text>Doktorze, w bunkrze widziałem samego siebie. Takiego, jakim byłem  półtora roku temu.</text>
+	</string>
+	<string id="doc_pda_dialog_3">
+		<text>Taa... Ile dni już nie spałeś? Przywidzenia zaczynają się zazwyczaj po piątym dniu...</text>
+	</string>
+	<string id="doc_pda_dialog_4">
+		<text>To nie były zwidy, Dok. Kiedy zaczęła się bitwa, on ożył i walczył po mojej stronie.</text>
+	</string>
+	<string id="doc_pda_dialog_5">
+		<text>Ty sam siebie słyszysz? Striełok, bredzisz. Odpoczniesz na Wielkiej Ziemi, wrócisz, i  jeszcze o tym pogadamy.</text>
+	</string>
+	<string id="doc_pda_dialog_6">
+		<text>Dobrze, Dok. Do zobaczenia.</text>
+	</string>
+	
+	<string id="bc_dialog_0">
+		<text>Ej... Czarnego Stalkera udajesz?</text>
+	</string>
+	<string id="bc_dialog_1">
+		<text>Tak. Odstraszam różnych durni od laboratorium.</text>
+	</string>
+	<string id="bc_dialog_2">
+		<text>Dlaczego się przedstawiasz jako stalker  z grupy Striełoka?</text>
+	</string>
+	<string id="bc_dialog_3">
+		<text>Bo ja jestem stalkerem z grupy Striełoka.</text>
+	</string>
+	<string id="bc_dialog_4">
+		<text>No, więc się zapoznajmy - Striełok.</text>
+	</string>
+	<string id="bc_dialog_5">
+		<text>Wiem. I wiem, kto ci jest potrzebny.</text>
+	</string>
+	<string id="bc_dialog_6">
+		<text>A któż to?</text>
+	</string>
+	
+	<string id="vst_v_cnn_0">
+		<text>Coś chciałeś jeszcze powiedzieć?</text>
+	</string>
+	<string id="vst_v_cnn_1">
+		<text>Tak. Grupa Striełoka nie istnieje, sam wiesz. Moi chłopcy z radością przyjmą cię w swoje szeregi.</text>
+	</string>
+	<string id="vst_v_cnn_2">
+		<text>Sami przyszliście z propozycją? Dobra. Zgadzam się.</text>
+	</string>
+	<string id="vst_v_cnn_3">
+		<text>Jak to nie istnieje? A Duch? A Pinochet? Wybacz, ale zostaję w grupie Striełoka.</text>
+	</string>
+	
+	<string id="val_new_rob_dialog_0">
+		<text>Przyniosłeś! Więc - trzymaj!</text>
+	</string>
+	<string id="val_new_rob_dialog_1">
+		<text>Bywaj.</text>
+	</string>
+	<string id="val_new_rob_dialog_2">
+		<text>Bywaj.</text>
+	</string>
+	
+	<string id="hil_budulay_dialog3_0">
+		<text>Coś taki smutny, stalkerze? Rozweselić cię zajmującą historią?</text>
+	</string>
+	<string id="hil_budulay_dialog3_1">
+		<text>He! Sam mogę cię rozbawić. Słyszałeś o grupie Leńki-Brzytwy?</text>
+	</string>
+	<string id="hil_budulay_dialog3_2">
+		<text>Kopacze? Kilka razy sie z nimi spotkałem. I co się im przydarzyło?</text>
+	</string>
+	<string id="hil_budulay_dialog3_3">
+		<text>Snorki im schowek rozgrabiły. Już jest bardzo śmiesznie, prawda?</text>
+	</string>
+	<string id="hil_budulay_dialog3_4">
+		<text>Boki zrywać. I co za kosztowności mieli kopacze w tym schowku?</text>
+	</string>
+	<string id="hil_budulay_dialog3_5">
+		<text>Zaopatrzenie. Moim zdaniem, cenne tam były tylko dwie rzeczy. Eksperymentalny detektor anomalii i egza, obudowana serwomotorami. Leńka mówił - tonę w niej można było udźwignąć, jeżeli nie kłamał, oczywiście.</text>
+	</string>
+	<string id="hil_budulay_dialog3_6">
+		<text>Niech Leńka już zapomni o egzie i detektorze: jeżeli snorki tam dokazywały - nic już z tego nie będzie.</text>
+	</string>
+	<string id="hil_budulay_dialog3_7">
+		<text>Możliwe.</text>
+	</string>
+	<string id="hil_budulay_dialog3_8">
+		<text>Bywaj.</text>
+	</string>
+	
+	<string id="ermol_hello_dialog_0">
+		<text>Jakiś problem?</text>
+	</string>
+	
+	<string id="remezov_hello_dialog_0">
+		<text>Co teraz ze mną będzie?</text>
+	</string>
+	
+	<string id="docktor_hello_dialog_0">
+		<text>Witaj, Striełok.</text>
+	</string>
+	
+	<string id="haron_hello_dialog_0">
+		<text>Witam cię, stalkerze.</text>
+	</string>
+	
+	<string id="cnn_hello_dialog_0">
+		<text>Słucham cię uważnie.</text>
+	</string>
+	
+	<string id="hacker_hello_dialog_0">
+		<text>Jak leci?</text>
+	</string>
+	
+	<string id="budulay_hello_dialog_0">
+		<text>Czego chcesz?</text>
+	</string>
+	
+	<string id="nemez_hello_dialog_0">
+		<text>Bądź zdrów.</text>
+	</string>
+	
+	<string id="mehanik_hello_dialog_0">
+		<text>Witaj, stalkerze.</text>
+	</string>
+	
+	<string id="reuch_hello_dialog_0">
+		<text>Witajcie.</text>
+	</string>
+	
+	<string id="kozel_hello_dialog_0">
+		<text>Jak leci?</text>
+	</string>
+	
+	<string id="pinochet_hello_dialog_0">
+		<text>O co chciałeś zapytać?</text>
+	</string>
+	
+
+</string_table>

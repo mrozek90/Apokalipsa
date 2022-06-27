@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="apocalipsis">
+		<text>Trylogia APOKALIPSA:</text>
+	</string>
+	<string id="continue_1">
+		<text>Apokalipsa</text>
+	</string>
+	<string id="continue_2">
+		<text>Poszukiwacze. DIES IRAE</text>
+	</string>
+	<string id="continue_3">
+		<text>Powinność. Filozofia Wojny</text>
+	</string>
+</string_table>

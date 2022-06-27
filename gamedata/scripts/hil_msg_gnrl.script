@@ -1,0 +1,23 @@
+function gnrl_msg1(first_speaker, second_speaker)
+
+	local snd_obj = xr_sound.get_safe_sound_object( [[msgs\voronin_1]] )
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+
+	news_manager.send_tip(db.actor, "%c[255,200,0,0] Genera³ Woronin:\n%c[default] Nie s³uchaj tego kretyna, Spotkaj siê ze mn¹ jak najszybciej. Woronin.", nil, nil, 35000)
+end
+
+function gnrl_msg2(first_speaker, second_speaker)
+
+	local snd_obj = xr_sound.get_safe_sound_object( [[msgs\voronin_2]] )
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+
+	news_manager.send_tip(db.actor, "%c[255,200,0,0] Genera³ Woronin:\n%c[default] Mówi¹, ¿e jesteœ w Barze. Woronin.", nil, nil, 35000)
+end
+
+function gnrl_msg3(first_speaker, second_speaker)
+
+	local snd_obj = xr_sound.get_safe_sound_object( [[msgs\voronin_3]] )
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+
+	news_manager.send_tip(db.actor, "%c[255,200,0,0] Genera³ Woronin:\n%c[default] Cieszê siê, ¿e prze¿y³eœ, Strie³ok! Bêdziesz w okolicy Baru - wpadnij do mnie: mam ostatni¹ proœbê. Woronin.", nil, nil, 35000)
+end

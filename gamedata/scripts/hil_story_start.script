@@ -1,0 +1,7 @@
+
+function hil_story_start()
+	local snd_obj = xr_sound.get_safe_sound_object( [[msgs\yaroslavkin_1]] )
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+	
+	news_manager.send_tip(db.actor, "%c[255,200,0,0] Dowódca posterunku:\n%c[default] ¯o³nierze, udaj¹cy siê na urlop i zdemobilizowani! Transport na Wielk¹ Ziemiê chwilowo wstrzymany. Nierobów na posterunku nie bêdê tolerowa³ - wszyscy wracaj¹ do swoich obowi¹zków. Strie³ok, to o nierobach dotyczy siê te¿ ciebie. IdŸ do mechanika, napraw wyposa¿enie, oporz¹dŸ siê i przyjdŸ do mnie.", nil, nil, 30000)
+end

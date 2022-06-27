@@ -1,0 +1,15 @@
+function haron_msg1(first_speaker, second_speaker)
+
+	local snd_obj = xr_sound.get_safe_sound_object( [[msgs\haron_1]] )
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+
+	news_manager.send_tip(db.actor, "%c[255,200,0,0] Charon:\n%c[default] Znajdziesz coœ interesuj¹cego - nie spiesz siê do genera³a.", nil, nil, 35000)
+end
+
+function haron_msg2(first_speaker, second_speaker)
+
+	local snd_obj = xr_sound.get_safe_sound_object( [[msgs\haron_2]] )
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+
+	news_manager.send_tip(db.actor, "%c[255,200,0,0] Charon:\n%c[default] Œciemnia genera³. Taki zamek jego spece otworz¹ w minutkê.", nil, nil, 35000)
+end
