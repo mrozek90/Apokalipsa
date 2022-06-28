@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding="windows-1250"?>
 
 <xml>
-	
-<!---------------------------DOLG REGULAR----------------------->
+
+<!--DOLG REGULAR-->
 	<specific_character id="dolg_regular_default1" team_default = "1">
 		<name>Stalker z frakcji "Powinność"</name>
 		<icon x="8" y="2"></icon>
@@ -11,7 +11,7 @@
 
 		<class>Dolg_regular</class>
 		<community>dolg</community>
-		
+
 		<rank>40</rank>
 		<reputation>20</reputation>
 
@@ -25,14 +25,14 @@
             ammo_9x18_fmj = 1\n
 			wpn_spas12 \n
 			ammo_12x70_buck \n
-			device_torch \n			
+			device_torch \n
 #include "gameplay\character_items.xml"
 		</supplies>
 #include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
-		<actor_dialog>bar_dolg_base_guard_acces</actor_dialog>	
+		<actor_dialog>bar_dolg_base_guard_acces</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
@@ -44,7 +44,7 @@
 
 		<class>Dolg_regular</class>
 		<community>dolg</community>
-		
+
 		<rank>40</rank>
 		<reputation>20</reputation>
 
@@ -57,7 +57,7 @@
 			wpn_spas12 \n
 			ammo_12x76_zhekan \n
 			device_torch \n
-#include "gameplay\character_items.xml"			
+#include "gameplay\character_items.xml"
 		</supplies>
 #include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
@@ -74,10 +74,10 @@
 		<bio>Stalker z frakcji "Powinność". Brak szczegółowych danych.</bio>
 
 		<team>Dolg_regular</team>
-		
+
 		<class>Dolg_regular</class>
 		<community>dolg</community>
-		
+
 		<rank>40</rank>
 		<reputation>20</reputation>
 
@@ -90,17 +90,17 @@
             wpn_spas12 \n
 			ammo_12x76_dart \n
 			device_torch \n
-#include "gameplay\character_items.xml"			
+#include "gameplay\character_items.xml"
 		</supplies>
 #include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
-		<actor_dialog>bar_dolg_base_guard_acces</actor_dialog>	
+		<actor_dialog>bar_dolg_base_guard_acces</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
-<!---------------------------DOLG SNIPER---------------------->
+<!--DOLG SNIPER-->
 	<specific_character id="dolg_sniper_default1" team_default = "1">
 		<name>Stalker z frakcji "Powinność"</name>
 		<icon x="28" y="4"></icon>
@@ -109,7 +109,7 @@
 
 		<class>Dolg_sniper</class>
 		<community>dolg</community>
-		
+
 		<rank>50</rank>
 		<reputation>20</reputation>
 
@@ -121,9 +121,9 @@
 			wpn_svu \n
 			ammo_7.62x54_ap = 1 \n
 			device_torch \n
-#include "gameplay\character_items.xml"			
+#include "gameplay\character_items.xml"
 		</supplies>
-#include "gameplay\character_dialogs.xml"				
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -138,7 +138,7 @@
 
 		<class>Dolg_sniper</class>
 		<community>dolg</community>
-	
+
 		<rank>50</rank>
 		<reputation>20</reputation>
 
@@ -150,9 +150,9 @@
 			wpn_svu \n
 			ammo_7.62x54_ap = 1 \n
 			device_torch \n
-#include "gameplay\character_items.xml"			
+#include "gameplay\character_items.xml"
 		</supplies>
-#include "gameplay\character_dialogs.xml"				
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -167,7 +167,7 @@
 
 		<class>Dolg_sniper</class>
 		<community>dolg</community>
-	
+
 		<rank>50</rank>
 		<reputation>20</reputation>
 
@@ -179,16 +179,16 @@
 			wpn_svu \n
 			ammo_7.62x54_ap = 1 \n
 			device_torch \n
-#include "gameplay\character_items.xml"					
+#include "gameplay\character_items.xml"
 		</supplies>
-#include "gameplay\character_dialogs.xml"				
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
-<!---------------------------DOLG SPECNAZ---------------------->
+<!--DOLG SPECNAZ-->
 	<specific_character id="dolg_veteran_default1" team_default = "1">
 		<name>Stalker z frakcji "Powinność"</name>
 		<icon x="8" y="2"></icon>
@@ -208,9 +208,9 @@
 			ammo_11.43x23_hydro = 1 \n
 			wpn_val \n
 			ammo_9x39_sp5 = 1 \n
-#include "gameplay\character_items.xml"			
-		</supplies>		
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_items.xml"
+		</supplies>
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -221,7 +221,7 @@
 		<name>Stalker z frakcji "Powinność"</name>
 		<icon x="8" y="2"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Bojownik z frakcji "Powinność". Zazwyczaj dobrze wyekwipowany. Brak szczegółowych danych.</bio>
+		<bio>Weteran z frakcji "Powinność". Zazwyczaj dobrze wyekwipowany. Brak szczegółowych danych.</bio>
 
 		<class>Dolg_specnaz</class>
 		<community>dolg</community>
@@ -238,9 +238,9 @@
 			ammo_9x39_pab9 = 1 \n
 			ammo_9x39_sp5 = 1 \n
 			ammo_vog-25 = 2 \n
-#include "gameplay\character_items.xml"			
-		</supplies>		
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_items.xml"
+		</supplies>
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -251,7 +251,7 @@
 		<name>Stalker z frakcji "Powinność"</name>
 		<icon x="30" y="4"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Bojownik z frakcji "Powinność". Zazwyczaj dobrze wyekwipowany. Brak szczegółowych danych.</bio>
+		<bio>Weteran z frakcji "Powinność". Zazwyczaj dobrze wyekwipowany. Brak szczegółowych danych.</bio>
 
 		<team>Dolg_specnaz</team>
 
@@ -270,9 +270,9 @@
 			ammo_9x39_ap = 1 \n
 			ammo_9x39_sp5 = 1 \n
 			ammo_vog-25p = 2 \n
-#include "gameplay\character_items.xml"			
-		</supplies>		
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_items.xml"
+		</supplies>
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -283,7 +283,7 @@
 		<name>Stalker z frakcji "Powinność"</name>
 		<icon x="30" y="4"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Bojownik z frakcji "Powinność". Zazwyczaj dobrze wyekwipowany. Brak szczegółowych danych.</bio>
+		<bio>Weteran z frakcji "Powinność". Zazwyczaj dobrze wyekwipowany. Brak szczegółowych danych.</bio>
 
 		<team>Dolg_specnaz</team>
 
@@ -300,27 +300,27 @@
 			ammo_9x19_pbp = 1 \n
 			wpn_val \n
 			ammo_9x39_sp5 = 1 \n
-#include "gameplay\character_items.xml"			
-		</supplies>		
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_items.xml"
+		</supplies>
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
-	
-<!---------------------------DOLG MASTER----------------------->
+
+<!-- DOLG MASTER-->
 	<specific_character id="dolg_master_default1" team_default = "1">
 		<name>Stalker z frakcji "Powinność"</name>
 		<icon x="30" y="4"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Strażnik z frakcji "Powinność". Jeśli nie jesteś ich przyjacielem, lepiej trzymaj się z dala. Brak szczegółowych danych.</bio>
+		<bio>Komandos z frakcji "Powinność". Jeśli nie jesteś ich przyjacielem, lepiej trzymaj się z dala. Brak szczegółowych danych.</bio>
 
 		<team>Dolg_master</team>
-		
+
 		<class>Dolg_master</class>
 		<community>dolg</community>
-		
+
 		<rank>95</rank>
 		<reputation>60</reputation>
 
@@ -328,12 +328,12 @@
 		<supplies>
 			[spawn] \n
 			wpn_beretta \n
-			ammo_9x19_pbp = 1 \n			
+			ammo_9x19_pbp = 1 \n
 			wpn_val \n
 			ammo_9x39_sp5 = 1 \n
-#include "gameplay\character_items.xml"			
-		</supplies>			
-	#include "gameplay\character_dialogs.xml"	
+#include "gameplay\character_items.xml"
+		</supplies>
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -344,13 +344,13 @@
 		<name>Stalker z frakcji "Powinność"</name>
 		<icon x="2" y="4"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Strażnik z frakcji "Powinność". Jeśli nie jesteś ich przyjacielem, lepiej trzymaj się z dala. Brak szczegółowych danych.</bio>
+		<bio>Komandos z frakcji "Powinność". Jeśli nie jesteś ich przyjacielem, lepiej trzymaj się z dala. Brak szczegółowych danych.</bio>
 
 		<team>Dolg_master</team>
-		
+
 		<class>Dolg_master</class>
 		<community>dolg</community>
-		
+
 		<rank>95</rank>
 		<reputation>60</reputation>
 
@@ -362,21 +362,21 @@
 			wpn_groza \n
 			ammo_9x39_sp5 = 2 \n
 			ammo_vog-25p = 2 \n
-#include "gameplay\character_items.xml"			
-		</supplies>	
-#include "gameplay\character_dialogs.xml"				
+#include "gameplay\character_items.xml"
+		</supplies>
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
-<!---------------------------DOLG SPECNAZ CHEREP---------------------->
+<!--DOLG SPECNAZ CHEREP-->
 	<specific_character id="dolg_veteran_cherep" team_default = "1">
 		<name>"Czacha"</name>
 		<icon x="8" y="2"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Bojownik z frakcji "Powinność". Zazwyczaj dobrze wyekwipowany. Brak szczegółowych danych.</bio>
+		<bio>Komandos z frakcji "Powinność". Zazwyczaj dobrze wyekwipowany. Brak szczegółowych danych.</bio>
 
 		<team>Dolg_specnaz</team>
 
@@ -394,22 +394,22 @@
 			wpn_groza \n
 			ammo_9x39_sp5 = 2 \n
 			ammo_vog-25p = 2 \n
-		</supplies>		
-#include "gameplay\character_dialogs.xml"			
+		</supplies>
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
-	</specific_character>	
+	</specific_character>
 
 
 
-<!---------------------------DOLG SPECNAZ SILENCE---------------------->
+<!--DOLG SPECNAZ SILENCE-->
 	<specific_character id="dolg_veteran_silence" team_default = "1">
 		<name>Stalker z frakcji "Powinność"</name>
 		<icon x="8" y="2"></icon>
 		<map_icon x="4" y="0"></map_icon>
-		<bio>Bojownik z frakcji "Powinność". Zazwyczaj dobrze wyekwipowany. Brak szczegółowych danych.</bio>
+		<bio>Komandos z frakcji "Powinność". Zazwyczaj dobrze wyekwipowany. Brak szczegółowych danych.</bio>
 
 		<class>Dolg_specnaz_silence</class>
 		<community>dolg</community>
@@ -424,13 +424,13 @@
 			ammo_11.43x23_hydro = 1 \n
 			wpn_val \n
 			ammo_9x39_sp5 = 1 \n
-		</supplies>		
-	#include "gameplay\character_dialogs.xml"		
+		</supplies>
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
-	</specific_character>	
+	</specific_character>
 
 
 </xml>

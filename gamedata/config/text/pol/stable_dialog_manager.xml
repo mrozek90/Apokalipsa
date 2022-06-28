@@ -1,627 +1,628 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="dm_action_info_0">
-		<text>А чего тут нового быть может? Это же, считай, детский сад, ясельки. Правда, если не поболтаешься тут, за пять минут в Зоне накроешься, вот так. Умный всегда пообтешется, а потом уже к чёрту на рога лезет. Тем более, снарягой или оружием здесь разжиться можно, не вопрос. Все разживаются.</text>
+		<text>A cуї tu moїe byж nowego? Tu jest, moїna powiedzieж, przedszkole, jaseіka. Co prawda, jeњli nie pobкdziesz tutaj, to i piкciu minut w Zonie nie przetrzymasz, tak to jest. M№dry zawsze najpierw siк otrzaska, a dopiero potem diabіu na rogi lezie. Tym bardziej, їe wyposaїenie i broс moїna tu zdobyж, bez dwуch zdaс. Wszyscy zdobywaj№.</text>
 	</string>
 	<string id="dm_action_info_1">
-		<text>Мне бы сейчас перерыва обеденного у этих красапетов в погонах дождаться... Торчать тут без толку, на Большую землю надо, а эти не пускают, так их переэтак! Не я один на выход мылюсь, только всё равно никак пока проскользнуть не можем.</text>
+		<text>Chciaіbym tylko przerwy obiadowej u tych kogucikуw z pagonami doczekaж... Nie ma po co tu sterczeж, na Wielk№ Ziemiк trzeba, a ci nie puszczaj№, їandarmy jedne! Nie ja jeden do wyjњcia siк zbieram, tylko jak na razie nijak przeњlign№ж siк nie da.</text>
 	</string>
 	<string id="dm_action_info_10">
-		<text>Тут недалеко что-то хлопцам в погонах понадобилось. Сюда же вообще никто не ходил - всё ещё до меня подчистили до блеска, кабеля и те посрезали. А теперь нашли, видать... Я близко к зданию и подойти не смог - сразу заметили и пальнули. Хорошо хоть, без дырки в шкурке обошлось.</text>
+		<text>Tu niedaleko chіopcom w pagonach coњ siк spodobaіo. Tutaj w ogуle nikt nie chodziі - wszystko jeszcze przede mn№ wyczyszczone byіo do bіysku, nawet kable poucinane. A teraz znaleџli, widaж... Do budynku blisko podejњж nie daіem rady - od razu zauwaїyli i strzelili. Dobrze chociaї, їe bez dziurki w skуrze siк obeszіo.</text>
 	</string>
 	<string id="dm_action_info_100">
-		<text>Ничего. Выжить пытаюсь, и все дела.</text>
+		<text>Jakoњ leci. Przeїyж prуbujк, i to wszystko.</text>
 	</string>
 	<string id="dm_action_info_11">
-		<text>Мы команду собираем из тех, кто под землю в Зоне не ссыт лезть. Завод есть старый, а под ним коммуникации всякие; там, говорят, много всего есть, всегда найдётся, чем поживиться. Интересно, опять же...</text>
+		<text>Zbieramy grupк takich, co pod ziemiк w Zonie iњж siк nie boj№. Jest stara fabryka, a pod ni№ tunele. Tam, jak mуwi№, rуїnoњci peіno, zawsze znajdzie siк czym poїywiж. Ciekawe, ale znowu...</text>
 	</string>
 	<string id="dm_action_info_12">
-		<text>Не новое - старое! Тут, говорят, когда-то главная база Стрелка располагалась... Интересно мне - может, какие следы от того времени найти можно, если поискать как следует?</text>
+		<text>Nie nowe - stare! Tu, jak mуwi№, kiedyњ mieњciіa siк gіуwna baza Strieіoka... Ciekawe - moїe jakieњ њlady z tego czasu moїna by znaleџж, gdyby poszukaж jak naleїy?</text>
 	</string>
 	<string id="dm_action_info_13">
-		<text>Это ж надо - час назад чуть не влип! Я тут полгода назад был - тишь да гладь, а теперь бритоголовые в своих трениках под каждым кустом! Обалдеть...</text>
+		<text>Tak jest - godzinк temu ledwo siк wykaraskaіem! Byіem tu pуі roku temu - cisza i spokуj, a teraz golone paіy w tych swoich dresach pod kaїdym krzakiem! Zwariowaж moїna...</text>
 	</string>
 	<string id="dm_action_info_14">
-		<text>Везёт тебе, сталкер, что бандиты тебя не приняли тёпленького: тут у них, как раз рядом, база есть. Эх, и врезал бы я по ней, будь моя воля... Но пока просто следим. Это у них вспомогательная точка - основная ближе к центру Зоны расположилась.</text>
+		<text>Masz szczкњcie, stalkerze, їe ciк bandyci ciepіo nie przywitali: tutaj obok, caіkiem blisko, jest ich baza. Eh, daіbym ja im popaliж, gdyby byіa moja wola... Ale na razie tylko њledzimy. To jest ich punkt wsparcia - gіуwna baza leїy gdzieњ bliїej centrum Zony.</text>
 	</string>
 	<string id="dm_action_info_15">
-		<text>Тут, говорят, лаборатория серьёзная была, засекреченная. Эх... С одной стороны, найти бы вход - хабара там, небось! С другой - так и стрёмно как-то...</text>
+		<text>Tu, mуwi№, byіo duїe laboratorium, tajne. Eh... Z jednej strony, znaleџж by wejњcie - towaru tam od metra! Z drugiej - straszno trochк...</text>
 	</string>
 	<string id="dm_action_info_16">
-		<text>В курсе, что в теперешней Тёмной Долине до катастрофы был научно-исследовательский комплекс, причём подземный? Назначение его мне неизвестно, но вряд ли что-то хорошее, я так мыслю. Всякое про него рассказывают, но в основном плохое. Страшное даже.</text>
+		<text>Coњ sіyszaіem, їe w Dolinie Mroku przed katastrof№ byі kompleks naukowo badawczy, a dlaczego podziemny? Nie znam jego przeznaczenia, ale w№tpliwe, їeby to byіo co dobrego, przynajmniej ja tak myњlк. Rуїne rzeczy o nim opowiadaj№, ale gіуwnie zіe. Nawet straszne.</text>
 	</string>
 	<string id="dm_action_info_17">
-		<text>А что? Чего услышать хочешь? Я тебе вот что скажу: "долгари", конечно, полицаи, но порядок навести умеют, что да, то да. А так вообще не люблю я их. Везде они типа хозяева, то не бери, это из Зоны не выноси... Мало того, уже придумали, чего можно на Большой земле говорить, а чего - ни-ни! Болтают, они вообще хотят Зону понемногу уничтожить. Ну, воякам, хоть и бывшим, я не удивляюсь... мечтатели. Хуже то, что у них, говорят, поддержка с самого верху идёт.</text>
+		<text>A co? Co byњ chciaі usіyszeж? Ja ci jedno powiem: "powinnoњciowcy" to policja, jasne, ale porz№dek trzymaж umiej№, nie da siк ukryж. A tak w ogуle, to ich nie lubiк. Wszкdzie chc№ rz№dziж - tego nie bierz, tego z Zony nie wynoњ... Maіo tego, juї wymyњlili, co moїna na Wielkiej Ziemi mуwiж, a czego - ni hu-hu! Sіuchy chodz№, їe oni w ogуle chc№ Zonк pomaіu zniszczyж. No, wojakom, choжby i byіym, ja siк nie dziwiк... marzyciele. Gorsze to, їe dla nich podobno wsparcie z samej gуry idzie.</text>
 	</string>
 	<string id="dm_action_info_18">
-		<text>Эта территория теперь контролируется "Долгом", и закон здесь - правила "Долга". Мы контролируем границы зоны и остужаем горячие головы: подорванные сюда целыми составами приезжают, любители романтики... а потом гибнут пачками в первый же день.</text>
+		<text>To terytorium aktualnie kontroluje "Powinnoњж", i prawo tutaj - to zasady "Powinnoњci". My kontrolujemy granice Zony i studzimy gor№ce gіowy: te pуіgіуwki przyjeїdїaj№ tutaj stadami, caіymi tabunami, wielbiciele romantyki... a potem gin№ masowo juї pierwszego dnia.</text>
 	</string>
 	<string id="dm_action_info_19">
-		<text>Ты на нашей перевалочной базе бывал? Она, правда, не только наша - тут много кого встретить можно. Главное, место хорошее, без дряни всякой, и все новости о Зоне сюда стекаются. Почти всегда чего-нибудь полезное услышать можно или просто с народом за жизнь потрепаться. Жаль только, Лысый с группой позавчера ушёл - так я с ним в этот раз и не свиделся.</text>
+		<text>Byіeњ na naszej bazie przeіadunkowej? Co prawda, baza nie jest tylko nasza - tutaj najrуїniejszych spotkaж moїna. Najwaїniejsze, їe miejsce dobre, bez wszelkego draсstwa, i wszystkie nowoњci o Zonie tutaj spіywaj№. Prawie zawsze coњ przydatnego usіyszeж moїna, albo po prostu z ludџmi o їyciu pogadaж. Szkoda tylko, їe Јysy z grup№ odszedі przedwczoraj - nie udaіo mi siк tym razem z nim zobaczyж.</text>
 	</string>
 	<string id="dm_action_info_2">
-		<text>Давай в лагерь, там все слухи и узнаешь. Все, кто в первый раз, - новички вот вроде тебя - к нам обычно заходят: опыта поднабраться или отдохнуть малёхо. Под боком у нас вояки стоят, их сильно не бойся, но и не маячь особо - могут пальнуть, это им как два пальца... Тут недалеко от торгаша - ну, перекупщика здешнего, - есть место, где можно себе спокойно привал организовать.</text>
+		<text>Chodџ do obozu, tam wszystkie nowoњci usіyszysz. Kaїdy kto pierwszy raz - ot koty takie jak ty - do nas zwykle zachodzi: doњwiadczenia nabraж albo odpocz№ж trochк. Tuї pod bokiem wojacy stacjonuj№, nie musisz ich siк bardzo baж, ale i nie pchaj siк za bardzo na oczy - mog№ paln№ж, dla nich to jak splun№ж... Niedaleko do handlarza - miejscowego dostawcy, i jest teї miejsce, gdzie moїna sobie spokojnie popas zorganizowaж.</text>
 	</string>
 	<string id="dm_action_info_20">
-		<text>Сейчас это место безопасно, сталкер, и мы стараемся поддерживать его в этом состоянии. Здесь народа всегда много: кто совсем поселился и дальше окрестностей не ходит, а кто к очередному рейду готовится. Вот жаль, Ирокез не вернулся - любил он перворазников вроде тебя на путь истинный наставлять.</text>
+		<text>Teraz to miejsce jest bezpieczne, stalkerze, a my staramy siк utrzymaж je w tym stanie. Tutaj narodu zawsze peіno: niektуrzy caіkiem osiedli i w dalsze regiony nie chodz№, inni szykuj№ siк do nastкpnego rajdu. Szkoda, Irokez nie wrуciі - lubiі takich kotуw jak ty na wіaњciw№ drogк wprowadzaж.</text>
 	</string>
 	<string id="dm_action_info_21">
-		<text>Слыхал, "Долг" набор в стройные ряды объявил? Я так минутку поразмыслил, а потом решил: нафиг оно мне надо, опять через день на ремень? Дисциплина, то-сё... Я свои два и так отслужил, хватило...</text>
+		<text>Sіyszaіem, їe "Powinnoњж" ogіosiіa nabуr w swoje wysokie progi? Ja tak chwilк sobie podumaіem, a potem doszedіem do wniosku: na cholerк mi to potrzebne, znowu caіy dzieс na smyczy? Dyscyplina, to-tamto... Ja swoje dwa lata juї odsіuїyіem, wystarczy...</text>
 	</string>
 	<string id="dm_action_info_22">
-		<text>Если не слышал ещё, сообщаю: объявлен дополнительный набор к нам. Если более-менее есть опыт, приходи, не пожалеешь. На базе надо будет спросить Петренко.</text>
+		<text>Jeњli jeszcze nie sіyszaіeњ, to wiedz: ogіoszono dodatkowy nabуr do nas. Jeњli masz jakieњ tam doњwiadczenie, przyjdџ, nie poїaіujesz. Zapytaj na bazie u Pietrenko.</text>
 	</string>
 	<string id="dm_action_info_23">
-		<text>Ты тоже, что ли, на бои посмотреть пришёл, ставочку сделать?.. Оба-на! Здесь же где-то арена есть, а ты полный ноль! Значит, так: "долговцы"-то мутантов ловят, да? После исследования, если твари ещё живые, на арену их и выпускают. А пупсы эти ой какие разные бывают: когда со смеху помереть можно, а когда и в штанишки напустить.</text>
+		<text>Ty co, teї na walkк przyszedіeњ popatrzeж, coњ postawiж?.. No co ty! Przecieї tutaj obok jest arena, a ty zupeіnie zielony! Znaczy, tak: "powinnoњciowcy" іapi№ mutanty, tak? Po badaniach, jeњli stworzenia jeszcze їywe, na arenк je wypuszczaj№. A te zwierzaki rуїne-rуїniste: czasem ze њmiechu umrzeж moїna, a czasem i w gacie narobiж.</text>
 	</string>
 	<string id="dm_action_info_24">
-		<text>Только что обеспечили арену свежим мясом. Народу развлечение, а нам и заработать процент на ставках не грех. Сталкерам, опять же, лишний раз докажем, что "Долг" не просто языком болтает, а реально дело делает.</text>
+		<text>Dopiero co dostarczyli na arenк њwieїe miкso. Dla narodu rozrywka, a dla nas zarobiж procent na stawkach nie grzech. Stalkerom kolejny raz udowodnimy, їe "Powinnoњж" nie tylko gada, ale i dziaіaж potrafi.</text>
 	</string>
 	<string id="dm_action_info_25">
-		<text>Слушай, а ты на Ростке был? Там раньше было тихо, а сейчас одному идти тяжко - натуральное дикое поле, больно мутантов много развелось. Пошли вместе, а?.. Хотя... Я тебя не знаю, ты меня не знаешь. Мало ли. Всё, мужик, извини. Разбежались.</text>
+		<text>Sіuchaj, a ty na Rostoku byіeњ? Kiedyњ tam byіo spokojnie, a teraz - samemu iњж strach. Prawdziwe dzikie pola - mutanty rozmnoїyіy siк do niemoїliwoњci. Pуjdziesz ze mn№, co?.. Chociaї... Ja wіaњciwie ciebie nie znam, ty teї mnie nie znasz. Rozpкdziіem siк... wybacz. Nie byіo rozmowy.</text>
 	</string>
 	<string id="dm_action_info_26">
-		<text>Мы с Ростка только что. Соваться тебе туда не советую, особенно если ты один. Жить хочешь? Вот и не ходи лучше.</text>
+		<text>Wіaњnie wrуciliњmy z Rostoka. Nie radzк ci tam iњж, szczegуlnie jeњli jesteњ sam. Їyж chcesz? To lepiej tam nie chodџ.</text>
 	</string>
 	<string id="dm_action_info_27">
-		<text>Да вот на Янтарь думал сходить, и обломался. Там у яйцеголовых натуральный форпост науки в Зоне. Копаются - фиг знает, в чём копаются, - а вокруг комплекса мертвяки бродят. Идиллия, ей-богу.</text>
+		<text>Chciaіem iњж na Jantar, i zrezygnowaіem. Tam u jajogіowych wysuniкta placуwka naukowa w Zonie. Badaj№ - cholera wie, co badaj№ - a wokoіo martwiaki siк snuj№. Idylla, psia maж.</text>
 	</string>
 	<string id="dm_action_info_28">
-		<text>Недавно зачищали зону "Янтарь"... да, изрядно накрошили сучьего племени! Там исследовательские лаборатории, только мертвяков вокруг всё время много. Регулярно на подмогу учёным мотаться приходится.</text>
+		<text>Niedawno czyњciliњmy strefк "Jantar"... Taa, nieџle natіukliњmy tego czarciego pomiotu! Tam jest laboratorium badawcze, a oprуcz martwiakуw wokoіo nikogo. Trzeba regularnie naukowcom w pomoc przychodziж.</text>
 	</string>
 	<string id="dm_action_info_29">
-		<text>У старых складов - знаешь? - "свободовцев" база. Они ребята беспечальные, душевные; с ними под бутылочку чего хорошего посидеть - одно удовольствие. И "Долг", как вокруг бара, не мельтешит.</text>
+		<text>Przy starych magazynach - wiesz? - baza "wolnoњciowcуw" . Towarzystwo beztroskie, uczuciowe; z nimi przy buteleczce czegoњ dobrego posiedzieж - sama przyjemnoњж. I nie wcinaj№ siк jak "Powinnoњж" tu, wokoіo baru.</text>
 	</string>
 	<string id="dm_action_info_3">
-		<text>Здесь одна фабрика старая недалеко, так мы с неё бандюков выбиваем-выбиваем, а они каждый раз опять возвращаются! И месяца с последнего раза не прошло, а они уже тут как тут. Ты вообще поосторожней там...</text>
+		<text>Tutaj niedaleko jest stara fabryka, my w niej ci№gle bandytуw tіuczemy, a oni zawsze i tak wracaj№! Nawet miesi№c od ostatniego razu nie minкіo, a oni juї znowu s№. Tak w ogуle, to lepiej tam ostroїnie...</text>
 	</string>
 	<string id="dm_action_info_30">
-		<text>За старыми складами "Свобода" засела... раздолбаи эти обкуренные, мать их...</text>
+		<text>Za starymi magazynami "Wolnoњж" siк usadziіa... durnie kopane, pies by ich...</text>
 	</string>
 	<string id="dm_action_info_31">
-		<text>Уходи, пока ещё не ночь! Днём тут ещё туда-сюда, а вот как солнышко закатится...</text>
+		<text>Uciekaj, pуki jeszcze nie noc! Za dnia tu jeszcze jako-tako, ale sіoсce juї zachodzi...</text>
 	</string>
 	<string id="dm_action_info_32">
-		<text>Сталкер, уходи! Сейчас будем снимать оцепление. Мы его пока только днём держим, а на ночь уходим - слишком хреново тут ночью.</text>
+		<text>Stalkerze, uciekaj! Wіaњnie zwijamy posterunek. My tu na razie tylko za dnia straїujemy, a na noc odchodzimy - zbyt niebezpiecznie tu noc№.</text>
 	</string>
 	<string id="dm_action_info_33">
-		<text>Понимаете ли, ночью здесь нужно укрываться, и желательно за хорошими дверьми. В тёмное время суток мы фактически оказываемся на осадном положении.</text>
+		<text>Musicie zrozumieж, noc№ tutaj naleїy siк ukryж, i to najlepiej za mocnymi drzwiami. W ciemn№ czкњж doby faktycznie znajdujemy siк w stanie oblкїenia.</text>
 	</string>
 	<string id="dm_action_info_34">
-		<text>Ну, дружище, я гляжу, ты не в курсе? Ночью надо делать баиньки где-нибудь подальше отсюда. Ночью тут и гранатомёт не всегда помогает!</text>
+		<text>No, przyjacielu, widzк, їe nie masz pojкcia o co chodzi? Nocne lulu trzeba robiж moїliwie daleko st№d. W nocy, to tutaj i granatnik nie zawsze pomoїe!</text>
 	</string>
 	<string id="dm_action_info_35">
-		<text>Знаешь, что? Вот пусть "долговцы" со "свободовцами" да мародёрами решают, чей это кусок, а мне дела нет! Пошло оно всё...</text>
+		<text>Wiesz co? Niech "powinnoњciowcy" z "wolnoњciowcami" i maruderami na dokіadkк decyduj№, czyj to k№sek, mnie nic do tego! A niech ich wszyscy diabli...</text>
 	</string>
 	<string id="dm_action_info_36">
-		<text>Работаем здесь сейчас, сталкер. И так дряни всякой развелось, а тут ещё эти сволочи-наёмники да придурки из "Свободы" жить мешают...</text>
+		<text>Pracujemy tutaj, stalkerze. I tak draсstwa wszelkiego siк namnoїyіo, a tu jeszcze swoіocze najemnicy i te pуіgіуwki z "Wolnoњci" їyж przeszkadzaj№...</text>
 	</string>
 	<string id="dm_action_info_37">
-		<text>Вынужден предупредить, что здесь довольно небезопасно и днём. Время от времени случаются перестрелки - насколько я понимаю, идёт какое-то противостояние между местными бандитскими группировками.</text>
+		<text>Zmuszony jestem uprzedziж, їe tutaj doњж niebezpiecznie jest takїe za dnia. Od czasu do czasu zdarzaj№ siк strzelaniny - o ile dobrze rozumiem, istniej№ nieporozumienia pomiкdzy miejscowymi bandyckimi ugrupowaniami.</text>
 	</string>
 	<string id="dm_action_info_38">
-		<text>Слушай, ну вот ты мне скажи: это по всему наша территория, так? Нам легче дрянь удерживать, что из центра Зоны прёт, так? Яйцеголовые пусть себе копаются, кто их трогает, а вот "Долг" с мародёрами пусть валят отсюда!</text>
+		<text>Sіuchaj, powiedz mi jedn№ rzecz: to przecieї nasz teren, tak? Nam іatwiej draсstwo powstrzymywaж, co z centrum Zony napiera, tak? Jajogіowi niech sobie badaj№, nikt ich nie rusza, a "Powinnoњж" z maruderami niech siк st№d wynosz№!</text>
 	</string>
 	<string id="dm_action_info_39">
-		<text>А ты что, не знаешь? Здесь же новую тропу натоптали, чтобы мимо "долговских" патрулей прямо к периметру пробраться с хабаром. От Янтаря сюда, потом огородами на Агропром - и всё, на месте!</text>
+		<text>A ty co, nie wiesz? Tu przecieї now№ њcieїkк wydeptali, їeby obok "powinnoњciowych" patroli prosto do perymetru przemkn№ж siк z towarem. Od Jantaru tutaj, potem ogrуdkami na Agroprom - i juї, na miejscu!</text>
 	</string>
 	<string id="dm_action_info_4">
-		<text>А ничего. Ни фига я не знаю. Кусочничаю вот, на хлеб насущный собираю. В самую Зону идти мне стрёмно, ну его нафиг. А дома работы нет, жена пилит... Жить как-то надо? Тут на Свалке, если походить денёк, можно по мелочи артефактов разных насобирать. В принципе, на поесть-попить нормально хватает.</text>
+		<text>A niczego. Ni cholery nic nie wiem. Pomaleсku na chleb powszedni zbieram. W gі№b Zony iњж siк bojк. A w domu roboty nie ma, kobieta piіuje... Їyж jakoњ trzeba, nie? Tu, na Wysypisku, jeњli pochodzisz dzionek, moїna rуїnych tanich artefaktуw nazbieraж. W zasadzie na pojeњж-popiж normalnie starczy.</text>
 	</string>
 	<string id="dm_action_info_40">
-		<text>Это ты зачем здесь? На Янтарь собрался, или артефакты втихую мимо бара пронести хочешь?</text>
+		<text>A ty co tutaj? Na Jantar siк wybraіeњ, czy artefakty cichaczem koіo baru chcesz przenieњж?</text>
 	</string>
 	<string id="dm_action_info_41">
-		<text>Не буду скрывать, что здесь Ваши коллеги-сталкеры время от времени предлагают нам весьма интересные аномальные образования - артефакты, как вы их называете. Эти места из-за своей... скажем, неопределённости контроля над ними, - нечто вроде оживлённой контрабандной тропы.</text>
+		<text>Nie bкdк ukrywaж, їe tutaj Wasi koledzy-stalkerzy od czasu do czasu oferuj№ nam caіkiem interesuj№ce anomalne twory - artefakty, jak wy je nazywacie. Te miejsca dziкki swojej... powiedzmy, nieokreњlonoњci kontroli nad nimi, jest czymњ w rodzaju oїywionej њcieїki przemytniczej.</text>
 	</string>
 	<string id="dm_action_info_42">
-		<text>Да ты что, мэн? Мы же дорожку проложили, чтобы с чинушами из "Долга" не встречаться, если хочешь на Большую землю сбегать! Нет, ну они, конечно, шатаются тут изрядно, но пока ни хрена не знают, так их хоть обойти можно.</text>
+		<text>Ty co, facet? Myњmy њcieїynkк wydeptali, їeby z biurokratami z "Powinnoњci" siк nie spotykaж, jeњli chcesz na Wielk№ Ziemiк iњж! A oni, oczywiњcie, szastaj№ siк tutaj jak u siebie, i na razie ni cholery nikt nie wie, jak ich obejњж moїna.</text>
 	</string>
 	<string id="dm_action_info_43">
-		<text>Я с Янтаря только что. Думал, науке кой-чего толкнуть, как всегда, а они там заперлись в своих бункерах, наружу теперь и днём не особо выходят, разве к очередной вертушке. Так что, если туда топаешь, заворачивай оглобли - в пролёте...</text>
+		<text>Ja wіaњnie z Jantaru wrуciіem. Myњlaіem, nauce trochк pomogк, jak zawsze, a oni tam zamknкli siк w swoich bunkrach, na zewn№trz teraz i za dnia niespecjalnie wychodz№, chyba їe do kolejnego helikoptera. Tak wiкc, jeњli tam zmierzasz, nie masz co liczyж na popas...</text>
 	</string>
 	<string id="dm_action_info_44">
-		<text>В зоне "Янтарь" исследования какие-то ведутся, но в последнее время поднапёрло мертвяков. Вот и охраняем подходы.</text>
+		<text>W strefie "Jantar" prowadzone s№ jakieњ-tam badania, ale ostatnio nast№piі zalew martwiakуw. Dlatego chronimy podejњcia.</text>
 	</string>
 	<string id="dm_action_info_45">
-		<text>Даже и не знаю, что Вам сказать. Хотел было вернуться в наш комплекс - это "Янтарь", думаю, Вы знаете. И вот нате: говорят, что если раньше было просто опасно, то теперь пройти стало совсем невозможно. Может быть, преувеличивают?</text>
+		<text>Nawet nie wiem, co Wam powiedzieж. Chciaіem wrуciж do naszego kompleksu - na "Jantar", myњlк їe wiecie. A tu taka sprawa: mуwi№, їe jeњli kiedyњ byіo to tylko niebezpieczne, to teraz staіo siк caіkiem niemoїliwe. Czy moїliwe, їe przesadzaj№?</text>
 	</string>
 	<string id="dm_action_info_46">
-		<text>На Янтаре был, так там наука совсем зачахла: шугается, прячется... Только и живы тем, что им на вертушках подбрасывают. С другой стороны, мертвяков там и правда много развелось. Среди них недельку поживёшь - ещё не так шугаться станешь. Так себе местечко. Малосимпатичное.</text>
+		<text>Na Jantarze byіem, a tam nauka caіkiem zwiкdіa: zamarіa, kryje siк... Їyj№ tylko tym, co im helikopterami podrzucaj№. Z drugiej strony, martwiakуw tam naprawdк mocno siк namnoїyіo. Pomieszkaj z nimi tydzieс - jeszcze nie tak bкdziesz siк kryі. Takie to miejsce. Maіo sympatyczne.</text>
 	</string>
 	<string id="dm_action_info_47">
-		<text>Да ну его к псам, с мертвяками тусоваться! Развелось их в этом долбаном комплексе - всё прут и прут. И всё больше их становится.</text>
+		<text>A pies z nim taсcowaі, z martwiakami siк brataж! Namnoїyіo siк ich w tym kopanym kompleksie - ci№gle id№ i id№. I coraz ich wiкcej.</text>
 	</string>
 	<string id="dm_action_info_48">
-		<text>Мы пытаемся остановить продвижение мертвяков от лабораторного комплекса. Честно скажу, совсем не против, если и ты подключишься - людей у нас маловато...</text>
+		<text>Staramy siк zatrzymaж ruch martwiakуw od kompleksu laboratoryjnego. Szczerze mуwi№c, nie miaіbym nic przeciwko, gdybyњ i ty siк podі№czyі - ludzi nam brakuje...</text>
 	</string>
 	<string id="dm_action_info_49">
-		<text>Вы знаете, мы сами собираем различные сведения... Я сам исследую основные пути распространения квазижив... то есть мертвяков, в Вашей терминологии. Не поделитесь ли своими наблюдениями?</text>
+		<text>Wiecie, my rуwnieї zbieramy najrуїniejsze informacje... Ja sam obserwujк gіуwne drogi rozprzestrzeniania siк quazi їyw... to jest martwiakуw, w Waszej terminologii. Nie podzielicie siк swoimi obserwacjami?</text>
 	</string>
 	<string id="dm_action_info_5">
-		<text>Да так как-то всё... Кто на Свалке прикормился, по мелочи собирает, кто глубже в Зону забурился. Там, конечно, куски заметно пожирнее попадаются, только не каждый туда сунется. Новичкам без опыта там делать нечего, а если ещё и снаряги порядочной нет - вообще туши свет. Без шансов.</text>
+		<text>Jakoњ tak to wszystko... Jednego Wysypisko znкciіo, drobnicк zbiera, drugi gікbiej w Zonк ruszyі. Tam, oczywiњcie, k№ski znacznie tіuњciejsze siк trafiaj№, tylko nie kaїdy tam pуjdzie. Nowicjusze bez doњwiadczenia nie maj№ tam czego szukaж, a jeњli jeszcze i sprzкtu dobrego nie maj№ - w ogуle szkoda gadaж. Bez szans.</text>
 	</string>
 	<string id="dm_action_info_50">
-		<text>Ты по мертвякам уже стрелял, что из здания лаборатории лезут? Ну ты смотри: ни черта не боятся, боли не чувствуют - совсем без мозгов твари, одним словом!</text>
+		<text>Ty do tych martwiakуw, co z budynku laboratorium lez№, juї strzelaіeњ? No popatrz tylko: ni diabіa siк nie boj№, bуlu nie odczuwaj№ - stwory caіkiem bez mуzgu, jednym sіowem!</text>
 	</string>
 	<string id="dm_action_info_51">
-		<text>В лабораторию на работу иду наниматься! Ладно, мужик, расслабься - шутка юмора... Ту ведь если забрёл - всё, считай, пропал. В лучшем случае станешь мертвяком.</text>
+		<text>Idк siк zatrudniж do pracy w laboratorium! Dobra, chіopie, rozluџnij siк - to tylko їart taki... Jeњli tam zabі№dzisz - koniec, przepadіeњ. W najlepszym przypadku martwiakiem siк staniesz.</text>
 	</string>
 	<string id="dm_action_info_52">
-		<text>Предупреждаю: в лабораторию не ходи. Нет, ну очень хочешь - иди, силой задерживать не буду. Только живыми оттуда назад не приходят.</text>
+		<text>Uprzedzam: nie chodџ do laboratorium. No nie, jeњli juї bardzo chcesz - idџ, siі№ trzymaж nie bкdк. Tylko їe їywym siк stamt№d nie wraca.</text>
 	</string>
 	<string id="dm_action_info_53">
-		<text>Видите ли... Мне бы хотелось Вас предупредить. Ходить к лаборатории Вам не стоит. Никому, собственно говоря, не стоит: это связано с кардинальными изменениями в психике и метаболизме - и, боюсь, совершенно необратимыми.</text>
+		<text>Widzicie... Chciaіbym Was uprzedziж. Nie powinniњcie iњж do laboratorium. Nikt, mуwi№c szczerze, nie powinien: jest to zwi№zane z kardynalnymi zmianami w psychice i metaboliџmie - i do tego, obawiam siк, zmianami caіkowicie nieodwracalnymi.</text>
 	</string>
 	<string id="dm_action_info_54">
-		<text>Во! Сейчас я тебя просветю... просвещу... спасу, короче, овцу заблудшую. Значит, так, чувак: к лабораторному комплексу лыжи не навостряй. Херово там, очень херово. Народ пропадает, а потом, бывает, ночью к тебе приходит. Только это не вампирские сказочки, а самая что ни на есть быль про мертвяков. Такие дела.</text>
+		<text>Oho! Teraz ja ciebie oњwiecк... przeњwiкcк... uratujк, owieczko bі№dz№ca. Znaczy, tak, facet: do kompleksu laboratoryjnego nosa nie pchaj. Chujowo tam, bardzo chujowo. Ludzie gin№, a potem, bywa, noc№ do ciebie przychodz№. Tylko їe to nie bajeczki o wampirach, a sama prawdziwa rzeczywistoњж martwiakуw. Taka sprawa.</text>
 	</string>
 	<string id="dm_action_info_55">
-		<text>Ты умников наших, этот цвет Объединённых, блин, Наций видел? Чё-то они в последнее время совсем стрематься стали. Им два шага от базы отойти - для охраны сгоняют целый полк при БТРах и с вертушками.</text>
+		<text>Ty m№drali naszych, ten kwiat Narodуw, cholera, Zjednoczonych widziaіeњ? Coњ oni ostatnio bardzo ostroїni siк stali. Jak dwa kroki od bazy maj№ odejњж - dla ochrony wzywaj№ caіy puіk z BTR-ami i helikopterami.</text>
 	</string>
 	<string id="dm_action_info_56">
-		<text>А тебе какое дело? Не приставай с дурными вопросами, тогда и к тебе не придолбаются.</text>
+		<text>A tobie o co chodzi? Nie zadawaj gіupich pytaс, wtedy i do ciebie nie bкd№ siк czepiaж.</text>
 	</string>
 	<string id="dm_action_info_57">
-		<text>Понимаете, мы обычно не покидаем бункера без соответствующей охраны: условия окружающей среды не позволяют. Я своего рода исключение - не очень люблю большие экспедиции, всю эту суету, военных... Однако пока ничего полезного рассказать Вам, боюсь, не могу.</text>
+		<text>Rozumiecie, my zazwyczaj nie opuszczamy bunkra bez odpowiedniej ochrony: warunki otaczaj№cego nas њrodowiska na to nie pozwalaj№. Ja jestem swego rodzaju wyj№tkiem - nie bardzo lubiк duїe ekspedycje, caіe to zamieszanie, wojskowych... Jednakїe na razie niczego interesuj№cego powiedzieж Wam, niestety, nie mogк.</text>
 	</string>
 	<string id="dm_action_info_58">
-		<text>Я прусь с нашей весёлой науки! Я фигею с неё просто, мужик!.. Она обычно из бункера носа не кажет. Ну а если кажет, вот как недавно было, так тут такое начинается - мамочки мои! Вояк полно, вертушки, бронетехника! Ещё классно было б, чтоб они сюда линкор припёрли, ну или там бронепоезд, на худой конец...</text>
+		<text>Wesoіa ta nasza nauka! Chіopie, toї to boki moїna zrywaж!.. Zazwyczaj z bunkra nosa nie wystawia. No a jak juї wystawi, tak jak to niedawno byіo, to siк tu takie rzeczy wyprawiaj№ - mamusiu moja! Wojska peіno, њmigіowce, uzbrojenie! Jeszcze ciekawie by byіo, jak by oni tutaj pancernik przytargali, albo przynajmniej chociaї czoіg jaki...</text>
 	</string>
 	<string id="dm_action_info_59">
-		<text>Третий день уже здесь кручусь, наблюдаю. Лаборатория тут - так? В неё не ходил никто с самого начала, "должане" мертвяков только по верхам чистили, а сейчас и совсем перестали, так? А вот наука туда лазить начала. Значит, нашли способ защищаться, фиг его уж там поймёт, от чего... Вот и думаю разузнать - хабара-то в том месте, небось, хоть лопатой греби.</text>
+		<text>Trzeci dzieс juї tutaj siк krкcк, obserwujк. Tu jest laboratorium - tak? Od samego pocz№tku nikt do niego nie chodziі, "powinnoњciowcy" martwiakуw tylko po wierzchu czyњcili, a teraz juї caіkiem przestali, tak? A za to nauka tam іaziж zaczкіa. Znaczy, znaleџli sposуb ochrony, diabli tam juї wiedz№, od czego... No to trzeba by siк rozeznaж - towaru to w tym miejscu od metra, choж іopat№ zbieraj.</text>
 	</string>
 	<string id="dm_action_info_6">
-		<text>В последние дни зверьё целыми стаями из Тёмной Долины попёрло. Непонятно, что их оттуда гонит, но только ломятся, как от пожара. А в восточном секторе мутантов развелось, что клопов, только отстреливать успеваем. Вот такие вот новости.</text>
+		<text>Ostatnio zwierzyna caіymi stadami z Doliny Mroku ci№gnie. Nie wiadomo, co je stamt№d goni, ale ci№gle pкdz№, jak od poїaru. A we wschodnim sektorze mutantуw siк namnoїyіo, niczym pluskiew, ledwo co odstrzeliwaж nad№їamy. Takie to u nas nowoњci.</text>
 	</string>
 	<string id="dm_action_info_60">
-		<text>А ты чего тут ищешь? Тоже в лабораторию намылился? Сказочку услышал про чудесные приборы и россыпи артефактов? М-мать... когда ж вы, придурки, на свете переведётесь?</text>
+		<text>A ty czego tu szukasz? Teї do laboratorium siк naparіeњ? Bajeczkк o cudownych przyrz№dach i stertach artefaktуw usіyszaіeњ? Їesz jego maж... kiedyї wreszcie was, pуіgіуwkуw, na њwiecie zabraknie?</text>
 	</string>
 	<string id="dm_action_info_61">
-		<text>Я здесь работаю, молодой человек. Всего лишь работаю, выполняю свой долг перед наукой и человечеством. А если Вы хотите узнать насчёт заброшенной лаборатории, в знании секретов которой меня подозревает каждый встреченный сталкер, я отвечу: не знаю и знать не хочу! Эта тема меня не интересует и никогда не интересовала, Вам ясно?!</text>
+		<text>Ja tutaj pracujк, mіody czіowieku. Po prostu robiк swoj№ robotк, wypeіniam dіug wobec nauki i spoіeczeсstwa. A jeњli Wy chcecie dowiedzieж siк czegoњ o porzuconycm laboratorium, o znajomoњж sekretуw ktуrego podejrzewa mnie kaїdy napotkany stalker, to odpowiem: nie znam i znaж nie chcк! Ten temat mnie nie interesuje i nigdy nie interesowaі, rozumiecie?!</text>
 	</string>
 	<string id="dm_action_info_62">
-		<text>Может, и вправду прибор какой мозгляки придумали, не знаешь? Интересно ж ведь, что там в этой долбанной лаборатории запрятано. Даже если хабара нормального ни фига нет - всё равно интересно.</text>
+		<text>Moїe rzeczywiњcie mуzgowcy jakiњ przyrz№d wymyњlili, nie wiesz? Ciekawe jednak, co tam w tym kopanym laboratorium jest schowane. Nawet jeњli towaru normalnego ni cholery nie ma - to i tak ciekawe.</text>
 	</string>
 	<string id="dm_action_info_63">
-		<text>Я вот думаю - в "Свободу", что ли, податься? Вон их база, на складах бывших армейских... А чего? Народ вроде толковый, ну а что безалаберный немного, так это даже хорошо: меня дисциплиной давить нечего, сам знаю, что делать, не первый месяц здесь...</text>
+		<text>Tak sobie myњlк - do "Wolnoњci" wst№piж, czy co? Tam jest ich baza, na byіych Magazynach Wojskowych... A co? Ludzie niby sensowni, a їe trochк niezdyscyplinowani, to nawet i dobrze: mnie drylem dіawiж nie trzeba, sam wiem, co robiж, nie pierwszy miesi№c tutaj...</text>
 	</string>
 	<string id="dm_action_info_64">
-		<text>Ты "Свободе" не симпатизируешь, часом, а? Ладно-ладно, не обижайся. Думаю, скоро мы их сковырнём из тех складов. Ни организованности у них, ни дисциплины... Стадо. Стая в лучшем случае. Ещё и дергаться против нас вздумали, выкормыши НАТОвские...</text>
+		<text>Ty czasem nie jesteњ sympatykiem "Wolnoњci", co? Dobra, dobra, bez obrazy. Myњlк, їe juї niedіugo ich z tych Magazynуw wykurzymy. Ni organizacji u nich, ni dyscypliny... Stado. Po prostu stado. Jeszcze wymyњlili, їeby nam siк stawiaж, NATOwskie wyskrobki...</text>
 	</string>
 	<string id="dm_action_info_65">
-		<text>Я тут с одним "долговцем" встречаюсь, когда перемирие. Треплемся. Мужик вообще умный, но, блин, узколобый, что твой танк. Понимаешь, у нас философия другая совсем: Зону только приручить, ассимилировать можно, а не уничтожить. Для этого нужен открытый доступ ко всей информации: кто-нибудь что-нибудь путное рано или поздно придумает. А они: "закрыть", "запретить", "не разглашать"... Придурки, ей-богу, придурки. С другой стороны, оно и понятно: когда за тобой вся государственная машина, лишнего думать вроде как и не полагается.</text>
+		<text>Ja tutaj z jednym "powinnoњciowcem" podczas rozejmu siк spotykam. Dyskutujemy. Facet ogуlnie niegіupi, ale cholera, twardogіowy jak ten czoіg. Rozumiesz, u nas caіkiem inna filozofia: Zonк tylko oswoiж, zasymilowaж moїna, a nie zniszczyж. Dlatego konieczny jest peіny dostкp do kaїdej informacji: ktoњ, kiedyњ, prкdzej czy pуџniej, coњ m№drego wymyњli . A oni: "zamkn№ж", "zabroniж", "nie rozgіaszaж"... Pуіgіуwki, jak Bуg miіy, pуіgіуwki. Z drugiej strony, to nawet i zrozumiaіe: kiedy za tob№ caіa rz№dowa maszyneria, niewіaњciwych rzeczy nawet i pomyњleж nie wolno.</text>
 	</string>
 	<string id="dm_action_info_66">
-		<text>Тут хуторок есть, раньше всё спокойно было, а теперь развелась дрянь какая-то. Лучше уж крюк сделать, так я вот иду в обход... Смотри, я тебя предупредил.</text>
+		<text>Tu jedna wioska jest, kiedyњ wszystko spokojnie byіo, a teraz draсstwo jakieњ siк zalкgіo. Lepiej omin№ж, dlatego obchodzк dookoіa... Pamiкtaj, їe ciк uprzedzaіem.</text>
 	</string>
 	<string id="dm_action_info_67">
-		<text>Тебя, сталкер, хочу сразу предупредить: в деревне давно свили гнездо кровососы, а может, и ещё что похуже, так что будь осторожен.</text>
+		<text>Ciebie, stalkerze, chcк od razu uprzedziж: w wiosce od dawna jest gniazdo pijawek, a moїe i jeszcze czego gorszego, tak wiкc b№dџ ostroїny.</text>
 	</string>
 	<string id="dm_action_info_68">
-		<text>Да какое новое... Артефактов тут давно уже нет, а вон в домиках тех раньше кровососы жили, мы их и отстреливали как могли. Сейчас вот пошёл - и не могу до места дойти. Интуиция, или что - а не могу туда, и всё. Никак. Смерть там...</text>
+		<text>A co tu nowego... Artefaktуw dawno juї nie ma, a w tych domkach kiedyњ pijawki mieszkaіy, my je odstrzeliwaliњmy, jak siк daіo. Teraz wybraіem siк - i nie mogк tam dojњж. Intuicja, czy co - ale nie mogк tam, i koniec. Nijak. Tam њmierж...</text>
 	</string>
 	<string id="dm_action_info_69">
-		<text>Ухожу я нафиг отсюда! Отбарабанил четыре недели на барьере - и всё, с меня хватит! Со стороны Выжигателя мозгов гадость какая-то круглосуточно прёт, и с каждым днём всё напористей...</text>
+		<text>Wynoszк siк st№d! Odbкbniіem cztery tygodnie na barierze - i to wszystko, mam doњж! Od strony Mуzgozwкglacza paskudztwo dzieс i noc napiera, i to z kaїdym dniem mocniej...</text>
 	</string>
 	<string id="dm_action_info_7">
-		<text>Сейчас многие в "мусорщики" подались. Раньше в кучах вообще не смотрели - радиация такая, что яйца тебе за полчаса вкрутую сварит. А теперь, как с хабаром стало туго, завернутся в защиту, химии примут, и ничего, искать лезут. Там много всякой всячины попадается, хотя и мелочёвка в основном.</text>
+		<text>Teraz wielu do "њmieciarzy" przystaіo. Wczeњniej na haіdach w ogуle nie patrzyli - radiacja taka, їe ci jajka w pуі godziny na twardo ugotuje. A teraz, jak z towarem zrobiіo siк cienko, zawin№ siк w ochronк, chemii naжpaj№ i nic, szukaж id№. Tam rуїne rуїnoњci znaleџж moїna, chociaї gіуwnie to drobnica.</text>
 	</string>
 	<string id="dm_action_info_70">
-		<text>Если идёшь к нам, на заслон, я тебя уважаю. Если нет - вали за пределы видимости! Нам мужики нужны настоящие, а не раздолбаи. Своих хватает...</text>
+		<text>Jeњli idziesz do nas, na wsparcie, to szacunek. Jeњli nie - lepiej zejdџ nam z oczu! Nam s№ potrzebni prawdziwi mкїczyџni, a nie palanty. Swoich starczy...</text>
 	</string>
 	<string id="dm_action_info_71">
-		<text>Ты на заслон, чувак? И то хорошо - хоть ещё один нормальный человек появится. Мы вон это дело организовали и держали неплохо... только потом зверьё ка-ак попёрло!.. Теперь тяжко, так нам каждый ствол в тему.</text>
+		<text>Ty na wsparcie, facet? No i dobrze - przynajmniej jeszcze jeden normalny czіowiek siк pojawi. My siк tutaj nieџle zorganizowaliњmy i szіo nam caіkiem dobrze... Tylko potem jak zwierzyna poszіa!.. Teraz trudno, dlatego kaїda lufa siк przyda.</text>
 	</string>
 	<string id="dm_action_info_72">
-		<text>А ты что, не в курсе? Путь к центру Зоны открылся! То ли сам по себе, то ли постарался кто, спасибо ему человеческое. Теперь знай хабар отборный загребай!</text>
+		<text>A ty co, nie w temacie? Droga do centrum Zony otwarta! Czy sama z siebie, czy ktoњ siк postaraі, wielkie jemu dziкki. Teraz tylko ruszaж po towar!</text>
 	</string>
 	<string id="dm_action_info_73">
-		<text>Ты бы погодил, сталкер. Не бежал бы за всеми. Вот скажи: ты знаешь, что там? Правильно, не знаешь. Не знаешь, есть там чем поживиться, или нет. Что там за ловушки, тоже не знаешь. Так какого вы ломитесь, точно стадо лосей?!</text>
+		<text>Lepiej poczekaj, stalkerze. Nie goс za wszystkimi. Powiedz sam: czy ty wiesz, co tam jest? Prawda, nie wiesz. Nie wiesz, czy warto tam iњж, czy nie. Jakie tam s№ puіapki, teї nie wiesz. Po co lecieж na њlepo, niczym stado іosi?!</text>
 	</string>
 	<string id="dm_action_info_74">
-		<text>Путь к центру свободен, понял?! Теперь прямой дорожкой - к центру! Сейчас все туда толпой полезут. Главное, среди первых быть, самый сок себе выдавить!</text>
+		<text>Droga do centrum wolna, rozumiesz?! Teraz prost№ drуїk№ - do Centrum! Zaraz wszyscy tam tіumnie polez№. Najwaїniejsze, byж poњrуd pierwszych, sam№ њmietankк zebraж!</text>
 	</string>
 	<string id="dm_action_info_75">
-		<text>Чеши вперёд, сам всё увидишь! Неохота, что ли, самому посмотреть, что там, дальше, творится? Ну ты тогда вообще... блаженный. Там же столько должно быть! Вот ты, скажем, про Исполнитель желаний слышал, нет?</text>
+		<text>Wal naprzуd, sam wszystko zobaczysz! Nie masz ochoty na wіasne oczy zobaczyж, co tam dalej siк dzieje? No ty jesteњ w ogуle... bіogosіawiony. Tam po prostu trzeba byж! A o Speіniaczu Їyczeс sіyszaіeњ, nie?</text>
 	</string>
 	<string id="dm_action_info_76">
-		<text>Как дети, ей-богу! "Исполнитель желаний", "Клондайк артефактов"... Слушать же смешно!</text>
+		<text>Jak dzieci, mуj Boїe! "Speіniacz Їyczeс", "Klondike artefaktуw"... Њmiech na sali!</text>
 	</string>
 	<string id="dm_action_info_77">
-		<text>Я сам узнать хочу, что там за горизонтом, чувак! Вдруг получится одним махом найти объяснение всей этой херне, которую именуют Зоной?</text>
+		<text>Ja sam chcк poznaж, co tam jest za horyzontem, facet! A nuї za jednym zamachem znajdzie siк objaњnienie caіego tego chіamu, ktуry nazywaj№ Zon№?</text>
 	</string>
 	<string id="dm_action_info_78">
-		<text>Видел многоэтажки? Это уже Припять. Прямо за ней - станция. Эх, попасть бы туда... только вот неизвестно, что там среди этих зданий сейчас бродит.</text>
+		<text>Widziaіeњ wielopiкtrowiec? To juї Prypeж. Prosto za ni№ - elektrownia. Eh, pуjњж by tam... tylko їe nie wiadomo, co tam poњrуd tych domуw teraz brodzi.</text>
 	</string>
 	<string id="dm_action_info_79">
-		<text>Разъясняю. Вон Припять. За Припятью - ЧАЭС. Что там сейчас творится и кто водится - неизвестно. Нам самое место тут. Найдётся чего разгребать, это уж как всегда.</text>
+		<text>Wyjaњniam. Tam jest Prypeж. Za Prypeci№ - Czarnobylska Elektrownia Atomowa. Co tam teraz siк dzieje i kto siк kryje - nie wiadomo. Nasze miejsce jest tu. Znajdzie siк coњ do rozgrzebania, to wtedy jak zawsze.</text>
 	</string>
 	<string id="dm_action_info_8">
-		<text>Не в курсах! Вот как раз в бар иду, с народом пообщаться. Что, не был ещё не разу? Ну ты даёшь! Значит, так: как стоишь, так и двигай прямо на север. Не успеешь двух шагов сделать - тут тебе и бар будет. Туда вообще заходить полезно, а новичкам вроде тебя вообще доктор прописал: там опытные мужики, бывает, тусуются, подскажут, что да как. Единственно, дружиннички наши из "Долга" тебя по дороге встретят... Ну, тут уж глянешься ты им, не глянешься - как карта ляжет.</text>
+		<text>Nie jestem na bieї№co! Akurat do baru idк, z ludџmi pogadaж. Co, nie byіeњ tam jeszcze? Nie їartuj! Znaczy, tak: tak jak stoisz, ruszaj prosto na pуіnoc. Nie zd№їysz dwуch krokуw zrobiж - a juї w barze bкdziesz. Tam w ogуle zajrzeж warto, a dla kotуw takich jak ty, to powinno byж z przepisu lekarza: tam przychodz№ ludzie doњwiadczeni, bywali, podpowiedz№, co i jak. Tylko po drodze spotkasz naszych z "Powinnoњci"... No, tutaj to juї zaleїy - spodobasz siк, nie spodobasz - jak karta pуjdzie.</text>
 	</string>
 	<string id="dm_action_info_80">
-		<text>Припять! Блин, ущипните меня! Наконец-то! Тут уже до станции рукой подать. Фиг его знает, правда, с кем тут сейчас встретиться можно, какая зверюшка на тебя зубы точит...</text>
+		<text>Prypeж! Kurczк, uszczypnijcie mnie! Nareszcie! Tu juї do elektrowni jak rкk№ podaж. Diabli go wiedz№, co prawda, z kim tu siк teraz spotkaж moїna, jaka potwora na ciebie zкby ostrzy...</text>
 	</string>
 	<string id="dm_action_info_81">
-		<text>Друг, слушай... У тебя тоже голос в голове раздаётся, или это только я сбрендил? Всё талдычит и талдычит...</text>
+		<text>Przyjacielu, sіuchaj... Ty teї gіos w gіowie sіyszysz, czy to tylko ja majaczк? Ci№gle beіkocze i beіkocze...</text>
 	</string>
 	<string id="dm_action_info_82">
-		<text>Блин, ещё один... Значит, так. Разъясняю в ковырдесятый раз, какого рода телепатическому воздействию здесь подвергаются люди. Не слышные со стороны голоса постоянно зовут их в центр Зоны и обещают исполнить любое желания того, кто сумеет коснуться... как его... а, да - какого-то монолита.</text>
+		<text>Cholera, jeszcze jeden... Znaczy, tak. Wyjaњniam n-ty raz, jakiego rodzaju telepatyczne wpіywy dziaіaj№ tutaj na ludzi. Niesіyszalne dla innych gіosy bez przerwy wzywaj№ ich do centrum Zony i obiecuj№ speіnienie dowolnego їyczenia temu, komu uda siк dotkn№ж... tego, jak go... a, tak - jakiegoњ monolitu.</text>
 	</string>
 	<string id="dm_action_info_83">
-		<text>Ты голос слышишь? Прикольно, прям как плеер в голове! Жалко только, дорожка одна и та же: иди, мол, ко мне, и будет тебе счастье великое. Два часа уже трындит одно и то же.</text>
+		<text>Sіyszysz gіos? Niesamowite, zupeіnie jak odtwarzacz w gіowie! Szkoda tylko, їe jedna i ta sama њcieїka: chodџ do mnie, a otrzymasz szczкњcie bez miary. Dwie godziny juї nawija jedno i to samo.</text>
 	</string>
 	<string id="dm_action_info_84">
-		<text>А то не догадываешься? Сам-то ведь тоже к станции пробиваешься! Ну и мы вот тоже, какие ещё новости?! Только бы этих придурков одержимых с дороги убрать...</text>
+		<text>A co, nie domyњlasz siк? Przecieї sam do elektrowni siк przebijasz! No i my teї, jakie tu jeszcze nowoњci?! Tylko by tych pуіgіуwkуw kopanych z drogi usun№ж...</text>
 	</string>
 	<string id="dm_action_info_85">
-		<text>Территория станции совсем рядом! С сопротивлением "монолитовцев" пока справится не можем!..</text>
+		<text>Terytorium elektrowni juї blisko! Jak na razie nie jesteњmy w stanie pokonaж oporu "monolitowcуw"!..</text>
 	</string>
 	<string id="dm_action_info_86">
-		<text>Вон она, ЧАЭС, рукой подать. Всего ничего осталось, а эти суки упорные попались, не пускают! Ничего, сейчас мы их причешем!</text>
+		<text>Tam jest, Czanobylska Elektrownia Atomowa, jak rкk№ podaж. Juї prawie na miejscu, a te uparte sukinsyny nie puszczaj№! Spokojnie, zaraz ich przyczeszemy!</text>
 	</string>
 	<string id="dm_action_info_9">
-		<text>Слушай, друг, ты сам не знаешь насчёт Агропрома? Я вот сходить хотел, а меня народ на смех поднял: нету, говорят, там ни хера уже, подчистую выбрали ещё когда, одни аномалии остались. Не знаешь, правду это они, или так, чтоб посмеяться? Я ведь недавно тут, верю, если местные говорят... Может, с них сталось сговориться, они и прикололись? Им же только повод дай поржать, заразам этим!</text>
+		<text>Sіuchaj, przyjacielu, nie wiesz czegoњ o Agropromie? Chciaіem tam iњж, a ludzie mnie obњmiali: niczego, mуwi№, tam juї nie ma, dawno juї wybrane do czysta, tylko anomalie zostaіy. Nie wiesz, czy prawdк mуwi№, czy tylko tak, dla њmiechu? Jestem tu niedawno, i wierzк miejscowym, jeњli mуwi№... Moїe chcieli sobie ze mnie poїartowaж? Im tylko powуd daж do њmiechu, zarazom jednym!</text>
 	</string>
 	<string id="dm_action_info_94">
-		<text>Стой! Поспешай, да не торопись особо. Тут "монолитовцы" кругом; город они знают от и до, засад натыкали. Осторожней надо.</text>
+		<text>Stуj! Nie spiesz siк za bardzo. Tutaj "monolitowcy" dookoіa; znaj№ miasto od a do z, przygotowali zasadzki. Ostroїniej trzeba.</text>
 	</string>
 	<string id="dm_action_info_95">
-		<text>Предупреждаю: пока большая часть города контролируется группировкой "Монолит". Масса засад - они всё тут изучили как свои пять пальцев. Не снижай внимание и оружие лишний раз проверь.</text>
+		<text>Uprzedzam: na razie wiкksza czкњж miasta pozostaje pod kontrol№ ugrupowania "Monolit". Masa zasadzek - oni wszystko tu poznali jak swoje piкж palcуw. Utrzymuj sto procent uwagi i broс sprawdџ jeszcze raz.</text>
 	</string>
 	<string id="dm_action_info_96">
-		<text>Эх, вот чего бы я с удовольствием сделал, так это накрыл бы городишко бомбовым ковром. Сволочи... разве только в песочницах и цветочных горшках не засели. Народу уже сколько из-за мудаков этих полегло!</text>
+		<text>Eh, co bym zrobiі z przyjemnoњci№, to wysіaі na miasto nalot dywanowy. Swoіocze... chyba tylko w piaskownicach i kwietnikach siк nie chowaj№. Ile to juї narodu przez tych skurwieli polegіo!</text>
 	</string>
 	<string id="dm_action_info_97">
-		<text>Слушай, хрен его знает, этот Исполнитель... Может, не вечный он, так на всех не хватит тогда? И чего делать - на четыре точки становиться? Ну ты-то, парень, если доберёмся, за мной будешь, это я обещаю...</text>
+		<text>Sіuchaj, cholera wie, ten Speіniacz Їyczeс... Moїe on nie jest wieczny, i dla wszystkich go nie wystarczy? I co tu robiж... No ty juї, chіopaku, jeњli dojdziemy, za mn№ bкdziesz, obiecujк...</text>
 	</string>
 	<string id="dm_action_info_98">
-		<text>"Долг" должен прорваться к центру если не первым, то среди первых! Только представь себе, сталкер, что какой-нибудь псих - а вы тут все почти так ли, эдак ли, шизики, параноики и олигофрены - добирается до хрени, которая вправду умеет исполнять любое желание. А? И что тогда?!</text>
+		<text>"Powinnoњж" powinna przebiж siк do centrum jeњli nie pierwsza, to poњrуd pierwszych! Tylko wyobraџ sobie, stalkerze, їe jakiњ psychiczny - a wy tu prawie wszyscy schizole, paranoicy i oligofrenicy - dobiera siк do cholerstwa, ktуre rzeczywiњcie moїe speіniж dowolne їyczenie. No? I co wtedy?!</text>
 	</string>
 	<string id="dm_action_info_99">
-		<text>Новость столетия: все здесь сейчас, кто сам ходить и оружие держать может! Это ж... тут же всё сбыться может, что пожелаешь! Ты только вкури тему, дружище, а? Всё, что пожелаешь! И вот возьмёт кто-то и скажет: "Хочу, чтоб Зона исчезла ныне, и присно, и во веки веков". А? Заценил масштаб трагедии? Мы ж тогда все в пролёте окажемся. Все до одного!</text>
+		<text>To nowina z taaak№ brod№: teraz kaїdy jest tutaj, kto sam chodzi i broс trzymaж moїe! Przecieї... tutaj moїe siк staж wszystko, co zechcesz! Tylko sobie wyobraџ! Wszystko, co zechcesz! I niech tam ktoњ weџmie i powie: "Chcк, їeby Zona przepadіa teraz, i zawsze, i na wieki wiekуw". Co? Jesteњ w stanie oceniж skalк tragedii? My tu wszyscy ruszymy w lot. Wszyscy co do jednego!</text>
 	</string>
 	<string id="dm_cool_info_0">
-		<text>Нового? На хрена нам новое, когда старого говна - черпай, не вычерпаешь? Бандюки вконец, сволочи, оборзели! Как за артефактами между аномалиями шустрить, так это мы, а как чужой хабар отбирать... Ух, гады! На Свалку, гляди, не забредай - самое ихнее место.</text>
+		<text>Nowego? Na cholery nam nowe, kiedy starego gуwna - czerpaж, nie wyczerpaж? Bandyci ostatnio, swoіocze jedne, mocno siк wycwanili! Jak za artefaktami miкdzy anomalie њmigaж, to my, a jak cudzy towar zagarniaж... Uh, gadziny! Na Wysypisko, bracie, lepiej nie chodџ - to juї jest caіkiem ich miejsce.</text>
 	</string>
 	<string id="dm_cool_info_1">
-		<text>Застрял я тут, застрял, понимаешь? Домой хочу, а эти не пускают, вот и все новости... Народ, правда, который в глубокую Зону ходит - который матёрый, так он всякое рассказывает. Ну и хабар, бывает, приносят - обзавидуешься. Говорят, там вообще есть места, что твои золотые россыпи: бери не хочу. Не всякий, правда туда дойдёт, а ещё меньше с прибылью вернутся.</text>
+		<text>Ugrz№zіem tu, rozumiesz? Ugrz№zіem... Do domu chcк, a ci nie puszczaj№, ot i caіe nowoњci... Ci, ktуrzy gікboko w Zonк chodz№, doњwiadczeni, rуїne rzeczy opowiadaj№. No i bywa, їe taki towar przynosz№ - aї zazdroњж bierze. Mуwi№, їe tam s№ takie miejsca, gdzie po zwykіy towar nawet schylaж siк nie warto: bierz, wybieraj. Tylko nie kaїdy tam dojdzie, a jeszcze mniej takich, ktуrym ze zdobycz№ uda siк wrуciж.</text>
 	</string>
 	<string id="dm_cool_info_10">
-		<text>Выдра неделю назад на выжигателе накрылся. Ну если б новичок, желторотик безголовый - оно бы и понятно, а он-то ведь который год уже сталкерил. Ещё у Стрелка в команде, говорят, побывал. И на тебе...</text>
+		<text>Wydra tydzieс temu na zwкglaczu siк przekrкciі. Gdyby to byі nowicjusz, їуіtodziуb nieopierzony - to by moїna zrozumieж, a on przecieї juї ktуry rok stalkerowaі. Jeszcze u Strieіoka w oddziale, mуwi№, byі. I masz...</text>
 	</string>
 	<string id="dm_cool_info_100">
-		<text>Да я как то и не в курсе последних событий.</text>
+		<text>Jakoњ nie jestem w temacie ostatnich wydarzeс.</text>
 	</string>
 	<string id="dm_cool_info_11">
-		<text>Ты мне вот что скажи, сталкер: отчего у вас, одиночек, иногда крышу рвёт? Нормальной дисциплины, что ли, не хватает? Один вон на той неделе решил за выжигатель сходить. И бывалый, говорят, был... Так мозгов и проще лишиться можно: ствол в рот - и на спуск!</text>
+		<text>Powiedz mi jedn№ rzecz, stalkerze: od czego wam, samotnikom, czasem szajba odbija? Normalnie dyscypliny nie starcza? Wіaњnie jeden w zeszіym tygodniu za mуzgozwкglacz poszedі. Doњwiadczony, mуwi№, byі... Przecieї mуzgu w іatwiejszy sposуb pozbyж siк moїna: lufк w usta - i na spust!</text>
 	</string>
 	<string id="dm_cool_info_12">
-		<text>Козлы эти... наёмники. Давно они нашу кровь пьют, а теперь и на яйцеголовых переключились. И на фига они им сдались? Из-за выкупа? Или чтоб своими Нобелевками поделились?</text>
+		<text>Szubrawcy jedni... najemnicy. Juї dawno nasz№ krew pij№, a teraz i na jajogіowych siк przerzucili. I na cholerк oni im siк przydadz№? Z powodu wykupu? Albo їeby swoimi Noblami siк z nimi podzielii?</text>
 	</string>
 	<string id="dm_cool_info_13">
-		<text>В последние недели сильно активизировались наёмники. Мы их ещё мародёрами зовём. Есть тут и такая дрянь, если не слышал. Вроде бандитов, только в военном деле спецы. Причём всегда предпочитали нападать на сталкеров, а в последнее время отчего-то больше учёными заинтересовались. Но ты в любом случае по сторонам посматривай, от них не убудет и тебе башку прострелить.</text>
+		<text>W ostatnich tygodniach silnie uaktywnili siк najemnicy. My ich jeszcze maruderami nazywamy. Jest tu i takie draсstwo, jeњli nie sіyszaіeњ. Niby bandyci, ale w wojskowych sprawach specjaliњci. Przy czym zawsze woleli napadaж na stalkerуw, a ostatnio z jakiegoњ powodu bardziej siк uczonymi zainteresowali. Ale ty w kaїdym wypadku dobrze siк rozgl№daj, dla nich to їaden problem i tobie gіowк odstrzeliж.</text>
 	</string>
 	<string id="dm_cool_info_14">
-		<text>Краем уха недавно слышал: яйцеголовые, мол, что-то офигительное накопали. А тут все сразу на уши и встали: и вояки, и наёмники, и "долговцы" не особо отстают...</text>
+		<text>Przypadkiem niedawno sіyszaіem: jajogіowi, zdaje siк, jakieњ cholerstwo wykopali. A tu wszyscy od razu na uszach chodziж zaczкli: i wojacy, i najemnicy, i "powinnoњciowcy" niespecjalnie odstaj№...</text>
 	</string>
 	<string id="dm_cool_info_15">
-		<text>Если ты тоже про то, чем вы тут все меня уже в последние два дня задрали, отвечаю: иди ты в баню! Если б знал и не запретили, рассказал бы. А так не знаю, не знаю вообще ни хера! Что там эти учёные добыли, куда наше начальство уехало? А я тут при чём?! Отпуск у него, и перед нами оно и отчитываться не обязано.</text>
+		<text>Jeњli ty teї o tym, o co mnie wy wszyscy w ostatnie dwa dni szarpiecie, to ci powiem: spadaj na szczaw! Jeњlibym wiedziaі, to bym powiedziaі. Ale nie wiem, nie wiem nic, do cholery! Co tam ci uczeni znaleџli, dok№d nasze dowуdztwo wyjechaіo? A mnie co do tego?! Urlop ma, i przed nami tіumaczyж siк nie musi.</text>
 	</string>
 	<string id="dm_cool_info_16">
-		<text>Ха! Тут все на ушах стоят! Конфедерат со своей группой из рейда вернулся, артефактов притащили - мама дорогая! Конфедерат, конечно, молчит, не колется - ну, это как всегда, - а его ребята всё прикалываются: мол, на Юконские прииски смотались, намыли малёхо... Вот же гады!</text>
+		<text>Ha! Tu wszyscy na uszach chodz№! Konfederat wrуciі z rajdu ze swoj№ grup№, artefaktуw nanieњli - їe gіowa maіa! Konfederat, oczywiњcie, milczy, pary nie puszcza - ale to tak zawsze, - a jego chіopaki jaja sobie robi№: no, do kopalni na Yukonie skoczyliњmy, trochк siк przeszliњmy... Takie dranie!</text>
 	</string>
 	<string id="dm_cool_info_17">
-		<text>От выжигателя всякая нечисть уже несколько дней просто валом прёт. Народ возле старых складов соорудил заслон; пока, вроде, справляются. Если не ослабнет - на усиление придётся идти, что делать...</text>
+		<text>Juї kilka dni od mуzgozwкglacza najrуїniejsze draсstwo іaw№ wali. Ludzie przy starych Magazynach urz№dzili zaporк; na razie jakby daj№ radк. Jeњli napуr nie osіabnie - na pomoc trzeba bкdzie iњж, co zrobiж...</text>
 	</string>
 	<string id="dm_cool_info_18">
-		<text>Слышал, говорят, будто Зона растёт? Я думаю, правда: сам почти у самого периметра такое страхолюдное зверьё видал, которое раньше только ближе к центру встретить можно было. Херовато дело, а?</text>
+		<text>Sіuchaj, mуwi№, їe Zona roњnie? Ja myњlк, їe to prawda: sam prawie u samej granicy takiego strasznego potwora widziaіem, co kiedyњ tylko bliїej centrum moїna byіo spotkaж. Kiepska sprawa, co?</text>
 	</string>
 	<string id="dm_cool_info_19">
-		<text>Возможно, про кровососов у границы Зоны не врут. Только при чём тут увеличение размеров Зоны? Ну, забрела стая... ну, упустили, да. Мы же по нескольку суток напролёт иногда работаем! И нормально работаем. За периметром вон не кричат ведь до сих пор: "Спасите, нас мутанты окружают!".</text>
+		<text>Moїliwe, їe o pijawkach u granicy Zony nie kіami№. Tylko co tu ma do rzeczy powiкkszanie rozmiarуw Zony? Moїe zapкdziіo siк stadko... moїe przeoczyli, taak. My przecieї po kilka dni z rzкdu czasem pracujemy! I dobrze pracujemy. Za perymetrem przecieї jakoњ nie krzycz№: "Na pomoc, mutanty nas okr№їaj№!"</text>
 	</string>
 	<string id="dm_cool_info_2">
-		<text>Да грустно всё как-то. Тут на днях Выдра ни за что пропал, прямо не верится... А, ты ведь о Выдре и не слышал, наверно, ни разу? Ну, это ж прямо профессор был - с первого года тут, всю Зону как свои пять пальцев... а вот поди ж ты! Уж на что опытные сталкерюги есть, только всё равно их Зона забирает. Есть и такие, что и своей охотой на Большую землю подаются.</text>
+		<text>Smutno jakoњ. Tu na dniach Wydra za nic zgin№і, po prostu wierzyж siк nie chce... A, ty przecieї o Wydrze nie sіyszaіeњ, prawda? No, to po prostu byі profesor - od pierwszych chwil tutaj, caі№ Zonк jak swoje piкж palcуw... a niech to! I co z tego їe stalker doњwiadczenie zdobywa, skoro i tak Zona go zabiera. S№ i tacy, co z wіasnej woli na Wielk№ Ziemiк odchodz№.</text>
 	</string>
 	<string id="dm_cool_info_20">
-		<text>Как думаешь, бармен знает детали насчёт того, что учёные откопали? Слушай, а может он вообще с наукой спелся? Что-то в последнее время он всё сталкеров поопытнее подыскивает и задания им даёт странные. Ничего не объясняет, только говорит, пойди, мол, туда или туда... а места там гиблые и хабаром хорошим никогда не пахло. И чего он там ищет?</text>
+		<text>Jak myњlisz, czy barman wie coњ wiкcej o tym, co uczeni odkopali? Sіuchaj, a moїe on caіkiem z nauk№ siк spikn№і? Coњ ostatnio on stalkerуw coraz m№drzej podpytuje i zadania im daje dziwne. Niczego nie wyjaњnia, tylko mуwi, idџ tu albo tu... a miejsca tam bezludne i dobrego towaru nigdy tam nie byіo. I czego on tam szuka?</text>
 	</string>
 	<string id="dm_cool_info_21">
-		<text>Да странное что-то творится. Мертвяки, что раньше на свет выйти боялись, теперь по всей округе разбрелись. И что за херня?</text>
+		<text>Dzieje siк coњ dziwnego. Martwiaki, ktуre kiedyњ baіy siк wychodziж na њwiatіo, teraz po caіej okolicy siк rozlazіy. Co to za cholestwo?</text>
 	</string>
 	<string id="dm_cool_info_22">
-		<text>Мертвяки почему-то стали более агрессивными и подвижными. Раньше мы в самом комплексе их время от времени чистили, а теперь только подходы к нему удерживаем. Но я тебе ничего такого не говорил, понял?</text>
+		<text>Martwiaki z jakiegoњ powodu staіy siк bardziej agresywne i ruchliwe. Wczeњniej w samym kompleksie od czasu do czasu czystkк robiliњmy, a teraz tylko podejњcia do niego utrzymujemy. Ale ja ci niczego takiego nie mуwiіem, rozumiesz?</text>
 	</string>
 	<string id="dm_cool_info_23">
-		<text>Будьте осторожны, а то эти ходячие трупы наводнили всю округу. Очень тупы и агрессивны. Мы всё время находимся в обороне - и ночью, и днём. Так что здесь довольно опасно, молодой человек.</text>
+		<text>B№dџcie ostroїni, te chodz№ce trupy zalaіy caі№ okolicк. Bardzo tкpe i agresywne. Caіy czas pozostajemy w defensywie - i noc№, i za dnia. Tak їe jest tutaj dosyж niebezpiecznie, mіody czіowieku.</text>
 	</string>
 	<string id="dm_cool_info_24">
-		<text>А-а, небось, яйцеголовые в лаборатории ихней наворотили чего-то не того. Раньше мертвяка мало где встретить можно было, а сейчас они от комплекса так и прут. Главное, бродят так, будто потеряли чего и ищут.</text>
+		<text>Eeeh, wygl№da, їe jajogіowi w tym ichnim laboratorium wywinкli coњ nie tak. Wczeњniej martwiaki rzadko gdzie moїna byіo spotkaж, a teraz od kompleksu id№ i id№. A іaї№ tak, jakby coњ zgubiіy i teraz tego szukaj№.</text>
 	</string>
 	<string id="dm_cool_info_25">
-		<text>Тут слух пошёл, что наука таки подбила кого-то из наших в лабораторию спуститься. Дали ему чё-то... байду какую-то защитную... Больше ничего, и подробностей никаких.</text>
+		<text>Tu sіuchy chodz№, їe nauka w koсcu namуwiіa kogoњ z naszych, їeby zszedі do laboratorium. Dali mu coњ tam.. jak№њ tam bujdк ochronn№... Wiкcej niczego, i szczegуіуw їadnych.</text>
 	</string>
 	<string id="dm_cool_info_26">
-		<text>Всякое болтают. Говорят даже, нашёлся кто-то бескрышный: с учёными сговорился и в лабораторию за чем-то для них полез. Вот мудило дурное!</text>
+		<text>Rуїnoњci gadaj№. Mуwi№ nawet, їe znalazі siк ktoњ na odlocie: dogadaі siк z uczonymi i do laboratorium po coњ tam dla nich polazі. To gіupi palant!</text>
 	</string>
 	<string id="dm_cool_info_27">
-		<text>А, вот же главная хохма недели! Тут яйцеголовые подписали кого-то из ваших за неслабый гонорар, он в лабораторию и полез с каким-то ихним прибором. Новая жертва науке, ёптыть!..</text>
+		<text>A, otуї i gіуwna atrakcja tygodnia! Tu jajogіowi obiecali komuњ z naszych niezі№ kasк, i on do laboratorium polazі z jakimњ tam ich przyrz№dem. Kolejna ofiara nauki, szlag!</text>
 	</string>
 	<string id="dm_cool_info_28">
-		<text>Думаю, что-то опять заваривается. Что-то яйцеголовые раскопали такое, что всех на уши поставили. А попутно и нам с тобой житья не станет.</text>
+		<text>Myњlк, їe znowu coњ siк szykuje. Jajogіowi wykopali coњ takiego, їe wszyscy na uszach chodz№. A przy okazji dla nas i dla ciebie juї їycia moїe nie byж teraz.</text>
 	</string>
 	<string id="dm_cool_info_29">
-		<text>А хрен его знает. Только гонять нас стали вдвое против прежнего - то оцепление, то зачистка... Вояк тоже в Зоне стало на порядок больше.</text>
+		<text>A cholera go wie. Tylko ganiaж nas zaczкli dwa razy wiкcej niї przedtem - to kordon, to czyszczenie... Wojska teї w Zonie przybyіo kilka razy wiкcej.</text>
 	</string>
 	<string id="dm_cool_info_3">
-		<text>Грустно всё, вот что скажу. На окраинах народу всегда было полно, в глубокую Зону половина вообще никогда не ходит, а артефактов на всех не напасёшься. Даже из лабораторий и заводов всё что можно выломали уже и вывезли. Скоро тут вообще будет делать нечего, разве только ресторан открывать... с видом и кухней экзотической.</text>
+		<text>Smutno, tylko tyle powiem. Na obrzeїach narodu zawsze byіo peіno, w gі№b Zony poіowa z nich w ogуle nigdy nie chodzi, a artefaktуw na wszystkich nie nastarczysz. Nawet z laboratoriуw i fabryk wszystko co byіo moїna dawno juї wyrwali i wywieџli. Niedіugo tu w ogуle nie bкdzie co robiж, zostanie tylko knajpк otworzyж... z wystrojem i kuchni№ egzotyczn№.</text>
 	</string>
 	<string id="dm_cool_info_30">
-		<text>Даже не знаю, что Вам сказать... Здесь всегда что-нибудь происходит, но это в норме вещей. На Большой земле, конечно, так не считают, но мы-то с Вами сейчас, как-никак, в аномальной зоне.</text>
+		<text>Nawet nie wiem, co Wam powiedzieж... Tutaj zawsze coњ siк dzieje, ale taka jest kolej rzeczy. Na Wielkiej Ziemi, oczywiњcie, tak nie uwaїaj№, ale przecieї jesteњmy teraz, jak by nie byіo, w anomalnej strefie.</text>
 	</string>
 	<string id="dm_cool_info_31">
-		<text>Яйцеголовые чего-то разнюхивают. Фиг знает, какой секрет они там уже нарыли, но воякам хвосты крутят - будь здоров! Те уже по Агропрому и Тёмной Долине вовсю шарятся, всё ищут, ищут...</text>
+		<text>Jajogіowi coњ tam wyw№chuj№. Cholera wie, jakie tajemnice oni tam juї wykopali, ale wojacy ogonami krкc№ - їe gіowa maіa! Po Agropromie i Dolinie Mroku siк szastaj№, wszyscy szukaj№, szukaj№...</text>
 	</string>
 	<string id="dm_cool_info_32">
-		<text>Дряни с каждым днём всё больше из-за выжигателя прёт, а "долговцы" со "свободовцами" собачиться опять надумали. Ну выбьют друг друга, а толку? Мы-то одни сколько барьер удержать сможем?</text>
+		<text>Draсstwo z kaїdym dniem bardziej spoza mуzgozwкglacza napiera, a "powinnoњciowcy" z "wolnoњciowcami" znowu postanowili za іby siк braж. Niech nawet wybij№ siк nawzajem, jaki z tego poїytek? Jak dіugo sami zdoіamy barierк utrzymaж?</text>
 	</string>
 	<string id="dm_cool_info_33">
-		<text>Мутанты всё больше стараются просочиться за заслон. Последнее время совсем тяжко. Если бы некоторые завязывали с раздолбайством своим, так мы бы их лёгко!..</text>
+		<text>Mutanty coraz bardziej staraj№ siк przenikn№ж za barierк. Ostatnio byіo caіkiem trudno. Jeњliby niektуrzy dali sobie spokуj z idiotyzmami, byіoby o wiele lїej!</text>
 	</string>
 	<string id="dm_cool_info_34">
-		<text>"Долг" вон всё орёт про свои суперподвиги на заслоне. Кто бы только тут им верил... Мы это дело начинали, мы дальше тянем, а ещё сколько одиночек вроде тебя добровольно остались. А эти... да ну их, козлов!</text>
+		<text>"Powinnoњж" caіy czas krzyczy o swoich super osi№gniкciach na barierze. Kto by to pomyњlaі... My to dzieіo zaczynaliњmy, i my dalej ci№gniemy, nie licz№c kilku samotnikуw takich jak ty, co dobrowolnie zostali do pomocy. A oni... niech ich szlag, baranуw!</text>
 	</string>
 	<string id="dm_cool_info_35">
-		<text>Слыхал я, будто "Долг" забурел сильно. То типа "мы добровольцы, которые хотят добиться безопасности и порядка в Зоне"... ага, добровольцы! Этим добровольцам спонсор какой-то такую снарягу, такие стволы подогнал, что обзавидуешься. И эти тоже продались.</text>
+		<text>Sіyszaіem , їe "Powinnoњж" strasznie siк sadzi. W rodzaju "my jesteњmy ochotnikami, ktуrzy chc№ zapewniж bezpieczeсstwo i porz№dek w Zonie"... aha, ochotnicy! Tych 'ochotnikуw' jakiњ sponsor w takie wyposaїenie i tak№ broс zaopatrzyі, їe daj Boїe kaїdemu. Oni teї siк sprzedali.</text>
 	</string>
 	<string id="dm_cool_info_36">
-		<text>Какие слухи ходят? Я без всяких слухов тебе говорю: скоро порядка побольше будет. От тварей Зону почистим, и от некоторых козлов тоже...</text>
+		<text>Jakie sіuchy chodz№? Ja bez їadnych sіuchуw ci mowiк: juї wkrуtce wiкcej porz№dku bкdzie. Z potworуw Zonк oczyњcimy, i z niektуrych baranуw teї...</text>
 	</string>
 	<string id="dm_cool_info_37">
-		<text>А ты слыхал, чего "должане" с нами сделать похваляются? "Стереть в порошок" - это ещё по минимуму. Беспокоит меня это дело... Тем более, говорят, они переоснастились по первому разряду.</text>
+		<text>Sіyszaіeњ, co to "powinnoњciowcy" niby z nami zrobi№? "Zetrzeж na proszek" - to jeszcze najmniejsze. Naprawdк mnie to niepokoi... Tym bardziej, їe zaczкіo siк to bez dania racji.</text>
 	</string>
 	<string id="dm_cool_info_38">
-		<text>А какие новости? Мы тут сидим, зверьё на нас прёт, мы его отстреливаем, а потом оно опять прёт, только ещё сильнее. Правда, несколько раз тут вертушки военные ходили... и такое впечатление, что за Выжигатель даже залетали.</text>
+		<text>A jakie nowoњci? My tu siedzimy, zwierzyna na nas napiera, my j№ odstrzeliwujemy, a potem ona znowu napiera, tylko jeszcze mocniej. Prawda, parк razy tutaj wojskowe њmigіowce lataіy... i wraїenie takie, їe aї za Mуzgozwкglacz zaleciaіy.</text>
 	</string>
 	<string id="dm_cool_info_39">
-		<text>Да что нового тут может быть... всё то же, всё те же. Мутанты, "Свобода"... хотя вот ещё военные на вертушках летать повадились. Так хоть бы разок по зверью пальнули - не, ни хрена...</text>
+		<text>A cуї tu moїe byж nowego... stale to samo, stale to samo. Mutanty, "Wolnoњж"... chociaї, jeszcze wojskowi na helikopterach lataj№ jak najкci. Ale їeby choж raz po zwierzynie palnкli - to nie, ni cholery...</text>
 	</string>
 	<string id="dm_cool_info_4">
-		<text>Нового... Мало ли что говорят! Всему верить - никакой верилки не хватит. Вот, говорят, пришёл какой-то сталкерюга бывалый, пусти-вырвусь, из внутренних районов, принёс что-то вообще невиданное, кучу бабок зашиб... Да я сам тебе сто таких историй придумать могу!</text>
+		<text>Nowego... Maіo co gadaj№! Wszystkiemu wierzyж - wiary nie starczy. O, mуwi№, przyszedі jakiњ stalker bywaіy, tкdy-owкdy, z wewnкtrznych regionуw, przyniуsі ci on rzecz niewidzian№, worek kasy zgarn№і... To ja ci sam ze sto takich historii wymyњliж mogк!</text>
 	</string>
 	<string id="dm_cool_info_40">
-		<text>Я вояцкие вертушки видел: прикинь, они над нами прошли, и за Мозговыжигатель - раз! Ну, думаю, посыплются щас. Ни хрена - пошли дальше, покрутились там, да и назад так же пошли. Нормальный ход, да?</text>
+		<text>Wojskowe њmigіowce widziaіem: zauwaї, one nad nami przeleciaіy, i za Mуzgozwкglacz - raz! No, myњlк sobie, zaraz siк posypi№. A tu ni cholery - poszіy dalej, pokrкciіy siк tam, i z powrotem tak samo poleciaіy. Normalna rzecz, nie?</text>
 	</string>
 	<string id="dm_cool_info_41">
-		<text>Эх, теперь, как проход к центру есть... Это ж сколько там богатства под ногами должно валяться!</text>
+		<text>Eh, teraz, jak przejњcie do centrum jest... Ileї tam bogactwa pod nogami powinno siк walaж!</text>
 	</string>
 	<string id="dm_cool_info_42">
-		<text>Теперь, как появилась возможность относительно спокойно проходить к центру Зоны, сталкеры туда как мухи на мёд полетели. Да-а... жадность всё-таки не лучшее человеческое качество.</text>
+		<text>Teraz, jak pojawiіa siк moїliwoњж stosunkowo spokojnie dojњж do centrum Zony, stalkerzy tam jak muchy na lep polecieli. Ta-a... chciwoњж to nie najlepsza cecha ludzkoњci.</text>
 	</string>
 	<string id="dm_cool_info_43">
-		<text>Вот это жизнь нам наступает! Пока все эти от бара, от периметра тем более, подтянутся - все сливки наши! Самое вкусное соберём, а мелочёвкой пусть другие затариваются.</text>
+		<text>To ci dopiero їycie nadchodzi! Zanim ci wszyscy od baru, od perymetru tym bardziej, nadci№gn№ - caіa њmietanka nasza! Samo najlepsze wybierzemy, a za drobnic№ niech siк juї inni uganiaj№.</text>
 	</string>
 	<string id="dm_cool_info_44">
-		<text>Да вот говорят, существует он на самом деле, Исполнитель желаний. Кто-то уже до него и добраться успел, и загадать на полную катушку...</text>
+		<text>Mуwi№, їe on naprawdк istnieje, ten Speіniacz wszelkich їyczeс. Kto do niego juї zd№їyі siк dostaж - moїna tylko zgadywaж...</text>
 	</string>
 	<string id="dm_cool_info_45">
-		<text>Слушай, приятель, я знаю, что в Зоне бывает всякое. Сам видел. Но эти истории про мгновенное исполнение желания про собственный отель на Карибах - полная херня и ничего больше.</text>
+		<text>Sіuchaj, przyjacielu, ja wiem, їe w Zonie wszystko moїliwe. Sam widziaіem. Ale te historie o natychmiastowym speіnieniu marzeс o wіasnym hotelu na Karaibach - to totalna bzdura i nic wiкcej.</text>
 	</string>
 	<string id="dm_cool_info_46">
-		<text>Ты чё, не знаешь?! Двое наших - ну те, что вообще самыми первыми к центру ломанулись, - таки пробились к Исполнителю и загадали! Они всю жизнь об островах в тёплом море мечтали, так сейчас где-то в тропиках загорают, не иначе.</text>
+		<text>Ty co, nie wiesz?! Dwуm naszym - no tym, co to najpierwsi do centrum ruszyli, udaіo siк do Speіniacza їyczeс przebiж i wyraziж їyczenie! Oni caіe їycie o wyspach na morzach poіudniowych marzyli, no to teraz gdzieњ tam w tropikach siк opalaj№, nie inaczej.</text>
 	</string>
 	<string id="dm_cool_info_47">
-		<text>Миклуха нашёлся - главный "свободовец". Все думали, на Большую землю подался, а он на самом деле как-то с малой группой сумел мимо выжигателя пробраться. Вот это мужик!</text>
+		<text>Mikіucho siк odnalazі - gіуwny "wolnoњciowiec". Wszyscy myњleli, їe na Wielk№ Ziemiк odszedі, a w rzeczywistoњci on z maі№ grup№ zdoіaі przedrzeж siк obok Mуzgozwкglacza. To ci facet!</text>
 	</string>
 	<string id="dm_cool_info_48">
-		<text>В прежде недоступной зоне обнаружился один из отрядов "Свободы". Как они сумели пройти невредимыми, а потом выжить здесь несколько недель? Вообще в голову не укладывается. Похоже, мы недооценили этих ребят.</text>
+		<text>W poprzednio niedostкpnej strefie odnalazі siк jeden z oddziaіуw "Wolnoњci". Jak im siк udaіo przejњж bez szkody, a potem wyїyж tam kilka tygodni? To caіkiem w gіowie siк nie mieњci. Wygl№da na to, їe nie docenialiњmy tych chіopakуw.</text>
 	</string>
 	<string id="dm_cool_info_49">
-		<text>Прикинь, наш Миклуха нашёлся! Живой, и ребята, что с ним были, тоже уцелели. Пробрались мимо мозгостиралки, а потом месяц тут куковали, выбраться не могли.</text>
+		<text>Popatrz, nasz Mikіucho siк znalazі! Їywy, i chіopaki, co z nim byli, teї cali. Przekradli siк obok Mуzgozwкglacza, a potem caіy miesi№c tam kiblowali, bo wrуciж nie mogli.</text>
 	</string>
 	<string id="dm_cool_info_5">
-		<text>Мутное у нас что-то заваривается. Слухи идут, "долговский" командир, шишка главная, не просто по каким-то делам из Зоны свалил, а со "свободовцами" договариваться. Ну и замирились бы в открытую, а то развели мудотни какой-то! Плохо от этого дела пахнет, вот оно как. С другой стороны, бывалые мужики говорят, сраться они когда-то тоже совсем по дурному поводу начали. Как бы не затянули нас всех в новую какую-нить мясорубку уроды эти кабинетные с Большой земли...</text>
+		<text>Coњ niejasnego siк tu tworzy. Sіuchy chodz№, їe "powinnoњciowy" dowуdca, gіуwna szycha, nie tylko їe z Zony nie zwiaі, ale z "wolnoњciowcami" siк dogaduje. Mogli by zawrzeж pokуj jawnie, a nie jakieњ ciemne interesy przy tym robiж! Brzydko ta sprawa pachnie, tyle powiem. Z drugiej strony, doњwiadczeni ludzie mуwi№, їe przysrywaж sobie oni kiedyњ zaczкli teї z caіkiem gіupiego powodu. Їeby tylko nas nie wci№gneli w jak№њ now№ kabaік, te dranie gabinetowe z Wielkiej Ziemi...</text>
 	</string>
 	<string id="dm_cool_info_50">
-		<text>Слыхал?! Вояки на готовое кинулись, сейчас тут будут! Прознали, что выжигателю капут, хотят разом весь хабар сгрести!..</text>
+		<text>Sіyszaіeњ?! Wojacy na gotowe przychodz№, tylko patrzeж jak tu bкd№! Upewnili siк, їe mуzgozwкglacz kaput, i chc№ za jednym zamachem caіy towar zgarn№ж!..</text>
 	</string>
 	<string id="dm_cool_info_51">
-		<text>Только что информация прошла: планируется крупномасштабная высадка на станции силами армии. Мой тебе совет: если хочешь хоть что-то успеть из хабара ухватить - торопись.</text>
+		<text>Dopiero co przyszіa informacja: planowany jest masowy desant siі wojskowych na Elektrowniк. Moja rada dla ciebie: jeњli chcesz zd№їyc choж cokolwiek z towaru zіapaж - pospiesz siк.</text>
 	</string>
 	<string id="dm_cool_info_52">
-		<text>Да это ж полный беспредел творится! Только, понимаешь, коридор открылся, станцию от говна всякого начали чистить - и на тебе, вояки на готовенькое собрались! Вот ведь, ёксель-моксель, ни стыда тебе ни совести...</text>
+		<text>To juї totalny baіagan siк robi! Tylko, rozumiesz, korytarz siк otworzyі, Elektrowniк z wszelkiego gуwna zaczкli czyњciж - a tu masz, wojaki na gotowe siк wybieraj№! Toї przecieї, jasny gwint, ni wstydu ni sumienia...</text>
 	</string>
 	<string id="dm_cool_info_53">
-		<text>Да я вот чего не пойму: как тут "свободовцы" те месяц продержаться смогли? Шапки-невидимки у них, что ли? Тут же полный атас вообще!</text>
+		<text>Ja tylko jednego nie mogк zrozumieж: jak ci "wolnoњciowcy" zdoіali miesi№c przetrzymaж? Czapkк-niewidkк mieli, czy co? Peіny odlot, kurczк!</text>
 	</string>
 	<string id="dm_cool_info_54">
-		<text>Ты понял, чё тут творится? Нет, ну я Миклуху теперь ещё больше зауважал! Это ж надо: в таком гуано четыре с лишним недели выдержать, да ещё из ребят никого не потерять!..</text>
+		<text>Ty rozumiesz, co tu siк dzieje? Ja teraz mam jeszcze wiкksze powaїanie dla Mikіuchy! No sam pomyњl: w takim іajnie ponad cztery tygodnie wytrzymaж, i jeszcze nie straciж їadnego z chіopakуw!..</text>
 	</string>
 	<string id="dm_cool_info_55">
-		<text>Тут кое-кто умом тронулся. И вроде ведь крепкие всегда ребята были - а теперь слюни пускают, как последние дебилы. Страшно.</text>
+		<text>Tu komuњ zdrowo odbiіo. W koсcu przecieї chіopaki zawsze twardzi byli - a teraz siк њlini№, jak ostatne debile. Straszne.</text>
 	</string>
 	<string id="dm_cool_info_56">
-		<text>По мере приближения к станции неизвестное телепатическое воздействие усиливается. Некоторые начали сходить с ума, у других - расстройства и видения. Может, сейчас самое время немного сдать назад...</text>
+		<text>W miarк zbliїania siк do Elektrowni siіa nieznanego telepatycznego oddziaіywania wzrasta. U jednych zaczкіy siк odjazdy w psychice, u innych - problemy z widzeniem. Moїe teraz przyszіa pora, їeby trochк odpuњciж z tym parciem naprzуd...</text>
 	</string>
 	<string id="dm_cool_info_57">
-		<text>Слушай, тут у людей реально крышу рвёт. Кто-то камешек видит и вдруг начинает орать, что это, блин, его артефакт, что он его первый заметил, а остальные пусть идут на юг. К другому Джа на облаке является в обнимку с напарниками, пропавшими хрен сколько лет назад... Нет, тут явно фигня какая-то нездоровая творится.</text>
+		<text>Sіuchaj, tu ludziom naprawdк szajba odbija. Ktoњ kamieс zobaczy i nagle wrzeszczeж zaczyna, їe to, cholera, jego artefakt, їe on go pierwszy zobaczyі, a reszta niech sobie idzie gdzie indziej. Innemu Jahwe na chmurze siк ukazuje, obejmuj№cy dawnych jego towarzyszy, ktуrzy lata temu przepadli nie wiadomo gdzie... Nie, tu wyraџnie jakieњ niezdrowe cholerstwo siк dzieje.</text>
 	</string>
 	<string id="dm_cool_info_6">
-		<text>Вояки чего-то шустрят. Ищут, роют... Раньше только на Янтарь вертушки летали - учёных охраняли, припасы да технику возили. А сейчас ну прям нашествие. Вылазки начали устраивать, на БТРах гонять. На Агропроме их уже видели, в Тёмной Долине, опять же. Непонятно.</text>
+		<text>Wojsko coњ mocno oїywione. Szukaj№, ryj№... Wczeњniej tylko na Jantar њmigіowce lataіy - uczonych ochraniali, zaopatrzenie i sprzкt wozili. A teraz - wprost szaleсstwo. Wyprawy zaczкli organizowaж, na BTR-ach ganiaж. Na Agropromie ich juї widzieli, w Dolinie Mroku teї. O co tu chodzi.</text>
 	</string>
 	<string id="dm_cool_info_7">
-		<text>Кто-то опять, говорят, через выжигатель пробиться попытался. Ну, с концами, ясное дело, кранты человеку... Ты о мозговыжигателе не слышал? Да ты чё, мужик?! Это ж вообще главный жупел на все окрестности! Одна беда только - ужасы, что про него болтают, правда в основном.</text>
+		<text>Ktoњ znowu, mуwi№, przez Mуzgozwкglacz przebiж siк prуbowaі. No i wiadomo, jak to siк skoсczyіo, kaplica... Ty o Mуzgozwкglaczu nie sіyszaіeњ? No co ty, chіopie?! Przecieї to najwiкksze zagroїenie w caіej okolicy! I caіa bieda w tym, їe wszystkie horrory, jakie o nim opowiadaj№ - to w zasadzie prawda.</text>
 	</string>
 	<string id="dm_cool_info_8">
-		<text>Тут, кроме бандюков, ещё и вояки шастать чё-то начали. Раньше раз в сто лет вертолёт увидишь, а теперь вон почти по всей Зоне расползлись. Потеряли чего-то, что ли?</text>
+		<text>Tutaj oprуcz bandytуw, jeszcze i wojsko szastaж siк zaczкіo. Wczeњniej raz na sto lat helikopter widziaіeњ, a teraz to prawie po caіej Zonie siк rozleџli. Zgubili coњ, czy co?</text>
 	</string>
 	<string id="dm_cool_info_9">
-		<text>Предупредить тебя хочу, сталкер. Тут военные в последнее время как сдурели. Раньше тихо-мирно учёных охраняли, а сейчас словно хвост им кто накрутил: бегают, мечутся... Настроены не особо мирно - вашего брата уже не раз обстреливали, да и у нас за неделю двое раненых.</text>
+		<text>Chcк ciк uprzedziж, stalkerze. Tu wojskowi ostatnio jakby szaleju siк opili. Wczeњniej spokojnie uczonych ochraniali, a teraz jakby im kto na ogon nadepn№і: biegaj№, miotaj№ siк... Nastawieni niezbyt pokojowo - waszych braci juї nie raz ostrzeliwali, a i my mamy przez ostatni tydzieс dwуch rannych.</text>
 	</string>
 	<string id="dm_help_thanks_1">
-		<text>Спасибо тебе большое.</text>
+		<text>Bardzo ci dziкkujк.</text>
 	</string>
 	<string id="dm_intro_0">
-		<text>Ты чего это пустой, без защиты ходишь? Жить надоело, что ли? Тут же за каждым кустиком аномалия - раз, и в дамки! Тут без защиты даже пи-пи делать не рыпаются - вмиг дозу схлопочешь.</text>
+		<text>A ty czemu chodzisz sam, bez ochrony? Їycie ci obrzydіo, czy co? Tu przecieї za kaїdym krzakiem anomalia - raz, i po tobie! Bez ochrony nawet na siku nikt siк odejњж nie odwaїy - raz dwa moїesz њmierteln№ dawkк promieniowania zaliczyж.</text>
 	</string>
 	<string id="dm_intro_1">
-		<text>Гляжу, ты тут не особо пока ориентируешься, так сразу предупреждаю по-соседски: с вояками не связывайся. Увидел - вали к чёртовой бабушке, а то мозгов у них ноль. Сначала очередью прошьют, а потом уже по документам поглядят, как звали.</text>
+		<text>Widzк, їe ty tu na razie niespecjalnie siк orientujesz, wiкc razu uprzedzam po-s№siedzku: z wojskowymi siк nie zadawaj. Zobaczysz - wiej ile siі w nogach, bo mуzgu to u nich zero. Najpierw niby wszystko dobrze, a potem dokumentуw zaї№daj№.</text>
 	</string>
 	<string id="dm_intro_10">
-		<text>Тут "долговцы" заправляют. Наша родная милиция, или типа того. Имей это дело в виду, чтоб проблем не нажить.</text>
+		<text>Tu "powinnoњciowcy" rz№dz№. Nasza miejscowa milicja, albo coњ w tym rodzaju. Pamiкtaj o tym, їeby problemуw nie byіo.</text>
 	</string>
 	<string id="dm_intro_100">
-		<text>Доброго дня.</text>
+		<text>Dobrego dnia.</text>
 	</string>
 	<string id="dm_intro_101">
-		<text>Добрый день.</text>
+		<text>Dzieс dobry.</text>
 	</string>
 	<string id="dm_intro_102">
-		<text>Здравия желаю.</text>
+		<text>Zdrowia їyczк.</text>
 	</string>
 	<string id="dm_intro_103">
-		<text>Привет, чувак!</text>
+		<text>Czeњж, facet!</text>
 	</string>
 	<string id="dm_intro_104">
-		<text>Привет.</text>
+		<text>Czeњж.</text>
 	</string>
 	<string id="dm_intro_105">
-		<text>О, здоров!</text>
+		<text>O, witaj!</text>
 	</string>
 	<string id="dm_intro_106">
-		<text>Здравствуйте.</text>
+		<text>Witajcie.</text>
 	</string>
 	<string id="dm_intro_107">
-		<text>Приветствую!</text>
+		<text>Pozdrawiam!</text>
 	</string>
 	<string id="dm_intro_108">
-		<text>Здравствуй, сталкер.</text>
+		<text>Witaj, stalkerze.</text>
 	</string>
 	<string id="dm_intro_109">
-		<text>Приветствую, сталкер.</text>
+		<text>Pozdrawiam, stalkerze.</text>
 	</string>
 	<string id="dm_intro_11">
-		<text>Ты находишься на территории, где порядок поддерживается членами группы "Долг". Любое требование патруля должно выполняться беспрекословно; все необходимые объяснения будут при необходимости даны. Хотя правила поведения тут простые: веди себя со всеми по-человечески, и всё будет гут.</text>
+		<text>Znajdujesz siк na terytorium, gdzie porz№dek utrzymuj№ czіonkowie ugrupowania "Powinnoњж". Kaїde polecenie patrolu naleїy wykonaж bez dyskusji; niezbкdne wyjaњnienia bкd№ udzielane w razie koniecznoњci. Jednakїe zasady postкpowania s№ proste: z kaїdym postкpuj po ludzku, a wszystko bкdzie dobrze.</text>
 	</string>
 	<string id="dm_intro_110">
-		<text>Эй, ты, сталкер!</text>
+		<text>Ej ty, stalkerze!</text>
 	</string>
 	<string id="dm_intro_111">
-		<text>Здрасьте.</text>
+		<text>Siemka.</text>
 	</string>
 	<string id="dm_intro_112">
-		<text>Оба-на! Какие люди!..</text>
+		<text>No popatrz! Co za ludzie!..</text>
 	</string>
 	<string id="dm_intro_113">
-		<text>И кто же это у нас тут?</text>
+		<text>A kogуї my tu mamy?</text>
 	</string>
 	<string id="dm_intro_114">
-		<text>Хэллоу, мэн.</text>
+		<text>Hellou, facet.</text>
 	</string>
 	<string id="dm_intro_12">
-		<text>Если с расспросами, так ты сразу в бар чеши - вот он, туточки прямо! Там тебе всё и расскажут, и ответят, и сами спросят, а у меня со временем нынче туго.</text>
+		<text>Jeњli masz pytania, to od razu do baru posuwaj - to tam, caіkiem blisko! Tam ci wszystko i opowiedz№, i odpowiedz№, i sami zapytaj№, a ja to za bardzo czasu nie mam.</text>
 	</string>
 	<string id="dm_intro_13">
-		<text>Первый раз здесь? Тогда советую тебе пойти в бар: там тебе твои коллеги все последние новости расскажут.</text>
+		<text>Pierwszy raz tutaj? No to radzк ci iњж do baru: tam ci twoi koledzy wszystkie ostatnie nowoњci opowiedz№.</text>
 	</string>
 	<string id="dm_intro_14">
-		<text>Ты к мертвякам старайся не приближаться особо. И к лаборатории не ходи, усёк?</text>
+		<text>Staraj siк lepiej do martwiakуw zbytnio nie zbliїaж. I do laboratorium nie chodџ, іapiesz?</text>
 	</string>
 	<string id="dm_intro_15">
-		<text>Не советую приближаться к зданию лаборатории: много мертвяков.</text>
+		<text>Nie radzк zbliїaж siк do budynku laboratorium: duїo martwiakуw.</text>
 	</string>
 	<string id="dm_intro_16">
-		<text>Знаете, посоветовал бы Вам держаться подальше от лабораторного комплекса.</text>
+		<text>Wiecie, radziіbym Wam trzymaж siк jak najdalej od kompleksu laboratoryjnego.</text>
 	</string>
 	<string id="dm_intro_17">
-		<text>Ты мертвяков опасайся, они ж тупые, ни фига не боятся. К лаборатории лучше не ходи - рассадник у них там, что ли...</text>
+		<text>Ty martwiakуw lepiej siк bуj, one s№ tкpe, ni cholery niczym ich nie wystraszysz. I do laboratorium lepiej nie chodџ - mnoї№ siк tam, czy co...</text>
 	</string>
 	<string id="dm_intro_18">
-		<text>Ты поимей в виду - здесь уже Мозговыжигатель рядом. В северном направлении ломиться не вздумай.</text>
+		<text>Weџ jedn№ rzecz pod uwagк - tutaj juї Mуzgozwкglacz blisko. Niech ci nie przyjdzie do gіowy kierowaж siк na pуіnoc.</text>
 	</string>
 	<string id="dm_intro_19">
-		<text>Смотри, не хочешь мозгов лишиться - отсюда на север не ходи.</text>
+		<text>Uwaїaj, jeњli nie chcesz rozumu straciж - lepiej na pуіnoc nie chodџ.</text>
 	</string>
 	<string id="dm_intro_2">
-		<text>За мостом поосторожнее, понял? Там псов бродячих развелось немеряно. Будешь ушами хлопать - в две секунды сожрут.</text>
+		<text>Za mostem uwaїaj, rozumiesz? Tam psуw siк namnoїyіo co niemiara. Zaczniesz haіasowaж - w dwie sekundy obeїr№ do koњci.</text>
 	</string>
 	<string id="dm_intro_20">
-		<text>Ты береги себя как личность! Тут до Выжигателя два шага; на север если пойдёшь - опа, и готов на раз ещё один придурок.</text>
+		<text>Chroс swoj№ њwiadomoњж! Tu do Mуzgozwкglacza dwa kroki; jeњli pуjdziesz na pуіnoc - raz dwa, i bкdzie jeszcze jeden pуlgіуwek.</text>
 	</string>
 	<string id="dm_intro_21">
-		<text>Всё равно что по минному полю идём, только ещё хуже. Здесь чёрт знает что временами творится, ни на секунду расслабляться нельзя.</text>
+		<text>Zupeіnie jak byњmy po polu minowym chodzili, tylko jeszcze gorzej. Tutaj czasami diabli wiedz№, co siк dzieje, ani na moment nie wolno traciж koncentracji.</text>
 	</string>
 	<string id="dm_intro_22">
-		<text>Советую повысить внимание, а как повысил - не расслабляться. Расслабился - пропал, кранты тебе тут же настанут.</text>
+		<text>Radzк podwyїszyж uwagк, a jak juї podwyїszysz - nie rozluџniaж siк. Jeњli przestaniesz uwaїaж - przepadіeњ, koniec z tob№.</text>
 	</string>
 	<string id="dm_intro_23">
-		<text>Тут ушки на макушке всё время держать надо! Спать вполглаза! В любой момент херня какая-нибудь приключиться может.</text>
+		<text>Tu trzeba mieж oczy dookoіa gіowy! Spaж jednym okiem! W dowolnym momencie moїe siк trafiж jakaњ bieda.</text>
 	</string>
 	<string id="dm_intro_24">
-		<text>Поосторожнее с отморозками! Их тут как тараканов - кишмя кишит!</text>
+		<text>Ostroїnie z tymi umarlakami! Jest ich tu jak karaluchуw!</text>
 	</string>
 	<string id="dm_intro_25">
-		<text>Так называемых "монолитовцев" уничтожай, как только увидишь! Очень опасны - настоящие фанатики!</text>
+		<text>Tak zwanych "monolitowcуw" kasuj, jak tylko zobaczysz! Bardzo niebezpieczni - prawdziwi fanatycy!</text>
 	</string>
 	<string id="dm_intro_26">
-		<text>Тут придурки есть одни, "монолитовцами" себя зовут... или кто другой их так прозвал - ну да неважно. Боли, короче, не боятся, если патроны заканчиваются - кидаются так, пытаются тебе натурально горло перегрызть. В общем, увидел - стреляй сразу, не раздумывай.</text>
+		<text>Tu s№ takie pуіgіуwki, sami siebie nazywaj№ "monolitowcami"... albo ktoњ inny ich tak nazwaі - niewaїne. Bуlu, zwyczajnie, siк nie boj№, a jak im siк amunicja skoсczy - rzuc№ siк na ciebie i sprуbuj№ ci gardіo przegryџж wіasnymi zкbami. W ogуle, jak zobaczysz - strzelaj od razu, nie kombinuj.</text>
 	</string>
 	<string id="dm_intro_3">
-		<text>Слушай сюда. Увидишь туннель - не ходи в него. Говорю сразу, а то не каждому ума хватает в самую жопу не лезть. Тебя оттуда даже не вынесут потом - кусочками на стенах останешься. Это уже Зона, понял?</text>
+		<text>Posіuchaj teraz. Jak zobaczysz tunel - nie wchodџ do niego. Uprzedzam od razu, bo to nie kaїdemu rozs№dku starczy, їeby samemu w gуwno nie wleџж. Ciebie potem stamt№d nawet nie wynios№ - bкdziesz rуwnomiernie rozsmarowany po њcianach. To juї Zona, rozumiesz?</text>
 	</string>
 	<string id="dm_intro_4">
-		<text>Ты чего пустой? Тоже, что ли, с этими гавриками под мостом встретился? Вот ведь суки! Меня вообще сейчас чуть не раздели. Хабар им почти весь отдал! А они сидят себе, жируют... Что бандюки, что вояки эти на блокпосту - разницы ноль.</text>
+		<text>A ty czemu na pusto? Teї siк z tymi bandziorami pod mostem spotkaіeњ? To skurwiele! Mnie w ogуle o maіo co nie rozwalili. Towar im prawie caіy oddaіem! A oni siedz№ sobie, їr№, chlaj№... Czy to bandyci, czy to wojskowi na posterunku - їadnej rуїnicy.</text>
 	</string>
 	<string id="dm_intro_5">
-		<text>Ты зачем в одиночку ходишь? Здесь же бритоголовых полно, в любой момент подловить могут! За последнее время вконец обнаглели, даже, я слышал, уже и на блокпосты нападали.</text>
+		<text>Dlaczego ty w pojedynkк chodzisz? Tutaj tych іysych paі peіno, w dowolnym momencie mog№ ciк zіowiж! Ostatnio takiego szwungu dostali, їe jak sіyszaіem, nawet na posterunek napadli.</text>
 	</string>
 	<string id="dm_intro_6">
-		<text>Предупреждаю, если не в курсе: тут бандиты последнее время зашебуршились. За неделю уже вторая перестрелка с ними. Будь осторожен, смотри по сторонам, а то они уже шестерых одиночек на тот свет отправили.</text>
+		<text>Uprzedzam, jeњli nie jesteњ w temacie: tutaj ostatnimi czasy jakby kto bandytom dupy sparzyі. To druga strzelanina z nimi w ostatnim tygodniu. B№dџ ostroїny, ogl№daj siк dookoіa, bo oni juї szeњciu samotnikуw na tamten њwiat wyprawili.</text>
 	</string>
 	<string id="dm_intro_7">
-		<text>Ты, случайно, краем уха не слышал, что воякам вдруг понадобилось в корпусе НИИ? Чего они там сегодня так замельтешили?</text>
+		<text>Ty przypadkiem nie sіyszaіeњ, co wojakуw tak nagle zainteresowaіo w Instytucie Naukowym? Co oni dzisiaj siк tam tak krкcili?</text>
 	</string>
 	<string id="dm_intro_8">
-		<text>Ты повнимательней здесь. В главном корпусе беспредельщики засели. Шакалы, одно слово, - ни совести, ни жалости у них никакой, так бы всех и передушил...</text>
+		<text>Lepiej uwaїaj tutaj. W gіуwnym budynku usadowili siк ci skurwiele. Szakale, jednym sіowem, - bez sumienia, bez grama wspуіczucia, najchкtniej by wszystkich wydusili...</text>
 	</string>
 	<string id="dm_intro_9">
-		<text>Не стоит в Тёмной Долине в одиночку ходить. Тут у бандитов крепкое гнёздышко в одном из зданий, до сих пор выкурить не можем. Смотри не нарвись, парень.</text>
+		<text>Nie ma co iњж w pojedynkк do Doliny Mroku. Tam w jednym z budynkуw bandyci sobie gniazdo uwili, do tej pory ich wykurzyж nie moїemy. Uwaїaj, їebyњ siк na nich nie nadziaі, chіopaku.</text>
 	</string>
 	<string id="dm_intro_help_1">
-		<text>Братуха, помоги!</text>
+		<text>Bracie, pomocy!</text>
 	</string>
 	<string id="dm_intro_help_10">
-		<text>Помогите, кто-нибудь!</text>
+		<text>Niech mi ktoњ pomoїe!</text>
 	</string>
 	<string id="dm_intro_help_11">
-		<text>Охрана, я ранен! Ко мне!</text>
+		<text>Ochrona, do mnie! Jestem ranny!</text>
 	</string>
 	<string id="dm_intro_help_12">
-		<text>На помощь! Я умираю!</text>
+		<text>Na pomoc! Umieram!</text>
 	</string>
 	<string id="dm_intro_help_2">
-		<text>Ребята, аптечку!</text>
+		<text>Chіopaki, apteczkк!</text>
 	</string>
 	<string id="dm_intro_help_3">
-		<text>Аптечку сюда!</text>
+		<text>Apteczkк tutaj!</text>
 	</string>
 	<string id="dm_intro_help_4">
-		<text>Противошокового, хлопцы! Скорее!</text>
+		<text>Apteczkк, chіopaki! Szybciej!</text>
 	</string>
 	<string id="dm_intro_help_5">
-		<text>Аптечку, мужики!</text>
+		<text>Apteczkк, ludzie!</text>
 	</string>
 	<string id="dm_intro_help_6">
-		<text>Кто-нибудь!.. Аптечку дайте!</text>
+		<text>Ktokolwiek!.. Apteczkк dajcie!</text>
 	</string>
 	<string id="dm_intro_help_7">
-		<text>Друг, аптечку... аптечку!</text>
+		<text>Przyjacielu, apteczkк... apteczkк!</text>
 	</string>
 	<string id="dm_intro_help_8">
-		<text>Помоги, чувак!</text>
+		<text>Pomуї, koleњ!</text>
 	</string>
 	<string id="dm_intro_help_9">
-		<text>Поделись аптекой, приятель, а?</text>
+		<text>Podziel siк apteczk№, przyjacielu, co?</text>
 	</string>
 </string_table>
+

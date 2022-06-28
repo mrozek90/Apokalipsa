@@ -1,1296 +1,1297 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="agr_secret_0000_descr">
-		<text>Тайник наш пока в туннеле, все добро лежит в трубе. Там хорошо, мало кто про место знает, да и аномалии отобьют охоту лезть.</text>
+		<text>Na razie nasz schowek jest w tunelu, caіe dobro leїy w rurze. To dobre miejsce - niewielu o nim wie, a innych powstrzymaj№ anomalie.</text>
 	</string>
 	<string id="agr_secret_0000_name">
-		<text>Тайник Серого</text>
+		<text>Schowek Sieryja</text>
 	</string>
 	<string id="agr_secret_0001_descr">
-		<text>В пеньке спрятал, возле туннеля. Дырка там удобная.</text>
+		<text>Schowaіem go w pniaku przy tunelu. Jest tam spora dziura.</text>
 	</string>
 	<string id="agr_secret_0001_name">
-		<text>Дырявый пень</text>
+		<text>Pniak z dziur№</text>
 	</string>
 	<string id="agr_secret_0002_descr">
-		<text>Под крестом, возле куста, закопал хабара чуток.</text>
+		<text>Zakopaіem skarby pod krzyїem przy krzaku.</text>
 	</string>
 	<string id="agr_secret_0002_name">
-		<text>Заначка под крестом</text>
+		<text>Znak jest pod krzyїem</text>
 	</string>
 	<string id="agr_secret_0003_descr">
-		<text>Скинул рюкзак под поваленным деревом.</text>
+		<text>Rzuciіem plecak obok zwalonego drzewa.</text>
 	</string>
 	<string id="agr_secret_0003_name">
-		<text>Рюкзак под деревом</text>
+		<text>Plecak pod drzewem</text>
 	</string>
 	<string id="agr_secret_0004_descr">
-		<text>Рюкзак засунул в трубу, возле фабрики. Никто не найдет.</text>
+		<text>Wsadziіem plecak w rurк obok fabryki. Nikt go nie znajdzie.</text>
 	</string>
 	<string id="agr_secret_0004_name">
-		<text>Рюкзак трубочиста</text>
+		<text>Plecak kominiarza</text>
 	</string>
 	<string id="agr_secret_0005_descr">
-		<text>Ящик снычковал на крыше фабрики, там никто не увидит. Только под дождем заржавеет.</text>
+		<text>Schowaіem skrzyniк na dachu fabryki - nikt jej tam nie znajdzie. Jedyny problem jest taki, їe zardzewieje od deszczu.</text>
 	</string>
 	<string id="agr_secret_0005_name">
-		<text>Ящик на крыше</text>
+		<text>Skrzynia na dachu</text>
 	</string>
 	<string id="agr_secret_0006_descr">
-		<text>Стреляли, пришлось бросить рюкзак под вагоном, за колесом. Зато ушел. Потом вернусь, заберу.</text>
+		<text>Strzelali. Musiaіem wrzuciж plecak pod wagon, za koіa. Przynajmniej udaіo mi siк uciec. Wrуcк tam i go zabiorк.</text>
 	</string>
 	<string id="agr_secret_0006_name">
-		<text>Рюкзак пьяницы</text>
+		<text>Plecak pijaka</text>
 	</string>
 	<string id="agr_secret_0007_descr">
-		<text>Под крестом спрятал, за цистернами. Покопай немного, только не увлекайся.</text>
+		<text>Schowaіem go pod krzyїem, za cysternami. Pokop trochк, tylko nie za gікboko.</text>
 	</string>
 	<string id="agr_secret_0007_name">
-		<text>У трех цистерн</text>
+		<text>Przy trzech cysternach</text>
 	</string>
 	<string id="agr_secret_0008_descr">
-		<text>На фабрике положил рюкзак наверху, так что снизу не увидать. Только вот точно не помню, что в нем.</text>
+		<text>Zostawiіem plecak gdzieњ na gуrze fabryki - nikt go nie zauwaїy. Problem polega na tym, їe nie pamiкtam dokіadnie, co w nim jest.</text>
 	</string>
 	<string id="agr_secret_0008_name">
-		<text>Рюкзак в иллюминаторе</text>
+		<text>Plecak jest w okienku</text>
 	</string>
 	<string id="agr_secret_0009_descr">
-		<text>Внутри фабрики, в ящике спрятал вещички.</text>
+		<text>Schowaіem swoje rzeczy w skrzyni wewn№trz fabryki.</text>
 	</string>
 	<string id="agr_secret_0009_name">
-		<text>Радиоактивный ящик</text>
+		<text>Radioaktywna skrzynia</text>
 	</string>
 	<string id="agr_secret_0010_descr">
-		<text>Под лестницей в ящике тайник.</text>
+		<text>Schowek jest w skrzyni pod schodami</text>
 	</string>
 	<string id="agr_secret_0010_name">
-		<text>Ящик в пролете</text>
+		<text>Skrzynia na klatce schodowej</text>
 	</string>
 	<string id="agr_secret_0011_descr">
-		<text>В ящичке спрятал, все равно никто проверять не будет.</text>
+		<text>Schowaіem to w skrzyni - i tak nikt tego nie sprawdzi.</text>
 	</string>
 	<string id="agr_secret_0011_name">
-		<text>Фабричный ящик</text>
+		<text>Skrzynia z fabryki</text>
 	</string>
 	<string id="agr_secret_0012_descr">
-		<text>Скинул сумку за окном, заберу ее потом.</text>
+		<text>Wyrzuciіem torbк za okno. Pуџniej po ni№ pуjdк.</text>
 	</string>
 	<string id="agr_secret_0012_name">
-		<text>Сумка на опоре</text>
+		<text>Torba jest przy belce</text>
 	</string>
 	<string id="agr_secret_0013_descr">
-		<text>Мы с Коляном на Агропроме неплохо погуляли, хлама разного нагребли, но кое-что довелось припрятать. Ящик положили в мусорном контейнере.</text>
+		<text>Zrobiliњmy sobie z Koіjanem spacer po Agropromie. Znaleџliњmy same њmieci, ale udaіo nam siк schowaж trochк rzeczy. Ukryliњmy skrzyniк w koszu na њmieci.</text>
 	</string>
 	<string id="agr_secret_0013_name">
-		<text>Ящик мусора</text>
+		<text>Kosz na њmieci</text>
 	</string>
 	<string id="agr_secret_0014_descr">
-		<text>Под поваленным деревом нашел сейф, пока буду тут все прятать.</text>
+		<text>Pod zwalonym drzewem znalazіem sejf. Schowam tam wszystko na jakiњ czas.</text>
 	</string>
 	<string id="agr_secret_0014_name">
-		<text>Сейф под деревом</text>
+		<text>Sejf pod drzewem</text>
 	</string>
 	<string id="agr_secret_0015_descr">
-		<text>В трубу кинул вещи, потом заберу. Пришлось, а то бы с собой забрал, конечно. Только бы не намокли.</text>
+		<text>Wrzuciіem wszystkie rzeczy do rury, pуџniej po nie wrуcк. Musiaіem to zrobiж. Inaczej zabraіbym je ze sob№. Mam nadziejк, їe nie zamokn№.</text>
 	</string>
 	<string id="agr_secret_0015_name">
-		<text>Вещи в трубе</text>
+		<text>Rzeczy w rurze</text>
 	</string>
 	<string id="agr_secret_0016_descr">
-		<text>Добро в старой трубе, надо будет пацанам сказать. Я туда не полезу.</text>
+		<text>Towar jest w starej rurze. Musimy o tym powiedzieж chіopakom. Ja tam siк nie bкdк wspinaі.</text>
 	</string>
 	<string id="agr_secret_0016_name">
-		<text>Радиоактивная труба</text>
+		<text>Radioaktywna rura</text>
 	</string>
 	<string id="agr_secret_0017_descr">
-		<text>Сбежал с базы, ну их в баню, лезть под пули сталкеров. Спрятал шмотки в трубу, в завале. Пересижу пока не улетят, потом заберу.</text>
+		<text>Uciekіem z bazy - niech ich szlag! Unikn№іem ostrzaіu stalkerуw. Uіoїyіem towar na stosie w rurze. Zostanк tutaj, dopуki nie znikn№, a potem tam wrуcк.</text>
 	</string>
 	<string id="agr_secret_0017_name">
-		<text>Завал</text>
+		<text>Stos</text>
 	</string>
 	<string id="agr_secret_0018_descr">
-		<text>Под кустом полузакопанный сейф, тут все прячу.</text>
+		<text>Pod krzakiem jest na wpуі zakopany sejf - to tam wszystko ukryіem.</text>
 	</string>
 	<string id="agr_secret_0018_name">
-		<text>Сейф под кустом</text>
+		<text>Sejf pod krzakiem</text>
 	</string>
 	<string id="agr_secret_0019_descr">
-		<text>Ящик обнаружили под опорой, кто-то его тащил аж с НИИ. Подождем вертолета, тогда заберем.</text>
+		<text>Odkryli skrzyniк pod belk№. Ktoњ j№ ci№gn№і aї od Instytutu Badawczego. Poczekajmy na helikopter, wtedy j№ zabierzemy.</text>
 	</string>
 	<string id="agr_secret_0019_name">
-		<text>Архивный бокс</text>
+		<text>Pudіo z archiwami</text>
 	</string>
 	<string id="agr_secret_0020_descr">
-		<text>В железной байдовине спрятал вещички.</text>
+		<text>Schowaіem swoje rzeczy w їelaznej kapsule</text>
 	</string>
 	<string id="agr_secret_0020_name">
-		<text>Под люком</text>
+		<text>Pod zapadni№</text>
 	</string>
 	<string id="agr_secret_0021_descr">
-		<text>Под кустом полузакопанный сейф, там все прячу.</text>
+		<text>Pod krzakiem jest na wpуі zakopany sejf. Tam wszystko chowam.</text>
 	</string>
 	<string id="agr_secret_0021_name">
-		<text>Под кустом у стены</text>
+		<text>Pod krzakiem przy murze</text>
 	</string>
 	<string id="agr_secret_0022_descr">
-		<text>Удобный ящик, чтоб лишнее барахло сбрасывать.</text>
+		<text>Skrzynia do skіadowania rуїnych rzeczy</text>
 	</string>
 	<string id="agr_secret_0022_name">
-		<text>Институтский ящик</text>
+		<text>Skrzynia z Instytutu</text>
 	</string>
 	<string id="agr_secret_0023_descr">
-		<text>В сейфе спрятал, а пришли военные. Не достать теперь добро.</text>
+		<text>Schowaіem to w sejfie, ale zjawili siк їoіnierze i teraz nie mogк zabraж towaru.</text>
 	</string>
 	<string id="agr_secret_0023_name">
-		<text>Агросейф</text>
+		<text>Agrosejf</text>
 	</string>
 	<string id="agr_secret_0024_descr">
-		<text>В трубу кинул шмотки, потом заберу.</text>
+		<text>Wrzuciіem towar do rury - pуџniej go stamt№d zabiorк.</text>
 	</string>
 	<string id="agr_secret_0024_name">
-		<text>Кузов грузовика</text>
+		<text>Karoseria ciкїarуwki</text>
 	</string>
 	<string id="agr_secret_0025_descr">
-		<text>Забрать вещи из трухлявого бревна.</text>
+		<text>Zabierz rzeczy ze sprуchniaіej kіody</text>
 	</string>
 	<string id="agr_secret_0025_name">
-		<text>Гнилое бревно</text>
+		<text>Sprуchniaіa kіoda</text>
 	</string>
 	<string id="agr_secret_0026_descr">
-		<text>Удобный ящик, чтоб лишнее барахло сбрасывать. Когда-то в нем хранился институтский хозяйственный инвентарь.</text>
+		<text>Skrzynia do skіadowania rуїnych rzeczy. Kiedyњ chowano w niej sprzкt Instytutu.</text>
 	</string>
 	<string id="agr_secret_0026_name">
-		<text>Ящик завхоза</text>
+		<text>Skrzynia Zawchoza</text>
 	</string>
 	<string id="agr_secret_0027_descr">
-		<text>Удобный ящик для небольших вещей, я в таком слесарные инструменты дома держал.</text>
+		<text>Skrzynia do przechowywania niewielkich przedmiotуw. W domu trzymam w takiej narzкdzia.</text>
 	</string>
 	<string id="agr_secret_0027_name">
-		<text>Инвентарь слесаря</text>
+		<text>Narzкdzia do obrуbki metalu</text>
 	</string>
 	<string id="agr_u_secret_0000_descr">
-		<text>Бандиты что-то прячут под трубой, надо наведаться. Из разговора ясно, что там их запасы.</text>
+		<text>Bandyci chowaj№ coњ pod rur№, muszк to sprawdziж. Z naszej rozmowy wynika, їe trzymaj№ tam zapasy.</text>
 	</string>
 	<string id="agr_u_secret_0000_name">
-		<text>Бандитский общак</text>
+		<text>Wspуlny "fundusz" bandytуw</text>
 	</string>
 	<string id="agr_u_secret_0001_descr">
-		<text>Спрятал рюкзак за кусками бетона, пойду налегке. Лучше буду голодный, но живой.</text>
+		<text>Schowaіem plecak za betonowymi pіytami, їeby ograniczyж ciкїar. Bкdк gіodny, ale przynajmniej їywy.</text>
 	</string>
 	<string id="agr_u_secret_0001_name">
-		<text>Рюкзак в закоулке</text>
+		<text>Plecak jest w bocznej uliczce</text>
 	</string>
 	<string id="agr_u_secret_0002_descr">
-		<text>Ящик за ржавой "бочкой" в подземелье, все там лежит. Я туда возвращаться не собираюсь, дудки! Каким чудом я того кровососа задавил, до сих пор не помню.</text>
+		<text>Skrzynia jest za zardzewiaі№ "beczk№" pod ziemi№. Wszystko w niej jest. Nie ma mowy, їebym tam wrуciі. To cud, їe uciekіem tej pijawce! Ci№gle nie pamiкtam, jak to siк staіo.</text>
 	</string>
 	<string id="agr_u_secret_0002_name">
-		<text>Ящик кровососа</text>
+		<text>Skrzynia pijawki</text>
 	</string>
 	<string id="agr_u_secret_0003_descr">
-		<text>За стеной лежит хабар. Отвечаю за базар!</text>
+		<text>Za tymi drzwiami s№ fanty. Zajmк siк nimi.</text>
 	</string>
 	<string id="agr_u_secret_0003_name">
-		<text>Хабар сталкера</text>
+		<text>Fanty stalkera</text>
 	</string>
 	<string id="agr_u_secret_0004_descr">
-		<text>Я тут нарыл кое-какие ценности. Хитрое местечко для моего тайника. На желтой бочке, фиг найдешь.</text>
+		<text>Schowaіem tu rуїne fanty. Њwietne miejsce na schowek - nigdy byњ ich nie znalazі na їуіtej beczce.</text>
 	</string>
 	<string id="agr_u_secret_0004_name">
-		<text>Нора крота</text>
+		<text>Dziura kreta</text>
 	</string>
 	<string id="bar_secret_0000_description">
-		<text>Спрятал рюкзак возле базы долга. Потом заберу</text>
+		<text>Schowaіem plecak niedaleko bazy "Powinnoњci". Pуџniej go zabiorк.</text>
 	</string>
 	<string id="bar_secret_0000_name">
-		<text>Спрятанный рюкзак</text>
+		<text>Ukryty plecak</text>
 	</string>
 	<string id="bar_secret_0001_description">
-		<text>За мной погналась большая стая собак, если бы рюкзак не оставил, то до заставы не добежал бы</text>
+		<text>Zaatakowaіo mnie duїe stado psуw. Gdybym nie porzuciі plecaka, nie dobiegіbym do bramy.</text>
 	</string>
 	<string id="bar_secret_0001_name">
-		<text>Оставленный рюкзак</text>
+		<text>Porzucony plecak</text>
 	</string>
 	<string id="bar_secret_0002_description">
-		<text>Все что осталось закопали под крестом</text>
+		<text>Wszystko, co pozostaіo, zakopali pod krzyїem</text>
 	</string>
 	<string id="bar_secret_0002_name">
-		<text>Тайник под крестом</text>
+		<text>Schowek pod krzyїem</text>
 	</string>
 	<string id="bar_secret_0003_description">
-		<text>Скинул тут рюкзак, так полегче будет</text>
+		<text>Rzuciіem tu swуj plecak - tak bкdzie іatwiej</text>
 	</string>
 	<string id="bar_secret_0003_name">
-		<text>Рюкзак</text>
+		<text>Plecak</text>
 	</string>
 	<string id="bar_secret_0004_description">
-		<text>Снаряга заставы Долга, хранится в бункере, но за ящиком никто не следит</text>
+		<text>Amunicja posterunku "Powinnoњci" jest skіadowana w bunkrze, ale nikt nie pilnuje skrzyni</text>
 	</string>
 	<string id="bar_secret_0004_name">
-		<text>Склад в бункере</text>
+		<text>Zapasy w bunkrze</text>
 	</string>
 	<string id="bar_secret_0005_description">
-		<text>Видел как долговец что-то сунул в трубу, возле заставы</text>
+		<text>Widziaіem, jak czіonek "Powinnoњci" chowa coњ w rurze przy bramie</text>
 	</string>
 	<string id="bar_secret_0005_name">
-		<text>Тайник</text>
+		<text>Schowek</text>
 	</string>
 	<string id="bar_secret_0006_description">
-		<text>Это все ему принадлежало, пусть пока тут и полежит</text>
+		<text>To wszystko naleїaіo do niego, na razie moїe tu zostaж</text>
 	</string>
 	<string id="bar_secret_0006_name">
-		<text>Тайник под крестом</text>
+		<text>Schowek pod krzyїem</text>
 	</string>
 	<string id="bar_secret_0007_description">
-		<text>Иду в бар, рюкзак оставил в ангаре</text>
+		<text>Idк do baru, zostawiіem plecak w hangarze</text>
 	</string>
 	<string id="bar_secret_0007_name">
-		<text>Рюкзак</text>
+		<text>Plecak</text>
 	</string>
 	<string id="bar_secret_0008_description">
-		<text>Говорят на территории Долга, в электрощитке, что-то ценное лежит</text>
+		<text>Podobno na terytorium "Powinnoњci", w centrali, ukryto coњ wartoњciowego.</text>
 	</string>
 	<string id="bar_secret_0008_name">
-		<text>Электрощиток с тайником</text>
+		<text>Centrala ze schowkiem.</text>
 	</string>
 	<string id="bar_secret_0009_description">
-		<text>Наверху башни возле Долга запихнул ящичек так, что никто не заметит</text>
+		<text>Schowaіem skrzyniк na wieїy, pod nosem "Powinnoњci". Nikt jej nie zauwaїy.</text>
 	</string>
 	<string id="bar_secret_0009_name">
-		<text>Тайник на башне</text>
+		<text>Schowek na wieїy</text>
 	</string>
 	<string id="bar_secret_0010_description">
-		<text>Спрятал в трубе под лестницей</text>
+		<text>Schowaіem to w rurze pod schodami</text>
 	</string>
 	<string id="bar_secret_0010_name">
-		<text>Тайник</text>
+		<text>Schowek</text>
 	</string>
 	<string id="bar_secret_0011_description">
-		<text>Недалеко от бара схоронил добро, за аномалиями, никто не подберется. Да и как открывать не знают, а все просто, там поддеть дверцу надо, сразу и откроется</text>
+		<text>Ukryіem towar niedaleko baru, za anomaliami - nikt siк tam nie dostanie. A nawet, gdyby ktoњ siк tam dostaі, nie wiedziaіby, jak to otworzyж. A to bardzo proste - wystarczy lekko podwaїyж drzwi i gotowe.</text>
 	</string>
 	<string id="bar_secret_0011_name">
-		<text>Тайник Арни</text>
+		<text>Schowek Arniego</text>
 	</string>
 	<string id="bar_secret_0012_description">
-		<text>Недалеко от бара схоронил добро</text>
+		<text>Zakopaіem towar niedaleko baru</text>
 	</string>
 	<string id="bar_secret_0012_name">
-		<text>Тайник</text>
+		<text>Schowek</text>
 	</string>
 	<string id="bar_secret_0013_description">
-		<text>Возле бара в ящике</text>
+		<text>Niedaleko baru, w skrzyni</text>
 	</string>
 	<string id="bar_secret_0013_name">
-		<text>Ящик</text>
+		<text>Skrzynia</text>
 	</string>
 	<string id="bar_secret_0014_description">
-		<text>В закоулке, возле бара, припрятал ящичек</text>
+		<text>Ukryіem skrzyniк w bocznej uliczce niedaleko baru</text>
 	</string>
 	<string id="bar_secret_0014_name">
-		<text>Ящичек</text>
+		<text>Niewielka skrzynia</text>
 	</string>
 	<string id="bar_secret_0015_description">
-		<text>Закопал под крестом, за елками</text>
+		<text>Zakopaіem j№ pod krzyїem za sosnami</text>
 	</string>
 	<string id="bar_secret_0015_name">
-		<text>Тайник</text>
+		<text>Schowek</text>
 	</string>
 	<string id="bar_secret_0016_description">
-		<text>Под крестом, недалеко от прохода к Дикой территории</text>
+		<text>Pod krzyїem, niedaleko przejњcia do Doliny Mroku.</text>
 	</string>
 	<string id="bar_secret_0016_name">
-		<text>Тайник</text>
+		<text>Schowek</text>
 	</string>
 	<string id="bar_secret_0017_description">
-		<text>В трубе, возле Арены, припрятал ящичек c антирадом</text>
+		<text>Schowaіem skrzyniк z antyradem w rurze, niedaleko Areny.</text>
 	</string>
 	<string id="bar_secret_0017_name">
-		<text>Ящичек</text>
+		<text>Niewielka skrzynia</text>
 	</string>
 	<string id="bar_secret_0018_description">
-		<text>Под башней спрятал шмотье в трубе</text>
+		<text>Schowaіem swoje klamoty w rurze pod wieї№</text>
 	</string>
 	<string id="bar_secret_0018_name">
-		<text>Тайник</text>
+		<text>Schowek</text>
 	</string>
 	<string id="bar_secret_0019_description">
-		<text>Под крестом тайник</text>
+		<text>Pod krzyїem jest schowek</text>
 	</string>
 	<string id="bar_secret_0019_name">
-		<text>Тайник</text>
+		<text>Schowek</text>
 	</string>
 	<string id="esc_secret_0000_descr">
-		<text>Во время перегруппировки спрятал боеприпас в вагоне. Не забыть.</text>
+		<text>W czasie przegrupowywania schowaіem zapasy w wagonie. Muszк pamiкtaж!</text>
 	</string>
 	<string id="esc_secret_0000_name">
-		<text>Вагон над мостом</text>
+		<text>Wagon nad mostem</text>
 	</string>
 	<string id="esc_secret_0001_descr">
-		<text>Видел, как возле железнодорожного туннеля в лесу накрылся в аномалии какой-то сталкер, вроде шмотки неплохие были.</text>
+		<text>Widziaіem, jak jakiњ stalker ginie w anomalii niedaleko tunelu kolejowego w lesie. Wygl№daіo na to, їe ma niezіy towar.</text>
 	</string>
 	<string id="esc_secret_0001_name">
-		<text>Вещи погибшего в аномалии</text>
+		<text>Rzeczy naleї№ce do czіowieka, ktуry zgin№і w anomalii</text>
 	</string>
 	<string id="esc_secret_0002_descr">
-		<text>Возле лагеря бандитов под крестом я спрятал хабар.</text>
+		<text>Ukryіem іup niedaleko obozu bandytуw, pod krzyїem.</text>
 	</string>
 	<string id="esc_secret_0002_name">
-		<text>Крест у лагеря бандюков</text>
+		<text>Krzyї przy obozie bandytуw</text>
 	</string>
 	<string id="esc_secret_0003_descr">
-		<text>Перехваченный бандитами ящик обнаружен на чердаке центрального дома, надо подготовить отряд и отбить его.</text>
+		<text>Skrzynia ukradziona przez bandytуw zostaіa odnaleziona na strychu gіуwnego budynku. Muszк przygotowaж oddziaі i j№ zdobyж.</text>
 	</string>
 	<string id="esc_secret_0003_name">
-		<text>Бандитский склад</text>
+		<text>Magazyn bandytуw</text>
 	</string>
 	<string id="esc_secret_0004_descr">
-		<text>Когда мы с братками отбивались от собак в погонах, я зарыл кое-какое добро под крестом. Пусть полежит.</text>
+		<text>Gdy z towarzyszami walczyliњmy przeciw tym kundlom w mundurach, zakopaіem trochк towaru pod mostem. Niech tam na razie zostanie.</text>
 	</string>
 	<string id="esc_secret_0004_name">
-		<text>Под крестом</text>
+		<text>Pod krzyїem</text>
 	</string>
 	<string id="esc_secret_0005_descr">
-		<text>Рюкзак я сунул на чердак. Вернусь потом, пока никак.</text>
+		<text>Schowaіem plecak w piwnicy. Wrуcк tam pуџniej - teraz nie dam rady.</text>
 	</string>
 	<string id="esc_secret_0005_name">
-		<text>Убежище на чердаке</text>
+		<text>Kryjуwka w piwnicy</text>
 	</string>
 	<string id="esc_secret_0006_descr">
-		<text>На ферме нашел полузакопанный сейф, буду пока там хранить добро.</text>
+		<text>W gospodarstwie znalazіem na wpуі zakopany sejf. Na jakiњ czas zostawiк tam towar.</text>
 	</string>
 	<string id="esc_secret_0006_name">
-		<text>Сейф на ферме</text>
+		<text>Sejf w gospodarstwie</text>
 	</string>
 	<string id="esc_secret_0007_descr">
-		<text>Ребятки шепнули, что в вагоне на мосту кто-то что-то прячет, надо заглянуть на обратном пути. Узнать бы кто...</text>
+		<text>Wrуїka mi powiedziaіa, їe ktoњ coњ ukryі w wagonie na moњcie. Trzeba to sprawdziж w drodze powrotnej. Ciekawe kto...</text>
 	</string>
 	<string id="esc_secret_0007_name">
-		<text>Контейнер в вагоне</text>
+		<text>Pojemnik w wagonie</text>
 	</string>
 	<string id="esc_secret_0008_descr">
-		<text>Спрятал товар под самой крышей, в домике возле моста.</text>
+		<text>Schowaіem towar tuї pod dachem w domku przy moњcie.</text>
 	</string>
 	<string id="esc_secret_0008_name">
-		<text>Товар сталкера</text>
+		<text>Towar Strieloka</text>
 	</string>
 	<string id="esc_secret_0009_descr">
-		<text>Шмотье спрятал в одном из ящиков недалеко от моста. Все, завязываю. Ухожу из Зоны, прощайте, братки! Не забуду мать родную.</text>
+		<text>Schowaіem klamoty w jednej ze skrzyс nieopodal mostu. To by byіo na tyle. Dziкkujк, opuszczam Zonк. Їegnajcie, bracia! Nigdy nie zapomnк ojczyzny.</text>
 	</string>
 	<string id="esc_secret_0009_name">
-		<text>Вещи около моста</text>
+		<text>Rzeczy przy moњcie</text>
 	</string>
 	<string id="esc_secret_0010_descr">
-		<text>Недалеко от лагеря новичков сгинул какой-то сталкер, надо бы посмотреть его добро.</text>
+		<text>Jeden ze stalkerow wykitowaі niedaleko obozu nowych. Przejrzyj jego rzeczy.</text>
 	</string>
 	<string id="esc_secret_0010_name">
-		<text>Рюкзак возле деревни</text>
+		<text>Plecak jest niedaleko wioski</text>
 	</string>
 	<string id="esc_secret_0011_descr">
-		<text>На чердаке тайник, узнал у Лихого. Он много языком ляпал, мы его и пришили.</text>
+		<text>Dowiedziaіem siк od Lichojem, їe schowek jest na strychu. Gadaі za duїo, wiкc przymknкliњmy go na dobre.</text>
 	</string>
 	<string id="esc_secret_0011_name">
-		<text>Чердак в деревне</text>
+		<text>Piwnica w wiosce</text>
 	</string>
 	<string id="esc_secret_0012_descr">
-		<text>Нашел на чердаке отличный тайник, подожду, пока кто-то туда что-то положит.</text>
+		<text>Znalazіem њwietn№ kryjуwkк w piwnicy. Poczekam, aї ktoњ coњ tam wіoїy.</text>
 	</string>
 	<string id="esc_secret_0012_name">
-		<text>Удобное место</text>
+		<text>Dobre miejsce</text>
 	</string>
 	<string id="esc_secret_0013_descr">
-		<text>На чердаке тайник, узнал от Ворпала. Наши разведку местности проводили. Проверим.</text>
+		<text>Worpaі mi powiedziaі, їe na strychu jest schowek. Nasi przeprowadzali w okolicy rozpoznanie. Sprawdџmy to.</text>
 	</string>
 	<string id="esc_secret_0013_name">
-		<text>Тайник Ворпала</text>
+		<text>Schowek Worpaіa</text>
 	</string>
 	<string id="esc_secret_0014_descr">
-		<text>Говорят, у командира есть хитрый ящик в кабинете, и там ценного добра навалом.</text>
+		<text>Widzieli, їe dowуdca ma w swoim gabinecie fikuњn№ skrzyniк, w ktуrej s№ tony wartoњciowych rzeczy.</text>
 	</string>
 	<string id="esc_secret_0014_name">
-		<text>Ценности командира</text>
+		<text>Kosztownoњci dowуdcy</text>
 	</string>
 	<string id="esc_secret_0015_descr">
-		<text>Недалеко от лагеря новичков сгинул какой-то сталкер, надо бы посмотреть, что он нес. Кто их вообще сюда пропускает?</text>
+		<text>Jakiњ stalker wykitowaі niedaleko obozu nowych. Powinniњmy sprawdziж, co miaі. A tak w ogуle, to kto ich wpuszcza?</text>
 	</string>
 	<string id="esc_secret_0015_name">
-		<text>У сельской дороги</text>
+		<text>Przy drodze wiejskiej</text>
 	</string>
 	<string id="esc_secret_0016_descr">
-		<text>На чердаке у бандитов спрятал хабар, пока их не было. Теперь бы улучить момент и забрать.</text>
+		<text>Fanty s№ ukryte na strychu bandytуw. Nie byli tam wczeњniej, wiкc poczekajmy na odpowiedni moment, їeby wszystko stamt№d zabraж.</text>
 	</string>
 	<string id="esc_secret_0016_name">
-		<text>Воровской чердак</text>
+		<text>Piwnica bandytуw</text>
 	</string>
 	<string id="esc_secret_0017_descr">
-		<text>Обнаружил инвентарь в трубе, недалеко от фермы. Вот гауптвахта закончится - обязательно вернусь.</text>
+		<text>Odkryіem towar w rurze, niedaleko gospodarstwa. Jak juї siк st№d wydostaniemy, na pewno tam wrуcк.</text>
 	</string>
 	<string id="esc_secret_0017_name">
-		<text>Газовая труба</text>
+		<text>Rura gazowa</text>
 	</string>
 	<string id="esc_secret_0018_descr">
-		<text>Недалеко от поста скинул рюкзак, надо поскорее забрать, пока командир не перевел нас на другую локацию.</text>
+		<text>Wyrzuciіem plecak niedaleko posterunku, muszк go jak najszybciej zabraж, zanim dowуdca przeniesie nas w inne miejsce.</text>
 	</string>
 	<string id="esc_secret_0018_name">
-		<text>Спрятанные вещи</text>
+		<text>Ukryte rzeczy</text>
 	</string>
 	<string id="esc_secret_0019_descr">
-		<text>На вышке временно оставил ящик. Заберу, когда смогу.</text>
+		<text>Na razie zostawiіem skrzyniк w wieїy. Zabiorк j№, jak tylko bedк mуgі.</text>
 	</string>
 	<string id="esc_secret_0019_name">
-		<text>Вышка на КПП</text>
+		<text>Wieїa posterunkowa</text>
 	</string>
 	<string id="gar_secret_0000_descr">
-		<text>Видел, как бандит прятал свое добро в ангаре в ящике. Как бы это тихо упереть?</text>
+		<text>Widziaіem, jak jakiњ bandyta chowaі swoje fanty w skrzyni w hangarze. Jak mogк je po cichu ukraњж?</text>
 	</string>
 	<string id="gar_secret_0000_name">
-		<text>Бандитский схрон</text>
+		<text>Magazyn bandytуw</text>
 	</string>
 	<string id="gar_secret_0001_descr">
-		<text>Мы с Васей ходили посмотреть чё да как, тут Васю и настигла ментовская пуля. А я тут ни при чем. Пуля - дура. Вещички схоронил на кране в трубе.</text>
+		<text>Szliњmy z Wasiejem coњ sprawdziж, kiedy nagle dostaі kulkк. Nie miaіem z tym nic wspуlnego! To ta cholerna kula! Schowaіem jego rzeczy w rurze.</text>
 	</string>
 	<string id="gar_secret_0001_name">
-		<text>Старый кран</text>
+		<text>Stary dџwig</text>
 	</string>
 	<string id="gar_secret_0002_descr">
-		<text>На Свалке в железнодорожном туннеле за дизелем со всем своим барахлом накрылся Гризли. Жаль парня.</text>
+		<text>Grizzly wykitowaі, a jego rzeczy zostaіy na Wysypisku, w tunelu kolejowym za lokomotyw№. Szkoda Grizzly'ego.</text>
 	</string>
 	<string id="gar_secret_0002_name">
-		<text>Вещи Гризли</text>
+		<text>Rzeczy Grizzly'ego</text>
 	</string>
 	<string id="gar_secret_0003_descr">
-		<text>Хабар прятанул в трубе на свалке.</text>
+		<text>Schowaіem towar w rurze na Wysypisku.</text>
 	</string>
 	<string id="gar_secret_0003_name">
-		<text>Труба на Северной куче</text>
+		<text>Rura na pуіnocnym stosie</text>
 	</string>
 	<string id="gar_secret_0004_descr">
-		<text>Вещи лежат на свалке, в одной трубе. Если не знать, где точно, ни за что не найдешь.</text>
+		<text>Rzeczy s№ na Wysypisku w jednej z rur. Jeњli nie wiesz dokіadnie gdzie, nie znajdziesz ich.</text>
 	</string>
 	<string id="gar_secret_0004_name">
-		<text>Заначка в металлоломе</text>
+		<text>Dodatkowa kasa w zіomie</text>
 	</string>
 	<string id="gar_secret_0005_descr">
-		<text>Спрятал барахло в металлической трубе возле двух цистерн. Надо бы забрать, но некогда.</text>
+		<text>Schowaіem towar w metalowej rurze niedaleko dwуch cystern. Powinienem go zabraж, ale nie mam czasu.</text>
 	</string>
 	<string id="gar_secret_0005_name">
-		<text>Чугунка возле цистерн</text>
+		<text>Їelazny piec niedaleko cysterny.</text>
 	</string>
 	<string id="gar_secret_0006_descr">
-		<text>Среди радиоактивного мусора, где мало кто шастает, спрятаны кое-какие полезные вещи.</text>
+		<text>Wњrуd odpadуw radioaktywnych - tam, gdzie nikt nie іazi - jest trochк bardzo przydatnych rzeczy.</text>
 	</string>
 	<string id="gar_secret_0006_name">
-		<text>Труба на Восточной куче</text>
+		<text>Rura na wschodnim stosie</text>
 	</string>
 	<string id="gar_secret_0007_descr">
-		<text>В низине валяется чей-то рюкзак, вокруг аномалии. Как бы до него добраться?</text>
+		<text>Czyjњ plecak leїy sobie w dolinie wњrуd anomalii. Jak moїna siк do niego dobraж?</text>
 	</string>
 	<string id="gar_secret_0007_name">
-		<text>Ничейный рюкзак</text>
+		<text>Plecak bez wіaњciciela</text>
 	</string>
 	<string id="gar_secret_0008_descr">
-		<text>Замочили стукача на болоте, там мы его и прикопали. А хабарок его под крестом оставили, не до того было.</text>
+		<text>Wykoсczyіem zdrajcк na bagnach... Pochowaliњmy go tam i schowaliњmy jego rzeczy pod krzyїem. Mieliњmy powaїniejsze zmartwienia.</text>
 	</string>
 	<string id="gar_secret_0008_name">
-		<text>Вещи убитого</text>
+		<text>Rzeczy zamordowanego</text>
 	</string>
 	<string id="gar_secret_0009_descr">
-		<text>В пеньке тайник, хорошее место.</text>
+		<text>W cieniu jest schowek - dobre miejsce, їeby go ukryж.</text>
 	</string>
 	<string id="gar_secret_0009_name">
-		<text>Трухлявый пень</text>
+		<text>Sprуchniaіy pniak</text>
 	</string>
 	<string id="gar_secret_0010_descr">
-		<text>В лесу бревно, внутри - дыра. В ней клад, забрать его пора.</text>
+		<text>W lesie leїy kіoda z dziur№, w ktуrej schowany jest skarb - juї czas go zdobyж.</text>
 	</string>
 	<string id="gar_secret_0010_name">
-		<text>Бревно в лесу</text>
+		<text>Kіoda w lesie</text>
 	</string>
 	<string id="gar_secret_0011_descr">
-		<text>Петренко передал, что есть информация про тайник группы Стрелка на Свалке. Тут на равнине в низине должен быть люк, рассказал как его надо хитро открывать. Как успокоится все, надо туда смотаться.</text>
+		<text>Pietrenko chciaі, їebyњmy wiedzieli o ukrytym na Wysypisku schowku grupy Strieloka. Powiedziaі mi, jak trzeba otworzyж wіaz, ktуry podobno znajduje siк tutaj, na dnie doliny. Jak tylko wszystko siк uspokoi, musimy to obczaiж.</text>
 	</string>
 	<string id="gar_secret_0011_name">
-		<text>Склад группы Стрелка</text>
+		<text>Magazyn grupy Strieloka</text>
 	</string>
 	<string id="gar_secret_0012_descr">
-		<text>Запрятал в машину, Длинный говорил, хорошее место.</text>
+		<text>Schowaіem to w samochodzie - Dryblas powiedziaі, їe to dobre miejsce.</text>
 	</string>
 	<string id="gar_secret_0012_name">
-		<text>Тайник в машине</text>
+		<text>Schowek w samochodzie</text>
 	</string>
 	<string id="gar_secret_0013_descr">
-		<text>В автобусе положил рюкзак, вроде незаметно.</text>
+		<text>Wіoїyіem plecak do autobusu - ciкїko go zauwaїyж</text>
 	</string>
 	<string id="gar_secret_0013_name">
-		<text>Рюкзак сталкера в автобусе</text>
+		<text>Plecak stalkera w autobusie</text>
 	</string>
 	<string id="gar_secret_0014_descr">
-		<text>Запас сложил в ящике, в странном домике за углом. До сих пор не пойму, для чего та постройка.</text>
+		<text>Schowaіem zapasy w skrzyni, a j№ z kolei w starym domu za rogiem. Ci№gle nie rozumiem, po co go zbudowali.</text>
 	</string>
 	<string id="gar_secret_0014_name">
-		<text>Сортирные запасы</text>
+		<text>Rуїne zapasy</text>
 	</string>
 	<string id="gar_secret_0015_descr">
-		<text>На куче мусора полузакопанный сейф, там-то оно все и лежит. Не забыть бы что.</text>
+		<text>Na stosie odpadуw jest czкњciowo zakopany sejf. Lepiej, їebym nie zapomniaі, co w nim jest.</text>
 	</string>
 	<string id="gar_secret_0015_name">
-		<text>Сейф на Южной куче</text>
+		<text>Sejf na poіudniowym stosie.</text>
 	</string>
 	<string id="gar_secret_0016_descr">
-		<text>На куче мусора в трубе положил хабар.</text>
+		<text>Schowaіem fanty na stosie odpadуw, w rurze.</text>
 	</string>
 	<string id="gar_secret_0016_name">
-		<text>Схрон в металлоломе</text>
+		<text>Magazyn na zіomowisku.</text>
 	</string>
 	<string id="gar_secret_0017_descr">
-		<text>Начальник по рации передал - отход. Я набрел на ящик, скинул в него лишний вес и отошел налегке.</text>
+		<text>Szef radiokomunikacji przekazaі nam wiadomoњж: odwrуt. Znalazіem skrzyniк, wrzuciіem do niej wszystko, co miaіem przy sobie i wycofaіem siк z pustymi rкkoma.</text>
 	</string>
 	<string id="gar_secret_0017_name">
-		<text>Запас в ящике</text>
+		<text>Zapasy w skrzyni</text>
 	</string>
 	<string id="gar_secret_0018_descr">
-		<text>Хабар сунул в трубу на свалке. Долго он там не пролежит.</text>
+		<text>Wepchn№іem іup do rury na Wysypisku. Nie zostanie tam dіugo.</text>
 	</string>
 	<string id="gar_secret_0018_name">
-		<text>Труба у автобуса</text>
+		<text>Rura przy autobusie</text>
 	</string>
 	<string id="gar_secret_0019_descr">
-		<text>В развалинах хорошо запрятал рюкзак. Надеюсь, забрать будет легко, если бандиты не помешают.</text>
+		<text>Јatwo moїna schowaж plecak w ruinach. Mam nadziejк, їe rуwnie іatwo bкdк go mуgі stamt№d zabraж - o ile bandyci nie wejd№ mi w drogк.</text>
 	</string>
 	<string id="gar_secret_0019_name">
-		<text>Рюкзак в развалинах</text>
+		<text>Plecak w ruinach</text>
 	</string>
 	<string id="gar_secret_0020_descr">
-		<text>Пока долговцы стрелялись, припрятал хабар в вагончике. Надо как-то зайти, забрать. И сказать спасибо Долгу.</text>
+		<text>Gdy kolesie z "Powinnoњci" strzelali, ja schowaіem іup w wagonie. Muszк tam jakoњ po niego wrуciж. I podziкkowaж "Powinnoњci".</text>
 	</string>
 	<string id="gar_secret_0020_name">
-		<text>Ящик на блокпосте</text>
+		<text>Skrzynia na њwietnie zaopatrzonym posterunku wojskowym</text>
 	</string>
 	<string id="gar_secret_0021_descr">
-		<text>Говорят, Дохляк на Свалке скопытился, надо наведаться, хабар глянуть. А то желающих много набежит.</text>
+		<text>Podobno Chuchro wykitowaі na Wysypisku. Muszк tam podskoczyж, sprawdziж, co z towarem. Jak tego nie zrobiк, znajd№ siк inni.</text>
 	</string>
 	<string id="gar_secret_0021_name">
-		<text>Рюкзак Дохляка</text>
+		<text>Plecak Chuchra</text>
 	</string>
 	<string id="gar_secret_0022_descr">
-		<text>В люке пока спрячу добро, авось не найдут.</text>
+		<text>Na razie chowam towar w okienku. Moїe go nie znajd№.</text>
 	</string>
 	<string id="gar_secret_0022_name">
-		<text>Авоська в люке</text>
+		<text>Torba na zakupy w okienku</text>
 	</string>
 	<string id="gar_secret_0023_descr">
-		<text>Возле экскаватора кто-то сгинул в аномалии, рюкзак видно, а достать тяжело.</text>
+		<text>Jakaњ anomalia dopadіa kogoњ niedaleko schodуw ruchomych - widaж plecak, ale ciкїko do niego dotrzeж.</text>
 	</string>
 	<string id="gar_secret_0023_name">
-		<text>Под ковшом</text>
+		<text>Pod czerpakiem</text>
 	</string>
 	<string id="gar_secret_0024_descr">
-		<text>Еле пролез под балками, зато хорошо рюкзак спрятал, никто сюда не полезет.</text>
+		<text>Ledwo mi siк udaіo wejњж pod te belki, ale przynajmniej plecak jest dobrze ukryty - nikt nie sprуbuje siк tu wdrapaж.</text>
 	</string>
 	<string id="gar_secret_0024_name">
-		<text>Заначка под бетонными блоками</text>
+		<text>Dodatkowa kasa jest pod betonowymi pіytami</text>
 	</string>
 	<string id="mil_secret_0000_description">
-		<text>Сунул добро в бревно, думаю не найдут.</text>
+		<text>Schowaіem towar w kіodzie - nie s№dzк, їeby ktoњ go znalazі.</text>
 	</string>
 	<string id="mil_secret_0000_name">
-		<text>Тайник в бревне</text>
+		<text>Schowek w kіodzie</text>
 	</string>
 	<string id="mil_secret_0001_description">
-		<text>В печку припрятал барахлишко.</text>
+		<text>Schowaіem fanty w piecu.</text>
 	</string>
 	<string id="mil_secret_0001_name">
-		<text>Тайник в печи</text>
+		<text>Schowek w piecu</text>
 	</string>
 	<string id="mil_secret_0002_description">
-		<text>В кабине КАМАЗа припрятал барахлишко.</text>
+		<text>Schowaіem fanty w szoferce Kamaza</text>
 	</string>
 	<string id="mil_secret_0002_name">
-		<text>Тайник в КАМАЗе</text>
+		<text>Schowek w Kamazie</text>
 	</string>
 	<string id="mil_secret_0003_description">
-		<text>Под крестом, возле деревни, закопал хабара чуток.</text>
+		<text>Zakopaіem towar pod krzyїem niedaleko wioski.</text>
 	</string>
 	<string id="mil_secret_0003_name">
-		<text>Клад под крестом</text>
+		<text>Skarby pod krzyїem</text>
 	</string>
 	<string id="mil_secret_0004_description">
-		<text>В трубу кинул шмотки, потом заберу.</text>
+		<text>Wrzuciіem rzeczy do rury - pуџniej je zabiorк.</text>
 	</string>
 	<string id="mil_secret_0004_name">
-		<text>Тайник в трубе</text>
+		<text>Schowek w rurze</text>
 	</string>
 	<string id="mil_secret_0005_description">
-		<text>Тайник в водонапорной башне, в ящике.</text>
+		<text>Schowek w skrzyni w wieїy ciњnieс</text>
 	</string>
 	<string id="mil_secret_0005_name">
-		<text>Клад в башне</text>
+		<text>Skarb w wieїy</text>
 	</string>
 	<string id="mil_secret_0006_description">
-		<text>В печку сунул рюкзак, потом пригодится.</text>
+		<text>Wetkn№іem plecak do pieca, przyda siк pуџniej.</text>
 	</string>
 	<string id="mil_secret_0006_name">
-		<text>Печной тайник</text>
+		<text>Schowek w piecu</text>
 	</string>
 	<string id="mil_secret_0007_description">
-		<text>Хабар спрятал в машине, в деревне заброшенной.</text>
+		<text>Schowaіem skarby w samochodzie w opuszczonej wiosce</text>
 	</string>
 	<string id="mil_secret_0007_name">
-		<text>Авто-тайник</text>
+		<text>Schowek w samochodzie</text>
 	</string>
 	<string id="mil_secret_0008_description">
-		<text>В развалинах с радиацией оставил рюкзак. Побоятся сунуться.</text>
+		<text>Zostawiіem plecak w radioaktywnych ruinach. Baіem siк tam pokazaж.</text>
 	</string>
 	<string id="mil_secret_0008_name">
-		<text>Опасный секрет</text>
+		<text>Niebezpieczna tajemnica</text>
 	</string>
 	<string id="mil_secret_0009_description">
-		<text>Закопал хабар под крестом, в укромном месте.</text>
+		<text>Zakopaіem towar pod krzyїem, w tajnym miejscu.</text>
 	</string>
 	<string id="mil_secret_0009_name">
-		<text>Схрон сталкера</text>
+		<text>Schowek stalkera</text>
 	</string>
 	<string id="mil_secret_0010_description">
-		<text>Припрятал рюкзачок со снарягой в укромном месте.</text>
+		<text>Ukryіem plecak ze sprzкtem w przytulnym miejscu.</text>
 	</string>
 	<string id="mil_secret_0010_name">
-		<text>Рюкзак со снаряжением</text>
+		<text>Plecak ze sprzкtem</text>
 	</string>
 	<string id="mil_secret_0011_description">
-		<text>Шмотье припрятал на холме в машине.</text>
+		<text>Schowaіem klamoty w samochodzie na wzgуrzu</text>
 	</string>
 	<string id="mil_secret_0011_name">
-		<text>Тайник на холме</text>
+		<text>Schowek na wzgуrzu</text>
 	</string>
 	<string id="mil_secret_0012_description">
-		<text>Упал вертолет возле заброшенной военной базы, ящик лежит недалеко, прямо под вертолетом. Одна беда, аномалии и радиация кругом.</text>
+		<text>Helikopter spadі tuї przy opuszczonej bazie wojskowej, a skrzynia jest dokіadnie pod helikopterem. Problemem s№ anomalie, ktуrych tam peіno, oraz promieniowanie.</text>
 	</string>
 	<string id="mil_secret_0012_name">
-		<text>Ящик из вертолёта</text>
+		<text>Skrzynia z helikoptera</text>
 	</string>
 	<string id="mil_secret_0013_description">
-		<text>На холме под крестом закопал хабар.</text>
+		<text>Zakopaіem towar pod krzyїem na wzgуrzu</text>
 	</string>
 	<string id="mil_secret_0013_name">
-		<text>Секрет в могиле</text>
+		<text>Sekret nagrobka</text>
 	</string>
 	<string id="mil_secret_0014_description">
-		<text>В пеньке тайник, хорошее место</text>
+		<text>W pniaku jest schowek - to dobre miejsce</text>
 	</string>
 	<string id="mil_secret_0014_name">
-		<text>Тайный пень</text>
+		<text>Schowek w pniaku</text>
 	</string>
 	<string id="mil_secret_0015_description">
-		<text>Оставил рюкзак в кабине крана, потом заберу.</text>
+		<text>Zostawiіem plecak w szoferce dџwigu. Zabiorк go pуџniej.</text>
 	</string>
 	<string id="mil_secret_0015_name">
-		<text>Тайник высотника</text>
+		<text>Schowek robotnika wysokoњciowego</text>
 	</string>
 	<string id="mil_secret_0016_description">
-		<text>Все сложил в ящик, в вагоне недалеко от базы. Так и договаривались, теперь осталось только ждать.</text>
+		<text>Wszystko jest w skrzyni, w wagonie niedaleko bazy. Tak to zaplanowaliњmy, teraz musimy jedynie poczekaж.</text>
 	</string>
 	<string id="mil_secret_0016_name">
-		<text>Условленный тайник</text>
+		<text>Ustalony schowek</text>
 	</string>
 	<string id="mil_secret_0017_description">
-		<text>Сунул добро в бревно, думаю не найдут.</text>
+		<text>Wepchn№іem towar do kіody. Nie s№dzк, їeby coњ znaleџli.</text>
 	</string>
 	<string id="mil_secret_0017_name">
-		<text>Клад в бревне</text>
+		<text>Skarb w kіodzie</text>
 	</string>
 	<string id="mil_secret_0018_description">
-		<text>Хабар сунул в трубу на берегу озера.</text>
+		<text>Wetkn№іem klamoty do rury na brzegu jeziora.</text>
 	</string>
 	<string id="mil_secret_0018_name">
-		<text>Труба с хабаром</text>
+		<text>Rura z towarem</text>
 	</string>
 	<string id="mil_secret_0019_description">
-		<text>В железной байдовине спрятал вещички.</text>
+		<text>Schowaіem rzeczy w їelaznej kapsluje</text>
 	</string>
 	<string id="mil_secret_0019_name">
-		<text>Тайник сталкера</text>
+		<text>Schowek stalkera</text>
 	</string>
 	<string id="mil_secret_0020_description">
-		<text>Сунул добро в бревно, думаю не найдут.</text>
+		<text>Schowaіem towar w kіodzie, nie s№dzк, їeby mogli go znaleџж</text>
 	</string>
 	<string id="mil_secret_0020_name">
-		<text>Хабар в бревне</text>
+		<text>Fanty w kіodzie</text>
 	</string>
 	<string id="mil_secret_0021_description">
-		<text>Удобный ящик, чтоб лишнее барахло сбрасывать.</text>
+		<text>Skrzynia do przechowywania rуїnych rzeczy</text>
 	</string>
 	<string id="mil_secret_0021_name">
-		<text>Удобный схрон</text>
+		<text>Skrzynia na zapasy</text>
 	</string>
 	<string id="mil_secret_0022_description">
-		<text>В туннеле припрятал рюкзак с хабаром.</text>
+		<text>Schowaіem plecak z towarem w tunelu</text>
 	</string>
 	<string id="mil_secret_0022_name">
-		<text>Рюкзак в туннеле</text>
+		<text>Plecak w tunelu</text>
 	</string>
 	<string id="mil_secret_0023_description">
-		<text>Удобный ящик, чтоб лишнее барахло сбрасывать.</text>
+		<text>Skrzynia do przechowywania rуїnych rzeczy</text>
 	</string>
 	<string id="mil_secret_0023_name">
-		<text>Ящик с добром</text>
+		<text>Skrzynia z towarem</text>
 	</string>
 	<string id="mil_secret_0024_description">
-		<text>Сунул добро в бревно, думаю не найдут.</text>
+		<text>Schowaіem towar w kіodzie, nie s№dzк, їeby mogli go znaleџж</text>
 	</string>
 	<string id="mil_secret_0024_name">
-		<text>Тайник в бревне</text>
+		<text>Schowek w kіodzie</text>
 	</string>
 	<string id="mil_secret_0025_description">
-		<text>В ящик закинул добро, потом заберу.</text>
+		<text>Wrzuciіem towar do skrzyni - pуџniej go zabiorк</text>
 	</string>
 	<string id="mil_secret_0025_name">
-		<text>Временный тайник</text>
+		<text>Tymczasowy schowek</text>
 	</string>
 	<string id="mil_secret_0026_description">
-		<text>В люке схоронил вещи, когда-нибудь пригодятся.</text>
+		<text>Schowaіem towar w studzience. Kiedyњ siк przyda.</text>
 	</string>
 	<string id="mil_secret_0026_name">
-		<text>Стальной тайник</text>
+		<text>Stalowy schowek</text>
 	</string>
 	<string id="mil_secret_0027_description">
-		<text>В ящик закинул добро, потом заберу.</text>
+		<text>Wrzuciіem towar do skrzyni - pуџniej go zabiorк</text>
 	</string>
 	<string id="mil_secret_0027_name">
-		<text>Ящик с хабаром</text>
+		<text>Skrzynia z towarem</text>
 	</string>
 	<string id="mil_secret_0028_description">
-		<text>Хабар спрятал в машине под боком у Свободы, времени не было искать что получше.</text>
+		<text>Schowaіem towar w samochodzie, tuї pod nosem kolesiуw z "Powinnoњci" - nie miaіem czasu szukaж czegoњ lepszego</text>
 	</string>
 	<string id="mil_secret_0028_name">
-		<text>Тайник в машине</text>
+		<text>Schowek w samochodzie</text>
 	</string>
 	<string id="pri_secret_0000_description">
-		<text>Говорят сгинул здесь какой-то сталкер известный, добро его до сих пор никто не подобрал.</text>
+		<text>Podobno jakiњ znany stalker kopn№і tu w kalendarz i jeszcze nikt nie zabraі jego rzeczy.</text>
 	</string>
 	<string id="pri_secret_0000_name">
-		<text>Вещи мёртвого сталкера</text>
+		<text>Rzeczy martwego stalkera</text>
 	</string>
 	<string id="pri_secret_0001_description">
-		<text>В гараже, говорят, ящик стоит, а в нем хабара мама не горюй.</text>
+		<text>Podobno w garaїu jest skrzynia z caіym stosem fantуw</text>
 	</string>
 	<string id="pri_secret_0001_name">
-		<text>Клад в гараже</text>
+		<text>Skarb w garaїu</text>
 	</string>
 	<string id="pri_secret_0002_description">
-		<text>В детском саду, говорят, ящик стоит, а в нем хабара мама не горюй.</text>
+		<text>Podobno w przedszkolu jest skrzynia z caіym stosem fantуw</text>
 	</string>
 	<string id="pri_secret_0002_name">
-		<text>Старый тайник</text>
+		<text>Stary schowek</text>
 	</string>
 	<string id="pri_secret_0003_description">
-		<text>Клыка похоронил на Припяти, под памятником. Весь его хабар оставил там же, нехорошо забирать у мертвого.</text>
+		<text>Pochowali Kіa w Prypeci, pod pomnikiem. Zostawili przy nim wszystkie jego rzeczy - nie moїna okradaж zmarіych.</text>
 	</string>
 	<string id="pri_secret_0003_name">
-		<text>Хабар Клыка</text>
+		<text>Rzeczy Kіa</text>
 	</string>
 	<string id="pri_secret_0004_description">
-		<text>Последнее что было известно о нем, это то, что выжил только он один после выжигателя. Запасы оставил в каком-то бывшем универмаге и двинул дальше. Все пошло не так, как планировалось, а ведь это был лучший лидер Свободы, за всю нашу историю.</text>
+		<text>Nie wiedzieli, їe byі jedyn№ osob№, ktуra przeїyіa spotkanie ze Zwкglaczem. Zostawiі wszystkie rzeczy w jakimњ starym supermarkecie i ruszyі w drogк. Nic nie poszіo zgodnie z planem. "Wolnoњж" nigdy nie miaіa lepszego przywуdcy.</text>
 	</string>
 	<string id="pri_secret_0004_name">
-		<text>Запасы лидера Свободы</text>
+		<text>Rzeczy przywуdcy "Wolnoњci"</text>
 	</string>
 	<string id="rad_secret_0000_description">
-		<text>Крест по дороге к выжигателю, дальше не пошел, спрятал все под ним.</text>
+		<text>Krzyї jest po drodze do Zwкglacza - nie zapuszczaіem siк dalej, schowaіem wszystko pod nim.</text>
 	</string>
 	<string id="rad_secret_0000_name">
-		<text>Клад Угрюмого</text>
+		<text>Skarb Mruka</text>
 	</string>
 	<string id="rad_secret_0001_description">
-		<text>Тут погиб какой-то сталкер, хабар до сих пор валяется, никто подобрать не может.</text>
+		<text>Zgin№і tu jakiњ stalker, a do jego rzeczy nikt nie moїe siк dostaж.</text>
 	</string>
 	<string id="rad_secret_0001_name">
-		<text>Хабар мёртвого сталкера</text>
+		<text>Rzeczy martwego stalkera</text>
 	</string>
 	<string id="rad_secret_0002_description">
-		<text>Говорят в лесу полузакопанный сейф есть и там хабара полно.</text>
+		<text>Podobno w lesie jest na wpуі zakopany sejf z towarem w њrodku.</text>
 	</string>
 	<string id="rad_secret_0002_name">
-		<text>Хабар в сейфе</text>
+		<text>Towar w sejfie</text>
 	</string>
 	<string id="rad_secret_0003_description">
-		<text>Говорил им не летать над выжигателем, вот и результат. В середине леса приземлились, вряд ли кто-то выжил. Где-то там и лежит то, что нам передали.</text>
+		<text>Mуwili im, їeby nie lecieli nad Zwкglaczem i zobacz, co siк staіo. Wyl№dowali w њrodku lasu i maіo prawdopodobne, їeby ktoњ przeїyі. Mieliњmy dostaж rzeczy, ktуre przewozili.</text>
 	</string>
 	<string id="rad_secret_0003_name">
-		<text>Посылка Долгу</text>
+		<text>Paczka dla "Powinnoњci"</text>
 	</string>
 	<string id="rad_secret_0004_description">
-		<text>Говорят там остался запас группы, которая пробивалась к центру Зоны, прямо под излучением Выжигателя. Никто из них не вернулся, а запас так и остался дожидаться того, кто его подберет.</text>
+		<text>Podobno rzeczy grupy, ktуra staraіa siк przedrzeж do centrum Zony, ci№gle znajduj№ siк w zasiкgu Zwкglacza. Nikt z nich nie wrуciі, a towar czeka tam, aї go ktoњ zabierze.</text>
 	</string>
 	<string id="rad_secret_0004_name">
-		<text>Запас группы отчаянных</text>
+		<text>Rzeczy lekkomyњlnej grupy</text>
 	</string>
 	<string id="rad_secret_0005_description">
-		<text>Говорят сгинул здесь лидер какой-то бывшей группировки, и хабар у него с собой богатый был.</text>
+		<text>Podobno przywуdca nieistniej№cej juї grupy wykitowaі w tym miejscu, a miaі przy sobie caіkiem wartoњciowy towar.</text>
 	</string>
 	<string id="rad_secret_0005_name">
-		<text>Хабар лидера группировки</text>
+		<text>Rzeczy przywуdcy nieistniej№cej grupy</text>
 	</string>
 	<string id="ros_secret_0000_description">
-		<text>Припрятал рюкзак, за железным листом</text>
+		<text>Schowaіem plecak za їelazn№ pіyt№</text>
 	</string>
 	<string id="ros_secret_0000_name">
-		<text>Спрятанный рюкзак</text>
+		<text>Ukryty plecak</text>
 	</string>
 	<string id="ros_secret_0001_description">
-		<text>Приховал добро под крестом</text>
+		<text>Ukryіem towar pod krzyїem</text>
 	</string>
 	<string id="ros_secret_0001_name">
-		<text>Тайник под крестом</text>
+		<text>Schowek pod krzyїem</text>
 	</string>
 	<string id="ros_secret_0002_description">
-		<text>Спрятал кое-что в ящике, под домиком. Не забыть</text>
+		<text>Schowaіem coњ w skrzyni pod domkiem. Muszк o tym pamiкtaж.</text>
 	</string>
 	<string id="ros_secret_0002_name">
-		<text>Ящик под домиком</text>
+		<text>Skrzynia pod domkiem</text>
 	</string>
 	<string id="ros_secret_0003_description">
-		<text>Сунул рюкзак под ступеньки, а там эти гады появились. Блин, как бы достать?</text>
+		<text>Juї miaіem schowaж plecak pod schodami, kiedy pojawili siк ci kretyni. Kurczк, jak ja go odzyskam?</text>
 	</string>
 	<string id="ros_secret_0003_name">
-		<text>Рюкзак сталкера</text>
+		<text>Plecak stalkera</text>
 	</string>
 	<string id="ros_secret_0004_description">
-		<text>Тут в углу, за деревом сейф полузакопанный, вот тут мое барахлишко и побудет</text>
+		<text>W rogu za drzewem jest na wpуі zakopany sejf. To tam na razie zostawiк rzeczy.</text>
 	</string>
 	<string id="ros_secret_0004_name">
-		<text>Тайник за деревом</text>
+		<text>Schowek za drzewem</text>
 	</string>
 	<string id="ros_secret_0005_description">
-		<text>Все что захватили во время рейда, спрятали в гараже в ящике</text>
+		<text>Wszystko schowali w skrzyni w garaїu, ktуry zajкli w czasie deszczu.</text>
 	</string>
 	<string id="ros_secret_0005_name">
-		<text>Тайник в гараже</text>
+		<text>Schowek w garaїu</text>
 	</string>
 	<string id="ros_secret_0006_description">
-		<text>За будкой в ящике припрятал вещички</text>
+		<text>Schowaіem trochк rzeczy w skrzyni za budk№</text>
 	</string>
 	<string id="ros_secret_0006_name">
-		<text>Спрятанный ящик</text>
+		<text>Ukryta skrzynia</text>
 	</string>
 	<string id="ros_secret_0007_description">
-		<text>Сунул рюкзак в дырку, сверху вроде не заметно</text>
+		<text>Wetkn№іem plecak do dziury. Z gуry nic nie widaж.</text>
 	</string>
 	<string id="ros_secret_0007_name">
-		<text>Рюкзак в тайнике</text>
+		<text>Plecak w schowku</text>
 	</string>
 	<string id="ros_secret_0008_description">
-		<text>Ящичек припрятал в укромном месте</text>
+		<text>Schowaіem skrzynkк w bezpiecznym miejscu</text>
 	</string>
 	<string id="ros_secret_0008_name">
-		<text>Ящик в укромном месте</text>
+		<text>Skrzynia w bezpiecznym miejscu</text>
 	</string>
 	<string id="ros_secret_0009_description">
-		<text>Под крышей лежит мой рюкзак. Это на черный день</text>
+		<text>Mуj plecak jest tuї pod dachem. Trzymam go tam na czarn№ godzinк.</text>
 	</string>
 	<string id="ros_secret_0009_name">
-		<text>Тайник сталкера</text>
+		<text>Schowek stalkera</text>
 	</string>
 	<string id="ros_secret_0010_description">
-		<text>Говорят в этом домике сейф есть, а в нем что-то припрятано</text>
+		<text>Podobno w tamtym domku jest sejf, w ktуrym coњ schowano.</text>
 	</string>
 	<string id="ros_secret_0010_name">
-		<text>Сейф в доме</text>
+		<text>Sejf w domu</text>
 	</string>
 	<string id="ros_secret_0011_description">
-		<text>Спрятал в домике, в трубе. Осторожно там все фонит</text>
+		<text>Schowaіem to w rurze w њrodku domu. Ostroїnie, wszystko siк tam rozsypuje.</text>
 	</string>
 	<string id="ros_secret_0011_name">
-		<text>Тайник в трубе</text>
+		<text>Schowek w rurze</text>
 	</string>
 	<string id="ros_secret_0012_description">
-		<text>О чем договорились, возьмешь в ящичке, туда обычно никто не заглядывает</text>
+		<text>Weџ ze skrzyni to, o czym rozmawialiњmy. Zazwyczaj nikt tam nie zagl№da.</text>
 	</string>
 	<string id="ros_secret_0012_name">
-		<text>Спрятанный ящичек</text>
+		<text>Ukryta skrzynia</text>
 	</string>
 	<string id="ros_secret_0013_description">
-		<text>Под крестом спрятал, в закоулке</text>
+		<text>Schowaіem to pod krzyїem w bocznej uliczce.</text>
 	</string>
 	<string id="ros_secret_0013_name">
-		<text>Тайник под крестом</text>
+		<text>Schowek pod krzyїem</text>
 	</string>
 	<string id="ros_secret_0014_description">
-		<text>Лишние припасы спрятали на стройке, под бетоном</text>
+		<text>Dodatkowy towar schowali pod betonem na budowie.</text>
 	</string>
 	<string id="ros_secret_0014_name">
-		<text>Тайник под бетоном</text>
+		<text>Schowek pod betonem</text>
 	</string>
 	<string id="ros_secret_0015_description">
-		<text>Хабар будем складывать в ящике на стройке, на случай если ноги надо будет уносить</text>
+		<text>Gdybyњmy musieli szybko siк zmyж, wіoїymy іup do skrzyni na budowie.</text>
 	</string>
 	<string id="ros_secret_0015_name">
-		<text>Тайник Счастливчика</text>
+		<text>Schowek Farciarza</text>
 	</string>
 	<string id="ros_secret_0016_description">
-		<text>На стройке спрятал, в закоулке</text>
+		<text>Schowaіem to w jednej z bocznych uliczek na budowie.</text>
 	</string>
 	<string id="ros_secret_0016_name">
-		<text>Нычка</text>
+		<text>Nyczka</text>
 	</string>
 	<string id="ros_secret_0017_description">
-		<text>Запихал все в какую-то трубу, потом заберем</text>
+		<text>Wetkn№іem wszystko do jakiejњ rury - pуџniej po to wrуcк</text>
 	</string>
 	<string id="ros_secret_0017_name">
-		<text>Тайник в трубе</text>
+		<text>Schowek w rurze</text>
 	</string>
 	<string id="ros_secret_0018_description">
-		<text>Недалеко от стройки спрятал медикаменты в ящик</text>
+		<text>Ukryіem leki w skrzyni, niedaleko budowy</text>
 	</string>
 	<string id="ros_secret_0018_name">
-		<text>Ящик с медикаментами</text>
+		<text>Skrzynia z lekami</text>
 	</string>
 	<string id="ros_secret_0019_description">
-		<text>Затащили ящик в кабину крана</text>
+		<text>Zaci№gn№іem skrzyniк do szoferki dџwigu.</text>
 	</string>
 	<string id="ros_secret_0019_name">
-		<text>Ящик на кране</text>
+		<text>Skrzynia w dџwigu</text>
 	</string>
 	<string id="ros_secret_0020_description">
-		<text>В углу, за жд закрыл свое добро в люке</text>
+		<text>Schowaіem swoje rzeczy w studzience w rogu.</text>
 	</string>
 	<string id="ros_secret_0020_name">
-		<text>Тайник в люке</text>
+		<text>Schowek w studzience</text>
 	</string>
 	<string id="ros_secret_0021_description">
-		<text>Полез за артефактом и попал в аномалию, еле иду. Рюкзак скинул, в углу, за жд</text>
+		<text>Szukaj№c artefaktu wpadіem w anomaliк. Ledwo mogіem iњж, wiкc rzuciіem plecak w k№t.</text>
 	</string>
 	<string id="ros_secret_0021_name">
-		<text>Брошенный рюкзак</text>
+		<text>Porzucony plecak</text>
 	</string>
 	<string id="ros_secret_0022_description">
-		<text>Наверху, под крышей возле вышки запихнул ящичек, чтоб никто не заметил</text>
+		<text>Wepchn№іem skrzyniк tuї pod dach, niedaleko wieїy, w taki sposуb, їe nikt jej nie zauwaїy.</text>
 	</string>
 	<string id="ros_secret_0022_name">
-		<text>Ящичек под крышей</text>
+		<text>Niewielka skrzynia pod dachem</text>
 	</string>
 	<string id="ros_secret_0023_description">
-		<text>То, что нашли, спрятали в трубе, недалеко от стройки</text>
+		<text>Wszystko, co znaleџliњmy, ukryliњmy w rurze niedaleko budowy.</text>
 	</string>
 	<string id="ros_secret_0023_name">
-		<text>Тайник в трубе</text>
+		<text>Schowek w rurze</text>
 	</string>
 	<string id="ros_secret_0024_description">
-		<text>Сунул добро в бревно, думаю не найдут</text>
+		<text>Wetkn№іem caіy towar do kіody. Nie s№dzк, їeby mogli go znaleџж.</text>
 	</string>
 	<string id="ros_secret_0024_name">
-		<text>Тайник</text>
+		<text>Schowek</text>
 	</string>
 	<string id="ros_secret_0025_description">
-		<text>Нычканул рюкзак возле крана</text>
+		<text>Zostawiіem plecak przy dџwigu</text>
 	</string>
 	<string id="ros_secret_0025_name">
-		<text>Рюкзак</text>
+		<text>Plecak</text>
 	</string>
 	<string id="val_secret_0000_description">
-		<text>Под крестом, возле горы, закопал хабара чуток</text>
+		<text>Schowaіem czкњж rzeczy pod krzyїem niedaleko gуry</text>
 	</string>
 	<string id="val_secret_0000_name">
-		<text>Тайник под крестом</text>
+		<text>Schowek pod krzyїem</text>
 	</string>
 	<string id="val_secret_0001_description">
-		<text>Сунул добро в бревно, думаю не найдут</text>
+		<text>Wetkn№іem towar do kіody. Nie s№dzк, їeby coњ mieli znaleџж.</text>
 	</string>
 	<string id="val_secret_0001_name">
-		<text>Тайник в бревне</text>
+		<text>Schowek w kіodzie</text>
 	</string>
 	<string id="val_secret_0002_description">
-		<text>Под мост засунул рюкзак, пусть полежит пока</text>
+		<text>Ukryіem plecak pod mostem. Niech tam na razie zostanie.</text>
 	</string>
 	<string id="val_secret_0002_name">
-		<text>Рюкзак под мостом</text>
+		<text>Plecak pod mostem</text>
 	</string>
 	<string id="val_secret_0003_description">
-		<text>Положили ящик в машину возле болота</text>
+		<text>Umieњciіem skrzyniк w samochodzie niedaleko bagna.</text>
 	</string>
 	<string id="val_secret_0003_name">
-		<text>Машина с тайником</text>
+		<text>Schowek w samochodzie</text>
 	</string>
 	<string id="val_secret_0004_description">
-		<text>В пеньке тайник, хорошее место</text>
+		<text>W pniaku jest schowek - to idealne miejsce</text>
 	</string>
 	<string id="val_secret_0004_name">
-		<text>Тайник в пеньке</text>
+		<text>Schowek w pniaku</text>
 	</string>
 	<string id="val_secret_0005_description">
-		<text>На ферме нашел отличный ящик, буду пока там хранить припасы</text>
+		<text>W gospodarstwie znalazіem њwietn№ skrzyniк. Na razie zapasy bкdк tam trzymaі.</text>
 	</string>
 	<string id="val_secret_0005_name">
-		<text>Ящик c припасами</text>
+		<text>Skrzynia z zapasami</text>
 	</string>
 	<string id="val_secret_0006_description">
-		<text>В трубу кинул шмотки, потом заберу</text>
+		<text>Wrzuciіem swoje rzeczy do rury. Pуџniej je zabiorк.</text>
 	</string>
 	<string id="val_secret_0006_name">
-		<text>Тайник в трубе</text>
+		<text>Schowek w rurze</text>
 	</string>
 	<string id="val_secret_0007_description">
-		<text>Спрятал рюкзак под елкой</text>
+		<text>Ukryіem plecak pod sosn№.</text>
 	</string>
 	<string id="val_secret_0007_name">
-		<text>Тайник под елкой</text>
+		<text>Schowek pod sosn№</text>
 	</string>
 	<string id="val_secret_0008_description">
-		<text>Новенький стащил таки ящик у бандитов, положил его в Ниве перевернутой. Говорит по виду вроде правительственный ящик. Надо будет снарядить ребят, забрать его</text>
+		<text>Kot ukradі skrzyniк bandytom. Wіoїyі j№ do Nivy i odwrуciі. Mуwi, їe wygl№da na skrzyniк rz№dow№. Musimy uzbroiж chіopcуw i j№ zabraж.</text>
 	</string>
 	<string id="val_secret_0008_name">
-		<text>Правительственный ящик</text>
+		<text>Skrzynia rz№dowa</text>
 	</string>
 	<string id="val_secret_0009_description">
-		<text>Кругом одно ворье, уже у своих тырят, но мой ящичек не найдут</text>
+		<text>Wszкdzie sіychaж o rabunkach. Kradn№ nawet od swoich... ale mojej skrzyni nigdy nie znajd№.</text>
 	</string>
 	<string id="val_secret_0009_name">
-		<text>Ящик</text>
+		<text>Skrzynia</text>
 	</string>
 	<string id="val_secret_0010_description">
-		<text>В люке схоронил вещи, когда-нибудь пригодятся</text>
+		<text>Schowaіem swoje rzeczy w studzience. Moїe kiedyњ siк przydadz№.</text>
 	</string>
 	<string id="val_secret_0010_name">
-		<text>Тайник в люке</text>
+		<text>Schowek w studzience</text>
 	</string>
 	<string id="val_secret_0011_description">
-		<text>Бросил рюкзак под дерево, иначе не ушел бы от бандитов</text>
+		<text>Rzuciіem plecak pod drzewo. Inaczej nie daіbym rady uciec bandytom.</text>
 	</string>
 	<string id="val_secret_0011_name">
-		<text>Рюкзак сталкера</text>
+		<text>Plecak stalkera</text>
 	</string>
 	<string id="val_secret_0012_description">
-		<text>Барахлишко положил в трубу, потом заберу</text>
+		<text>Schowaіem swoje klamoty w rurze, pуџniej je zabiorк.</text>
 	</string>
 	<string id="val_secret_0012_name">
-		<text>Тайник</text>
+		<text>Schowek</text>
 	</string>
 	<string id="val_secret_0013_description">
-		<text>Все что спер у Борова, припрятал в сейфе, что под елкой. Теперь переждать надо, пока они на нервах все</text>
+		<text>Wszystko, co ukradіem Dzikowi, schowaіem w sejfie pod sosn№. Teraz tylko muszк odczekaж, aї sytuacja siк uspokoi.</text>
 	</string>
 	<string id="val_secret_0013_name">
-		<text>Спрятанный сейф</text>
+		<text>Ukryty sejf</text>
 	</string>
 	<string id="val_secret_0014_description">
-		<text>Временный штаб в вагончике, ящик с припасами там же</text>
+		<text>Tymczasowa kwatera gіуwna jest w wagonie, tak jak i skrzynia z zapasami.</text>
 	</string>
 	<string id="val_secret_0014_name">
-		<text>Склад в вагончике</text>
+		<text>Magazyn w wagonie</text>
 	</string>
 	<string id="val_secret_0015_description">
-		<text>Еле залез в трубу, под дорогой, будет теперь где рюкзак прятать</text>
+		<text>Ledwo mi siк udaіo wejњж do rury pod drog№. Teraz mam miejsce, їeby ukryж plecak.</text>
 	</string>
 	<string id="val_secret_0015_name">
-		<text>Тайное место в трубе</text>
+		<text>Tajne miejsce w rurze</text>
 	</string>
 	<string id="val_secret_0016_description">
-		<text>В ящик закинул добро, потом заберем</text>
+		<text>Wrzuciіem towar do skrzyni - pуџniej go zabiorк.</text>
 	</string>
 	<string id="val_secret_0016_name">
-		<text>Ящик с добром</text>
+		<text>Skrzynia z towarem</text>
 	</string>
 	<string id="val_secret_0017_description">
-		<text>Прячу хабар за трубой. Сложно добираться, зато не стырят</text>
+		<text>Chowam fanty za rur№ - ciкїko siк tam dostaж, ale przynajmniej nikt z nimi nie ucieknie.</text>
 	</string>
 	<string id="val_secret_0017_name">
-		<text>Тайник за трубой</text>
+		<text>Schowek za rur№</text>
 	</string>
 	<string id="val_secret_0018_description">
-		<text>Сныкал патроны в электро-щитке</text>
+		<text>Znalazіem naboje w pomieszczeniu z instalacj№ energetyczn№</text>
 	</string>
 	<string id="val_secret_0018_name">
-		<text>Тайник в электро-щитке</text>
+		<text>Schowek w pomieszczeniu z instalacj№ energetyczn№</text>
 	</string>
 	<string id="val_secret_0019_description">
-		<text>Все что нашли оставили в ящике, будем идти назад заберем</text>
+		<text>Wszystko, co znaleџliњmy, zostawiliњmy w skrzyni. Zabierzemy to w drodze powrotnej.</text>
 	</string>
 	<string id="val_secret_0019_name">
-		<text>Ящик-тайник</text>
+		<text>Schowek w skrzyni</text>
 	</string>
 	<string id="val_secret_0020_description">
-		<text>Заныкали рюкзак новенького, он так и не нашел</text>
+		<text>Schowaіem plecak nowego - nigdy go nie znalazі</text>
 	</string>
 	<string id="val_secret_0020_name">
-		<text>Спрятанный рюкзак</text>
+		<text>Schowany plecak</text>
 	</string>
 	<string id="val_secret_0021_description">
-		<text>В фургоне остался ящик, надо забрать</text>
+		<text>Skrzynia zostaіa w furgonetce - trzeba j№ zabraж.</text>
 	</string>
 	<string id="val_secret_0021_name">
-		<text>Забытый ящик</text>
+		<text>Zapomniana skrzynia</text>
 	</string>
 	<string id="val_secret_0022_description">
-		<text>Нашел сейф на бензоколонке, спрятал там добро, вроде редко кто здесь ходит</text>
+		<text>Na stacji benzynowej znalazіem sejf i schowaіem w nim swуj towar. Wydaje siк, їe nikt tam nie chodzi.</text>
 	</string>
 	<string id="val_secret_0022_name">
-		<text>Сейф на бензоколонке</text>
+		<text>Sejf na stacji benzynowej</text>
 	</string>
 	<string id="val_secret_0023_description">
-		<text>Ящик затащили на цистерну</text>
+		<text>Wci№gn№іem skrzyniк na cysternк</text>
 	</string>
 	<string id="val_secret_0023_name">
-		<text>Ящик</text>
+		<text>Skrzynia</text>
 	</string>
 	<string id="val_secret_0024_description">
-		<text>Спрятал припасы в сейф на бензоколонке</text>
+		<text>Schowaіem zapasy w sejfie na stacji benzynowej</text>
 	</string>
 	<string id="val_secret_0024_name">
-		<text>Сейф на бензоколонке</text>
+		<text>Sejf na stacji benzynowej</text>
 	</string>
 	<string id="val_secret_0025_description">
-		<text>В лагере бандитов, в машине какой-то ящик лежит, надо незаметно пробраться, чую там есть чем разжиться</text>
+		<text>W samochodzie w obozie bandytуw jest jakaњ skrzynia. Musimy siк zakraњж do samochodu i j№ obejrzeж - czujк, їe coњ w niej jest.</text>
 	</string>
 	<string id="val_secret_0025_name">
-		<text>Ящик в машине</text>
+		<text>Skrzynia w samochodzie</text>
 	</string>
 	<string id="val_secret_0026_description">
-		<text>Поставил ящик в тайник, место надежное</text>
+		<text>Ukryіem skrzyniк w schowku - to bezpieczne miejsce.</text>
 	</string>
 	<string id="val_secret_0026_name">
-		<text>Ящик в тайнике</text>
+		<text>Skrzynia w schowku</text>
 	</string>
 	<string id="val_secret_0027_description">
-		<text>Оставил рюкзак в заброшенном здании, хорошо, никого рядом нет</text>
+		<text>Zostawiіem plecak w opuszczonym budynku. Dobrze, їe nikogo nie ma w pobliїu.</text>
 	</string>
 	<string id="val_secret_0027_name">
-		<text>Оставленный рюкзак</text>
+		<text>Pozostawiony plecak</text>
 	</string>
 	<string id="val_secret_0028_description">
-		<text>Добро будем хранить в сейфе, в незаметном месте. Не сегодня завтра военные придут, всем тут фитиль вставят, ну да рыскать долго они не будут, так что самое ценное останется у меня</text>
+		<text>Schowamy towar w sejfie, w miejscu, ktуre nie rzuca siк w oczy. Jeњli їoіnierze nie przybкd№ dzisiaj, to zrobi№ to jutro. Nie bкd№ siк jakoњ wybitnie dіugo rozgl№daж, wiкc najwartoњciowsze rzeczy zostan№ dla mnie.</text>
 	</string>
 	<string id="val_secret_0028_name">
-		<text>Тайник Борова</text>
+		<text>Schowek Dzika</text>
 	</string>
 	<string id="val_secret_0029_description">
-		<text>Рюкзак заныкал возле здания</text>
+		<text>Schowaіem plecak niedaleko budynku</text>
 	</string>
 	<string id="val_secret_0029_name">
-		<text>Рюкзак в тайном месте</text>
+		<text>Plecak w sekretnym miejscu</text>
 	</string>
 	<string id="val_secret_0030_description">
-		<text>Сунул хабар в незаметный ящик, потом заберу</text>
+		<text>Schowaіem towar w nierzucaj№cej siк w oczy skrzyni. Pуџniej go zabiorк.</text>
 	</string>
 	<string id="val_secret_0030_name">
-		<text>Незаметный ящик</text>
+		<text>Niepozorna skrzynia</text>
 	</string>
 	<string id="val_secret_0031_description">
-		<text>Рюкзак спрятал под машиной, туда никто не сунется</text>
+		<text>Ukryіem plecak pod samochodem - nikomu nie przyjdzie do gіowy, їeby tam szukaж.</text>
 	</string>
 	<string id="val_secret_0031_name">
-		<text>Спрятанный рюкзак</text>
+		<text>Ukryty plecak</text>
 	</string>
 	<string id="val_secret_0032_description">
-		<text>Хабар спрятал в машине под боком у бандитов, времени не было искать что получше</text>
+		<text>Schowaіem fanty w samochodzie, tuї pod nosem bandytуw - nie miaіem czasu na szukanie lepszego miejsca.</text>
 	</string>
 	<string id="val_secret_0032_name">
-		<text>Тайник в машине</text>
+		<text>Schowek w samochodzie</text>
 	</string>
 	<string id="x16_secret_0000_description">
-		<text>Слухи ходят что был сталкер, который в эту лабораторию проник и припрятал свой хабар в электрощиток в шахте лифта. А забрать его уже не смог.</text>
+		<text>Chodz№ sіuchy, їe byі pewien stalker, ktуry dostaі siк do laboratorium i schowaі fanty w gniazdkach w szybie windy. A gdy przyszedі czas, їeby je zabraж, nie byі w stanie.</text>
 	</string>
 	<string id="x16_secret_0000_name">
-		<text>Хабар в электрощитке</text>
+		<text>Fanty w gniazdkach elektrycznych</text>
 	</string>
 	<string id="x16_secret_0001_description">
-		<text>Слухи ходят что был сталкер, который в эту лабораторию проник, так он коньки отбросил в районе клеток с подопытными, со всем своим хабаром.</text>
+		<text>Chodz№ sіuchy, їe pewien stalker dostaі siк do tego laboratorium i wykitowaі w miejscu, gdzie przeprowadzali eksperymenty - jego rzeczy podobno ci№gle tam s№.</text>
 	</string>
 	<string id="x16_secret_0001_name">
-		<text>Рюкзак разведчика</text>
+		<text>Plecak zwiadowcy</text>
 	</string>
 	<string id="x18_secret_0000_description">
-		<text>В подземной лаборатории, Копченый все сложил в сейфе. Место неплохое, ни у кого ключей от лаборатории нет. Одна напасть, камни вдруг ни с того ни с сего в воздухе летают, говорили кого-то пришибли</text>
+		<text>Uwкdzony schowaі wszystko w sejfie w podziemnym laboratorium. To caіkiem dobre miejsce - nikt nie ma do niego kluczy. Jedyny problem polega na tym, їe ni st№d, ni zow№d kamienie zaczynaj№ tam њmigaж wokуі. Podobno ktoњ w ten sposуb zgin№і.</text>
 	</string>
 	<string id="x18_secret_0000_name">
-		<text>Тайник Копченого</text>
+		<text>Schowek Uwкdzonego</text>
 	</string>
 	<string id="x18_secret_0001_description">
-		<text>Рюкзак пришлось бросить</text>
+		<text>Musiaіem zostawiж plecak</text>
 	</string>
 	<string id="x18_secret_0001_name">
-		<text>Брошенный рюкзак</text>
+		<text>Porzucony plecak</text>
 	</string>
 	<string id="yan_secret_0000_description">
-		<text>Крест на холме, а под ним тайник.</text>
+		<text>Na wzgуrzu jest krzyї, a pod nim plecak</text>
 	</string>
 	<string id="yan_secret_0000_name">
-		<text>Тайник под крестом</text>
+		<text>Schowek pod krzyїem</text>
 	</string>
 	<string id="yan_secret_0001_description">
-		<text>Говорят на островке среди болота сейф есть, полузакопанный. Надо наведаться.</text>
+		<text>Podobno na niewielkiej wyspie na bagnie jest na wpуі zakopany sejf. Muszк siк czegoњ o nim dowiedzieж.</text>
 	</string>
 	<string id="yan_secret_0001_name">
-		<text>Старый сейф</text>
+		<text>Stary sejf</text>
 	</string>
 	<string id="yan_secret_0002_description">
-		<text>В трубу засунул добро, возле лагеря.</text>
+		<text>Schowaіem fanty w rurze, niedaleko obozu.</text>
 	</string>
 	<string id="yan_secret_0002_name">
-		<text>Труба с добром</text>
+		<text>Rura z towarem</text>
 	</string>
 	<string id="yan_secret_0003_description">
-		<text>За гаражами припрятал хабарок.</text>
+		<text>Schowaіem fanty za garaїami.</text>
 	</string>
 	<string id="yan_secret_0003_name">
-		<text>Рюкзак за гаражами</text>
+		<text>Plecak za garaїami</text>
 	</string>
 	<string id="yan_secret_0004_description">
-		<text>Припрятал рюкзак в будке, прямо за железной хренью.</text>
+		<text>Schowaіem plecak w budce tuї za zіomowiskiem.</text>
 	</string>
 	<string id="yan_secret_0004_name">
-		<text>Рюкзак с добычей</text>
+		<text>Plecak z fantami</text>
 	</string>
 	<string id="yan_secret_0005_description">
-		<text>В автобусе положил ящичек, вроде незаметно.</text>
+		<text>Wіoїyіem skrzyniк do autobusu - nikt nie ma prawa jej zauwaїyж.</text>
 	</string>
 	<string id="yan_secret_0005_name">
-		<text>Тайник в автобусе</text>
+		<text>Schowek w autobusie</text>
 	</string>
 	<string id="yan_secret_0006_description">
-		<text>Хабар спрятан в машине, недалеко от территории. Излучение не очень сильное.</text>
+		<text>Fanty s№ ukryte w samochodzie, niedaleko obszaru. Promieniowanie nie jest zbyt wysokie.</text>
 	</string>
 	<string id="yan_secret_0006_name">
-		<text>Добыча в машине</text>
+		<text>Јupy s№ w samochodzie</text>
 	</string>
 	<string id="yan_secret_0007_description">
-		<text>Говорят, тут хабар чей-то есть, только под излучением не пробраться.</text>
+		<text>Podobno s№ tu czyjeњ fanty, ale nie moїna siк do nich dobraж przez promieniowanie.</text>
 	</string>
 	<string id="yan_secret_0007_name">
-		<text>Старый рюкзак</text>
+		<text>Stary plecak</text>
 	</string>
 	<string id="yan_secret_0008_description">
-		<text>Говорят, тут тайник какой-то группировки, как только они под излучением пробрались?</text>
+		<text>Podobno tutaj znajduje siк schowek jakiejњ frakcji. Zastanawiam siк tylko, jak oni siк tutaj dostali mimo promieniowania?</text>
 	</string>
 	<string id="yan_secret_0008_name">
-		<text>Тайник группировки</text>
+		<text>Schowek frakcji</text>
 	</string>
 	<string id="yan_secret_0009_description">
-		<text>Сгинул очередной сталкер-доброволец, очередной прототип не защитил от излучения. Смог дойти только до середины территории, там и остался. Сахаров хочет замеры более точные сделать, но я не пойду, а то и я там останусь, недалеко от территории.</text>
+		<text>Kolejny stalker ochotnik wykitowaі, poniewaї prototyp nie ochroniі go przed promieniowaniem. Dotarі tylko do њrodka tego obszaru i juї tam zostaі. Sacharow chce przeprowadziж dokіadniejsze pomiary, ale nie ma mowy, їebym tam poszedі. Jeszcze skoсczк tak jak tamten.</text>
 	</string>
 	<string id="yan_secret_0009_name">
-		<text>Рюкзак испытателя</text>
+		<text>Plecak ochotnika</text>
 	</string>
 	<string id="yan_secret_0010_description">
-		<text>Говорят тут хабар чей-то есть, только под излучением не пробраться.</text>
+		<text>Podobno jest tam czyjњ іup, ale nie ma jak siк do niego dostaж z powodu promieniowania.</text>
 	</string>
 	<string id="yan_secret_0010_name">
-		<text>Старый тайник</text>
+		<text>Stary schowek</text>
 	</string>
 	<string id="yan_secret_0011_description">
-		<text>Надо валить. Сахаров и Круглов полные психи, требуют чтоб я отправился с каким-то сталкером в центр излучения. Ну их нафиг, как только соберу все запасы в люке, тут же свалю.</text>
+		<text>Muszк siк st№d wynieњж. Sacharowowi i Krugіowowi caіkiem odbiіo - chc№, їebym z jakimњ stalkerem wszedі do ogniska promieniowania. Pieprzyж ich, jak tylko zabiorк zapasy ze studzienki, spadam st№d.</text>
 	</string>
 	<string id="yan_secret_0011_name">
-		<text>Тайник учёного</text>
+		<text>Schowek naukowca</text>
 	</string>
 	<string id="yan_secret_0012_description">
-		<text>Сунул добро в бревно, думаю, не найдут.</text>
+		<text>Schowaіem towar w kіodzie, nie s№dzк, їeby mogli go znaleџж.</text>
 	</string>
 	<string id="yan_secret_0012_name">
-		<text>Клад в бревне</text>
+		<text>Skarb w kіodzie</text>
 	</string>
 	<string id="yan_secret_0013_description">
-		<text>Говорят тут схрон чей-то, только под излучением не пробраться.</text>
+		<text>Mуwi siк, їe jest tu czyjњ sejf, ale przez promieniowanie nie ma siк jak do niego dobraж.</text>
 	</string>
 	<string id="yan_secret_0013_name">
-		<text>Ящик с добром</text>
+		<text>Skrzynia z fantami</text>
 	</string>
 	<string id="st_found_new_treasure">
-		<text>Информация о схроне</text>
+		<text>Informacje o schowku</text>
 	</string>
 </string_table>
+

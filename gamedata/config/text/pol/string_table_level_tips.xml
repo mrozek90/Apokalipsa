@@ -10,31 +10,31 @@
 		<text>Rozmawiaj ($$ACTION_USE$$)</text>
 	</string>
 	<string id="dead_character_use_or_drag">
-		<text>Przeszukaj cia³o ($$ACTION_USE$$) \n Przeci¹gnij cia³o (SHIFT+$$ACTION_USE$$)</text>
+		<text>Przeszukaj zw³oki ($$ACTION_USE$$) \n Przenieœ zw³oki (SHIFT+$$ACTION_USE$$)</text>
 	</string>
 	<string id="dead_character_use">
-		<text>Przeszukaj cia³o ($$ACTION_USE$$)</text>
+		<text>Przeszukaj zw³oki ($$ACTION_USE$$)</text>
 	</string>
 	<string id="general_complete_task">
-		<text>Zadanie wykonane:</text>
+		<text>Zadanie zakoñczone:</text>
 	</string>
 	<string id="general_fail_task">
-		<text>Zadanie nie powiod³o siê:</text>
+		<text>Zadanie nieudane:</text>
 	</string>
 	<string id="general_help">
-		<text>Szybko! Potrzebujê apteczki! Umieram!</text>
+		<text>Pilnie potrzebujê apteczki, umieram!</text>
 	</string>
 	<string id="general_in_item">
-		<text>Otrzymany przedmiot:</text>
+		<text>Otrzymano przedmiot:</text>
 	</string>
 	<string id="general_in_money">
-		<text>Otrzymane pieni¹dze:</text>
+		<text>Otrzymano pieni¹dze:</text>
 	</string>
 	<string id="general_new_diary">
-		<text>Nowy wpis w dzienniku.</text>
+		<text>Nowy wpis do dziennika.</text>
 	</string>
 	<string id="general_new_encyclopedy">
-		<text>Nowe has³o w encyklopedii.</text>
+		<text>Nowy artyku³ w encyklopedii.</text>
 	</string>
 	<string id="general_new_task">
 		<text>Nowe zadanie:</text>
@@ -46,10 +46,10 @@
 		<text>Utracone pieni¹dze:</text>
 	</string>
 	<string id="general_update_task">
-		<text>Nowe informacje o zadaniu:</text>
+		<text>Zaktualizowano zadanie:</text>
 	</string>
 	<string id="physic_shell_use">
-		<text>Przesuñ obiekt ($$ACTION_USE$$)</text>
+		<text>Przesuñ przedmiot ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_codelock">
 		<text>Zamek szyfrowy ($$ACTION_USE$$)</text>
@@ -58,10 +58,10 @@
 		<text>Do Czarnobylskiej Elektrowni J¹drowej</text>
 	</string>
 	<string id="to_agroprom">
-		<text>Na Agroprom</text>
+		<text>Do Agropromu</text>
 	</string>
 	<string id="to_agroprom_underground">
-		<text>Do katakumb</text>
+		<text>Do podziemi</text>
 	</string>
 	<string id="to_bar">
 		<text>Do Baru</text>
@@ -70,13 +70,13 @@
 		<text>Do Doliny Mroku</text>
 	</string>
 	<string id="to_escape">
-		<text>Na Kordon</text>
+		<text>Do Kordonu</text>
 	</string>
 	<string id="to_garbage">
 		<text>Na Wysypisko</text>
 	</string>
 	<string id="to_military">
-		<text>Na Magazyny</text>
+		<text>Do Magazynów</text>
 	</string>
 	<string id="to_pripyat">
 		<text>Do Prypeci</text>
@@ -91,13 +91,13 @@
 		<text>Nad Jantar</text>
 	</string>
 	<string id="st_helmet_countdown">
-		<text>Wy³¹czenie ochrony</text>
+		<text>Wy³¹czanie ochrony</text>
 	</string>
 	<string id="st_psy_danger">
-		<text>Krytyczny poziom emisji psionicznych. Natychmiast opuœæ niebezpieczn¹ strefê.</text>
+		<text>Krytyczny poziom promieniowania PSI. Natychmiast opuœæ strefê zagro¿enia.</text>
 	</string>
 	<string id="st_radiation_danger">
-		<text>Niebezpieczny poziom promieniowania. ¯eby przejœæ, konieczna jest ochrona.</text>
+		<text>Niebezpieczny poziom promieniowania. Potrzebujesz ochrony, ¿eby siê przedostaæ.</text>
 	</string>
 	<string id="st_found_new_pda">
 		<text>Zdobyte informacje:</text>

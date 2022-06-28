@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding="windows-1250"?>
 
 <xml>
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
 
 	<specific_character id="stalker_esc_bariga" team_default = "1">
 		<name>Stalker "Handlarz"</name>
@@ -16,7 +16,7 @@
 
 		<class>stalker_esc_bariga</class>
 		<community>stranger</community>
-		
+
 		<rank>20</rank>
 		<reputation>0</reputation>
 
@@ -29,12 +29,12 @@
 			ammo_12x70_buck = 1 \n
 			device_torch \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"				
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>escape_lager_hlam_hello</start_dialog>
 		<actor_dialog>escape_lager_hlam_talk_people</actor_dialog>
 	</specific_character>
 
-<!---------------------------STALKER NOVICE----------------------->
+<!--STALKER NOVICE-->
 	<specific_character id="stalker_novice_default1" team_default = "1">
 		<name>Nieznany nowicjusz</name>
 		<icon x="20" y="2"></icon>
@@ -43,7 +43,7 @@
 
 		<class>Stalker_novice</class>
 		<community>stranger</community>
-		
+
 		<rank>20</rank>
 		<reputation>0</reputation>
 
@@ -54,7 +54,7 @@
 			ammo_9x18_fmj = 1 \n
 			device_torch \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"				
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>escape_lager_access</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -68,7 +68,7 @@
 
 		<class>Stalker_novice</class>
 		<community>stranger</community>
-		
+
 		<rank>20</rank>
 		<reputation>0</reputation>
 
@@ -79,7 +79,7 @@
 			ammo_9x18_fmj = 1 \n
 			device_torch \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"		
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>escape_lager_access</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -93,7 +93,7 @@
 
 		<class>Stalker_novice</class>
 		<community>stranger</community>
-		
+
 		<rank>20</rank>
 		<reputation>0</reputation>
 
@@ -106,9 +106,9 @@
 			wpn_toz34 \n
 			ammo_12x70_buck \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"				
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
-		<actor_dialog>escape_lager_access</actor_dialog>	
+		<actor_dialog>escape_lager_access</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 	</specific_character>
 
@@ -120,7 +120,7 @@
 
 		<class>Stalker_novice</class>
 		<community>stranger</community>
-		
+
 		<rank>20</rank>
 		<reputation>0</reputation>
 
@@ -129,7 +129,7 @@
 			[spawn] \n
 			wpn_fort \n
 			ammo_9x18_fmj = 1 \n
-			device_torch \n		
+			device_torch \n
 		</supplies>
 #include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
@@ -145,7 +145,7 @@
 
 		<class>Stalker_novice</class>
 		<community>stranger</community>
-		
+
 		<rank>20</rank>
 		<reputation>0</reputation>
 
@@ -156,7 +156,7 @@
 			ammo_9x18_fmj = 1 \n
 			device_torch \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"		
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>escape_lager_access</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -170,7 +170,7 @@
 
 		<class>Stalker_novice</class>
 		<community>stranger</community>
-		
+
 		<rank>20</rank>
 		<reputation>0</reputation>
 
@@ -181,9 +181,9 @@
 			ammo_9x18_fmj = 1 \n
 			device_torch \n
 			wpn_toz34 \n
-			ammo_12x70_buck \n			
+			ammo_12x70_buck \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"		
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>escape_lager_access</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -197,7 +197,7 @@
 
 		<class>Stalker_novice</class>
 		<community>stranger</community>
-		
+
 		<rank>20</rank>
 		<reputation>0</reputation>
 
@@ -208,7 +208,7 @@
 			ammo_9x18_fmj = 1 \n
 			device_torch \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"		
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>escape_lager_access</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -222,7 +222,7 @@
 
 		<class>Stalker_novice</class>
 		<community>stranger</community>
-		
+
 		<rank>20</rank>
 		<reputation>0</reputation>
 
@@ -233,13 +233,13 @@
 			ammo_9x18_fmj = 1 \n
 			device_torch \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"		
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>escape_lager_access</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 	</specific_character>
 
-<!---------------------------STALKER GENERAL---------------------->
+<!--STALKER GENERAL-->
 	<specific_character id="stalker_general_default1" team_default = "1">
 		<name>Stalker</name>
 		<icon x="2" y="2"></icon>
@@ -248,7 +248,7 @@
 
 		<class>Stalker_general</class>
 		<community>stalker</community>
-		
+
 		<rank>40</rank>
 		<reputation>0</reputation>
 
@@ -262,7 +262,7 @@
 			device_torch \n
 #include "gameplay\character_items.xml"
 		</supplies>
-	#include "gameplay\character_dialogs.xml"			
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>agr_stalker_talk_level</actor_dialog>
@@ -281,7 +281,7 @@
 
 		<class>Stalker_general</class>
 		<community>stalker</community>
-		
+
 		<rank>40</rank>
 		<reputation>0</reputation>
 
@@ -295,7 +295,7 @@
 			device_torch \n
 #include "gameplay\character_items.xml"
 		</supplies>
-	#include "gameplay\character_dialogs.xml"			
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>agr_stalker_talk_level</actor_dialog>
@@ -313,7 +313,7 @@
 
 		<class>Stalker_general</class>
 		<community>stalker</community>
-		
+
 		<rank>40</rank>
 		<reputation>0</reputation>
 
@@ -345,7 +345,7 @@
 
 		<class>Stalker_general</class>
 		<community>stalker</community>
-		
+
 		<rank>40</rank>
 		<reputation>0</reputation>
 
@@ -368,7 +368,7 @@
 		<actor_dialog>gar_stalker_about_level</actor_dialog>
 		<actor_dialog>agr_stalker_esc</actor_dialog>
 	</specific_character>
-	
+
 	<specific_character id="stalker_general_default5" team_default = "1">
 		<name>Stalker</name>
 		<icon x="2" y="2"></icon>
@@ -377,7 +377,7 @@
 
 		<class>Stalker_general</class>
 		<community>stalker</community>
-		
+
 		<rank>40</rank>
 		<reputation>0</reputation>
 
@@ -400,8 +400,8 @@
 		<actor_dialog>gar_stalker_about_level</actor_dialog>
 		<actor_dialog>agr_stalker_esc</actor_dialog>
 	</specific_character>
-	
-<!---------------------------STALKER VETERAN---------------------->
+
+<!--STALKER VETERAN-->
 	<specific_character id="stalker_veteran_default1" team_default = "1">
 		<name>Weteran</name>
 		<icon x="2" y="2"></icon>
@@ -410,7 +410,7 @@
 
 		<class>Stalker_veteran</class>
 		<community>stalker</community>
-			
+
 		<rank>70</rank>
 		<reputation>0</reputation>
 
@@ -424,7 +424,7 @@
 			device_torch \n
 #include "gameplay\character_items.xml"
 		</supplies>
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>gar_stalker_about_level</actor_dialog>
@@ -441,7 +441,7 @@
 
 		<class>Stalker_veteran</class>
 		<community>stalker</community>
-			
+
 		<rank>70</rank>
 		<reputation>0</reputation>
 
@@ -455,7 +455,7 @@
 			device_torch \n
 #include "gameplay\character_items.xml"
 		</supplies>
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>gar_stalker_about_level</actor_dialog>
@@ -472,7 +472,7 @@
 
 		<class>Stalker_veteran</class>
 		<community>stalker</community>
-		
+
 		<rank>70</rank>
 		<reputation>0</reputation>
 
@@ -486,7 +486,7 @@
 			device_torch \n
 #include "gameplay\character_items.xml"
 		</supplies>
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>gar_stalker_about_level</actor_dialog>
@@ -503,7 +503,7 @@
 
 		<class>Stalker_veteran</class>
 		<community>stalker</community>
-	
+
 		<rank>70</rank>
 		<reputation>0</reputation>
 
@@ -517,7 +517,7 @@
 			device_torch \n
 #include "gameplay\character_items.xml"
 		</supplies>
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>gar_stalker_about_level</actor_dialog>
@@ -534,7 +534,7 @@
 
 		<class>Stalker_veteran</class>
 		<community>stalker</community>
-			
+
 		<rank>70</rank>
 		<reputation>0</reputation>
 
@@ -548,7 +548,7 @@
 			device_torch \n
 #include "gameplay\character_items.xml"
 		</supplies>
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>gar_stalker_about_level</actor_dialog>
@@ -557,17 +557,17 @@
 
 	</specific_character>
 
-<!---------------------------STALKER MASTER----------------------->
+<!--STALKER MASTER-->
 	<specific_character id="stalker_master_default1" team_default = "1">
 		<name>Mistrz</name>
 		<icon x="10" y="0"></icon>
 		<map_icon x="1" y="0"></map_icon>
-		<bio>Jeden z weteranów Zony. Ten stalker zna Zonę jak własne pięć palców. 
+		<bio>Jeden z weteranów Zony. Ten stalker zna Zonę jak własną kieszeń.
         Zazwyczaj dobrze wyposażony i bardzo groźny. Brak szczegółowych informacji.</bio>
 
 		<class>Stalker_master</class>
 		<community>stalker</community>
-		
+
 		<rank>95</rank>
 		<reputation>0</reputation>
 
@@ -581,7 +581,7 @@
 			device_torch \n
 #include "gameplay\character_items.xml"
 		</supplies>
-#include "gameplay\character_dialogs.xml"						
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>gar_stalker_about_level</actor_dialog>
@@ -594,12 +594,12 @@
 		<name>Mistrz</name>
 		<icon x="10" y="0"></icon>
 		<map_icon x="1" y="0"></map_icon>
-		<bio>Jeden z weteranów Zony. Ten stalker zna Zonę jak własne pięć palców. 
+		<bio>Jeden z weteranów Zony. Ten stalker zna Zonę jak własną kieszeń.
         Zazwyczaj dobrze wyposażony i bardzo groźny. Brak szczegółowych informacji.</bio>
 
 		<class>Stalker_master</class>
 		<community>stalker</community>
-		
+
 		<rank>95</rank>
 		<reputation>0</reputation>
 
@@ -613,7 +613,7 @@
 			device_torch \n
 #include "gameplay\character_items.xml"
 		</supplies>
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>gar_stalker_about_level</actor_dialog>
@@ -626,12 +626,12 @@
 		<name>Mistrz</name>
 		<icon x="10" y="0"></icon>
 		<map_icon x="1" y="0"></map_icon>
-		<bio>Jeden z weteranów Zony. Ten stalker zna Zonę jak własne pięć palców. 
+		<bio>Jeden z weteranów Zony. Ten stalker zna Zonę jak własną kieszeń.
         Zazwyczaj dobrze wyposażony i bardzo groźny. Brak szczegółowych informacji.</bio>
 
 		<class>Stalker_master</class>
 		<community>stalker</community>
-		
+
 		<rank>95</rank>
 		<reputation>0</reputation>
 
@@ -658,12 +658,12 @@
 		<name>Mistrz</name>
 		<icon x="20" y="8"></icon>
 		<map_icon x="1" y="0"></map_icon>
-		<bio>Jeden z weteranów Zony. Ten stalker zna Zonę jak własne pięć palców. 
+		<bio>Jeden z weteranów Zony. Ten stalker zna Zonę jak własną kieszeń.
         Zazwyczaj dobrze wyposażony i bardzo groźny. Brak szczegółowych informacji.</bio>
 
 		<class>Stalker_master</class>
 		<community>stalker</community>
-				
+
 		<rank>95</rank>
 		<reputation>0</reputation>
 
@@ -677,25 +677,25 @@
 			device_torch \n
 #include "gameplay\character_items.xml"
 		</supplies>
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>gar_stalker_about_level</actor_dialog>
 		<actor_dialog>agr_stalker_talk_level</actor_dialog>
 		<actor_dialog>agr_stalker_talk_about_ratcatcher</actor_dialog>
 
-	</specific_character>	
+	</specific_character>
 
 	<specific_character id="stalker_master_default5" team_default = "1">
 		<name>Mistrz</name>
 		<icon x="20" y="8"></icon>
 		<map_icon x="1" y="0"></map_icon>
-		<bio>Jeden z weteranów Zony. Ten stalker zna Zonę jak własne pięć palców. 
+		<bio>Jeden z weteranów Zony. Ten stalker zna Zonę jak własną kieszeń.
         Zazwyczaj dobrze wyposażony i bardzo groźny. Brak szczegółowych informacji.</bio>
 
 		<class>Stalker_master</class>
 		<community>stalker</community>
-		
+
 		<rank>95</rank>
 		<reputation>0</reputation>
 
@@ -709,16 +709,16 @@
 			device_torch \n
 #include "gameplay\character_items.xml"
 		</supplies>
-#include "gameplay\character_dialogs.xml"			
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>gar_stalker_about_level</actor_dialog>
 		<actor_dialog>agr_stalker_talk_level</actor_dialog>
 		<actor_dialog>agr_stalker_talk_about_ratcatcher</actor_dialog>
 
-	</specific_character>	
+	</specific_character>
 
-<!--	
+
 	<specific_character id="stalker_demon">
 		<name>Oleg "Demon" Gusarow</name>
 		<icon x="0" y="0"></icon>
@@ -730,7 +730,7 @@
 		<reputation>70</reputation>
 
 		<visual>actors\neytral\stalker_neytral_hood_9</visual>
-			
+
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -747,7 +747,7 @@
 		<reputation>60</reputation>
 
 		<visual>actors\soldier\soldier_bandana_2</visual>
-			
+
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -764,7 +764,7 @@
 		<reputation>25</reputation>
 
 		<visual>actors\soldier\soldier_bandana_4</visual>
-			
+
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -774,8 +774,8 @@
 		<name>Wampir</name>
 		<icon x="0" y="0"></icon>
 		<map_icon x="0" y="0"></map_icon>
-		<bio>Niewiarygodnie fartowny stalker. Wielokrotnie jego grupa znajdowała się o włos 
-		od śmierci, i zawsze on był jedynym, któremu udało się uratować. U stalkerów dorobił 
+		<bio>Niewiarygodnie fartowny stalker. Wielokrotnie jego grupa znajdowała się o włos
+		od śmierci, i zawsze on był jedynym, któremu udało się uratować. U stalkerów dorobił
 		się stałej sławy "jonasza". Od pewnego czasu wszędzie chodzi w pojedynkę.</bio>
 
 		<team>Stalker</team>
@@ -783,7 +783,7 @@
 		<reputation>10</reputation>
 
 		<visual>actors\soldier\soldier_bandana_5</visual>
-			
+
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -804,7 +804,7 @@
 		<reputation>90</reputation>
 
 		<visual>actors\soldier\soldier_beret</visual>
-			
+
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -815,7 +815,7 @@
 		<icon x="0" y="0"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Na co dzień
-		flegmatyk, nie okazuje swoich emocji, spokojny. Jednakże pod wpływem silnych wrażeń 
+		flegmatyk, nie okazuje swoich emocji, spokojny. Jednakże pod wpływem silnych wrażeń
 		staje się zapalczywy, agresywny. Materialista. Strasznie żałuje tego, że trafił do Zony.
 		Po skończeniu instytutu medycznego, był wysłany do Zony, gdzie obóz uczonych potrzebował
 		asystenta neurochirurga. Preparuje mózgi mutantów i bada ich psychokinetyczne
@@ -827,7 +827,7 @@
 		<reputation>40</reputation>
 
 		<visual>actors\soldier\soldier_beret_1</visual>
-			
+
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -843,13 +843,13 @@
 		nigdy sam, najczęściej przykleja się do grup stalkerów. Ale mało kto zgadza się
 		go brać, bo jest tylko zbędnym balastem. Towar zbiera bardzo rzadko. Żyje na
 		łasce innych stalkerów i stale tonie w długach.</bio>
-		
+
 		<team>Stalker</team>
 		<rank>20</rank>
 		<reputation>10</reputation>
 
 		<visual>actors\soldier\soldier_beret_2</visual>
-			
+
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -860,19 +860,19 @@
 		<icon x="0" y="0"></icon>
 		<map_icon x="0" y="0"></map_icon>
 		<bio>Okrutny, zły, nieokrzesany,
-		egoistyczny, bezwzględny, nieczuły, zimny. Nikt nie wie, Kiedy i jak trafił 
+		egoistyczny, bezwzględny, nieczuły, zimny. Nikt nie wie, Kiedy i jak trafił
 		do Zony. Boją się go i nie lubią. W Zonie po prostu żyje, nie ma ani
 		przyszłości, ani przeszłości. Po jednej ze swoich częstych wypraw w Zonę
 		stracił pamięć i dużo zapomniał. Nie pamięta, skąd jest, nie pamięta swojego
 		prawdziwego imienia, ma duże luki w pamięci. Na przykład, może zapomnieć nowego
 		znajomego w godzinę po poznaniu, i zabić go, wziąwszy za wroga.</bio>
-		
+
 		<team>Stalker</team>
 		<rank>70</rank>
 		<reputation>10</reputation>
 
 		<visual>actors\soldier\soldier_beret_3</visual>
-			
+
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -882,18 +882,18 @@
 		<name>Barin</name>
 		<icon x="0" y="0"></icon>
 		<map_icon x="0" y="0"></map_icon>
-		<bio>Cham, wazeliniarz, obłudnik, tchórz. Za życiowe kredo Panicza można 
-		byłoby przyjąć frazę: po nas - choćby potop. Ze wszystkiego stara się 
-		wyciągnąć korzyść. Przy tym bardzo ambitny i obraźliwy. Do Zony 
+		<bio>Cham, wazeliniarz, obłudnik, tchórz. Za życiowe kredo Panicza można
+		byłoby przyjąć frazę: po nas - choćby potop. Ze wszystkiego stara się
+		wyciągnąć korzyść. Przy tym bardzo ambitny i obraźliwy. Do Zony
 		przyjechał, jak by to nie banalnie brzmiało, za pieniędzmi. I już drugi rok
 		w Zonie zajmuje się zdobywaniem dóbr materialnych wszelkimi sposobami.</bio>
-		
+
 		<team>Stalker</team>
 		<rank>60</rank>
 		<reputation>20</reputation>
 
 		<visual>actors\soldier\soldier_beret_4</visual>
-			
+
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -909,19 +909,19 @@
 		i sam sobie obiecał - dwa miesiące w Zonie, i do domu. Ale jakoś został.
 		Podczas pierwszego wyjścia w Zonę udało mu się przejść bez przyrząów po polu,
 		usianym anomaliami, w ogóle o nich nie wiedząc. Kiedy mu o tym powiedzieli,
-		długo nie mógł przyjść do siebie. Od tej pory uważa ten dzień (9 października), 
+		długo nie mógł przyjść do siebie. Od tej pory uważa ten dzień (9 października),
 		za dzień swoich powtórnych narodzin.</bio>
-		
+
 		<team>Stalker</team>
 		<rank>50</rank>
 		<reputation>20</reputation>
-			
+
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 	</specific_character>
 
-<!---------------------------STALKER SNIPER----------------------->
+<!--STALKER SNIPER-->
 	<specific_character id="stalker_sniper" team_default = "1">
 		<name>Mistrz</name>
 		<icon x="10" y="0"></icon>
@@ -930,7 +930,7 @@
 
 		<class>Stalker_sniper</class>
 		<community>stalker</community>
-		
+
 		<rank>50</rank>
 		<reputation>0</reputation>
 
@@ -943,7 +943,7 @@
 			ammo_7.62x54_7h14 = 1 \n
 			device_torch \n
 		</supplies>
-#include "gameplay\character_dialogs.xml"						
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>gar_stalker_about_level</actor_dialog>
@@ -951,5 +951,5 @@
 		<actor_dialog>agr_stalker_talk_about_ratcatcher</actor_dialog>
 
 	</specific_character>
-	-->
+	
 </xml>

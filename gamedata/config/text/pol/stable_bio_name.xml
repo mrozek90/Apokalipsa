@@ -12,7 +12,7 @@
 		<text>Stalker z frakcji Monolit. Brak szczegó³owych danych. </text>
 	</string>
 	<string id="aes_Monolit_specnaz_bio">
-		<text>Bojownik z frakcji Monolit. Dobrze wyposa¿ony. Brak szczegó³owych danych. </text>
+		<text>Wojownik z frakcji Monolit. Dobrze wyposa¿ony. Brak szczegó³owych danych. </text>
 	</string>
 	<string id="aes_Soldier_commander_bio">
 		<text>Dowódca oddzia³u szturmowego.</text>
@@ -303,7 +303,7 @@
 		<text>Doœwiadczony stalker. Brak szczegó³owych danych.</text>
 	</string>
 	<string id="mil_Dolg_specnaz_bio">
-		<text>Bojownik z frakcji "Powinnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
+		<text>Wojownik z frakcji "Powinnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
 	</string>
 	<string id="mil_Dolg_specnaz_cherep_bio">
 		<text>Dowódca si³ specjalnych frakcji "Powinnoœæ". Zazwyczaj dobrze wyposa¿ony.</text>
@@ -312,7 +312,7 @@
 		<text>Czacha</text>
 	</string>
 	<string id="mil_Dolg_specnaz_silence_bio">
-		<text>Bojownik z frakcji "Powinnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
+		<text>Wojownik z frakcji "Powinnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
 	</string>
 	<string id="mil_Killer_informator_bio">
 		<text>Kapuœ znany doskonale w ca³ej Zonie.</text>
@@ -390,7 +390,7 @@
 		<text>Snajper z frakcji "Wolnoœæ". Brak szczegó³owych danych.</text>
 	</string>
 	<string id="mil_Svoboda_specnaz_bio">
-		<text>Bojownik z frakcji "Wolnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych..</text>
+		<text>Wojownik z frakcji "Wolnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych..</text>
 	</string>
 	<string id="mil_Svoboda_stukach_bio">
 		<text>Stalker z frakcji "Wolnoœæ". Brak szczegó³owych danych. </text>
@@ -411,7 +411,7 @@
 		<text>Szalony stalker</text>
 	</string>
 	<string id="mil_Svoboda_zoneguard_bio">
-		<text>Bojownik z frakcji "Wolnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych</text>
+		<text>Wojownik z frakcji "Wolnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych</text>
 	</string>
 	<string id="pri_followers_bomber_name">
 		<text>Sasza Bie³y</text>
@@ -468,7 +468,7 @@
 		<text>Stalker z frakcji Monolit. Brak szczegó³owych danych.</text>
 	</string>
 	<string id="rad_monolith_specnaz_bio">
-		<text>Bojownik z frakcji Monolit. Dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
+		<text>Wojownik z frakcji Monolit. Dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
 	</string>
 	<string id="rad_specnaz_bio">
 		<text>Specnaz. Dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
@@ -675,13 +675,13 @@
 		<text>Stalker z frakcji "Powinnoœæ". Brak szczegó³owych danych. </text>
 	</string>
 	<string id="sim_dolg_sniper_bio">
-		<text>Bojownik z frakcji "Powinnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
+		<text>Wojownik z frakcji "Powinnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
 	</string>
 	<string id="sim_dolg_veteran_barin_bio">
 		<text>£ajdak, wazeliniarz, hipokryta i na dodatek tchórz. Motto Barina mog³oby równie dobrze brzmieæ: "Po nas choæby potop". Wykorzysta ka¿d¹ nadarzaj¹c¹ siê okazjê. Chorobliwie ambitny i dra¿liwy. Do Zony przyby³ - co nie dziwi - dla pieniêdzy. Ju¿ od dwóch lat gromadzi maj¹tek wszelkimi dostêpnymi sposobami.</text>
 	</string>
 	<string id="sim_dolg_veteran_bio">
-		<text>Bojownik z frakcji "Powinnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
+		<text>Wojownik z frakcji "Powinnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
 	</string>
 	<string id="sim_dolg_veteran_prapor_bio">
 		<text>Oficjalny werbownik ukraiñskiej s³u¿by bezpieczeñstwa. Czêsty goœæ w barze. Wszyscy go znaj¹ i wszyscy wiedz¹, ¿e gdy bieda przyciœnie, mo¿na zwróciæ siê w³aœnie do niego. Jednak gdy ju¿ raz siê tê liniê przekroczy, nie ma powrotu w szeregi uczciwych stalkerów.</text>
@@ -783,7 +783,7 @@
 		<text>Stalker z frakcji "Wolnoœæ". Brak szczegó³owych danych.</text>
 	</string>
 	<string id="sim_Svoboda_specnaz_bio">
-		<text>Bojownik z frakcji "Wolnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
+		<text>Wojownik z frakcji "Wolnoœæ". Zazwyczaj dobrze wyposa¿ony. Brak szczegó³owych danych.</text>
 	</string>
 	<string id="sim_Svoboda_specnaz_leshii_bio">
 		<text>Leszy, jak wo³a na niego brat, przyby³ do Zony jako m³ody idealista, lecz po kilku latach ¿ycia o w³os od œmierci zmieni³ siê w cynicznego realistê. Uwa¿a Zonê za swój dom, a ci, którzy zawiedli, s¹ dlañ niegodni, ¿eby st¹paæ po powierzchni ziemi.</text>
@@ -947,7 +947,7 @@
 	<string id="mehanik">
 		<text>Wowa mechanik</text>
 	</string>
-	
+
 	<string id="n_1">
 		<text>Funkcjona³</text>
 	</string>
@@ -1092,4 +1092,3 @@
 	<string id="head_hunter_veteran">
 		<text>£owca samotnik</text>
 	</string>
-	

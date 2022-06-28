@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 
-<cheat>	
+<cheat>
 	<background x="0" y="0" width="400" height="340" stretch="1">
 		<texture x="0" y="0" width="350" height="460">ui\ui_dg_inventory</texture>
 	</background>
 
 	<caption x="175" y="175" width="50" height="35">
-		<text font="letterica18">Введите здесь название для сохраняемых координат.</text>
+		<text font="letterica18">Wpisz tutaj nazwк zapisanych wspуіrzкdnych.</text>
 	</caption>
-	
+
 	<caption2 x="175" y="185" width="50" height="35">
-		<text font="letterica18" r="255" g="255" b="0">Название не должно содержать больше 30 символов!!! </text>
+		<text font="letterica18" r="255" g="255" b="0">Nazwa nie powinna zawieraж wiкcej niї 30 znakуw!</text>
 	</caption2>
-	
+
 	<btn_1 x="40" y="270" width="117" height="29">
 	<texture_e>ui_button_ordinary_e</texture_e>
 	<texture_t>ui_button_ordinary_t</texture_t>

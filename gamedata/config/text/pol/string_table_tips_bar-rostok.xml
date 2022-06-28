@@ -35,7 +35,7 @@
 		<text>Uwaga! Uwaga! Za chwilê na Arenie rozpocznie siê nowa walka! W lewym naro¿niku najgorszy koszmar Zony - wiecznie g³odna pijawka! A w prawym... Cz³owiek? Tak, to cz³owiek! Oklaski dla Naznaczonego!</text>
 	</string>
 	<string id="bar_arena_fight_burer">
-		<text>Uwaga! Uwaga! Za chwilê na Arenie rozpocznie siê nowa walka! W lewym naro¿niku potrafi¹cy zginaæ ³y¿eczki si³¹ woli mistrz kung-fu we w³asnej osobie - burer! A w prawym naro¿niku - cz³owiek, który ca³y czas ma siê na bacznoœci! Zw¹ go Naznaczonym!</text>
+		<text>Uwaga! Uwaga! Za chwilê na Arenie rozpocznie siê nowa walka! W lewym naro¿niku potrafi¹cy zginaæ ³y¿eczki si³¹ woli, mistrz kung-fu we w³asnej osobie - burer! A w prawym naro¿niku - cz³owiek, który ca³y czas ma siê na bacznoœci! Zw¹ go Naznaczonym!</text>
 	</string>
 	<string id="bar_arena_fight_dead">
 		<text>Hm! Wyzywaj¹cy zosta³ zabity! A to niespodzianka!</text>
@@ -62,13 +62,13 @@
 		<text>Jak sobie ¿yczysz.</text>
 	</string>
 	<string id="bar_ecolog_crush_attract_actor">
-		<text>Proszê, nie odchodŸ, przyjacielu! Pomó¿ nam! Anarchiœci zestrzelili nasz helikopter i teraz chc¹ nas wykoñczyæ. Mamy rannych! Potrzebujemy twojej pomocy!</text>
+		<text>Stalkerze, przyjacielu! B³agam, nie odchodŸ, pomó¿ nam! Anarchiœci zestrzelili nasz helikopter i teraz chc¹ nas wykoñczyæ. Mamy rannych! Potrzebujemy twojej pomocy!</text>
 	</string>
 	<string id="bar_ecolog_crush_heli_down">
-		<text>Ha! I gdzie teraz wasz œmig³owiec, wy szczury rz¹dowe? Wybi³a wasza godzina!</text>
+		<text>He-he, i po wszystkim. Nie ma ju¿ waszego œmig³owca! Teraz kolej na was, wy szczury rz¹dowe!</text>
 	</string>
 	<string id="bar_ecolog_crush_start_heli">
-		<text>Tym razem naprawdê przesadzi³eœ, Wilczarzu. Leci ju¿ tu wojskowy œmig³owiec. Zrobi¹ z ciebie sieczkê!</text>
+		<text>Tym razem ju¿ przesadzi³eœ, Wilczarz. Leci tu wojskowy œmig³owiec. Wystrzelaj¹ was jak kaczki!</text>
 	</string>
 	<string id="bar_ecolog_escape">
 		<text>Krug³ow uciek³! ZnajdŸ go! Nie móg³ uciec daleko!</text>

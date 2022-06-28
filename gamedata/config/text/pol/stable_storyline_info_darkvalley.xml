@@ -4,7 +4,7 @@
 		<text>Barman: "Z dokumentów, które przynios³eœ z Agropromu wynika, ¿e sytuacja zaczyna siê polepszaæ, ale ci¹gle brakuje niektórych danych. Mamy dowody na obecnoœæ jakiegoœ Mózgozwêglacza, który blokuje drogê na pó³noc - jednak nikt nie wie dok³adnie, co to jest. Jest tam równie¿ wzmianka o laboratorium X18, którego opis pasuje do opisu opuszczonych podziemnych konstrukcji w Dolinie Mroku. Nie wiemy, co tam siê teraz dzieje, a poza tym bandyci rozbili obóz w Dolinie Mroku.\n Ca³kiem niedawno wybra³o siê tam kilku zwiadowców "Powinnoœci", ale jak dot¹d nie dali znaku ¿ycia. \n ¯eby dostaæ siê do laboratorium, potrzeba dwóch kluczy elektronicznych - jeden dostaniesz ode mnie, ale drugi bêdziesz musia³ zdobyæ od Dzika, przywódcy bandytów. \n\n Czyli tak: musisz zabraæ Dzikowi drugi klucz do laboratorium, potem wkraœæ siê do œrodka i zdobyæ dokumenty.</text>
 	</string>
 	<string id="bar_darklab_documents2_txt">
-		<text>Koniecznie trzeba znaleŸæ dokumenty dotycz¹ce badañ przeprowadzanych w laboratorium X18. Rozjaœni¹ trochê sprawê Mózgozwêglacza.</text>
+		<text>Koniecznie trzeba znaleŸæ dokumenty dotycz¹ce badañ przeprowadzanych w laboratorium X-18. Rozjaœni¹ trochê sprawê "Mózgozwêglacza".</text>
 	</string>
 	<string id="dar_codedoor_1_txt">
 		<text>Drogi w g³¹b laboratorium strze¿e zamek szyfrowy. Musisz znaleŸæ kogoœ, kto zna szyfr.</text>
@@ -25,7 +25,7 @@
 		<text>Atak na personel</text>
 	</string>
 	<string id="dar_document5">
-		<text>Zakoñczenie eksperymentu</text>
+		<text>Ostatni etap eksperymentu</text>
 	</string>
 	<string id="documents_1">
 		<text>Tydzieñ temu zdecydowano siê zwiêkszyæ nasilenie promieniowania, któremu poddawani s¹ badani. Przez pierwsze kilka dni nie dostrze¿ono ¿adnych zmian. Natomiast póŸniej zaczê³y siê pojawiaæ dziwne zmiany: utrata w³osów, zwiêkszona agresja. Kilku badanych zosta³o dos³ownie zadeptanych przez pozosta³ych.</text>

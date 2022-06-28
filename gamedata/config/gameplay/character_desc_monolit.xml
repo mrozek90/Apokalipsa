@@ -21,7 +21,7 @@
 			wpn_gauss \n
 			ammo_gauss = 5 \n
 		</supplies>
- 	#include "gameplay\character_dialogs.xml"				
+ 	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -49,7 +49,7 @@
 			ammo_5.56x45_ap = 1 \n
 			ammo_m209 = 1 \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"				
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -77,14 +77,14 @@
 			ammo_5.56x45_ap = 1 \n
 			ammo_m209 = 1 \n
 		</supplies>
- 	#include "gameplay\character_dialogs.xml"				
+ 	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
-<!---------------------------MONOLIT REGULAR----------------------->
+<!--MONOLIT REGULAR-->
 	<specific_character id="monolit_regular_default1" team_default = "3">
 		<name>Stalker z frakcji Monolit</name>
 		<icon x="4" y="2"></icon>
@@ -105,7 +105,7 @@
 			wpn_ak74 \n
 			ammo_5.45x39_ap = 1 \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"				
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -132,14 +132,14 @@
 			wpn_ak74u \n
 			ammo_5.45x39_ap = 1 \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"				
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
-<!---------------------------MONOLIT SNIPER---------------------->
+<!--MONOLIT SNIPER-->
 	<specific_character id="monolit_sniper_default1" team_default = "1">
 		<name>Stalker z frakcji Monolit</name>
 		<icon x="4" y="2"></icon>
@@ -160,7 +160,7 @@
 			wpn_svd \n
 			ammo_7.62x54_ap = 1 \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"				
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -187,14 +187,14 @@
 			wpn_svd \n
 			ammo_7.62x54_7h14 = 1 \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"				
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
-<!---------------------------MONOLIT SNIPER GAUSS---------------------->
+<!--MONOLIT SNIPER GAUSS-->
 	<specific_character id="monolit_sniper_gauss" team_default = "1">
 		<name>Stalker z frakcji Monolit</name>
 		<icon x="4" y="2"></icon>
@@ -215,14 +215,14 @@
 			wpn_gauss \n
 			ammo_gauss = 1 \n
 		</supplies>
-	#include "gameplay\character_dialogs.xml"				
+	#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
-<!---------------------------MONOLIT SPECNAZ---------------------->
+<!--MONOLIT SPECNAZ-->
 	<specific_character id="monolit_specnaz_default1" team_default = "1">
 		<name>Stalker z frakcji Monolit</name>
 		<icon x="4" y="2"></icon>
@@ -271,7 +271,7 @@
 			ammo_5.56x45_ap = 1 \n
 			ammo_m209 = 2 \n
 		</supplies>
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -298,7 +298,7 @@
 			wpn_vintorez \n
 			ammo_9x39_ap = 1 \n
 		</supplies>
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -325,14 +325,14 @@
 			wpn_sig550\n
 			ammo_5.56x45_ap = 1 \n
 		</supplies>
-#include "gameplay\character_dialogs.xml" 					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
-<!---------------------------MONOLIT MASTER----------------------->
+<!--MONOLIT MASTER-->
 	<specific_character id="monolit_master_default1" team_default = "1">
 		<name>Stalker z frakcji Monolit</name>
 		<icon x="28" y="8"></icon>
@@ -353,7 +353,7 @@
 			wpn_vintorez \n
 			ammo_9x39_sp5 = 1 \n
 		</supplies>
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -381,14 +381,14 @@
 			ammo_5.56x45_ap = 1 \n
 			ammo_m209 = 1 \n
 		</supplies>
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
 		<actor_dialog>dm_help_wounded_medkit_dialog</actor_dialog>
 	</specific_character>
 
-<!---------------------------MONOLIT REGULAR with RPG----------------------->
+<!--MONOLIT REGULAR with RPG-->
 	<specific_character id="monolit_rpg_default1" team_default = "1">
 		<name>Stalker z frakcji Monolit</name>
 		<icon x="4" y="2"></icon>
@@ -411,7 +411,7 @@
 			wpn_rpg7 \n
 			ammo_og-7b = 1 \n
 		</supplies>
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>
@@ -440,7 +440,7 @@
 			wpn_rpg7 \n
 			ammo_og-7b = 1 \n
 		</supplies>
-#include "gameplay\character_dialogs.xml"					
+#include "gameplay\character_dialogs.xml"
 		<start_dialog>dm_hello_dialog</start_dialog>
 		<actor_dialog>general_pda_talk</actor_dialog>
 		<actor_dialog>esc_stalker_talk_level</actor_dialog>

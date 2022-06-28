@@ -1,117 +1,136 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="Blind">
-		<text>Слепой пёс</text>
+		<text>Њlepy pies</text>
 	</string>
 	<string id="Bloodsucker">
-		<text>Кровосос</text>
+		<text>Pijawka</text>
 	</string>
 	<string id="Boar">
-		<text>Кабан</text>
+		<text>Dzik</text>
 	</string>
 	<string id="Crow">
-		<text>Ворона</text>
+		<text>Wrona</text>
 	</string>
 	<string id="enc_mutant_blind_general">
-		<text>Со времён первой катастрофы в собачьем роду сменилось уже несколько поколений, и в каждом из них всё более наблюдалось влияние Зоны. Мутации и эволюционная адаптация привели к усилению прежде слабо выраженных собачьих способностей, причём зачастую в ущерб привычным. Основные физиологические изменения коснулись зрения - оно оказалось почти бесполезным после стремительного усиления чутья: например, слепые щенки выживали в Зоне не хуже, а то и лучше своих зрячих собратьев. В результате обычные собаки вскоре выродились здесь полностью, уступив место новому виду - слепым псам. Данные животные прекрасно распознают и обходят аномалии, радиацию и другие невидимые опасности, которыми кишит Зона. Как и их предки, слепые псы охотятся стаями; встреча с большой группой этих существ означает серьёзную опасность даже для хорошо вооруженного сталкера.</text>
+		<text>Od czasu katastrofy їyіo tu i umarіo kilka gatunkуw psуw. Kaїdy kolejny podlegaі coraz wiкkszemu wpіywowi Zony. Szybka mutacja doprowadziіa do znacznej poprawy umiejкtnoњci, ktуre wczeњniej byіy drugorzкdne, czкsto kosztem tych podstawowych. Najwaїniejsz№ zmian№ biologiczn№ byіa utrata wzroku, z ktуr№ w parze szіo niesamowite wrкcz polepszenie wкchu. Okazaіo siк, їe њlepe szczeniкta radz№ sobie w Zonie rуwnie dobrze - jeњli nie lepiej niї normalne. W zwi№zku z tym zwykіe psy szybko wyginкіy w Zonie, ustкpuj№c miejsca nowemu gatunkowi - њlepym psom. Zwierzкta te instynktownie wyczuwaj№ i unikaj№ anomalii, promieniowania i innych niewidzialnych niebezpieczeсstw powszechnych w Zonie. Tak jak ich dzicy przodkowie, wilki, њlepe psy poluj№ w stadach. Spotkanie z duї№ grup№ tych zwierz№t moїe byж niebezpieczne nawet dla doњwiadczonego i dobrze uzbrojonego stalkera.</text>
 	</string>
 	<string id="enc_mutant_bloodsucker_general">
-		<text>Полулегендарный монстр - матёрые сталкеры описывают его как высокого сутулого гуманоида со множеством щупалец на месте рта. По их словам, с помощью щупалец данное существо питается: впиваясь ими в шею живой жертвы, оно парализует свою добычу и высасывает её кровь; после такой процедуры от человека остаётся лишь высохшая, напоминающая мумию оболочка. Наиболее удивительное в кровососе - его способность становится невидимым. Судя по всему, именно эти создания ответственны за смерть большого количества сталкеров. Мало кто из очевидцев остался в живых - и, судя по рассказам этих счастливчиков, для обитания кровососы предпочитают сырые места вроде болот и подземелий.</text>
+		<text>Doњwiadczeni stalkerzy opisuj№ to na wpуі legendarne stworzenie jako wysokiego, zgarbionego humanoida z mackami zamiast otworu gкbowego. Wedіug tych, ktуrzy go widzieli i przeїyli, їeby o tym opowiedzieж, bestia dziкki mackom przywiera do gardіa ofiary, paraliїuje j№ i wysysa z niej caі№ krew. Z czegoњ, co byіo czіowiekiem, zostaje wtedy tylko sucha skorupa. Jednakїe najbardziej zadziwiaj№c№ cech№ pijawek jest to, їe mog№ staж siк niewidzialne. Wielu martwych i zaginionych stalkerуw to podobno ofiary bezlitosnego uњcisku pijawki. Szczкњliwcy, ktуrzy przeїyli takie spotkanie, s№ autorami mroї№cych krew w їyіach opowieњci o moczarach i podziemnych terenach nawiedzanych przez tego Draculк Zony. </text>
 	</string>
 	<string id="enc_mutant_boar_general">
-		<text>Крупный зверь, достигающий полутора метров в холке. Своей живучестью и агрессивностью данное животное превосходит своих родственников вне Зоны и не уступает большинству мутантов. Мутагенные процессы, обусловленные воздействием радиации и аномалий, в значительной степени сказались на облике этих млекопитающих: местами последние облысели, а местами, наоборот, обросли очень длинной жёсткой шерстью. Копыта зверей изменили свою форму и стали более острыми, приобретя некоторое сходство с когтями; зрачки обесцветились, на облысевшей голове проявились пигментационные пятна и глубокие морщины. Кабаны Зоны хорошо переносят радиацию, что позволяет им подолгу находится на сильно загрязнённых территориях. Обычно эти животные атакуют с разбега, пытаясь клыками распороть живот жертвы или сбить её с ног.</text>
+		<text>Potкїne, zmutowane zwierzк, ktуrego wysokoњж w kікbie moїe wynosiж nawet pуіtora metra. Agresja i umiejкtnoњci przetrwania dzikуw z Zony dalece przewyїszaj№ umiejкtnoњci ich krewnych z innych terenуw. Promieniowanie i anomalie pozostawiіy swуj њlad na ich wygl№dzie: szczecina miejscami zupeіnie zanikіa, a w innych miejscach urosіa bardzo dіuga i gruba. Kopyta zmieniіy siк w mocne, ostre szpony, џrenice staіy siк bezbarwne, a bezwіosy іeb dzika szpec№ plamy pigmentacyjne i gікbokie bruzdy. Dziki z Zony posiadaj№ duї№ odpornoњж na promieniowanie i mog№ przebywaж na silnie skaїonych terenach przez dіugi czas. Zazwyczaj szarїuj№ na swe ofiary, usiіuj№c je przewrуciж, a nastкpnie rozerwaж na strzкpy.</text>
 	</string>
 	<string id="enc_mutant_crow_general">
-		<text>В Зоне выжил только один вид птиц - вороны. Другие пернатые не смогли перенести радиации и не научились избегать аномалий. Чтобы не погибнуть в лабиринте гравитационных возмущений, военные лётчики используют сложные детекторы, а вот секрет воронов скоро сведёт с ума орнитологов и биологов. Существует много теорий, объясняющих данный феномен; впрочем, все они сходятся на том, что причиной чуда является развитой мозг воронов, сумевший выработать сложнейшие рефлексы.</text>
+		<text>Jedyny gatunek ptaka, ktуry przetrwaі w Zonie i potrafi znieњж zwiкkszone promieniowanie oraz unikaж anomalii. Wojskowi piloci musz№ polegaж na skomplikowanych detektorach, їeby unikn№ж zakіуceс grawitacyjnych, natomiast wrona wydaje siк ufaж tylko wіasnym zmysіom - to tajemnica, ktуra drкczy ornitologуw i biologуw. Istniej№ rуїne teorie stworzone w celu wyjaњnienia tego zjawiska i wszystkie jako jego џrуdіo wskazuj№ mуzg ptaka. </text>
 	</string>
 	<string id="enc_mutant_flesh_general">
-		<text>Оказавшиеся в Зоне домашние свиньи, как и многие другие живые организмы, подверглись сильной мутации. Поскольку были затронуты гены, контролирующие процессы метаболизма, фенотип животного резко изменился. Мутировавшая свинья, которую сталкеры называют “плотью” - один из самых наглядных примеров надругательства Зоны над природой. У этих существ сформировался чешуйчато-костный защитный покров, значительно увеличилась способность организма к регенерации, усложнилась нервная система. Как и обычная свинья, "плоть" всеядна, поэтому, будучи голодной, вполне может напасть на сталкера.</text>
+		<text>Tak jak wiкkszoњж stworzeс w Zonie, rуwnieї i њwinia przeszіa szereg zmian biologicznych od czasu katastrofy. Wydaje siк їe w jej przypadku szczegуlne zmiany dotknкіy genуw odpowiedzialnych za metabolizm. Zmutowane њwinie, zwane przez stalkerуw "miкsaczami", to jedne z najlepszych przykіadуw przeraїaj№cego wypaczenia natury w Zonie. Stworzenia te wytworzyіy na skуrze ochronn№ warstwк іusek i zewnкtrzny pancerz. Kilkakrotnie zwiкkszyіy siк ich umiejкtnoњci regeneracyjne oraz zіoїonoњж systemu nerwowego. Tak jak њwinia, miкsacz to zwierzк wszystkoїerne i jeњli jest gіodne, moїe zaatakowaж stalkera.</text>
 	</string>
 	<string id="enc_mutant_poltergeist_general">
-		<text>Поистине сверхъестественные невидимые существа, встречающиеся только в глубине Зоны; обитают, как правило, внутри полуразрушенных зданий. О происхождении ничего достоверно не известно; бытует легенда, что это духи сталкеров, попавших под мощный выброс. Механизм проявления этих невидимок действительно соответствуют легендам о полтергейсте (откуда и название) и отличается разнообразием: от периодического воя и смеха до появляющихся из ниоткуда опасных огненных шаров. К сожалению, все сведения об этом явлении черпаются из невнятных и довольно противоречивых рассказов, правдивость которых вызывает сомнения.</text>
+		<text>Te niewidzialne istoty nawiedzaj№ce tereny w gікbi Zony - zazwyczaj stare, opuszczone budynki - s№ przez niektуrych uwaїane za nadprzyrodzone. Nic nie wiadomo o ich pochodzeniu, choж jeњli ufaж plotkom, s№ to duchy stalkerуw uderzonych potкїn№ fal№ promieniowania. Ich tajemnicze pojawianie siк i znikanie przystaje do opowieњci o poltergeistach, st№d teї ich nazwa. Spotkania z poltergeistami wygl№daj№ rуїnie: od zіoњliwego њmiechu i mroї№cego krew w їyіach skowytu po zabуjcze kule ogniste pojawiaj№ce siк nie wiadomo sk№d. Niestety, wszelkie informacje o poltergeistach zaczerpniкte zostaіy z niejasnych i czasem sprzecznych ze sob№ opowieњci, ktуrym nie zawsze moїna zaufaж.</text>
 	</string>
 	<string id="enc_mutant_pseudodog_general">
-		<text>Несмотря на название, псевдособаки произошли не от собак, а от волков. Дикие животные, обитавшие в лесах Зоны на момент катастрофы, стали родоначальниками одного из самых опасных видов мутантов. Псевдособаки настолько не похожи на мутировавших собак, насколько дикие волки не похожи на дворняг. Эти существа ведут территориальный образ жизни и яростно атакуют любого, кто вторгается в их владения. Молниеносная реакция, неимоверная подвижность и острые зубы делают псевдособаку очень серьёзным противником, против которого тяжело устоять даже крупному мутанту или хорошо вооружённому сталкеру.</text>
+		<text>Pomimo swej nazwy nibypsy pochodz№ bezpoњrednio od wilkуw. Zwierzкta zamieszkuj№ce lasy w czasie katastrofy daіy pocz№tek jednemu z najniebezpieczniejszych gatunkуw mutantуw w Zonie. Nibypsy rуїni№ siк od zmutowanych psуw mniej wiкcej w takim samym stopniu, w jakim dzikie wilki rуїni№ siк od pudli. Stworzenia te dokіadnie oznaczaj№ swe tereny i strzeg№ ich, atakuj№c kaїdego, kto jest na tyle gіupi, їeby pojawiж siк w zasiкgu ich wzroku. Bіyskawiczny refleks, niesamowita zwinnoњж oraz kіy ostre jak brzytwa sprawiaj№, їe nibypies jest groџnym przeciwnikiem dla duїych mutantуw, jak i dla dobrze uzbrojonych stalkerуw.</text>
 	</string>
 	<string id="enc_mutant_pseudogiant_general">
-		<text>Огромная туша, состоящая из каплеобразного туловища и пары гипертрофированных конечностей - вот что такое псевдогигант. Руконоги используются данным существом для передвижения и хватания жертвы. Взрослая особь достигает веса в две тонны при росте около двух метров. Внешняя неуклюжесть очень обманчива - псевдогиганты стремительны в движениях, их мышцы обладают просто поразительной мощью, а кости в прочности не уступают металлу. Головной мозг защищён толстейшим - около 100 миллиметров! - черепом; кроме того, многие сложные функции выполняет спинной мозг. Поразительно также умение псевдогигантов формировать на поверхности земли локальные ударные волны, поражающие в ограниченном радиусе всё живое.</text>
+		<text>Nibyolbrzym przypomina wielk№ kroplк z nieproporcjonalnie dіugimi koсczynami, ktуre s№ jednoczeњnie rкkami i nogami. Stworzenie wykorzystuje je do poruszania siк i chwytania swych ofiar. Dorosіy nibyolbrzym moїe waїyж do dwуch ton i mierzyж dwa metry wzrostu. Niezgrabny wygl№d jest myl№cy, gdyї w razie potrzeby stworzenie to potrafi siк poruszaж bіyskawicznie. Miкњnie tych istot s№ niezwykle mocne, a ich koњci twarde jak skaіa. Ich mуzg ochrania solidna czaszka (o gruboњci do 10 centymetrуw), a wiele zіoїonych funkcji їyciowych kontroluje rdzeс krкgowy. Kolejn№ zadziwiaj№c№ cech№ tego stworzenia jest umiejкtnoњж wytwarzania fal uderzeniowych, ktуre rani№ wszystkie їywe istoty przebywaj№ce w okolicy. </text>
 	</string>
 	<string id="enc_mutant_snork_general">
-		<text>Эти существа, судя по всему, некогда были людьми, хотя сложно представить, какие условия могут довести человека до подобного состояния. Снорки - это сумасшедшие, ведущие совершенно животный образ жизни создания, по сути своей слабо отличающиеся от хищных монстров Зоны. Передвигаются они на четырёх конечностях, подпрыгивая над землёй и постоянно нюхая её, чтобы уловить запах жертвы. Охотятся осторожно и расчётливо, подстерегая сталкеров подобно хищным животным. Молниеносные рефлексы и гипертрофированные мышцы позволяют сноркам совершать длинные точные прыжки и за несколько секунд разрывать жертву в клочья. На некоторых особях сохранились детали армейской униформы или отдельные детали экипировки, что позволяет предположить в них пропавших без вести военных сталкеров.</text>
+		<text>Wygl№da na to, їe stworzenia te kiedyњ byіy ludџmi, jednak ciкїko sobie wyobraziж, jakie warunki mogіy doprowadziж do zmiany istoty ludzkiej w tak odraїaj№cego potwora. Snorki to szalone istoty їyj№ce jak zwierzкta i niewiele siк rуїni№ce od innych miкsoїernych stworуw zamieszkuj№cych Zonк. Poruszaj№ siк na wszystkich koсczynach, wykonuj№c dіugie skoki i nieustannie obw№chuj№ ziemiк, szukaj№c zapachu potencjalnej ofiary. Poluj№ ostroїnie i zachowawczo, czкsto robi№c zasadzki. Dziкki niesamowitemu refleksowi i potкїnym miкњniom snork moїe w okamgnieniu zbliїyж siк do ofiary i przygwoџdziж j№ do ziemi jednym dіugim, dokіadnym skokiem. Przy ich ciaіach znajdowane s№ czasem resztki mundurуw i innego rodzaju ubraс, moїna wiкc s№dziж, їe tylko tyle zostaje z zaginionych wojskowych stalkerуw.</text>
+	</string>
+	<string id="enc_mutant_bag_general">
+		<text>Istoty, ktуre trafiіy do Zony zdecydowanie nie z naszego њwiata. Obrzydliwe, przezroczyste bestie. Wytwуr wiecznej ciemnoњci, boj№ siк њwiatіa. Zabijaj№ natychmiast. Pojawiaj№ siк niewiadomo sk№d i tak samo niewiadomo gdzie znikaj№, jakby rozwiewaj№c siк w powietrzu. </text>
 	</string>
 	<string id="enc_mutant_tushkano">
-		<text>На самом деле данные животные не состоят в родстве со всем известными тушканами, хотя и весьма похожи на них. Указать вид, от которого произошли тушканы Зоны, пока не представляется возможным; можно лишь утверждать, что их предки были стайными животными, скорее всего грызунами. Достигая до 40 сантиметров в холке, они значительно мобильнее, агрессивнее и прожорливее пустынного зверька. Обитают в основном в подземельях и разрушенных зданиях, питаясь всем, что попадётся - от растений до зазевавшихся сталкеров. Иногда жертвой тушканов становятся даже крупные животные и мутанты: нападая большой стаей, они легко разорвут на части любое существо, не успевшее сбежать.</text>
+		<text>W rzeczywistoњci stworzenia te nie s№ spokrewnione ze skoczkiem pustynnym, choж istnieje miкdzy nimi wyraџne podobieсstwo. Jak dot№d nie udaіo siк okreњliж, od jakiego gatunku pochodzi to zwierzк, wiadomo jednak, їe jego przodkiem musiaі byж їyj№cy w stadzie gryzoс. Wysokoњж w kікbie moїe dochodziж do 40 cm, ale stworzenie to jest o wiele zrкczniejsze, agresywniejsze i їarіoczniejsze niї jego pustynny kuzyn. Zmutowane gryzonie zamieszkuj№ gіуwnie piwnice zniszczonych budynkуw, їywi№c siк wszystkim, co jest w pobliїu - od roњlin po nieostroїnych stalkerуw. Od czasu do czasu stada gryzoni atakuj№ i zabijaj№ mutantуw oraz duїe zwierzкta, rozrywaj№c je na strzкpy, zanim uda im siк uciec.</text>
 	</string>
 	<string id="enc_mutant_zombie_general">
-		<text>Воздействие Выжигателя мозгов полностью разрушает структуру личности, оставляя только телесную оболочку. Побродив немного по Зоне, лишённые разума тела начинают превращаться в настоящих зомби. Из рефлексов у них остаются лишь самые примитивные, оружие и одежда скоро приходят в негодность. В результате зомби представляют собой не что иное, как медлительные полутрупы, для которых наличествуют лишь два эффективных раздражителя: еда и сон. Зомби совершенно неразборчивы в выборе пищи и питья, поэтому их тела буквально пропитаны радиацией и токсинами. Как правило, эти существа бесцельно бродят по Зоне или, словно трупы, валяются внутри заброшенных построек. Однако лишь только зомби почует близкое присутствие живого человека, он сразу же пытается атаковать. Умудрённые опытом сталкеры стараются обходить эти неуклюжие опустошённые оболочки.</text>
+		<text>Mуzgozwкglacz pozbawia ofiarк rozumu, pozostawiaj№c pust№, bezmyњln№ skorupк. Bezmуzgie ciaіa zmieniaj№ siк pуџniej w zombi, ktуre kieruj№ siк najbardziej prymitywnymi instynktami, іaї№c po Zonie bez celu, broni i ubraс. Zombi to jedynie powolne, chodz№ce ciaіa, ktуre interesuje tylko poїywienie i sen. Jedz№ i pij№ niemal wszystko, co wpadnie im w szpony, w zwi№zku z czym s№ praktycznie przesi№kniкte promieniowaniem i toksycznymi odpadami. Zazwyczaj wіуcz№ po Zonie lub leї№ bez ruchu w opuszczonych budynkach. Jednak jak tylko wyczuj№ obecnoњж istoty ludzkiej, natychmiast atakuj№. Doњwiadczeni stalkerzy nauczyli siк unikaж ich, jeњli to tylko moїliwe.</text>
 	</string>
 	<string id="Flesh">
-		<text>"Плоть"</text>
+		<text>Miкsacz</text>
 	</string>
 	<string id="General">
-		<text>Общие сведения</text>
+		<text>Informacje ogуlne</text>
 	</string>
 	<string id="mutant_boar_leg">
-		<text>Копыто кабана</text>
+		<text>Kopyto dzika</text>
 	</string>
 	<string id="mutant_boar_leg_description">
-		<text>Копыто кабана используется учеными для изготовления ряда лекарств, самым распространенным из которых является противорадиационная сыворотка.</text>
+		<text>Z kopyt dzika moїna wyprodukowaж wiele lekуw, і№cznie z serum przeciwpromiennym.</text>
 	</string>
 	<string id="mutant_dog_tail">
-		<text>Хвост собаки</text>
+		<text>Ogon psa</text>
 	</string>
 	<string id="mutant_dog_tail_description">
-		<text>Устойчивость кожи мутировавших собак к химическому и электрическому воздействую давно обратила на себя внимание ученых. Из-за отсутствия жировых отложений хвосты собак наиболее подходят для лабораторных исследований.</text>
+		<text>Odpornoњж skуry zmutowanego psa na elektrycznoњж i њrodki chemiczne od dawna przykuwa uwagк naukowcуw. Dziкki temu, їe na ogonie tego zwierzкcia praktycznie nie ma tkanki tіuszczowej, њwietnie nadaje siк on do badaс laboratoryjnych. </text>
 	</string>
 	<string id="mutant_flesh_eye">
-		<text>Глаз плоти</text>
+		<text>Oko miкsacza</text>
 	</string>
 	<string id="mutant_flesh_eye_description">
-		<text>После мутации увеличенный глаз плоти приобрел ряд свойств, самым полезным из которых является способность к регенерации хрусталика. Детали этого механизма точно неизвестны, но это открытие обещает революцию в медицине. Вы можете внести свой вклад в науку, продав глаз плоти ученым для исследований.</text>
+		<text>Zmutowane, spuchniкte oko miкsacza nabyіo kilka umiejкtnoњci, z ktуrych najbardziej przydatn№ jest umiejкtnoњж regeneracji soczewki. Jak dot№d nieznany jest jeszcze szczegуіowy przebieg tego procesu, ale takie odkrycie z pewnoњci№ zrewolucjonizuje nowoczesn№ medycynк. Moїesz siк przysіuїyж rozwojowi nauki, sprzedaj№c oko miкsacza naukowcom do eksperymentуw. </text>
 	</string>
 	<string id="mutant_krovosos_jaw">
-		<text>Щупальца кровососа</text>
+		<text>Macki pijawki</text>
 	</string>
 	<string id="mutant_krovosos_jaw_description">
-		<text>Щупальца кровососа содержат особую железу: она выделяет фермент, растворяющий кожу жертвы, и одновременно препятствующий сворачиванию крови. Если ученым удастся определить структуру фермента, это поможет осуществить прорыв в медицине.</text>
+		<text>Macki pijawki zawieraj№ specjalny gruczoі wytwarzaj№cy enzym, ktуry rozkіada skуrк, jednoczeњnie nie pozwalaj№c na krzepniкcie krwi. Odkrycie struktury tego enzymu mogіoby stanowiж kamieс wкgielny dla dalszego rozwoju medycyny.</text>
 	</string>
 	<string id="mutant_psevdodog_tail">
-		<text>Хвост псевдособаки</text>
+		<text>Ogon nibypsa</text>
 	</string>
 	<string id="mutant_psevdodog_tail_description">
-		<text>Устойчивость кожи мутировавших собак к химическому и электрическому воздействую давно обратила на себя внимание ученых. Из-за отсутствия жировых отложений хвосты собак наиболее подходят для лабораторных исследований.</text>
+		<text>Odpornoњж skуry zmutowanego psa na elektrycznoњж i њrodki chemiczne od dawna przykuwa uwagк naukowcуw. Dziкki temu, їe na ogonie tego zwierzкcia praktycznie nie ma tkanki tіuszczowej, њwietnie nadaje siк on do badaс laboratoryjnych. </text>
 	</string>
 	<string id="mutant_snork_leg">
-		<text>Стопа снорка</text>
+		<text>Stopa snorka</text>
 	</string>
 	<string id="mutant_snork_leg_description">
-		<text>Стопа снорка в отличие от человеческой содержит большее количество сухожилий, обладающих потрясающей эластичностью. Этим объясняется способность снорков совершать невероятные прыжки.</text>
+		<text>Stopy snorka zawieraj№ ogromn№ liczbк wyj№tkowo elastycznych њciкgien. To wyjaњnia ich umiejкtnoњж wykonywania skokуw na niesamowite odlegіoњci. </text>
 	</string>
 	<string id="Mutants">
-		<text>Животные и мутанты</text>
+		<text>Zwierzкta i mutanty</text>
 	</string>
 	<string id="Poltergeist">
-		<text>Полтергейст</text>
+		<text>Poltergeist</text>
 	</string>
 	<string id="Pseudodog">
-		<text>Псевдособака</text>
+		<text>Nibypies</text>
 	</string>
 	<string id="Pseudogiant">
-		<text>Псевдогигант</text>
+		<text>Nibyolbrzym</text>
 	</string>
 	<string id="Snork">
-		<text>Снорк</text>
+		<text>Snork</text>
+	</string>
+
+	<string id="Bag">
+		<text>Torbiel</text>
 	</string>
 	<string id="Tushkano">
-		<text>Тушкан</text>
+		<text>Tuszkan</text>
 	</string>
 	<string id="Zombie">
-		<text>Зомби</text>
+		<text>Zombi</text>
 	</string>
 	<string id="Controller">
-		<text>контролер</text>
+		<text>Kontroler</text>
 	</string>
 	<string id="enc_mutant_controller_general">
-		<text>Редкий мутант, встречающийся близко к центру Зоны. Внешне напоминает гуманоида с непропорционально увеличенной головой. Обладает развитым восприятием, а также способностью контролировать поведение менее развитых живых существ. Матерые особи способны брать под контроль даже людей. Это опасный противник, встречи с которым бояться даже самые опытные сталкеры.</text>
+		<text>Rzadki mutant widywany niedaleko centrum Zony. Powierzchowne podobieсstwo do humanoida z nieproporcjonalnie duї№ gіow№. Ma њwietn№ percepcjк i zdolnoњж kontrolowania sіabiej rozwiniкtych stworzeс. Dorosіe osobniki s№ w stanie przej№ж kontrolк nad umysіem czіowieka. To zawziкty wrуg - spotkania z nim obawiaj№ siк nawet najbardziej doњwiadczeni stalkerzy.</text>
+	</string>
+	<string id="mutant_burer_hand">
+		<text>Јapa burera</text>
+	</string>
+	<string id="mutant_burer_hand_description">
+		<text>Wedіug stalkerskich legend, іapa burera noszona na pasie obdarza ekstrasensorycznymi zdolnoњciami..</text>
+	</string>
+	<string id="mutant_zombie_hand">
+		<text>Rкka zombie</text>
+	</string>
+	<string id="mutant_zombie_hand_description">
+		<text>Wedіug stalkerskich legend, odciкta rкka zombie noszona na pasie przynosi szczкњcie.</text>
 	</string>
 </string_table>
