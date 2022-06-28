@@ -35,7 +35,7 @@
         <text>journal_before_vasilyev_pda</text>
 </article-->
 <article id="legend" name="" article_type="task">
-        <text>Gdzieœ w wiosce pijawek, na Magazynach Wojskowych, mo¿na znaleŸæ legendarny artefakt zwany Sercem Kontrolera. Je¿eli legenda nie k³amie, to próba u¿ycia go mo¿e siê skoñczyæ bardzo Ÿle. Wymagane gruntowne przygotowanie.</text>
+        <text>Gdzieœ w Wiosce Pijawek, na Magazynach Wojskowych, mo¿na znaleŸæ legendarny artefakt zwany Sercem Kontrolera. Je¿eli legenda nie k³amie, to próba u¿ycia go mo¿e siê skoñczyæ bardzo Ÿle. Muszê byæ dobrze przygotowany.</text>
 </article>
 
 <article id="hs_1" name="" article_type="task">
@@ -43,7 +43,7 @@
 </article>
 
 <article id="hs_2" name="" article_type="task">
-		<text>Trzeba porozmawiaæ z kapitanem Jaros³awkinem. Tolik milczy, jakby coœ wiedzia³. Sidor Sidorowicz, znów wracam do niego.</text>
+		<text>Muszê porozmawiaæ z kapitanem Jaros³awkinem. Tolik milczy, jakby coœ wiedzia³. Sidor Sidorowicz, znów wracam do niego.</text>
 </article>
 
 <article id="hs_3" name="" article_type="task">
@@ -51,11 +51,11 @@
 </article>
 
 <article id="hs_4" name="" article_type="task">
-		<text>Cholera, wszêdzie pe³no trupów! Czy¿by niewielka grupka £owców pozbawi³a ¿ycia wszystko na Jantarze? Niemo¿liwe. Poszukaæ przyczyny w X16? Mo¿e ponownie w³¹czono generatory?</text>
+		<text>Cholera, wszêdzie pe³no trupów! Czy¿by niewielka grupka £owców pozbawi³a ¿ycia wszystko na Jantarze? Niemo¿liwe. Mo¿e poszukaæ przyczyny w X16? Mo¿e ponownie w³¹czono generatory...</text>
 </article>
 
 <article id="hs_5" name="" article_type="task">
-		<text>Przeszukam trupy. Te co nie s¹ zbyt œwie¿e. Czy zastrzeleni, czy te¿ rozszarpani przez mutanty?</text>
+		<text>Przeszukam trupy. Te co nie s¹ zbyt œwie¿e. Zastrzeleni czy te¿ rozszarpani przez mutanty?</text>
 </article>
 
 <article id="hs_6" name="" article_type="task">
@@ -63,19 +63,19 @@
 </article>
 
 <article id="hs_7" name="" article_type="task">
-		<text>Porozmawiaæ z £ukaszem. Ale warto najpierw spotkaæ siê z Maksem i Kutw¹.</text>
+		<text>Muszê porozmawiaæ z £ukaszem. Ale warto najpierw spotkaæ siê z Maksem i Kutw¹.</text>
 </article>
 
 <article id="hs_8" name="" article_type="task">
-		<text>Genera³ Woronin zleci³ sprawdzenie wejœcia do laboratorium X18. Jakoœ jest przekonany, ¿e wejœcie jest zawalone. Pewnie powinnoœciowcy nastawili nadajnik przed wybuchem. Z kluczami zagadka: jak oni mogli zostawiæ je Behemotowi? Barman odda³ czy sprzeda³? Trzeba przeszukaæ budynki, sprawdziæ wejœcie do labu. Mo¿e te¿ Kabel bêdzie coœ wiedzia³ na ten temat?</text>
+		<text>Genera³ Woronin zleci³ sprawdzenie wejœcia do laboratorium X18. Jest przekonany, ¿e wejœcie jest zawalone. Pewnie powinnoœciowcy nastawili nadajnik przed wybuchem. Z kluczami zagadka: jak oni mogli zostawiæ je Behemotowi? Barman odda³ czy sprzeda³? Trzeba przeszukaæ budynki, sprawdziæ wejœcie do labu. Mo¿e te¿ Kabel bêdzie coœ wiedzia³ na ten temat?</text>
 </article>
 
 <article id="hs_9" name="" article_type="task">
-		<text>Mo¿na oczywiœcie i po trupach przejœæ. No, ale jeszcze lepiej chytrze. Ciekawe, w Barze mówili, ¿e wszystkie kody do drzwi na Radarze i do bunkra sterowania Mózgozwêglaczem Gienia pozmienia³ na"1" i "906947". Trzeba by to sprawdziæ. A jak siê tam dostanê to co? Chyba lepiej od razu do dowódcy iœæ.</text>
+		<text>Mo¿na oczywiœcie i po trupach przejœæ. No, ale jeszcze lepiej chytrze. Ciekawe, w Barze mówili, ¿e wszystkie kody do drzwi na Radarze i do bunkra sterowania Mózgozwêglaczem Gienia pozmienia³ na "1" i "906947". Trzeba by to sprawdziæ. A jak siê tam dostanê to co? Chyba lepiej od razu do dowódcy iœæ.</text>
 </article>
 
 <article id="hs_10" name="" article_type="task">
-		<text>Porozmawiaæ z liderami ugrupowañ. No, tylko u Weteranów nie wiadomo, kto u nich za starszego? Trzeba by Pietruchy na Kordonie spytaæ. A gdzie znaleŸæ Charona? Doktor radzi poprosiæ o pomoc Poszukiwaczy. Trzeba bêdzie pogadaæ ze S³awikiem.</text>
+		<text>Muszê porozmawiaæ z liderami ugrupowañ. No, tylko u Weteranów nie wiadomo, kto u nich za starszego? Trzeba by Pietruchy na Kordonie spytaæ. A gdzie znaleŸæ Charona? Doktor radzi poprosiæ o pomoc Poszukiwaczy. Trzeba bêdzie pogadaæ ze S³awikiem.</text>
 </article>
 
 <article id="hs_11" name="" article_type="task">
@@ -105,18 +105,6 @@
 <article id="hs_18" name="" article_type="task">
 		<text>Lis prosi o przyniesienie kontenera z pokoju hotelowego w Prypeci.</text>
 </article>
-
-
-
-
-
-
-
-
-
-
 <article id="hs_19" name="" article_type="task">
 		<text>Kopacze - mieszkañcy podziemi, tak jak snorki. Tam te¿ bêdzie ich schowek. Szukaæ zguby wypada w podziemiach i podziemnych laboratoriach.</text>
 </article>
-
-
