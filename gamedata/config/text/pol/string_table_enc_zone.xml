@@ -1,336 +1,704 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
+
+
+<string id="enc_zone_artifact_chetki">
+		<text>Zdaniem niektуrych stalkerуw, artefakt rodzi siк z ciaі zdechіych ropuch w bagnach Zony, ale jak naprawdк tworzy siк dany artefakt, nie wiedz№ nawet naukowcy. Prawdopodobnie pojawiі siк w Zonie caіkiem niedawno. Rzadki, jego wartoњж nie jest dokіadnie okreњlona, poniewaї handlarzom nikt go nie proponowaі, a naukowcy nie s№ specjalnie zainteresowani jego zakupem. Wіaњciwoњci bardzo podejrzane. Zainteresowanie wzbudza tylko wњrуd kolekcjonerуw.</text>
+	</string>
+<string id="enc_zone_artifact_barhat">
+		<text>Niezbyt rozpowszechniony artefakt, ale czasem siк go spotyka w laboratoriach naukowcуw i w duїych kolekcjach. Nie przypomina innych artefaktуw, jest potworny, nieforemny,  niewiele o nim wiadomo. Naukowcy s№dz№, їe wyksztaіca siк za poњrednictwem krystalizacji ciaіa duїego mutanta, ktуry wpadі w anomaliк. Nazwк otrzymaі od zdolnoњci zmieniania od czasu do czasu swoich wіaњciwoњci na zіoњliwe, to znaczy w kaїdej chwili moїe zmieniж pozytywne wіaњciwoњci na negatywne, w zwi№zku z tym nie jest popularny wњrуd stalkerуw.</text>
+	</string>
+<string id="enc_zone_artifact_chipsi">
+		<text>Cechy artefaktu s№ nieaktywne, co jest bardzo nietypowe dla danej okolicy.</text>
+	</string>
+<string id="enc_zone_artifact_diablo">
+		<text>Artefakt wczeњniej nieznany w Zonie. Panuje pogl№d, їe wytworzyі go jakiњ naukowiec samouk, w ktуrymњ z podziemnych laboratoriуw. Sferyczna, nieregularna forma, pusta w њrodku, skіadaj№ca siк z radialnych promieni. To czym rуїni siк dany artefakt od innych to bardzo duїa iloњж pierwiastka helu w skіadzie chemicznym. Naukowcy twierdz№, їe hel jest bardzo rozpowszechniony na sіoсcu. Na ziemi ten pierwiastek spotyka siк w iloњciach њladowych, w gуrnych warstwach atmosfery, w miejscach aktywnoњci wulkanicznej, a takїe moїna go uzyskaж z gazu ziemnego w procesie niskotemperaturowego rozdzielenia – tak zwanej destylacji fracjonowanej. Ale w Zonie nie ma warunkуw do uzyskania helu, wiкc powstaje pytanie – sk№d hel mуgі wzi№ж siк w Zonie? Jeszcze jedna zagadka Zony. Ma dobr№ cenк i niezіe charakterystyki ochronne.</text>
+	</string>
+<string id="enc_zone_artifact_gorgona">
+		<text>Rezultat badaс grupy naukowcуw, zajmuj№cych siк opracowywaniem nowych artefaktуw. Z wygl№du przypomina nieregularny twуr z mnуstwem wychodz№cych z niego, wij№cych siк promieni, ktуre najprawdopodobniej  zapewniaj№ znaczne wyprowadzanie radiacji, a tym samym obronк przed ni№ i wzrost siі witalnych u posiadacza artefaktu. Rzadka substancja, w wolnym obrocie i w sprzedaїy nie spotykana. Widziaіo ten wytwуr tylko kilku naukowcуw, ktуrych najprawdopodobniej, nie ma juї wњrуd їywych.</text>
+	</string>
+<string id="enc_zone_artifact_jaba">
+		<text>Rzadki artefakt, niespotykany wњrуd stalkerуw. W Zonie pojawiі siк stosunkowo niedawno. Wygl№da jak kі№b z kawaіkуw roњlin, liњci i gaікzi. Prawdopodobnie dany artefakt ma roњlinne pochodzenie. Naukowcy przypuszczaj№, їe wyksztaіca siк za poњrednictwem krystalizacji roњlinnych resztek w anomalii pod pod wpіywem silnej substancji chemicznej. Fluoryzuje na zielono. Ma њwietne charakterystyki.</text>
+	</string>
+<string id="enc_zone_artifact_jbk">
+		<text>%c[200,255,255,255]Udџwig %c[0,0,255,0]+18 kg \n%c[default]Bardzo rzadki artefakt. Nie spotykany wњrуd stalkerуw, a i wielu naukowcуw nie wie o nim. W Zonie pojawiі siк stosunkowo niedawno. Podobny do kawaіka zbrojonego betonu, sk№d teї wzi№і swoj№ nazwк. Prawdopodobnie, dany artefakt utworzyі siк z resztek pozostaіych w Zonie licznych їelazobetonowych konstrukcji, poddanych bardzo silnemu promieniowaniu. To dziwne, ale mierniki nie wykrywaj№ radiacyjnego tіa w danym artefakcie. Fluoryzuje na br№zowo i ma њwietne charakterystyki. Cena imponuj№ca, ale jest tego wart.</text>
+	</string>
+<string id="enc_zone_artifact_klever">
+		<text>Jeїeli braж pod uwagк opowieњci, snute przez stalkerуw przy ognisku, to dany artefakt nie tworzy siк, a wyrasta, jak legendarne "Serce Oazy", w pewnych miejscach w Zonie i, podobno, niektуrzy samotnicy go widzieli. Ten artefakt, wedіug opowieњci, ma doњж cudowne wіaњciwoњci i podobno broni od wielu niedogodnoњci. Po prostu panaceum jakieњ. Marzenie kolekcjonerуw i naukowcуw w Zonie. Piкkny i drogi artefakt.</text>
+	</string>
+<string id="enc_zone_artifact_kliaksa">
+		<text>Nowy wytwуr Zony. Ј№czy w sobie wielk№ iloњж pozytywnych wіaњciwoњci, ale przy tym wyci№ga їycie i rozum z posiadacza artefaktu, zabieraj№c jego zdrowie. Podobno, znalazі go їywa legenda Zony – Kolekcjoner i podarowaі stalkerowi o imieniu Noe. Teraz jedynym posiadaczem danego artefaktu jest ten szaleniec, mieszkaj№cy w starej barce na Zatonie. Widocznie, to artefakt doprowadziі go do takiego stanu. Analogуw nie ma, a przynajmniej nic o tym nie wiadomo. Najskrytsze marzenie kaїdego kolekcjonera i naukowcуw caіego њwiata. Nieіadny, nieforemny, potworny. Ma ogromn№ cenк, to z pewnoњci№, jeden z najdroїszych artefaktуw w Zonie.</text>
+	</string>
+<string id="enc_zone_artifact_krest">
+		<text>%c[200,255,255,255]Udџwig %c[0,0,255,0]+15 kg \n%c[default]Pojawia siк w anomalii "Piec" przy okreњlonych warunkach. Piкkny i drogi artefakt. Jak powstaje – nikt tak naprawdк nie wie, chociaї wiele siк o tym mуwi. Naukowcуw interesuje w danym artefakcie bilans molekularny, kosztem ktуrego zamierzaj№ stworzyж lekarstwo na raka i uratowaж miliony ludzi. Poїytecznych wіaњciwoњci nie stwierdzono, tylko negatywne.</text>
+	</string>
+<string id="enc_zone_artifact_ojerelie">
+		<text>Dziwny artefakt. Istnieje legenda, їe pierwszy raz widziano ten artefakt, kiedy go znalazі obі№kany stalker i jak pokazaі go naukowcom, a oni mуwili, їe ten artefakt jest zbyt niebezpieczny z powodu duїej radiacji i oddziaіywania psionicznego. Szaleniec poszedі na bagno przy bazie Wolnoњci i bez przerwy mуwiі, їe ten artefakt to jego "Wybawca". Dіugo nie wychodziі z tego domu na bagnie, wci№ї coњ wykrzykiwaі po nocach, a potem ucichі - z pewnoњci№ dotychczas siк nim lubuje. Za drugim razem naukowcy kupili ten artefakt, od czіowieka zwanego Szrama, a ten zdobyі go u bandytуw w Czerwonym Lesie. Piкkny, drogi, kolekcjonerski.</text>
+	</string>
+<string id="enc_zone_artifact_serpantin">
+		<text>Ten artefakt ma najrzadsz№, a przy okazji bardzo poїyteczn№ wіaњciwoњж: broni posiadacza przed obraїeniami, odnoszonymi przy przeszukiwaniu zzombifikowanych trupуw.</text>
+	</string>
+<string id="enc_zone_artifact_shkatulka">
+		<text>Z wygl№du przypomina otwieraj№cy siк kokon. Rzadki artefakt, spotykany w zasadzie tylko w warunkach silnej radiacji. Piкkny, cena odpowiednia. Naukowcуw interesuje wewnкtrzna struktura artefaktu i jego skіad biochemiczny. Wіaњciwoњci nie poznane. Marzenie kolekcjonerуw.</text>
+	</string>
+<string id="enc_zone_artifact_spaika_2">
+		<text>Ten artefakt jest rezultatem niefortunnego eksperymentu grupy naukowcуw, zajmuj№cych siк opracowaniem nowych absolutуw i hipermodyfikatуw. Wobec nieosi№gniкcia zamierzonego celu, artefaktu nie umieszczono w magazynie tajnego laboratorium, a po prostu potraktowano go jako wybrak i o nim zapomniano. Badaj№c najciemniejsze zak№tki Zony i spкdziwszy wiele miesiкcy na poszukiwaniach hiperabsolutu o nazwie "Gwiazda Proroka", Fenrir natrafiі na ten artefakt. Aktуwka, w ktуrej znajdowaіy siк informacje o procesie jego tworzenia, byіa dobrze schowana i oznaczona indeksem «X». Fenrira zupeіnie urz№dzaіy pozytywne wіaњciwoњci tego artefaktu, a, poniewaї w caіej Zonie byі tylko jeden egzemplarz a tych, ktуrzy go stworzyli, juї nie byіo wњrуd їywych, to Fenrir nazwaі artefakt swoim imieniem. Cena umowna, lecz imponuj№ca.</text>
+	</string>
+<string id="enc_zone_artifact_kris_zvezda">
+		<text>Anomalny twуr krystaliczny koloru niebieskiego, wygl№d zewnкtrzny – obrкcz z ostrymi pіatkami rozmieszczonymi spiralnie po obwodzie obrкczy. Znaleziony w podziemnym laboratorium X-16, w anomalii «Galareta». Wedіug sіуw stalkera, ktуry znalazі ten egzemplarz, ten cyklicznie wypіywaі na powierzchniк anomalii. Substancja anomalii rozpuszcza prawie wszystkie istniej№ce materiaіy, to tylko kwestia czasu, a na tym tworze nie znaж њladu przybywania w tak agresywnym њrodowisku. Jak stalker zdobyі  ten artefakt nie powiedziaі, ale zauwaїyі jedno, їe ani pyі ani bіoto nie przylega do powierzchni artefaktu, tak samo substancja anomalii «Galareta».</text>
+	</string>
+
+     <string id="enc_zone_af_eye_voron">
+        <text>Nadzwyczajny i rzadki artefakt, maj№cy ksztaіt њwiec№cej kuli, wisz№cej na gaікzi. Rzadki. Wedіug niesprawdzonych danych, powstaje przy oddziaіywaniu anomalii elektromagnetycznej na okreњlony rodzaj drewna, a przynajmniej, tn artefakt czasem znajduj№ w obrкbie dziaіania takiej anomalii. Lekko radioaktywny i obniїa kuloodpornoњж u swojego posiadacza, ale ma szereg bardzo pozytywnych wіaњciwoњci. Piкkny i drogi.</text>
+   	</string>
+	   <string id="enc_fallen_angel">
+       <text>%c[200,255,255,255]Udџwig %c[0,0,255,0]+40 kg \n%c[default]Artefakt ten napotkano w Zonie tylko trzy razy. Jego charakterystyczna cecha - dobra ochrona przed poparzeniem i mordercza radiacja. Warunki powstawania nie s№ dobrze znane, ale jak widaж, jest to klaster elementуw roњlinnych, w tym gіуwnie zielonej bagiennej trawy, turzycy i sitowia. Artefakt ma strukturк marmuru. Organizacje naukowe tylko marz№, aby uzyskaж ten artefakt do badaс. Jest ogromne zainteresowanie wњrуd kolekcjonerуw. Nieopisanie piкkny artefakt.</text>
+       </string>
+	   <string id="enc_pero">
+       <text>Artefakt "Piуro" nie jest taki rzadki w Zonie. Ma jedn№ i tylko jedn№ cechк - zwiкksza siік posiadacza artefaktu. Ale ta wіaњciwoњж nie jest powszechnie znana, dlatego jeїeli stalkerzy natrafiaj№ na taki artefakt, to nie zbieraj№ go, uwaїaj№c za bezuїyteczny њmieж. Warunki wytworzenia s№ nieznane. Sacharow przypuszcza, їe wyksztaіca siк w anomalii "Komarza Јysina".</text>
+       </string>
+	   <string id="enc_vinograd">
+       <text>O tym artefakcie nikt by nie wiedziaі, gdyby nie jeden ze stalkerуw, ktуry wrуciі z dalekiego rajdu i pijany wygadaі siк o nim Barmanowi. Ten stalker i tak go nie sprzedaі, nawet za olbrzymie pieni№dze. Drugiego takiego artefaktu nie znaleziono po dzisiejszy dzieс. Struktura artefaktu marmurowa, posiada sіab№ zіocist№ poњwiatк. Wizualnie przypomina kiњж winogron. Warunki wytworzenia nieznane. O wіaњciwoњciach teї jest bardzo maіo informacji. Naukowcy i kolekcjonerzy sprzedaliby duszк diabіu za posiadanie tej anomalnej substancji. Poniewaї to rzecz unikatowa, to jego wartoњж jest absolutnie umowna.</text>
+       </string>
+        <string id="artifact_af_black_angel">
+		<text>"Czarny Anioі" to nadzwyczaj rzadki artefakt, powstaje, inaczej niї wszystkie pozostaіe artefakty, nie po emisji, a krуtko przed ni№, t.z. jest osobliwym zwiastunem emisji. Niewytіumaczalnym sposobem przyci№ga do siebie mutanty, przy czym, gіуwnie te najniebezpieczniejsze. Bardzo radioaktywny. Znaleџж Czarnego Anioіa udaіo siк tylko nielicznym, dlatego jego cena jest nadzwyczaj wysoka. Wіaњciwoњci tego artefaktu nie s№ do koсca zbadane. Wiadomo tylko, їe gdy znajduje siк niedaleko chorego lub ranionego czіowieka, raptownie wzrasta regeneracja tkanek, komуrki organizmu odnawiaj№ siк prawie natychmiast. Wedіug niesprawdzonych danych, pozwala wyleczyж nawet beznadziejnie chorych na raka w 4-tym stadium.</text>
+	</string>
+<string id="enc_zone_artifact_af-kosi">
+	<text>Artefakt tworzy siк w rezultacie zlania siк trzech anomalii: "Grawi", "Piec" i "Galareta". Nadzwyczaj rzadki. Warunkуw wytworzenia siк tego artefaktu naukowcy jeszcze nie zbadali do koсca, ale jest oczywiste, їe trzeba bardzo duїo szczкњcia i potкїnej emisji, by doprowadziж do syntezy trzech konkretnych anomalii. Artefakt jest zdolny zmieniaж trajektoriк lotu kuli i dodaje nosicielowi wiкcej siіy. Artefakt czyni teї skуrк nosiciela miкksz№ i wraїliwsz№. Przy noszeniu go przy sobie zauwaїono podniesienie temperatury ciaіa z powodu szybszego przepіywu krwi w organizmie.</text>
+</string>
+	   <string id="enc_black_hole">
+       <text>O artefakcie "Czarna Dziura" nikt nigdy nie sіyszaі. Maіo zbadany. Radioaktywny.</text>
+       </string>
+	   <string id="enc_provoloka">
+       <text>Jeden z niewielu artefaktуw, posiadaj№cych wіaњciwoњж samoistnej teleportacji. W jaki sposуb to dziaіa? Nie wiadomo, ale fakt – rzecz ma miejsce. Z powodu wielkiej iloњci igieі na zewnкtrznej powіoce artefaktu, przenikaj№cych na wylot prawie kaїdy pancerz, wywoіuje silny krwotok u swojego posiadacza. Warunki wyksztaіcenia nieznane.</text>
+       </string>
+	   <string id="enc_kletka">
+       <text>Artefakt tworzy siк z ciaіa їywego organizmu, ktуry znajduje siк pod oddziaіywaniem psionicznym i jednoczeњnie wpadnie w anomaliк Galareta. Po raz pierwszy artefakt znaleziono stosunkowo niedawno, na bazie Wolnoњci. Niedaleko bazy pojawiі siк kontroler, ktуry wzi№і pod kontrolк stalkera. Stalker podszedі do bazy Wolnoњci i zacz№і strzelaж, ale wpadі w anomaliк "Galareta". Po tygodniu w anomalii utworzyі siк artefakt. Najwyraџniej artefakt skіada siк z substancji mуzgowej, ktуra przeszіa w stan amorficzny, a dokіadniej, z duїej iloњci aksonalnej tkanki mуzgowej. Przy noszeniu go na pasie bardzo silnie wpіywa na mуzg czіowieka, pogarszaj№c jego odpornoњж na psionikк. Podnosi wytrzymaіoњж czіowieka, ale wywoіuje silne krwotoki przy zranieniach. Z powodu przewaїaj№cych negatywnych wіaњciwoњci nie wzbudza zainteresowania u stalkerуw.</text>
+       </string>
+	   <string id="enc_kvazar">
+       <text>Artefakt posiada jedn№ bardzo dobr№ wіaњciwoњж - doskonale broni przed wybuchami. W zwi№zku z tym istnieje na niego duїe zapotrzebowanie wњrуd stalkerуw, mimo doњж silnego promieniowania tіa. W rкkach go trzymali nieliczni. Ze wzglкdu na rzadkoњж kolekcjonerzy poluj№ za niego, a poniewaї warunki wytworzenia i natura danego artefaktu s№ nieznane, naukowcy zapіac№ za niego dobre pieni№dze, by poj№ж zasadк pochodzenia. Piкkny, rzadki i drogi artefakt.</text>
+       </string>
+	   <string id="enc_propeller">
+       <text>Zwiкksza wytrzymaіoњж organizmu modyfikuj№c j№dra komуrkowego receptora PPAR-delta, reguluj№cego metabolizm w komуrkach miкњniowych. Ale, jako efekt uboczny, znacznie spowalnia proces gojenia siк ran. Warunki wytworzenia i odkrywca artefaktu nieznani.</text>
+       </string>
+	   <string id="enc_pylesos">
+       <text>Kto i gdzie znalazі dany artefakt - nie wiadomo. Nie wiadomo teї, jaka anomalia i przy jakich okolicznoњciach tworzy t№ zielonkaw№, strukturк przestrzenn№. Їadnej informacji o nim nie ma, naukowcy teї milcz№. Niektуrzy uwaїaj№, їe ten artefakt jest faіszywy. Lecz coњ jednakїe wiadomo: jeden egzemplarz istnieje, to pewne, i przy noszeniu w plecaku artefakt pochіania czкњж promieniowania emitowanego przez inne artefakty. Podczas noszenia na pasie zapewnia dodatkow№ obronк przed promieniowaniem i wyprowadza czкњж radionuklidуw z organizmu wіaњciciela. Bardzo rzadki i drogi artefakt. Dobry dla kolekcji.</text>
+</string>
+	<string id="enc_shipovnik">
+		<text>Wygl№da jak pуіprzezroczyste, br№zowawe skupisko sciњniкtych, polimeryzowanych resztek roњlin, gleby, sierњci i koњci. Ma dziwaczn№ formк, pojawia siк w miejscach o podwyїszonej aktywnoњci grawitacyjnej. Niew№tpliwie rodzi siк w anomalii "Winda". Posiada wіaњciwoњж wchіaniania w siebie i neutralizowania mnуstwa szkodliwych substancji. To swego rodzaju g№bka, wchіaniaj№ca radioaktywne cz№steczki i posiadaj№ca zdolnoњж czкњciowej neutralizacji szkodliwych dla czіowieka substancji. Sіabo poznany. Jest ceniony przez stalkerуw, kolekcjonerуw i naukowcуw. Ma duї№ cenк.</text>
+	</string>
+ <string id="enc_fontan">
+	   <text>Promieniotwуrczy, ale sprzyja szybkiej regeneracji komуrek w ranie, robi skуrк twardsz№, co trochк ratuje od ran postrzaіowych. Trzeba duїo szczкњcia, aby znaleџж ten artefakt, tak ceniony przez kolekcjonerуw. Z wygl№du, brzydki twуr o nieregularnym ksztaіcie, pokryty dziwnym nalotem rdzawego koloru. Naukowcy nigdy nie mieli go w rкkach, wiкc warunki i anomalie konieczne do wygenerowania tego artefaktu s№ nieznane. Jedyne, co wiadomo, to charakterystyki. Sporo wart.</text>
+	   </string>
+ <string id="enc_magneto">
+	   <text>Artefakt, potwierdzaj№c swoj№ nazwк, tworzy siк przy wiкkszych, starych, porzuconych instalacjach elektrycznych. Po raz pierwszy znaleziono go w opuszczonej podstacji zasilania na pуіnocy Prypeci. Bardzo radioaktywny. Wyіadowania elektryczne w jego j№drze tworz№ piкkn№ niebiesk№ poњwiatк. Wart przyzwoit№ sumkк u handlarzy.</text>
+	   </string>
+
+<string id="enc_poimal">
+               <text>Zіap artefakt ($$ACTION_USE$$)</text>
+       </string>
+<string id="enc_zabral">
+               <text>Podnieњ puіapkк ($$ACTION_USE$$)</text>
+       </string>
+
+<string id="af_magneto">
+               <text>"Magneto"</text>
+       </string>
+<string id="af_fontan">
+               <text>"Wodotrysk"</text>
+</string>
+	   <string id="af_pylesos">
+               <text>"Elizjum"</text>
+       </string>
+<string id="af_shipovnik">
+		<text>"Dzika Rуїa"</text>
+</string>
+
+<string id="af-eye-voron">
+		<text>"Wronie Oko"</text>
+	</string>
+
+<string id="af_fallen_angel">
+               <text>"Upadіy Anioі"</text>
+       </string>
+
+	   <string id="af_pero">
+               <text>"Piуro"</text>
+       </string>
+
+	   <string id="af_vinograd">
+               <text>"Winogrono"</text>
+       </string>
+
+        <string id="af-black-angel">
+		<text>"Czarny Anioі"</text>
+	</string>
+
+<string id="af_kosi">
+	<text>"Wiedџmiсski Warkocz"</text>
+</string>
+
+	   <string id="af_black_hole">
+               <text>"Czarna Dziura"</text>
+       </string>
+
+	   <string id="af_provoloka">
+               <text>"Czarnobylski Jeї"</text>
+       </string>
+
+	   <string id="af_kletka">
+               <text>"Akson"</text>
+       </string>
+
+	   <string id="af_kvazar">
+               <text>"Kwazar"</text>
+       </string>
+
+	   <string id="af_propeller">
+               <text>"Korona"</text>
+       </string>
+
+	   <string id="af_klever">
+               <text>"Koniczyna"</text>
+       </string>
+
+	   <string id="af_jbk">
+               <text>"Їelbet"</text>
+       </string>
+
+	   <string id="af_jaba">
+               <text>"Їaba"</text>
+       </string>
+
+	   <string id="af_gorgona">
+               <text>"Gorgona"</text>
+       </string>
+
+	   <string id="af_diablo">
+               <text>"Diabeі"</text>
+       </string>
+
+	   <string id="af_chipsi">
+               <text>"Chipsy"</text>
+       </string>
+
+	   <string id="af_chetki">
+               <text>"Rуїaniec"</text>
+       </string>
+
+	   <string id="af_barhat">
+               <text>"Aksamit"</text>
+       </string>
+
+	   <string id="af_kliaksa">
+               <text>"Plama"</text>
+       </string>
+
+	   <string id="af_krest">
+               <text>"Krzyї"</text>
+       </string>
+
+	   <string id="af_ojerelie">
+               <text>"Naszyjnik"</text>
+       </string>
+
+	   <string id="af_serpantin">
+               <text>"Serpentyn"</text>
+       </string>
+
+	   <string id="af_shkatulka">
+               <text>"Szkatuіka"</text>
+       </string>
+
+       <string id="af_spaika_2">
+               <text>"Artefakt Fenrira"</text>
+       </string>
+
+          <string id="af_kris_zvezda">
+               <text>"Krysztaіowa Gwiazda"</text>
+       </string>
+
+	   <string id="art_hunter_description">
+               <text>"Zaawansowany technologicznie przyrz№d, opracowany przez nieznanych naukowcуw w Zonie. Szerokie zastosowanie nanotechnologii i fragmentуw rуїnych artefaktуw pozwoliіo uzyskaж niezrozumiaіe dla prostakуw wіaњciwoњci. Bardzo kruche i іatwo ulegaj№ce zniszczeniu urz№dzenie. Sіuїy do chwytania i transportu wyїszych form artefaktуw.\nЇeby pochwyciж artefakt, trzeba zbliїyж siк do niego na odlegіoњж minimum 3 m, rzuciж puіapkк na ziemiк, po otworzeniu parasolki zіapaж artefakt i zabraж puіapkк. Trzeba zachowaж szczegуln№ ostroїnoњж. Pole puіapki jest stabilizowane polem chwytanego artefaktu. Jeњli aktywowaж puіapkк w odlegіoњci powyїej 3 metrуw lub w pobliїu dwуch i wiкcej artefaktуw - puіapka ulegnie zniszczeniu"</text>
+       </string>
+
+	   <string id="art_hunter">
+               <text>"Puіapka parasolkowa"</text>
+       </string>
+
+	   <string id="enc_zone_zont">
+               <text>"Naіadowana puіapka"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_barhat1">
+               <text>"Puіapka ze zіapanym artefaktem Aksamit"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_chipsi1">
+               <text>"Puіapka ze zіapanym artefaktem Czipsy"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_diablo1">
+               <text>"Puіapka ze zіapanym artefaktem Diabeі"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_chetki1">
+               <text>"Puіapka ze zіapanym artefaktem Rуїaniec"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_gorgona1">
+               <text>"Puіapka ze zіapanym artefaktem Gorgona"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_jaba1">
+               <text>"Puіapka ze zіapanym artefaktem Їaba"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_jbk1">
+               <text>"Puіapka ze zіapanym artefaktem Їelbet"</text>
+       </string>
+       
+	   <string id="enc_zone_artifact_klever1">
+               <text>"Puіapka ze zіapanym artefaktem Koniczyna"</text>
+       </string>
+       
+	   <string id="enc_zone_artifact_kliaksa1">
+               <text>"Puіapka ze zіapanym artefaktem Plama"</text>
+       </string>
+       
+	   <string id="enc_zone_artifact_krest1">
+               <text>"Puіapka ze zіapanym artefaktem Krzyї"</text>
+       </string>
+       
+	   <string id="enc_zone_artifact_ojerelie1">
+               <text>"Puіapka ze zіapanym artefaktem Naszyjnik"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_serpantin1">
+               <text>"Puіapka ze zіapanym artefaktem Serpentyn"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_shkatulka1">
+               <text>"Puіapka ze zіapanym artefaktem Szkatuіka"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_kris_zvezda1">
+               <text>"Puіapka ze zіapanym artefaktem Krysztaіowa Gwiazda"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_spaika_21">
+               <text>"Puіapka ze zіapanym artefaktem Fenrira"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_eye_voron1">
+               <text>"Puіapka ze zіapanym artefaktem Wronie Oko"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_fallen_angel1">
+               <text>"Puіapka ze zіapanym artefaktem Upadіy Anioі"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_pero1">
+               <text>"Puіapka ze zіapanym artefaktem Piуro"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_vinograd1">
+               <text>"Puіapka ze zіapanym artefaktem Winogrono"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_black_angel1">
+               <text>"Puіapka ze zіapanym artefaktem Czarny Anioі"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_kosi1">
+               <text>"Puіapka ze zіapanym artefaktem Wiedџmiсski Warkocz"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_black_hole1">
+               <text>"Puіapka ze zіapanym artefaktem Czarna Dziura"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_provoloka1">
+               <text>"Puіapka ze zіapanym artefaktem Czarnobylski Jeї"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_kletka1">
+               <text>"Puіapka ze zіapanym artefaktem Akson"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_kvazar1">
+               <text>"Puіapka ze zіapanym artefaktem Kwazar"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_propeller1">
+               <text>"Puіapka ze zіapanym artefaktem Korona"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_pylesos1">
+               <text>"Puіapka ze zіapanym artefaktem Elizjum"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_shipovnik1">
+               <text>"Puіapka ze zіapanym artefaktem Dzika Rуїa"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_fontan1">
+               <text>"Puіapka ze zіapanym artefaktem Wodotrysk"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_magneto1">
+               <text>"Puіapka ze zіapanym artefaktem Magneto"</text>
+       </string>
+
+
 	<string id="af-ameba-mica">
-		<text>"Слюда"</text>
+		<text>"Mika"</text>
 	</string>
 	<string id="af-ameba-slime">
-		<text>"Слизь"</text>
+		<text>"Њluz"</text>
 	</string>
 	<string id="af-ameba-slug">
-		<text>"Слизняк"</text>
+		<text>"Њluzowiec"</text>
 	</string>
 	<string id="af-blood">
-		<text>"Кровь камня"</text>
+		<text>"Kamienna Krew"</text>
 	</string>
 	<string id="af-cristall">
-		<text>"Кристалл"</text>
+		<text>"Krysztaі"</text>
 	</string>
 	<string id="af-cristall-flower">
-		<text>"Каменный цветок"</text>
+		<text>"Krysztaіowy Kwiat"</text>
 	</string>
 	<string id="af-drops">
-		<text>"Капли"</text>
+		<text>"Kropla"</text>
 	</string>
 	<string id="af-dummy-battery">
-		<text>"Батарейка"</text>
+		<text>"Bateryjka"</text>
 	</string>
 	<string id="af-dummy-dummy">
-		<text>"Пустышка"</text>
+		<text>"Pustak"</text>
 	</string>
 	<string id="af-dummy-glassbeads">
-		<text>"Мамины бусы"</text>
+		<text>"Korale Mamusi"</text>
 	</string>
 	<string id="af-dummy-pellicle">
-		<text>"Плёнка"</text>
+		<text>"Bіona"</text>
 	</string>
 	<string id="af-dummy-spring">
-		<text>"Пружина"</text>
+		<text>"Sprкїyna"</text>
 	</string>
 	<string id="af-electra-flash">
-		<text>"Вспышка"</text>
+		<text>"Bіysk"</text>
 	</string>
 	<string id="af-electra-moonlight">
-		<text>"Лунный свет"</text>
+		<text>"Blask Ksiкїyca"</text>
 	</string>
 	<string id="af-electra-sparkler">
-		<text>"Бенгальский огонь"</text>
+		<text>"Њwiecideіko"</text>
 	</string>
 	<string id="af-fireball">
-		<text>"Огненный шар"</text>
+		<text>"Ognista Kula"</text>
 	</string>
 	<string id="af-fuzz-kolobok">
-		<text>"Колобок"</text>
+		<text>"Kulebiak"</text>
 	</string>
 	<string id="af-gold-fish">
-		<text>"Золотая рыбка"</text>
+		<text>"Zіota Rybka"</text>
 	</string>
 	<string id="af-gravi">
-		<text>"Грави"</text>
+		<text>"Grawi"</text>
 	</string>
 	<string id="af-medusa">
-		<text>"Медуза"</text>
+		<text>"Meduza"</text>
 	</string>
 	<string id="af-mincer-meat">
-		<text>"Ломоть мяса"</text>
+		<text>"Kotlet"</text>
 	</string>
 	<string id="af-night-star">
-		<text>"Ночная звезда"</text>
+		<text>"Gwiazda Wieczorna"</text>
 	</string>
 	<string id="af-rusty-kristall">
-		<text>"Кристальная колючка"</text>
+		<text>"Krysztaіowa Kolczatka"</text>
 	</string>
 	<string id="af-rusty-sea-urchin">
-		<text>"Морской ёж"</text>
+		<text>"Jeїowiec"</text>
 	</string>
 	<string id="af-rusty-thorn">
-		<text>"Колючка"</text>
+		<text>"Kolczatka"</text>
 	</string>
 	<string id="af-soul">
-		<text>"Душа"</text>
+		<text>"Dusza"</text>
 	</string>
 	<string id="af-vyvert">
-		<text>"Выверт"</text>
+		<text>"Skrкtak"</text>
 	</string>
 	<string id="Agroprom">
-		<text>"Агропром"</text>
+		<text>"Agroprom"</text>
 	</string>
 	<string id="Ameba">
-		<text>"Холодец"</text>
+		<text>"Galareta"</text>
 	</string>
 	<string id="Anomalies">
-		<text>Аномалии</text>
+		<text>Anomalie</text>
 	</string>
 	<string id="Artifacts">
-		<text>Артефакты</text>
+		<text>Artefakty</text>
 	</string>
 	<string id="Bald">
-		<text>"Трамплин"</text>
+		<text>"Trampolina"</text>
 	</string>
 	<string id="Bar">
-		<text>Бар</text>
+		<text>Bar</text>
 	</string>
 	<string id="Darkdolina">
-		<text>Тёмная долина</text>
+		<text>Dolina Mroku</text>
 	</string>
 	<string id="Deadcity">
-		<text>Удалено</text>
+		<text>Usuniкto</text>
 	</string>
 	<string id="Electra">
-		<text>"Электра"</text>
+		<text>"Elektra"</text>
 	</string>
 	<string id="enc_weapons1_wpn-winchester_m1">
-		<text>Модификация Чейзера. В подствольную емкость для патронов был встроен небольшой фрагмент артефакта "Грави", ориентированный таким образом, чтобы увеличивать скорость полета пули.</text>
+		<text>Odmiana Chasera. W lufк wbudowano niewielki odіamek artefaktu "grawi". Zostaі on umieszczony w taki sposуb, їe zwiкksza prкdkoњж wylotow№ naboju.</text>
 	</string>
 	<string id="enc_zone_anomalies_ameba">
-		<text>Образование не ясной до конца природы. При контакте с телом наносит травмы, сходные с эффектом воздействия сильной кислоты. Образует три вида артефактов: «Слизь», «Слизняка», «Слюду».</text>
+		<text>Anomalia nieznanego pochodzenia. Przy kontakcie zadaje obraїenia zbliїone do tych, jakie wywoіuje silny kwas. Tworzy trzy rodzaje artefaktуw: "Њluz", "Њluzowiec" oraz "Mika".</text>
 	</string>
 	<string id="enc_zone_anomalies_bald">
-		<text>Одна из первых зафиксированных аномалий. Наносит ударные повреждения переменным гравитационным полем. На одном месте находится в среднем неделю, в течение «жизни» меняя силу воздействия. Результат встречи с "трамплином" может быть разным - от небольших синяков и ушибов до мгновенной смерти. В дневное время достаточно легко обнаруживается по искажениям воздуха над ней, кружащейся листве, а также характерным пятнам на земле красно-бурого цвета. Фиксируется любыми видами детекторов, а также с помощью подброшенных в неё различных предметов. Образует три вида артефактов: «Медузу», «Каменный цветок» и «Ночную звезду».</text>
+		<text>Jedna z pierwszych zarejestrowanych anomalii - niestabilne pole grawitacyjne zadaj№ce obraїenia wszystkim przebywaj№cym w jego zasiкgu. Aktywna њrednio przez tydzieс. Zmienna iloњж obraїeс - od niewielkich siniakуw przez powaїne rany, aї po natychmiastow№ њmierж. Јatwo j№ zauwaїyж w њwietle dziennym. Nad anomali№ widaж ruch powietrza, towarzysz№ jej rуwnieї unosz№ce siк liњcie oraz charakterystyczne szkarіatne plamy na ziemi. Trampolinк wykrywaj№ wszystkie detektory, moїna j№ rуwnieї zidentyfikowaж, rzucaj№c w ni№ rуїne przedmioty. Tworzy trzy rodzaje artefaktуw: "Meduza", "Krysztaіowy Kwiat" oraz "Gwiazda Wieczorna".</text>
 	</string>
 	<string id="enc_zone_anomalies_electra">
-		<text>Аномальное образование диаметром около 10 метров, накапливающее статическое электричество. Потревоженная аномалия взрывается десятком мини-молний, причём поражение током для любого живого существа почти всегда смертельно. Характерной особенностью "электры" является видимый над ней днём голубоватый туман. Ночью легко обнаруживается любыми видами детекторов или с помощью бросания металлических предметов. Образует три вида артефактов: «Бенгальский огонь», «Вспышку» и «Лунный свет».</text>
+		<text>Anomalia o њrednicy okoіo 10 metrуw, ktуra gromadzi duїe iloњci elektrycznoњci statycznej. Przy kontakcie wystrzeliwuj№ z niej dziesi№tki miniaturowych bіyskawic, raї№c pr№dem, co prawie zawsze koсczy siк њmierci№. W њwietle dziennym moїna j№ rozpoznaж po unosz№cej siк ponad ni№ niebieskawej mgle. W nocy Elektro moїna wykryж za pomoc№ dowolnego detektora lub rzucaj№c w jej kierunku metalowe przedmioty. Tworzy trzy rodzaje artefaktуw: "Њwiecideіko", "Bіysk" oraz "Blask Ksiкїyca".</text>
 	</string>
 	<string id="enc_zone_anomalies_fuzz">
-		<text>Аномально видоизменившаяся растительность. При быстром приближении живого существа выбрасывает облачко частиц, которые в случае контакта с открытой или слабо защищённой кожей серьёзно травмируют последнюю. На медленно движущиеся объекты не реагирует. Образует три вида артефактов (возможно, это семена): «Колючку», «Кристальную колючку», «Морского ежа».</text>
+		<text>Jeden z przykіadуw zmutowanej roњlinnoњci Zony. Reaguje na szybko zbliїaj№ce siк istoty їywe, wystrzeliwuj№c w ich kierunku chmarк pociskуw, ktуre powaїnie rani№ nieosіoniкt№ lub sіabo chronion№ skуrк. Nie reaguje na istoty, ktуre poruszaj№ siк powoli. Tworzy trzy rodzaje artefaktуw (prawdopodobnie swoje nasiona): "Kolczatka", "Krysztaіowa Kolczatka" oraz "Jeїowiec".</text>
 	</string>
 	<string id="enc_zone_anomalies_gravi">
-		<text>Аномалия предположительно гравитационной природы. В момент активизации со страшной силой втягивает в себя всё, что находится в радиусе 10-15 метров. При попадании в центр "воронки" шансов выжить нет: тело и животного, и человека будет сжато в плотный комок, а затем разорвано в момент так называемой разрядки. В течение всего периода существования - в среднем это около недели - аномалия не меняет места своего проявления; может быть визуально обнаружена днём по характерному движению воздуха над ней, кружащейся листве, фрагментам расчленённых трупов и характерному тёмному пятну на земле в центре. Ночью крайне опасна, поскольку обнаруживается лишь детекторами или с помощью бросания металлических предметов. Образует три вида артефактов: «Выверт», «Грави» и «Золотую рыбку».</text>
+		<text>Anomalia prawdopodobnie pochodzenia grawitacyjnego. Po kontakcie z ni№ ogromna moc "Lejka" przyci№ga do њrodka anomalii wszystko, co znajduje siк w promieniu 10-15 metrуw. Ofiary wci№gniкte do jej j№dra nie maj№ szans na przeїycie: ich ciaіa s№ bіyskawicznie zgniatane, a po chwili rozsadzane w potкїnym wybuchu energii. Przez caіy czas swojego istnienia (zazwyczaj okoіo tygodnia) anomalia ta pozostaje nieruchoma. W dzieс іatwo j№ rozpoznaж po ruchu powietrza nad ni№, unosz№cych siк liњciach, leї№cych wokуі szcz№tkach ciaі oraz po charakterystycznej ciemnej plamie poњrodku. Jest niezwykle niebezpieczna w nocy, gdyї moїna j№ rozpoznaж tylko za pomoc№ detektora lub rzucaj№c w jej kierunku metalowe przedmioty. Tworzy trzy rodzaje artefaktуw: "Skrкtak", "Grawi" oraz "Zіota Rybka".</text>
 	</string>
 	<string id="enc_zone_anomalies_lift">
-		<text>Безвредная для здоровья гравитационная аномалия, позволяющая на некоторое время забыть о законах тяготения. В локальном объеме диаметром в несколько метров земное притяжения значительно снижено. Образует артефакт «Плёнка».</text>
+		<text>Nieszkodliwa anomalia chwilowo zakіуcaj№ca grawitacjк. Pojawia siк na obszarze (zazwyczaj o њrednicy kilku metrуw), na ktуrym siіa przyci№gania ziemskiego jest znacznie obniїona. Tworzy "Bіonк".</text>
 	</string>
 	<string id="enc_zone_anomalies_meat">
-		<text>Название обусловлено эффектом поднятия в воздух любого живого существа с последующей раскруткой до огромной скорости. Природа "карусели" пока не исследована до конца. Обнаруживается по лёгкому пылевому вихрю и разбросанным фрагментам тел вокруг. Очень важно не упустить момент начала втягивания в аномальный вихрь и не попасть в зону максимально сильного эффекта в центре - только тогда есть шанс отделаться минимальными травмами. Образует три вида артефактов: «Кровь камня», «Ломоть мяса» и «Душу».</text>
+		<text>Anomalia ta porywa swe ofiary w powietrze i obraca nimi z zawrotn№ szybkoњci№. Dokіadne pochodzenie Karuzeli jest nieznane. Anomaliк tк moїna rozpoznaж po widocznej ponad ni№ niewielkiej tr№bie powietrznej oraz po porozrzucanych w okolicy szcz№tkach ciaі. Ofiary pochwycone na jej obrzeїach - wystarczaj№co daleko od najsilniej oddziaіuj№cego њrodka anomalii - mog№ uciec Karuzeli ze stosunkowo niewielkimi obraїeniami. Tworzy trzy rodzaje artefaktуw: "Kamienna krew", "Kotlet" oraz "Dusza".</text>
 	</string>
 	<string id="enc_zone_anomalies_radioactive">
-		<text>Зона повышенного уровня - более 50 мкР/ч - радиации. Необходимо избегать длительного нахождения в подобных местах.</text>
+		<text>Teren zwiкkszonego promieniowania - ponad 50 mR/h. Przebywanie w strefie promieniowania przez dіuїszy czas nie jest wskazane.</text>
 	</string>
 	<string id="enc_zone_anomalies_time">
-		<text>Аномалию, которую по праву можно назвать маленьким чудом: в объёме диаметром в несколько метров течение времени многократно замедляется. Отрицательного воздействия на здоровье, судя по всему, не оказывает, но выбраться из неё нелегко. Интересно, что в центре "машины времени" обычно находится артефакт "Мамины бусы", при изъятии которого аномалия прекращает своё существование.</text>
+		<text>Prawdziwy cud wњrуd anomalii: teren o њrednicy kilku metrуw, gdzie upіyw czasu jest znacznie wolniejszy niї zazwyczaj. Wydaje siк nie mieж negatywnego wpіywu na zdrowie czіowieka. Jednakїe czasem trudno jest siк z niego wydostaж. Co ciekawe, Wehikuі Czasu znika, gdy zabierze siк ze њrodka tej anomalii "Korale Mamusi".</text>
 	</string>
 	<string id="enc_zone_anomalies_zharka">
-		<text>В неактивном состоянии выглядит как едва видимое облако горячего воздуха, однако при попадании в зону действия любого предмета или живого существа образует компактную зону, разогретую до температуры около 1500К. Ночью может быть обнаружена только мощными детекторами или с помощью бросания металлических предметов. Образует три вида артефактов: «Капли», «Огненный шар» и «Кристалл».</text>
+		<text>Gdy anomalia ta jest nieaktywna, objawia siк jako ledwo widoczny obіok gor№cego powietrza. Po kontakcie z ni№ przedmiot lub istota їywa natychmiast nagrzewa siк do zabуjczej temperatury dochodz№cej do 1500 stopni w skali Kelwina. W nocy anomaliк moїna rozpoznaж dziкki zaawansowanym detektorom lub rzucaj№c w ni№ metalowymi przedmiotami. Tworzy trzy rodzaje artefaktуw: "Kropla", "Kula Ognista" oraz "Krysztaі".</text>
 	</string>
 	<string id="enc_zone_artifact_af-ameba-mica">
-		<text>Аномалия «Холодец» способна породить такой артефакт при редчайшем, экстремальном наборе физических условий. В результате получается полупрозрачный твердый объект. Артефакт дорогой и редкостный.</text>
+		<text>"Galareta" jest w stanie wytworzyж taki artefakt przy zaistnieniu kilku najrzadziej spotykanych, ekstremalnych warunkуw fizycznych. Powstaje wtedy na wpуі przezroczysty, twardy przedmiot. To rzadki i drogi artefakt.</text>
 	</string>
 	<string id="enc_zone_artifact_af-ameba-slime">
-		<text>Точно известно, что артефакт порожден аномалией «Холодец». При ношении его на поясе раны меньше кровоточат, хотя тело хозяина становится уязвимым к различным ожогам.</text>
+		<text>To pewne, їe artefakt ten jest tworzony przez anomaliк zwan№ "Galaret№". Kiedy siк go nosi przy sobie, rany mniej krwawi№, choж ciaіo jego posiadacza staje siк bardziej wraїliwe na rуїnego rodzaju oparzenia.</text>
 	</string>
 	<string id="enc_zone_artifact_af-ameba-slug">
-		<text>Формируется аномалией «Холодец». Негативные свойства этого артефакта компенсируется тем, что он повышает свертываемость крови. Такой артефакт нечасто можно встретить, и за него дают неплохую цену.</text>
+		<text>Artefakt stworzony w "Galarecie". Jego wady rekompensuje fakt, їe poprawia krzepliwoњж krwi. Rzadko siк go spotyka, wiкc moїna za niego sporo zarobiж.</text>
 	</string>
 	<string id="enc_zone_artifact_af-blood">
-		<text>Найти этот артефакт можно возле аномалий «Карусель». Представляет собой довольно уродливое красноватое образование из спрессованных и причудливо изогнутых полимеризированных остатков растений, почвы и костей. Довольно распространен и слабоэффективен.</text>
+		<text>Artefakt stworzony w "Karuzeli". Dosyж brzydki, czerwonawy przedmiot powstaіy ze zgniecionych, dziwnie poskrкcanych, spolimeryzowanych czкњci roњlin, ziemi i koњci. Dosyж powszechny i niezbyt skuteczny.</text>
 	</string>
 	<string id="enc_zone_artifact_af-cristall">
-		<text>Получается при попадании тяжелого металла в аномалию «Жарка». Этот артефакт замечательно выводит радиацию. Такой артефакт высоко ценится сталкерами, и мало где его можно добыть.</text>
+		<text>Powstaje, gdy do "Pieca" wpadaj№ metale ciкїkie. Idealnie usuwa promieniowanie. Bardzo ceniony przez stalkerуw i ciкїki do znalezienia.</text>
 	</string>
 	<string id="enc_zone_artifact_af-cristall-flower">
-		<text>Рождается в аномалии «трамплин». Такой артефакт можно найти в немногих участках зоны. Вкрапления металлических соединений дают красивую игру света. Рассматривание этого артефакта в свете костра ночью замечательно успокаивает.</text>
+		<text>Artefakt stworzony w "Trampolinie". Moїna go znaleџж jedynie na kilku obszarach w Zonie. Dziкki fragmentom metali moїna na nim zaobserwowaж piкkn№ grк њwiateі. Przygl№danie siк temu artefaktowi w nocy, przy ognisku, bardzo uspokaja.</text>
 	</string>
 	<string id="enc_zone_artifact_af-drops">
-		<text>Формируется аномалией «Жарка» при высоких температурах. Внешне выглядит как почерневшее каплевидное образование с глянцевой поверхностью, покрытое трещинами.</text>
+		<text>Artefakt stworzony w "Piecu" przy bardzo wysokiej temperaturze. Z zewn№trz wygl№da jak іza, ma bіyszcz№c№, popкkan№ powierzchniк.</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-battery">
-		<text>Происхождение этой вещи окутано завесой научной тайны. Понятно, что в его состав входят диэлектрические элементы, но при каких физических условиях он формируется - науке не известно.</text>
+		<text>%c[200,255,255,255]Udџwig %c[0,0,255,0]+10 kg \n%c[default]Pochodzenie tego artefaktu owiane jest naukow№ tajemnic№. Rzecz jasna czкњciowo zostaі stworzony przez elementy dielektryczne, lecz nauka nie zna warunkуw, w jakich powstaі.</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-dummy">
-		<text>При ношении этого артефакта денатурализация белков проходит медленнее. Другими словами, плоть устойчивее к высоким температурам и меньше обгорает. Сама по себе это дорогая и редкостная вещь.</text>
+		<text>%c[200,255,255,255]Udџwig %c[0,0,255,0]+5 kg \n%c[default]Gdy ma siк przy sobie ten artefakt, biaіko wolniej ulega uszkodzeniu. Innymi sіowy, ciaіo ludzkie jest w stanie wytrzymaж wyїsze temperatury i doznaje mniejszych oparzeс. Artefakt jest bardzo drogi i rzadko spotykany.</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-glassbeads">
-		<text>Замечательный артефакт. Берегите его - он хорош тем, что имеет только положительное качество. Ученые ломают седые головы над тем, как подобное свойство можно получить в лабораторных условиях.</text>
+		<text>Wspaniaіy artefakt. Chroс go - jest tak wartoњciowy dlatego, їe nie ma їadnych skutkуw ubocznych. Naukowcy nie mog№ wymyњliж, jak go stworzyж w warunkach laboratoryjnych.</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-pellicle">
-		<text>Этот артефакт настолько редок, что многие исследователи даже не догадываются, что такая субстанция может существовать в естественных условиях. Отторгает едкие химические компоненты.</text>
+		<text>Ten artefakt jest wyj№tkowo rzadko spotykany i wielu naukowcуw nie jest w stanie poj№ж, їe coњ takiego moїe istnieж w њrodowisku naturalnym. Wydziela kwasowe skіadniki chemiczne.</text>
 	</string>
 	<string id="enc_zone_artifact_af-dummy-spring">
-		<text>По мнению некоторых исследователей-теоретиков, этот артефакт представляет собой гибрид "Батарейки" и "Пустышки"</text>
+		<text>%c[200,255,255,255]Udџwig %c[0,0,255,0]+25 kg \n%c[default]Wedіug niektуrych badaczy-teoretykуw ten artefakt to hybryda "Bateryjki" i "Pustaka"</text>
 	</string>
 	<string id="enc_zone_artifact_af-electra-flash">
-		<text>«Электра» изредка порождает этот артефакт. Сталкеры используют его с большой охотой из-за его неплохих качеств. Неплохая цена и приятный внешний вид делают его интересным для коллекционеров.</text>
+		<text>"Elektra" czasem tworzy ten artefakt. Stalkerzy chкtnie go uїywaj№ ze wzglкdu na jego zalety. Niezіa cena i іadny wygl№d sprawiaj№, їe jest on gratk№ dla kolekcjonerуw.</text>
 	</string>
 	<string id="enc_zone_artifact_af-electra-moonlight">
-		<text>Вырожденный случай активности аномалии «Электра». Видимо, такую замечательную округлую форму можно получить, если подвергнуть аномалию термовоздействию. Дорогой артефакт.</text>
+		<text>Przykіad zwyrodnienia anomalii "Elektra". Wydaje siк, їe ten piкkny, okr№gіy przedmiot powstaje, gdy anomalia ulega wpіywom termicznym. Drogi artefakt.</text>
 	</string>
 	<string id="enc_zone_artifact_af-electra-sparkler">
-		<text>Находится около аномалий типа «Электра». Довольно распространенный и недорогой артефакт. Тем не менее ценится среди исследователей Зоны за его свойства.</text>
+		<text>Znajdowany niedaleko anomalii typu "Elektra". Dosyж powszechny i niedrogi. Mimo to badacze z Zony ceni№ go za jego wіaњciwoњci.</text>
 	</string>
 	<string id="enc_zone_artifact_af-fireball">
-		<text>Кристаллизируется в аномалии «Жарка». Хорошо борется с радиоактивностью, хотя ускоренный энергообмен изнашивает мышцы двигательного аппарата. Долго бежать не получится. Артефакт излучает тепло.</text>
+		<text>Krystalizuje siк w "Piecu". Dobrze zwalcza radioaktywnoњж, choж zwiкkszone zapotrzebowanie na energiк mкczy miкњnie i narz№dy ruchu. Dіugotrwaіy bieg nie wchodzi w grк. Artefakt emituje ciepіo.</text>
 	</string>
 	<string id="enc_zone_artifact_af-fuzz-kolobok">
-		<text>Когда держишь эту загадку Зоны в руках, чувствуешь, как кожа грубеет и становится менее чувствительной. Пробить пулей ее все еще легко, а вот порезать - гораздо сложнее.</text>
+		<text>Gdy trzymasz w dіoniach tк tajemnicк Zony, czujesz, jak twoja skуra staje siк twardsza i mniej wraїliwa. Ci№gle moїna j№ przestrzeliж, ale o wiele trudniej j№ przeci№ж.</text>
 	</string>
 	<string id="enc_zone_artifact_af-gold-fish">
-		<text>Порождается аномалией «Воронка». Активизируется теплом тела. Решай, что хуже - радиация или ножевые ранения, и выбирай из двух зол меньшее. Во всяком случае артефакт можно дорого продать.</text>
+		<text>%c[200,255,255,255]Udџwig %c[0,0,255,0]+10 kg \n%c[default]Artefakt stworzony w "Lejku". Uaktywnia go ciepіo ludzkiego ciaіa. Zdecyduj, co jest gorsze - promieniowanie czy rany zadane noїem i wybierz mniejsze zіo. Oczywiњcie moїesz rуwnieї sprzedaж artefakt i sporo zarobiж.</text>
 	</string>
 	<string id="enc_zone_artifact_af-gravi">
-		<text>Можно обнаружить около аномалий типа «Воронка», или у другого сталкера. При ношении некоторая часть радиоактивных лучей накапливается в организме, в то время как основные пучки расходятся радиально от тела. Цена средняя.</text>
+		<text>%c[200,255,255,255]Udџwig %c[0,0,255,0]+8 kg \n%c[default]Moїna go znaleџж niedaleko anomalii takich jak "Lejek" lub w rкkach innego stalkera. Gdy masz go przy sobie, czeњж promieniowania zbiera siк w ciele, natomiast reszta rozchodzi siк promieniњcie z daleka od ciaіa. Wartoњciowy.</text>
 	</string>
 	<string id="enc_zone_artifact_af-medusa">
-		<text>Образуется в аномалии «трамплин». Формирует слабое защитное поле, побочным эффектом которого является легкое излучение. Артефакт широко распространен и недорог.</text>
+		<text>Artefakt powstaіy w "Trampolinie". Tworzy wokуі posiadacza sіabe pole ochronne, ktуrego efektem ubocznym jest niewielkie promieniowanie. Dosyж powszechny i niewiele wart.</text>
 	</string>
 	<string id="enc_zone_artifact_af-mincer-meat">
-		<text>Вырабатывается аномалией «Карусель». Стимулирует усиленный рост клеток. С другой стороны, молодые клетки организма более восприимчивы ко многим видам физического урона. Артефакт попадается нечасто, но его нельзя назвать уникальным.</text>
+		<text>Tworzony przez "Karuzelк". Powoduje przyњpieszony wzrost komуrek, lecz nowo powstaіe komуrki s№ o wiele wraїliwsze na skutki oddziaіywania uranu. Artefaktu tego nie znajduje siк zbyt czкsto, ale teї trudno go nazwaж rzadkim.</text>
 	</string>
 	<string id="enc_zone_artifact_af-night-star">
-		<text>Этот замечательный артефакт формируется аномалией «трамплин». Использование артефакта требует нейтрализации смертельного радиоактивного излучения. Дорогой и редкостный, он чрезвычайно интересен для научных экспедиций и прочих исследователей активности Зоны.</text>
+		<text>Ten wspaniaіy artefakt powstaje w "Trampolinie". Їeby go uїywaж, trzeba zneutralizowaж њmierteln№ dawkк promieniowania. Drogi i rzadki - szczegуlnie interesuj№cy dla ekspedycji naukowych i innych rodzajуw dziaіalnoњci badawczej w Zonie.</text>
 	</string>
 	<string id="enc_zone_artifact_af-rusty-kristall">
-		<text>Кристаллизируется в аномалии «Жгучий пух». Выводит радиацию из организма естественным путем. То есть, через уши вместе с некоторым количеством крови. Возможна потеря крови и через другие отверстия. Попадается нечасто и довольно эффективен, чем заслужил себе стабильную цену на рынке артефактов.</text>
+		<text>Krystalizuje siк w "Kіuj№cym Puchu". W naturalny sposуb wysysa z organizmu promieniowanie - robi to przez uszy, zabieraj№c rуwnieї trochк krwi. Moїliwe jest rуwnieї krwawienie z innych otworуw w ciele. Popularny i dosyж skuteczny, co jest przyczyn№ stabilnej ceny na rynku artefaktуw.</text>
 	</string>
 	<string id="enc_zone_artifact_af-rusty-sea-urchin">
-		<text>Аномалия «Жгучий пух» очень редко порождает такой артефакт. Повышается кровяное давление, организм избавляется от большого количества красных кровяных телец. Но вместе с ними из организма выходит накопленное излучение. Сахаров в своей фундаментальной работе "Ионизация и поляризация компонентов редких артефактов" заметил, что состав этого формирования обладает критической стабильностью, и добиться создания такого артефакта в условиях лаборатории в ближайшие десятилетия нереально.</text>
+		<text>Anomalia "Kіuj№cy Puch" bardzo rzadko tworzy ten artefakt. Dziкki niemu roњnie ciњnienie krwi, a organizm pozbywa siк duїej iloњci czerwonych krwinek. Razem z nimi opuszcza ciaіo zgromadzone w nim promieniowanie. W swym gіуwnym dziele, "Jonizacja i polaryzacja skіadnikуw rzadkich artefaktуw", Sacharow stwierdza, їe skіad tego artefaktu ma pewn№ graniczn№ statecznoњж i їe w ci№gu najbliїszych dziesiкciu lat nie bкdzie moїliwe stworzenie go w warunkach laboratoryjnych.</text>
 	</string>
 	<string id="enc_zone_artifact_af-rusty-thorn">
-		<text>Результат взаимодействия аномалии «Жгучий пух» и тела невнимательного сталкера. Шипастый артефакт колет тело владельца, как бы его не крепить. Но он же помогает очищению организма от радионуклидов. Довольно распространенный и дешевый.</text>
+		<text>Efekt interakcji pomiкdzy anomali№ "Kіuj№cy Puch" i ciaіem nieostroїnego stalkera. "Kolczatka" bez wzglкdu na okolicznoњci kіuje ciaіo osoby, ktуra go posiada. Jednak pomaga oczyњciж jej organizm z radionukleidуw. Dosyж powszechny i tani.</text>
 	</string>
 	<string id="enc_zone_artifact_af-soul">
-		<text>Очень редко попадается рядом с аномалиями «Карусель». Найти такой артефакт удается лишь единицам, и мало кто его вообще видел. Он имеет приятную форму и не менее приятную цену.</text>
+		<text>Bardzo rzadko spotykany artefakt znajdowany w okolicy "Karuzeli". Niewielu udaje siк go odnaleџж, niewielu rуwnieї miaіo okazjк go zobaczyж. Ma piкkny ksztaіt i rуwnie piкkn№ cenк.</text>
 	</string>
 	<string id="enc_zone_artifact_af-vyvert">
-		<text>Находится около аномалий типа «Воронка». При контакте с телом распространяет направленное излучение, защищающее от царапин или ран, нанесенных холодным оружием. Такой артефакт найти не сложно, потому и деньги за него дают небольшие.</text>
+		<text>%c[200,255,255,255]Udџwig %c[0,0,255,0]+5 kg \n%c[default]Znajdowany w anomalii zwanej "Lejek". Gdy dotyka ciaіa, rozprzestrzenia radiacjк, ktуra chroni ciaіo przed zadrapaniami lub ranami od broni. Nietrudno znaleџж ten artefakt, dlatego nie jest wiele wart.</text>
 	</string>
 	<string id="enc_zone_locations_agroprom">
-		<text>Странная местность. Если углубиться в неё, то выйдешь на сильно загрязнённую радиацией равнину. Расположенное там мелкое озеро до краёв забито обломками техники. Ещё можно посетить старый институт и фабрику, однако в последнее время там что-то слишком часто стали мелькать военные.</text>
+		<text>Dziwny, silnie skaїony obszar. Jeњli zapuњcisz siк w jego gі№b, zobaczysz pіytkie jezioro, od jednego brzegu do drugiego zagracone porzuconym sprzкtem i innymi szcz№tkami. Moїesz rуwnieї obejrzeж opuszczony Instytut i fabrykк, choж ostatnio czкsto siк tam krкci wojsko.</text>
 	</string>
 	<string id="enc_zone_locations_bar">
-		<text>Группировка "Долг" расчистила на окраине Дикой территории местечко себе под базу и позволяет сталкерам здесь отдохнуть. Своего рода оазис в пустыне - ни аномалий, ни мутантов. Есть подземелье, в котором разместился бар "100 Рентген": в нём собираются сталкеры со всей Зоны. Заправляет в баре местный торговец, так что здесь можно не только пообщаться, но и продать-купить почти всё, что угодно. На север от бара находится военная база, на юг - Свалка.</text>
+		<text>Czіonkowie "Powinnoњci" rozbili obуz na kraсcach rуwniny i zawsze z chкci№ przyjmuj№ stalkerуw, ktуrzy potrzebuj№ odpoczynku. To swoista pustynna oaza - miejsce, w ktуrym nie ma ani anomalii, ani mutantуw. Pamiкtaj, їeby wybraж siк do baru "100 Radуw" w podziemiach - to miejsce spotkaс stalkerуw z caіej Zony. Bar prowadzi miejscowy handlarz, wiкc jeњli poza plotkami interesuje ciк rуwnieї sprzedaї lub kupno towarуw, to wіaњnie idealne miejsce. Na pуіnoc od baru znajduje siк baza wojskowa, a na poіudnie - Wysypisko.</text>
 	</string>
 	<string id="enc_zone_locations_darkdolina">
-		<text>Здесь всегда мрачно и туманно, часто идёт дождь. В Тёмной долине можно разжиться неплохими артефактами, а можно и быстро распрощаться с жизнью. Здесь много матёрых сталкеров - они пришли сюда за ценными артефактами; есть и бандиты. Можно поискать вход в расположенную где-то здесь подземную лабораторию, только оттуда никто не возвращался, и что такое там прячется, никому как следует не известно.</text>
+		<text>Zawsze ponura, zawsze zamglona, zawsze deszczowa. Stalkerzy, ktуrzy zapuszcz№ siк do Doliny Mroku, maj№ duїe szanse na znalezienie wartoњciowych artefaktуw, natychmiastowej њmierci lub i tego, i tego. Bywaj№ tu najstarsi weterani, choж moїna siк teї natkn№ж na zwykіych bandytуw. Podobno gdzieњ tu jest podziemne laboratorium, wiкc po drodze warto szukaж ukrytego wejњcia. Jednak nikt nie wrуciі st№d їywy, wiкc nie wiadomo, jakie niebezpieczeсstwa tam czyhaj№.</text>
 	</string>
 	<string id="enc_zone_locations_escape">
-		<text>Своего рода предбанник Зоны, первое место, куда попадают новички, обживаясь понемногу. В погребе за деревенькой возле армейского блокпоста обитает торговец - с ним полезно потолковать. Соваться на блокпост и попадаться на глаза солдатам не резон: у них приказ стрелять без предупреждения; с другой стороны, некоторые за деньги готовы мгновенно подобреть, особенно если рядом нет начальства. Убивать солдат очень не рекомендуется, разве только в случае прямой угрозы для жизни.</text>
+		<text>Moїna to miejsce nazwaж przedsionkiem Zony, miejscem, gdzie koty mog№ nabraж wprawy. W podziemiach na tyіach wioski, niedaleko placуwki wojskowej, znajdziesz handlarza. Pamiкtaj, їeby z nim porozmawiaж, jednak omijaj placуwkк. Lepiej, їeby їoіnierze ciк nie zauwaїyli - wiкkszoњж z nich najpierw strzela, a pуџniej zadaje pytania. Chociaї - tak jak wszкdzie - s№ i tacy, co dadz№ siк przekupiж pod warunkiem, їe wyїsi oficerowie nie patrz№. Nie naleїy atakowaж їoіnierzy, o ile nie stanowi№ bezpoњredniego zagroїenia.</text>
 	</string>
 	<string id="enc_zone_locations_garbage">
-		<text>Огромное техническое кладбище: сюда ещё после первой аварии свезли горы радиоактивного хлама. Есть остатки старых построек, встречаются мутанты. Здесь, как и у самого периметра, много новичков - а рядом крутятся бандиты, всегда ищущие кусок пожирнее и чтобы без особых хлопот. Можно найти немного артефактов, но лучше надолго не задерживаться - есть места и поинтереснее. Если идти на север, то выйдешь к Дикой территории; на западе - проход в Тёмную долину; на востоке - дорога к институту "Агропром".</text>
+		<text>Wielkie cmentarzysko maszyn. Zaraz po pierwszym wypadku wyrzucono tu caіe stosy odpadуw radioaktywnych - gіуwnie pozostaіoњci po starych budynkach peіnych mutantуw. Tak jak na peryferiach Zony, w tym miejscu rуwnieї roi siк od stalkerуw-їуіtodziobуw, czasem moїna teї spotkaж bandytк szukaj№cego towarуw za friko. Moїna tu znaleџж niektуre artefakty, lecz wiкkszoњж z nich niewarta jest zachodu. Lepiej siк udaж gdzie indziej. Kieruj№c siк na pуіnoc, dotrzesz do Dziczy, na zachodzie leїy wejњcie do Doliny Mroku, a na wschodzie droga do Instytutu Badawczego Agroprom.</text>
 	</string>
 	<string id="enc_zone_locations_military-loc">
-		<text>Заброшенная армейская база рядом со разваливающейся деревенькой и небольшим болотцем. Деревенька - место довольно жуткое: мутантами так и кишит, одних кровососов поди сосчитай. Сюда редко сталкеры суются, чаще обходят десятой дорогой. А на территории военной базы анархисты из группировки "Свобода" обосновались. Если дальше в Зону от базы идти - попадёшь прямо к Выжигателю мозгов: он путь к Припяти и ЧАЭС наглухо перекрывает.</text>
+		<text>Opuszczona baza wojskowa obok rozpadaj№cej siк osady i niewielkich moczarуw. Wioska to upiorne miejsce, w ktуrym dosіownie roi siк od mutantуw - samych pijawek tu mnуstwo. Stalkerzy staraj№ siк unikaж tego miejsca, nawet jeњli przez to musz№ nadrobiж parк kilometrуw. Anarchiњci z "Wolnoњci" zadomowili siк w bazie wojskowej. Drogi і№cz№cej bazк z Zon№ broni Mуzgozwкglacz, zagradzaj№c drogк do Prypeci i Czarnobylskiej Elektrowni J№drowej.</text>
 	</string>
 	<string id="enc_zone_locations_pripiat">
-		<text>Это был город энергетиков - его построили ещё вместе с ЧАЭС. Немаленький был городок... Только теперь там уже никто не живёт - кроме, конечно, нечисти всякой вроде мутантов и зомби. Пройти туда, судя по всему, и вовсе нельзя: Выжигатель мозгов путь закрывает.</text>
+		<text>To byіo niegdyњ miasto stworzone dla inїynierуw pracuj№cych w elektrowni j№drowej w Czarnobylu. Kiedyњ zaludnione - teraz miasto duchуw, ktуrego jedynymi mieszkaсcami s№ mutanty i zombi. Wydaje siк, їe nie ma jak siк tu dostaж - drogк blokuje Mуzgozwкglacz.</text>
 	</string>
 	<string id="enc_zone_locations_radar">
-		<text>Страшное место. Тут ни за здорово живёшь сгинуть можно, даже если перед этим всю жизнь везунчиком был. Любой, кто к Выжигателю мозгов близко подойдёт, с ума сходит, в зомби превращается и бродит потом по Зоне, неприкаянный. Одни оболочки от людей остаются, и никто оттуда с своём уме не возвращался.</text>
+		<text>Przeraїaj№ce miejsce. Јatwo tu znikn№ж bez њladu - nieistotne, jakie szczкњcie siк miaіo do tej pory. Ktokolwiek zbliїy siк do Mуzgozwкglacza, natychmiast dostaje pomieszania zmysіуw, zmienia siк w zombi i zaczyna niespokojnie bі№dziж po Zonie. Po czіowieku pozostaje tylko skorupa. Nikt jeszcze stamt№d nie wrуciі zdrowy psychicznie.</text>
 	</string>
 	<string id="enc_zone_locations_rostok">
-		<text>На Дикой территории раньше довольно крупный завод был, от которого теперь остались одни руины. В них нашло свой конец много сталкеров: развелось там нечисти всякой, словно сходится она туда со всей Зоны. По слухам, правда, что-то очень важное на этом заводе есть, так что желающих попытать счастья всегда в достатке.</text>
+		<text>W Dziczy byі kiedyњ dosyж duїy zakіad wytwуrczy, z ktуrego teraz zostaіy tylko ruiny. Wielu stalkerуw spotkaіa њmierж: roi siк tu od wszelakich stworуw, ktуre ci№gn№ z caіej Zony. Podobno na tym terenie ukryto coњ bardzo wartoњciowego, dlatego teї zawsze wielu њmiaіkуw szuka tu szczкњcia.</text>
 	</string>
 	<string id="enc_zone_locations_stancia">
-		<text>Бывшая атомная станция, о которой хоть раз слышал каждый. Это самое сердце Зоны. Если верить легендам, где-то там находится некая штука, способная выполнить любое желание - её называют Монолитом.</text>
+		<text>Teren znanej na caіym њwiecie elektrowni j№drowej. Serce Zony. Jeњli wierzyж legendom, tu teї znajduje siк Monolit - tajemniczy obiekt bкd№cy w stanie speіniж kaїde їyczenie.</text>
 	</string>
 	<string id="enc_zone_locations_yantar">
-		<text>Легендарное озеро в одноимённом секторе давно уже высохло - одно мелкое болотце осталось. Плохое это место, смертью пропитанное. Ходить туда особенно опасно потому, что любой, кто слишком далеко сунется, сразу же умом повреждается. А по всему сектору зомби-пустышки бродят и если кого увидят, так к нему идут, и совсем не с мирными намерениями. Если обойти озеро и группы зомби, то попадётся научный лагерь: там учёные - их вертолётами привезли - изучают что-то. С ними потолковать можно, они артефакты покупают, даже задание какое-нибудь дать могут.</text>
+		<text>Legendarne jezioro na terenie o tej samej nazwie wyschіo dawno temu, pozostawiaj№c po sobie pіytkie bagno. To miejsce mroczne i przesi№kniкte њmierci№. Na awanturnikуw, ktуrzy s№ na tyle gіupi, їeby siк tu zbliїyж, czekaj№ ogromne niebezpieczeсstwa. Kaїdy, kto zajdzie za daleko, traci rozum. Zombi іaї№ po caіym Jantarze w poszukiwaniu nowych ofiar. Jeњli obejdziesz jezioro i ominiesz zombi, dotrzesz do obozu naukowcуw, gdzie przetransportowani tam њmigіowcami jajogіowi prowadz№ badania. Moїesz z nimi porozmawiaж - kupuj№ artefakty, a poza tym mog№ ci zleciж jakieњ zadanie.</text>
 	</string>
 	<string id="enc_zone_zone-story_story-2006">
-		<text>Зона отчуждения осветилась ярчайшим, почти нестерпимым светом, и было видно, как на небе начинают испаряться облака. После мгновения полной тишины пришёл грохот и землетрясение. Люди падали на землю, зажимая глаза и уши; кто мог, тот бежал, спасая свою жизнь. Со стороны это выглядело так, будто всё похороненное под Саркофагом ядерное топливо разом взлетело на воздух. Через сутки правительственные войска уже полностью оцепили новую Зону. С помощью спутников удалось выяснить, что эпицентр взрыва находился не у блоков самой АЭС, а в километре от них. Считается, что весь персонал станции погиб сразу же, однако внутри кольца оцепления осталось много других людей. Организовать спасательные операции не представлялось возможным, поскольку отряды людей и техники, посланные вглубь поражённой территории, почти сразу же погибали. Через некоторое время после аварии диаметр Зоны скачкообразно возрос на несколько километров. Большая часть правительственных войск, охранявших периметр, и находившихся там научных лабораторий мгновенно погибли. Началась паника; жители окрестных сёл и городов были в спешке эвакуированы или бежали сами. Над миром нависла опасность, о размерах которой до сих пор можно только гадать.</text>
+		<text>Skaїona strefa bіyszczaіa њwiatіem najjaњniejszym z moїliwych, њwiatіem prawie nie do zniesienia dla ludzkiego wzroku. Moїna byіo dosіownie zobaczyж, jak chmury zmieniaj№ siк w parк. Po chwili martwej ciszy daіo siк sіyszeж іoskot pioruna, a potem zatrzкsіa siк ziemia. Ludzie padli na ziemiк, wywracaj№c oczami i zakrywaj№c uszy. Ci, ktуrzy mogli ustaж na nogach, uciekli co siі. Wygl№daіo to, jakby ukryte pod sarkofagiem paliwo nuklearne nagle wybuchіo. Nastкpnego dnia wojsko otoczyіo kordonem now№ Zonк. Dziкki satelitom udaіo siк ustaliж, їe epicentrum eksplozji tak naprawdк nie znajdowaіo siк w pobliїu reaktorуw elektrowni j№drowej, lecz okoіo pуі kilometra dalej. Uwaїa siк, їe personel elektrowni zgin№і od razu, choж na terenie objкtym kordonem ci№gle pozostali ludzie. Akcja ratunkowa wkrуtce okazaіa siк bezcelowa, gdyї ludzie wysyіani w gі№b obszaru natychmiast umierali, a maszyny siк psuіy. Jakiњ czas po katastrofie њrednica Zony powiкkszyіa siк o kilka kilometrуw. Wiкkszoњж oddziaіуw rz№dowych strzeg№cych granicy oraz stacjonuj№ce tam ekipy badawcze od razu zginкіy. Ogarniкci panik№ ludzie zaczкli uciekaж. W poњpiechu ewakuowano mieszkaсcуw pobliskich miast i wsi. Њwiatu zagraїa ogromne niebezpieczeсstwo i moїemy jedynie zgadywaж, jaki moїe byж jego peіny wymiar.</text>
 	</string>
 	<string id="enc_zone_zone-story_story-2008">
-		<text>Прошло два года с тех пор, как случилась жуткая катастрофа в зоне отчуждения вокруг Чернобыльской АЭС. Большое количество погибших и пропавших без вести людей, павший скот, почерневшие постройки, изувеченный лес... Учёные до сих пор не могут дать объяснений случившемуся. А Зона, внутри которой были обнаружены совершенно фантастические аномалии, тем временем растёт. Редкие экспедиции сталкиваются с мутировавшими видами животных, обладающих удивительными особенностями.</text>
+		<text>Od czasu katastrofy w skaїonej strefie wokуі elektrowni j№drowej w Czarnobylu minкіy dwa lata. Rosn№ca w zawrotnym tempie liczba ofiar њmiertelnych, ogromna liczba zaginionych, martwe bydіo, wal№ce siк budynki, okaleczone lasy... Aї do dziњ naukowcy nie znaleџli odpowiedzi na pytanie, co tak naprawdк staіo siк w Czarnobylu. W miкdzyczasie w okolicy odkryto niewyobraїalne anomalie, a Zona ci№gle siк rozrasta. Nieliczne ekspedycje natrafiaj№ na zmutowane gatunki zwierz№t wykazuj№ce niewiarygodne zdolnoњci.</text>
 	</string>
 	<string id="enc_zone_zone-story_story-2010">
-		<text>По следам отчаянных одиночек-сталкеров за широкомасштабное изучение Зоны опять берутся научные экспедиции. Однако внутри охраняемого армией периметра уже имеется множество "неучтённых лиц" - вплоть до браконьеров и бандитов. В основной своей массе сталкеры путешествуют по Зоне в поисках разнообразных аномальных образований - так называемых артефактов, ­ за которые нередко выручают неплохие деньги.</text>
+		<text>Ekipy badawcze chc№ce dokіadnie zbadaж Zonк znуw pod№їaj№ њladem lekkomyњlnych samotnikуw - stalkerуw. Jednakїe obszar strzeїony przez wojsko ma teraz innych, niebezpiecznych mieszkaсcуw - od zwykіych kіusownikуw po najgorszych bandytуw. Wiкkszoњж stalkerуw wкdruje po Zonie w poszukiwaniu anomalii i tak zwanych artefaktуw, za sprzedaї ktуrych mog№ caіkiem dobrze zarobiж.</text>
 	</string>
 	<string id="enc_zone_zone-story_story-raid">
-		<text>Армейские подразделения, в том числе и специального назначения, возглавляемые отрядами военных сталкеров, предприняли крупную экспедицию внутрь Зоны с целью прорваться к ЧАЭС и уничтожить предполагаемую причину возникновения смертельных аномальных полей либо наконец-то добыть достоверную информацию о происходящих там процессах. Данное предприятие, в котором принимали участие более тысячи человек и множество техники, полностью провалилось. Отдельные группы уцелевших осели на территории Зоны без особых надежд на спасение.</text>
+		<text>Wojsko, і№cznie z siіami specjalnymi dowodzonymi przez paramilitarne oddziaіy stalkerуw, rozpoczкіo zmasowany wypad w gі№b Zony. Ich celem byіo przedarcie siк do elektrowni j№drowej w Czarnobylu i zniszczenie przyczyny powstawania pуl anomalii albo przynajmniej zdobycie informacji z pierwszej rкki dotycz№cych obecnego stanu rzeczy. Akcja, w ktуrej uczestniczyіo ponad tysi№c osуb i w ktуrej wykorzystano ciкїk№ maszyneriк, okazaіa siк zupeіn№ poraїk№. Rozproszone grupy tych, ktуrzy przeїyli, zostaіy zmuszone do pozostania w Zonie z niewielkimi nadziejami na ratunek.</text>
 	</string>
 	<string id="Escape">
-		<text>Застава</text>
+		<text>Blokada</text>
 	</string>
 	<string id="Fuzz">
-		<text>"Жгучий пух"</text>
+		<text>"Kіuj№cy Puch"</text>
 	</string>
 	<string id="Garbage">
-		<text>Свалка</text>
+		<text>Wysypisko</text>
 	</string>
 	<string id="Gravi">
-		<text>"Воронка"</text>
+		<text>"Lejek"</text>
 	</string>
 	<string id="Lift">
-		<text>"Лифт"</text>
+		<text>"Winda"</text>
 	</string>
 	<string id="Locations">
-		<text>Локации</text>
+		<text>Lokacje</text>
 	</string>
 	<string id="Meat">
-		<text>"Карусель"</text>
+		<text>"Karuzela"</text>
 	</string>
 	<string id="Military-loc">
-		<text>Армейская база</text>
+		<text>Baza Wojskowa</text>
 	</string>
 	<string id="Pripiat">
-		<text>Припять</text>
+		<text>Prypeж</text>
 	</string>
 	<string id="Radar">
-		<text>Выжигатель</text>
+		<text>Mуzgozwкglacz</text>
 	</string>
 	<string id="Radioactive">
-		<text>Очаг радиоактивности</text>
+		<text>Џrуdіo promieniowania</text>
 	</string>
 	<string id="Rostok">
-		<text>Дикая территория</text>
+		<text>Dzicz</text>
 	</string>
 	<string id="Stancia">
-		<text>ЧАЭС</text>
+		<text>CEA</text>
 	</string>
 	<string id="Story-2006">
-		<text>2008 год, 12 апреля, 14:33.</text>
+		<text>12 kwietnia, 2008, 14:33.</text>
 	</string>
 	<string id="Story-2008">
-		<text>2010 год</text>
+		<text>2010 rok</text>
 	</string>
 	<string id="Story-2010">
-		<text>2011 год</text>
+		<text>2011 rok</text>
 	</string>
 	<string id="Story-raid">
-		<text>Прорыв в Зону. 2011</text>
+		<text>Wypad w Zonк. 2011 rok</text>
 	</string>
 	<string id="Time_machine">
-		<text>"Машина времени"</text>
+		<text>"Maszyna Czasu"</text>
 	</string>
 	<string id="Yantar">
-		<text>Янтарь</text>
+		<text>Jantar</text>
 	</string>
 	<string id="Zharka">
-		<text>"Жарка"</text>
+		<text>"Piec"</text>
 	</string>
 	<string id="Zone">
-		<text>Зона</text>
+		<text>Zona</text>
 	</string>
 	<string id="Zone-story">
-		<text>История Зоны</text>
+		<text>Historia Zony</text>
 	</string>
 </string_table>

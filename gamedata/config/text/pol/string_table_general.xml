@@ -13,7 +13,7 @@
 		<text>Najemnik</text>
 	</string>
 	<string id="bad">
-		<text>z³a</text>
+		<text>z³y</text>
 	</string>
 	<string id="bandit">
 		<text>Bandyta</text>
@@ -46,10 +46,10 @@
 		<text>przyjaciel</text>
 	</string>
 	<string id="good">
-		<text>dobra</text>
+		<text>dobry</text>
 	</string>
 	<string id="indifferent">
-		<text>neutralna</text>
+		<text>neutralny</text>
 	</string>
 	<string id="killer">
 		<text>Najemnik</text>
@@ -73,7 +73,7 @@
 		<text>Dzicz </text>
 	</string>
 	<string id="l07_military">
-		<text>Magazyny wojskowe</text>
+		<text>Magazyny Wojskowe</text>
 	</string>
 	<string id="l08_yantar">
 		<text>Jantar</text>
@@ -85,16 +85,16 @@
 		<text>Prypeæ</text>
 	</string>
 	<string id="l12_stancia">
-		<text>Czarnobyl</text>
+		<text>CEA-1</text>
 	</string>
 	<string id="l12_stancia_2">
-		<text>Czarnobyl 2</text>
+		<text>CEA-2</text>
 	</string>
 	<string id="master">
-		<text>ekspert</text>
+		<text>mistrz</text>
 	</string>
 	<string id="military">
-		<text>Wojskowy</text>
+		<text>Magazyny Wojskowe</text>
 	</string>
 	<string id="monolith">
 		<text>Monolit</text>
@@ -106,13 +106,13 @@
 		<text>nowicjusz</text>
 	</string>
 	<string id="st_no_active_task">
-		<text>Brak bie¿¹cego zadania</text>
+		<text>Brak aktywnego zadania</text>
 	</string>
 	<string id="st_time_till_surge">
-		<text>Czas do emisji</text>
+		<text>Czas do Emisji</text>
 	</string>
 	<string id="stalker">
-		<text>Stalker</text>
+		<text>Samotnik</text>
 	</string>
 	<string id="terrible">
 		<text>straszna</text>
@@ -139,13 +139,13 @@
 		<text>bardzo z³a</text>
 	</string>
 	<string id="very_good">
-		<text>bardzo dobra</text>
+		<text>Bardzo dobra</text>
 	</string>
 	<string id="veteran">
 		<text>weteran</text>
 	</string>
 	<string id="zombied">
-		<text>Zombie</text>
+		<text>zombie</text>
 	</string>
 	<string id="Btn_Cancel">
 		<text>Anuluj</text>
@@ -163,10 +163,10 @@
 		<text>Mapa Zony</text>
 	</string>
 	<string id="st_autosave">
-		<text>Autozapis</text>
+		<text>Autozapis...</text>
 	</string>
 	<string id="st_game_over">
-		<text>Koniec gry.</text>
+		<text>Gra skoñczona.</text>
 	</string>
 	<string id="st_item_used">
 		<text>U¿ywane</text>
@@ -175,7 +175,7 @@
 		<text>Brak pieniêdzy</text>
 	</string>
 	<string id="st_not_enough_money_npc">
-		<text>BN nie ma wystarczaj¹co du¿o pieniêdzy</text>
+		<text>NPC nie ma wystarczaj¹co du¿o pieniêdzy</text>
 	</string>
 	<string id="ui_st_opponent_items">
 		<text>Plecak</text>
@@ -235,13 +235,13 @@
 		<text>Podziemia Agropromu</text>
 	</string>
 	<string id="l04u_labx18">
-		<text>Laboratorium X18</text>
+		<text>Laboratorium X-18</text>
 	</string>
 	<string id="l08u_brainlab">
-		<text>Laboratorium X16</text>
+		<text>Laboratorium X-16</text>
 	</string>
 	<string id="l10u_bunker">
-		<text>Laboratorium X10</text>
+		<text>Laboratorium X-10</text>
 	</string>
 	<string id="l12u_sarcofag">
 		<text>Sarkofag</text>

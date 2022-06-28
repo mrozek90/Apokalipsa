@@ -1,0 +1,647 @@
+<!-------------NEW LINE STORY----------->
+
+	<game_task id="free_time" prio="100">
+		<title>Nieprzewidziane opóŸnienie</title>
+		<objective>
+			<text>Nieprzewidziane opóŸnienie</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<infoportion_complete>player_complete_free_time</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Remont</text>
+	<map_location_type hint= "mehanik">green_location</map_location_type>
+	<object_story_id>mehanik</object_story_id>
+			<infoportion_complete>new_mexanik</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Nowi ludzie</text>
+	<map_location_type hint= "esc_nemez_name">green_location</map_location_type>
+	<object_story_id>esc_nemez</object_story_id>
+			<infoportion_complete>new_perc_nemez</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Dowódca posterunku</text>
+	<map_location_type hint= "yaroslav_captain">green_location</map_location_type>
+	<object_story_id>yaroslav_captain</object_story_id>
+			<infoportion_complete>old_soldier</infoportion_complete>
+		</objective>
+	</game_task>
+
+
+
+
+	<game_task id="hil_story_task" prio="400">
+		<title>Wydostaæ siê z Zony</title>
+		<objective>
+			<text>Wydostaæ siê z Zony</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_1</article>
+			<infoportion_complete>player_complete_hil_story</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ mo¿liwoœæ powrotu do domu</text>
+			<infoportion_complete>hil_beginning</infoportion_complete>
+		</objective>
+	</game_task>
+
+	<game_task id="must_go_on" prio="200">
+		<title>Zajmij czymœ swój ty³ek</title>
+		<objective>
+			<text>Zajmij czymœ swój ty³ek</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_2</article>
+			<infoportion_complete>player_complete_must_go_on</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z dowódc¹ posterunku wojskowego</text>
+			<infoportion_complete>meet_yaroslav</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ sobie zajêcie</text>
+	<map_location_type hint= "escape_trader_name">blue_location</map_location_type>
+	<object_story_id>Escape_Trader</object_story_id>
+			<infoportion_complete>player_talked_with_sidor</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="get_new_qu1" prio="200">
+		<title>Kordon</title>
+		<objective>
+			<text>Kordon</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_3</article>
+			<infoportion_complete>player_complete_get_new_qu1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Wilk</text>
+	<map_location_type hint= "esc_wolf_name">blue_location</map_location_type>
+	<object_story_id>Escape_novice_lager_volk</object_story_id>
+			<infoportion_complete>meet_wolf1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Pietrucha</text>
+	<map_location_type hint= "esc_petruha_name">blue_location</map_location_type>
+	<object_story_id>Escape_bridge_stalkers</object_story_id>
+			<infoportion_complete>meet_petr</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Op³ata za przejœcie</text>
+	<map_location_type hint= "esc_soldier_commander_name">blue_location</map_location_type>
+	<object_story_id>esc_kuznetsov</object_story_id>
+			<infoportion_complete>meet_kuz1</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="pro_f_pro" prio="100">
+		<title>Dostarcz towar do bunkra naukowców</title>
+		<objective>
+			<text>Dostarcz towar do bunkra naukowców</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_4</article>
+			<infoportion_complete>player_complete_pro_f_pro</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Bunkier na Jantarze</text>
+	<map_location_type hint= "yan_general_ecolog_hint">crlc_big</map_location_type>
+	<object_story_id>yan_general_ecolog</object_story_id>
+			<infoportion_complete>meet_saharov</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Dowiedz siê co tu siê wydarzy³o</text>
+	<map_location_type hint= "black_canine_name">red_location</map_location_type>
+	<object_story_id>black_canine</object_story_id>
+			<infoportion_complete>meet_priz</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="f_ath" prio="100">
+		<title>Zbierz wszystkie przydatne informacje i wróæ do Ducha</title>
+		<objective>
+			<text>Zbierz wszystkie przydatne informacje i wróæ do Ducha</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_5</article>
+			<infoportion_complete>player_complete_f_ath</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zebraæ informacje</text>
+			<function_complete>quest_comps.inseach_info</function_complete>
+		</objective>
+		<objective>
+			<text>Zbadaj zw³oki zombifikowanego stalkera</text>
+	<map_location_type hint= "target_0000">crlc_big</map_location_type>
+	<object_story_id>yantar_stalker_zombied_0000</object_story_id>
+			<infoportion_complete>ded_shmon1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zbadaj zw³oki zombifikowanego stalkera</text>
+	<map_location_type hint= "target_0001">crlc_big</map_location_type>
+	<object_story_id>yantar_stalker_zombied_0001</object_story_id>
+			<infoportion_complete>ded_shmon2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zbadaj zw³oki zombifikowanego stalkera</text>
+	<map_location_type hint= "target_0002">crlc_big</map_location_type>
+	<object_story_id>yantar_stalker_zombied_0002</object_story_id>
+			<infoportion_complete>ded_shmon3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Wróæ do Ducha</text>
+	<map_location_type hint= "sim_ghost_name">blue_location</map_location_type>
+	<object_story_id>sim_ghost</object_story_id>
+			<infoportion_complete>cbto_ghost</infoportion_complete>
+		</objective>
+	</game_task>
+	
+<game_task id="find_mercul" prio="100">
+		<title>Porozmawiaj z Merkiem</title>
+		<objective>
+			<text>ZnajdŸ Merka</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_6</article>
+			<infoportion_complete>player_complete_find_mercul</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z Sani¹ Carem</text>
+	<map_location_type hint= "bar_tzar1_name">blue_location</map_location_type>
+	<object_story_id>bar_tzar1</object_story_id>
+			<infoportion_complete>meet_tzar1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z Sierio¿¹ Carem</text>
+	<map_location_type hint= "bar_tzar2_name">blue_location</map_location_type>
+	<object_story_id>bar_tzar2</object_story_id>
+			<infoportion_complete>meet_tzar2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z S³awikiem</text>
+	<map_location_type hint= "bar_sl_name">blue_location</map_location_type>
+	<object_story_id>bar_sl</object_story_id>
+			<infoportion_complete>meet_hil</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z Andriusz¹ Cze</text>
+	<map_location_type hint= "bar_andry_name">blue_location</map_location_type>
+	<object_story_id>bar_andry</object_story_id>
+			<infoportion_complete>meet_andry</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z Timosz¹ Merkiem</text>
+	<map_location_type hint= "bar_timych_name">red_location</map_location_type>
+	<object_story_id>bar_timych</object_story_id>
+			<infoportion_complete>meet_mercul</infoportion_complete>
+		</objective>
+	</game_task>
+
+
+<game_task id="tell_tell_tell" prio="100">
+		<title>Porozmawiaj z dowódc¹ Wolnoœci</title>
+		<objective>
+			<text>Porozmawiaj z dowódc¹ Wolnoœci</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_7</article>
+			<infoportion_complete>player_complete_tell_tell_tell</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z Maksem</text>
+	<map_location_type hint= "mil_Svoboda_master_Max_name">blue_location</map_location_type>
+	<object_story_id>Mil_Master_Max</object_story_id>
+			<infoportion_complete>meet_max1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Pogadaj z Kutw¹</text>
+	<map_location_type hint= "mil_Svoboda_trader_name">blue_location</map_location_type>
+	<object_story_id>Mil_Miser</object_story_id>
+			<infoportion_complete>meet_sckr1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Spotkaj siê z £ukaszem</text>
+	<map_location_type hint= "mil_Svoboda_leader_name">blue_location</map_location_type>
+	<object_story_id>Mil_Lukash</object_story_id>
+			<infoportion_complete>meet_lu1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="el_three_res" prio="100">
+		<title>Przeniknij do X18</title>
+		<objective>
+			<text>Przeniknij do laboratorium X18</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_8</article>
+			<infoportion_complete>player_complete_el_three_res</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Przeszukaj gabinet lidera bandytów</text>
+	<map_location_type hint= "key_1_hint">crlc_small</map_location_type>
+	<object_story_id>key1_space_restrictor</object_story_id>
+			<infoportion_complete>dthtoall1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Przeszukaj budynek przy stacji benzynowej</text>
+	<map_location_type hint= "key_2_hint">crlc_small</map_location_type>
+	<object_story_id>key2_space_restrictor</object_story_id>
+			<infoportion_complete>dthtoall2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>SprawdŸ drzwi do X18</text>
+	<map_location_type hint= "key_3_hint">crlc_small</map_location_type>
+	<object_story_id>key3_space_restrictor</object_story_id>
+			<infoportion_complete>dthtoall3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Przeszukaj budynki chlewni</text>
+	<map_location_type hint= "key_4_hint">crlc_small</map_location_type>
+	<object_story_id>key4_space_restrictor</object_story_id>
+			<infoportion_complete>dthtoall4</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="vse_hren" prio="100">
+		<title>Dostañ siê do bunkra sterowania Mózgozwêglaczem</title>
+		<objective>
+			<text>PrzeprowadŸ zwiad w bunkrze Apokalipsy</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_9</article>
+			<infoportion_complete>player_complete_vor_sid_bar</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Przes³uchaj naukowca renegata</text>
+			<infoportion_complete>reuch</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Poproœ o pomoc Sidorowicza</text>
+	<map_location_type hint= "escape_trader_name">blue_location</map_location_type>
+	<object_story_id>Escape_Trader</object_story_id>
+			<infoportion_complete>good_sidorych</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="meet_docktor" prio="100">
+		<title>Spotkaj siê z Doktorem</title>
+		<objective>
+			<text>ZnajdŸ Doktora</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<infoportion_complete>player_complete_meet_docktor</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ Doktora</text>
+	<map_location_type hint= "hil_docktor_name">blue_location</map_location_type>
+	<object_story_id>docktor</object_story_id>
+			<infoportion_complete>docktor_meet_done</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="make_souz" prio="150">
+		<title>Po³¹cz ugrupowania</title>
+		<objective>
+			<text>Porozmawiaj z liderami ugrupowañ</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_10</article>
+			<infoportion_complete>player_complete_souz</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z £ukaszem</text>
+	<map_location_type hint= "mil_Svoboda_leader_name">blue_location</map_location_type>
+	<object_story_id>Mil_Lukash</object_story_id>
+			<infoportion_complete>souz_svoboda</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z wojskowymi</text>
+	<map_location_type hint= "yaroslav_captain">blue_location</map_location_type>
+	<object_story_id>yaroslav_captain</object_story_id>
+			<infoportion_complete>souz_military</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z Weteranami Zony</text>
+	<map_location_type hint= "esc_petruha_name">blue_location</map_location_type>
+	<object_story_id>Escape_bridge_stalkers</object_story_id>
+			<infoportion_complete>souz_exmon</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z Charonem</text>
+	<map_location_type hint= "haron_name">blue_location</map_location_type>
+	<object_story_id>haron</object_story_id>
+			<infoportion_complete>souz_monolit</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="prepair_cnn" prio="200">
+		<title>Przygotuj siê do rozprawy</title>
+		<objective>
+			<text>Zdobyæ 6 Sztyletów</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_11</article>
+			<infoportion_complete>player_complete_get_6x10x6</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Przygotuj siê do rozprawy</text>
+			<infoportion_complete>6xm1000</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="rob_rob" prio="90">
+		<title>Odzyskaj pieni¹dze od bandytów</title>
+		<objective>
+			<text>Zwróæ co skradzione</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_12</article>
+			<infoportion_complete>player_complete_ermol_quest</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zabierz walizkê z sejfu Behemota</text>
+	<map_location_type hint= "val_borov_name">green_location</map_location_type>
+	<object_story_id>val_borov</object_story_id>
+			<infoportion_complete>give_m</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Wróæ z wieœciami do Jermo³a</text>
+			<infoportion_complete>robber</infoportion_complete>
+		</objective>
+	</game_task>
+	
+		<game_task id="flash_in_dead" prio="80">
+		<title>ZnajdŸ zaginionego przyjaciela Griszy Budu³aja</title>
+		<objective>
+			<text>ZnajdŸ przyjaciela Griszy Budu³aja</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<infoportion_complete>player_complete_budulay_info</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ ¿ywego lub martwego</text>
+			<infoportion_complete>budulay_info</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zdaj relacjê Budu³ajowi</text>
+			<infoportion_complete>bring_to_budulay</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="clear_esc" prio="80">
+		<title>Oczyœæ Kordon</title>
+		<objective>
+			<text>Uwolnij ¯wawego od jego fobii</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_13</article>
+	<map_location_type hint= "esc_bandits_hint">crlc_big</map_location_type>
+	<object_story_id>esc_bandits_factory</object_story_id>
+		<function_complete>quest_comps.shustr_conf_cmplt</function_complete>
+		<!--infoportion_complete>player_complete_shuban_quest</infoportion_complete-->
+		</objective>
+		<objective>
+			<text>Pomó¿ ¯wawemu</text>
+			<infoportion_complete>shuban_quest</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Czystka</text>
+			<function_complete>quest_comps.shustr_conf_cmplt</function_complete>
+		</objective>
+	</game_task>
+	
+		<game_task id="find_mp5" prio="120">
+		<title>Zostañ klientem Jermo³a</title>
+		<objective>
+			<text></text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_14</article>
+			<infoportion_complete>player_complete_ermol_mp5</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zabierz MP-5 z trupa w tunelu kolejowym</text>
+			<infoportion_complete>bring_mp5</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Przynieœ Jermo³owi MP-5</text>
+			<infoportion_complete>brought_mp5</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="doctor_quest" prio="130">
+		<title>ZnajdŸ trzy detektory i odnieœ je do genera³a Woronina</title>
+		<objective>
+			<text>ZnajdŸ trzy detektory i odnieœ je do genera³a Woronina</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_15</article>
+			<infoportion_complete>player_complete_find_detectors</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ pierwszy detektor</text>
+			<infoportion_complete>datchik_raz</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ drugi detektor</text>
+			<infoportion_complete>datchik_dva</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ trzeci detektor</text>
+			<infoportion_complete>datchik_tri</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="chumadan_fanat" prio="110">
+		<title>ZnajdŸ walizkê z dokumentami</title>
+		<objective>
+			<text>ZnajdŸ "dyplomatkê" Fanata</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_16</article>
+			<infoportion_complete>player_complete_chumadan_fanat</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ "dyplomatkê" w laboratorium X16</text>
+			<infoportion_complete>find_chumadan</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Przynieœ "dyplomatkê" Fanatowi</text>
+			<infoportion_complete>bring_chumadan</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="yashik_din" prio="110">
+		<title>ZnajdŸ skrzynkê z dynamitem</title>
+		<objective>
+			<text>ZnajdŸ skrzynkê</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_17</article>
+			<infoportion_complete>player_complete_wolf_quest</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ skrzynkê dynamitu w chutorze na Magazynach Wojskowych</text>
+			<infoportion_complete>find_yashik</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zanieœ skrzynkê Wilkowi</text>
+			<infoportion_complete>bring_yashik</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="fox_artecase" prio="300">
+		<title>Kontener z artefaktami</title>
+		<objective>
+			<text>ZnajdŸ kontener z artefaktami</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_18</article>
+			<infoportion_complete>player_complete_fox_quest</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ kontener</text>
+			<infoportion_complete>find_artecase</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zanieœ kontener Lisowi</text>
+			<infoportion_complete>bring_artecase</infoportion_complete>
+		</objective>
+	</game_task>
+	
+		<game_task id="old_legend" prio="400">
+		<title>SprawdŸ stalkersk¹ legendê</title>
+		<objective>
+			<text>SprawdŸ star¹ legendê</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>legend</article>
+			<infoportion_complete>player_complete_concord</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ artefakt z legendy</text>
+			<infoportion_complete>check_legend</infoportion_complete>
+		</objective>
+	</game_task>
+	
+		<game_task id="krot_soul" prio="50">
+		<title>Przys³uga za przys³ugê</title>
+		<objective>
+			<text>ZnajdŸ zaginionego kopacza</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<infoportion_complete>osv_quest_done</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ Kreta</text>
+			<infoportion_complete>find_black_soul</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Wróæ do Kabla</text>
+			<infoportion_complete>bring_black_soul</infoportion_complete>
+		</objective>
+	</game_task>
+	
+	<game_task id="kill_all_of_them" prio="50">
+		<title>Totalna czystka</title>
+		<objective>
+			<text>Nie pozwól bojownikom Apokalipsy wydostaæ siê ¿ywymi z Zony</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<function_complete>quest_comps.all_aps_dead</function_complete>
+			<!--infoportion_complete>player_complete_total_clearning</infoportion_complete-->
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_1</infoportion_complete>
+		</objective>
+		<!--objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_4</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_5</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_6</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_7</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_8</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_9</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_10</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_11</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_12</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_13</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_14</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_15</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_16</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_17</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_18</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_19</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_20</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_21</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_22</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_23</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zlikwiduj bojownika Apokalipsy</text>
+			<infoportion_complete>aps_is_dead_24</infoportion_complete>
+		</objective-->
+	</game_task>
+	
+	<game_task id="blaid_inv" prio="400">
+		<title>Schowek kopaczy</title>
+		<objective>
+			<text>Schowek kopaczy</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>hs_19</article>
+			<function_complete>quest_comps.blaid_diggers_cmplt</function_complete>
+			<infoportion_complete>player_complete_blaid_inv</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ zmodernizowany egzoszkielet</text>
+			<infoportion_complete>find_servoexo</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ detektor anomalii</text>
+			<infoportion_complete>find_anomscaner</infoportion_complete>
+		</objective>
+	</game_task>
