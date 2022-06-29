@@ -52,7 +52,7 @@
 	<string id="new_barman_dialog_16">
 		<text>Dobra. Pójdê pogadaæ sobie z tym Merkiem.</text>
 	</string>
-	
+
 	<string id="sl_dialog_0">
 		<text>Witaj! Ty jesteœ z grupy Poszukiwaczy?</text>
 	</string>
@@ -80,7 +80,7 @@
 	<string id="sl_dialog_8">
 		<text>Zobaczymy.</text>
 	</string>
-	
+
 	<string id="tzar2_dialog_0">
 		<text>Witaj stalkerze! Nie widzia³eœ gdzieœ Merka?</text>
 	</string>
@@ -96,7 +96,7 @@
 	<string id="tzar2_dialog_4">
 		<text>Dobra, na razie.</text>
 	</string>
-	
+
 	<string id="tzar1_dialog_0">
 		<text>Jak leci Sania? Gdzie wasz dowódca?</text>
 	</string>
@@ -106,7 +106,7 @@
 	<string id="tzar1_dialog_2">
 		<text>Co z was wszystkich za gbury?</text>
 	</string>
-	
+
 	<string id="andry_dialog_0">
 		<text>Ty jesteœ Andriej Cze?</text>
 	</string>
@@ -128,7 +128,7 @@
 	<string id="andry_dialog_6">
 		<text>Postaram siê.</text>
 	</string>
-	
+
 	<string id="mercul_dialog_0">
 		<text>No, dziêki Bogu ciê znalaz³em. Witaj Timosza!</text>
 	</string>
@@ -217,7 +217,7 @@
 	<string id="cap_yar_dialog_5">
 		<text>Tak w³aœnie zrób. Jak to mówi¹: ¿o³nierz œpi - s³u¿ba leci.</text>
 	</string>
-	
+
 	<string id="new_sid_dialog_0">
 		<text>No, witaj Sidorowicz.</text>
 	</string>
@@ -275,7 +275,7 @@
 	<string id="new_sid_dialog_18">
 		<text>I ty b¹dŸ zdrów Sidorowicz.</text>
 	</string>
-	
+
 	<string id="new_wolf_dialog_0">
 		<text>Wilk, cieszê siê ¿e ¿yjesz!</text>
 	</string>
@@ -318,7 +318,7 @@
 	<string id="new_wolf_dialog_13">
 		<text>Tak bêdzie. Do zobaczenia Strie³ok!</text>
 	</string>
-	
+
 	<string id="new_petr_dialog_0">
 		<text>Witaj Pietrucha! Co tak sam stoisz?</text>
 	</string>
@@ -346,7 +346,7 @@
 	<string id="new_petr_dialog_8">
 		<text>B¹dŸ zdrów Pietrucha.</text>
 	</string>
-	
+
 	<string id="new_kuz_dialog_0">
 		<text>A ja s³ysza³em - major KuŸniecow zabity w boju.</text>
 	</string>
@@ -359,7 +359,7 @@
 	<string id="new_kuz_dialog_3">
 		<text>Œmia³o. Ty przecie¿ ju¿ prawie nasz.</text>
 	</string>
-	
+
 	<string id="nemez_dialog_0">
 		<text>Dawno ju¿ monolitowców nie widzia³em. Ty, mam nadziejê, nie jesteœ jednym z nich?</text>
 	</string>
@@ -381,7 +381,7 @@
 	<string id="nemez_dialog_6">
 		<text>Dobra, zapytam. Powodzenia stalkerze.</text>
 	</string>
-	
+
 	<string id="ask_yar_0">
 		<text>No, jak tam - nasze sprawy?</text>
 	</string>
@@ -403,7 +403,7 @@
 	<string id="ask_yar_6">
 		<text>No, jeœli zwiad przeprowadziæ, zawsze jestem gotowy.</text>
 	</string>
-	
+
 
     <string id="new_ghost_dialog_0">
 		<text>Duch?!</text>
@@ -468,7 +468,7 @@
 	<string id="new_ghost_dialog_20">
 		<text>Wrócê.</text>
 	</string>
-	
+
 	<string id="ghost_ob_poi_0">
 		<text>Wiêc obejrza³em sobie te trupy. Oni, jakby ci to powiedzieæ, po prostu umarli. Nie ma ran ani krwi. Po prostu padli na ziemiê i umarli. Kontrolera spotka³em, jeszcze mnie g³owa boli. Ale to nie jego robota, niedawno siê pojawi³, w bunkrze siê zaczai³, nie wyci¹gniesz go. Jeszcze ³owców widzia³em. Ostrzelali mnie. Te¿ w Zonie nieobyci.</text>
 	</string>
@@ -491,7 +491,7 @@
 	<string id="yar_chc_3">
 		<text>Jeœli obiecasz, ¿e nie bêdziesz na mnie za mocno naciska³ - to zgoda.</text>
 	</string>
-	
+
 	<string id="yar_chc_out_0">
 		<text>Opuszczam was na razie. Nie pogniewacie siê?</text>
 	</string>
@@ -501,7 +501,7 @@
 	<string id="yar_chc_out_2">
 		<text>Po¿yjemy - zobaczymy.</text>
 	</string>
-	
+
 	<string id="hil_barman_dialog1_0">
 		<text>Co teraz zrobimy, Barman?</text>
 	</string>
@@ -529,7 +529,7 @@
 	<string id="hil_barman_dialog1_8">
 		<text>Dogadaliœmy siê.</text>
 	</string>
-	
+
 	<string id="hil_lu_dialog1_0">
 		<text>Czeœæ £ukasz. Jest interes do ciebie.</text>
 	</string>
@@ -563,7 +563,7 @@
 	<string id="hil_lu_dialog1_10">
 		<text>Dobra, do nastêpnego...</text>
 	</string>
-	
+
 	<string id="hil_sckr_dialog1_0">
 		<text>Jak siê masz, przyjacielu?</text>
 	</string>
@@ -579,7 +579,7 @@
 	<string id="hil_sckr_dialog1_4">
 		<text>Zobaczymy. Powodzenia!</text>
 	</string>
-	
+
 	<string id="hil_max_dialog1_0">
 		<text>Maks! Cieszê siê, ¿e ciê widzê, przyjacielu!</text>
 	</string>
@@ -613,7 +613,7 @@
 	<string id="hil_max_dialog1_10">
 		<text>Có¿, pójdê siê z nim zobaczyæ.</text>
 	</string>
-	
+
 	<string id="hil_vor_dialog1_0">
 		<text>Du¿o zdrowia, towarzyszu generale.</text>
 	</string>
@@ -677,7 +677,7 @@
 	<string id="hil_vor_dialog1_20">
 		<text>Tak. S³ysza³em o  tym M-1000, ale nigdy nie myœla³em, ¿e bêdê go trzyma³ w rêkach. Towar specjalny. No dobra, jak to mówi¹, jeœli nie wrócê - proszê zapisaæ mnie do komunistów.</text>
 	</string>
-	
+
 	<string id="hil_osv_dialog1_0">
 		<text>Potrzebujê kluczy do laboratorium X18.</text>
 	</string>
@@ -689,8 +689,8 @@
 	</string>
 	<string id="hil_osv_dialog1_3">
 		<text>Po co ci to, Strie³ok. Rozumiesz, ¿ywy byœ z baru nie wyszed³. Mam dla ciebie propozycjê: pomo¿esz mi, a ja pomogê tobie.</text>
-	</string>	
-    <string id="hil_osv_dialog1_4"> 
+	</string>
+    <string id="hil_osv_dialog1_4">
 		<text>Czego chcesz?</text>
 	</string>
 	<string id="hil_osv_dialog1_5">
@@ -711,7 +711,7 @@
 	<string id="hil_osv_dialog1_10">
 		<text>No i co? Kret to przecie¿ kopacz. Pewnie siedzi gdzieœ w jakichœ katakumbach. Dobra, handlarzu powietrzem. Poszukam tego Kreta.</text>.
 	</string>
-	
+
 	<string id="hil_osv_dialog3_0">
 		<text>Kret nie ¿yje. Przyczepi³ artefakt do pasa... i po wszystkim. Co to za œwiñstwo?!</text>
 	</string>
@@ -721,7 +721,7 @@
 	<string id="hil_osv_dialog3_2">
 		<text>Masz. Patrz by sam do trumny nie trafiæ. Chocia¿... Kreta ¿al. Ciebie nie.</text>.
 	</string>
-	
+
 	<string id="barman_osv_dialog_0">
 		<text>A co siê sta³o z Kablem?</text>
 	</string>
@@ -771,7 +771,7 @@
 	<string id="hil_barman_dialog2_10">
 		<text>No, nie gniewam siê na ciebie, rozumiem. Pójdê do genera³a.</text>
 	</string>
-	
+
 	<string id="hil_vor_dialog2_0">
 		<text>Zdrowia ¿yczê, towarzyszu generale!</text>
 	</string>
@@ -805,7 +805,7 @@
 	<string id="hil_vor_dialog2_10">
 		<text>Dobrze. Bêdê czekaæ.</text>
 	</string>
-	
+
 	<string id="hil_osv_dialog2_0">
 		<text>W mordê chcesz? To twoi przyjaciele tam na mnie czekali?</text>
 	</string>
@@ -821,7 +821,7 @@
 	<string id="hil_osv_dialog2_4">
 		<text>Ja jeszcze tu wrócê, trzymaj gêbê na k³ódkê.</text>
 	</string>
-	
+
 	<string id="hil_story_start_dialog_0">
 		<text>Witaj. Co nowego na Kordonie?</text>
 	</string>
@@ -831,7 +831,7 @@
 	<string id="hil_story_start_dialog_2">
 		<text>Czyli normalnie.</text>
 	</string>
-	
+
 	<string id="hil_apn11_dialog_0">
 		<text>Witaj dowódco!</text>
 	</string>
@@ -871,7 +871,7 @@
 	<string id="hil_apn11_dialog_12">
 		<text>Co, coœ nie tak?!</text>
 	</string>
-	
+
 	<string id="hil_reuch_dialog_0">
 		<text>Teraz sobie porozmawiamy i od twojej prawdomównoœci zale¿y czy zobaczysz dzisiaj zachód s³oñca, czy nie. Wiêc kim jesteœ?</text>
 	</string>
@@ -917,7 +917,7 @@
 	<string id="hil_reuch_dialog_14">
 		<text>Rozumiem. Znaczy siê, handlarza nie zaatakuj¹? Dobrze. No, do zobaczenia w piekle!</text>
 	</string>
-	
+
 	<string id="hil_good_sidorych_dialog_0">
 		<text>Potrzebujê porady, Sidorze Sidorowiczu.</text>
 	</string>
@@ -945,7 +945,7 @@
 	<string id="hil_good_sidorych_dialog_8">
 		<text>£owcy to nie problem. Œwietne dokumenty. No to ¿egnaj Sidorowicz. Da Bóg - spotkamy siê jeszcze!</text>
 	</string>
-	
+
 	<string id="hil_vor_dialog3_0">
 		<text>Jak nasze sprawy, towarzyszu generale? Uda³o siê?</text>
 	</string>
@@ -961,7 +961,7 @@
 	<string id="hil_vor_dialog3_4">
 		<text>Dobrze. Bêdzie siê opiera³ - zastrzelê drania.</text>
 	</string>
-	
+
 	<string id="hil_vor_dialog4_0">
 		<text>Nie myœla³em, ¿e znów siê zobaczymy, generale...</text>
 	</string>
@@ -995,7 +995,7 @@
 	<string id="hil_vor_dialog4_10">
 		<text>Doktor?! On ¿yje?! Uciekam towarzyszu generale. Bêdzie coœ nowego - dam znaæ.</text>
 	</string>
-	
+
 	<string id="hil_doc_dialog_0">
 		<text>Doktor! Cieszê siê, ¿e ciê widzê!</text>
 	</string>
@@ -1026,7 +1026,7 @@
 	<string id="hil_doc_dialog_9">
 		<text>Nie. Nie oddam. Przyzwyczai³em siê ju¿ do niego... Mo¿e póŸniej... Co wiesz o Apokalipsie?</text>
 	</string>
-	
+
 	<string id="hil_doc_dialog_dub_0">
 		<text>Doktor! Cieszê siê, ¿e ciê widzê!</text>
 	</string>
@@ -1054,7 +1054,7 @@
 	<string id="hil_doc_dialog_dub_8">
 		<text>W porz¹dku, Dok! Poci¹gnê ich za sob¹. Powodzenia!</text>
 	</string>
-	
+
 	<string id="otdat_cc_0">
 		<text>Odnoœnie Serca Kontrolera, Dok...</text>
 	</string>
@@ -1064,7 +1064,7 @@
 	<string id="otdat_cc_2">
 		<text>WeŸ go sobie, przeklête mutanty.</text>
 	</string>
-	
+
 	<string id="hil_vor_dialog5_0">
 		<text>Generale! Stalkerzy oferuj¹ zjednoczyæ siê i szturmowaæ CEA.</text>
 	</string>
@@ -1080,7 +1080,7 @@
 	<string id="hil_vor_dialog5_4">
 		<text>Dziêkujê generale. Nigdy w to nie w¹tpi³em.</text>
 	</string>
-	
+
 	<string id="hil_lukash_dialog2_0">
 		<text>S³uchaj £ukasz, koniec z ukrywaniem siê! Nadszed³ czas by wyjœæ i pourywaæ tym demonom g³owy.</text>
 	</string>
@@ -1096,7 +1096,7 @@
 	<string id="hil_lukash_dialog2_4">
 		<text>Wcale nie w¹tpi³em.</text>
 	</string>
-	
+
 	<string id="hil_yar_dialog2_0">
 		<text>Kapitanie, wiem, ¿e wojsko planuje szturm na elektrowniê.</text>
 	</string>
@@ -1112,7 +1112,7 @@
 	<string id="hil_yar_dialog2_4">
 		<text>No i za³atwione.</text>
 	</string>
-	
+
 	<string id="hil_petr_dialog2_0">
 		<text>Witaj Pietrucha! Jak siê masz staruszku?</text>
 	</string>
@@ -1128,7 +1128,7 @@
 	<string id="hil_petr_dialog2_4">
 		<text>Czekaj na sygna³.</text>
 	</string>
-	
+
 	<string id="hil_haron_dialog1_0">
 		<text>Pozdrawiam ciê Charon.</text>
 	</string>
@@ -1150,7 +1150,7 @@
 	<string id="hil_haron_dialog1_6">
 		<text>Powodzenia nam wszystkim.</text>
 	</string>
-	
+
 	<string id="hil_sl_dialog2_0">
 		<text>Doktor powiedzia³, ¿e mogê liczyæ na pomoc twojej grupy.</text>
 	</string>
@@ -1172,7 +1172,7 @@
 	<string id="hil_sl_dialog2_6">
 		<text>Powiedzia³em zdobêdê - to znaczy, ¿e zdobêdê. Poczekaj tu.</text>
 	</string>
-	
+
 	<string id="hil_barman_dialog3_0">
 		<text>Pamiêtasz, mówi³eœ mi, ¿e jak coœ - to pomo¿esz?</text>
 	</string>
@@ -1212,7 +1212,7 @@
 	<string id="hil_barman_dialog3_12">
 		<text>No dobrze.A kto to? I gdzie...</text>
 	</string>
-	
+
 	<string id="hil_ermol_dialog1_0">
 		<text>Potrzebujê szybko zarobiæ. I to bardzo du¿¹ kwotê.</text>
 	</string>
@@ -1240,7 +1240,7 @@
 	<string id="hil_ermol_dialog1_8">
 		<text>Dobra, zaryzykujê. Uzgodnione.</text>
 	</string>
-	
+
 	<string id="hil_ermol_dialog2_0">
 		<text>Nie by³o tam ¿adnych pieniêdzy ani walizki, Jermo³. Wszystko stracone.</text>
 	</string>
@@ -1262,7 +1262,7 @@
 	<string id="hil_ermol_dialog2_6">
 		<text>¯egnaj Jermo³.</text>
 	</string>
-	
+
 	<string id="hil_barman_dialog4_0">
 		<text>Masz pieni¹dze, Barman.</text>
 	</string>
@@ -1272,7 +1272,7 @@
 	<string id="hil_barman_dialog4_2">
 		<text>Pójdê ch³opaków przezbroiæ.</text>
 	</string>
-	
+
 	<string id="hil_good_sidorych_dialog1_0">
 		<text>Sidorowicz, ja tylko...</text>
 	</string>
@@ -1282,7 +1282,7 @@
 	<string id="hil_good_sidorych_dialog1_2">
 		<text>Sidorowicz, choæ jesteœ pijawk¹, to nasz¹ pijawk¹!</text>
 	</string>
-	
+
 	<string id="hil_sl_dialog1_0">
 		<text>Mam Sztylety, S³awik.</text>
 	</string>
@@ -1292,7 +1292,7 @@
 	<string id="hil_sl_dialog1_2">
 		<text>Cholera, kto taki plan wymyœli³?!</text>
 	</string>
-	
+
 	<string id="take_stvol1_0">
 		<text>Bierz broñ</text>
 	</string>
@@ -1302,7 +1302,7 @@
 		<string id="take_stvol1_2">
 		<text>Spotkamy siê w Prypeci.</text>
 	</string>
-	
+
 		<string id="take_stvol2_0">
 		<text>Bierz broñ.</text>
 	</string>
@@ -1312,7 +1312,7 @@
 		<string id="take_stvol2_2">
 		<text>Spotkamy siê w Prypeci.</text>
 	</string>
-	
+
 		<string id="take_stvol3_0">
 		<text>Bierz broñ.</text>
 	</string>
@@ -1322,7 +1322,7 @@
 		<string id="take_stvol3_2">
 		<text>Spotkamy siê w Prypeci.</text>
 	</string>
-	
+
 		<string id="take_stvol4_0">
 		<text>Bierz broñ.</text>
 	</string>
@@ -1332,7 +1332,7 @@
 		<string id="take_stvol4_2">
 		<text>Spotkamy siê w Prypeci.</text>
 	</string>
-	
+
 	<string id="stvol_end_0">
 		<text>A co z szóstym karabinem?</text>
 	</string>
@@ -1342,7 +1342,7 @@
 	<string id="stvol_end_2">
 		<text>Bierz karabin. A Niemca ja sam ostrzegê, tak szybciej bêdzie. IdŸcie na miejsce spotkania.</text>
 	</string>
-	
+
 	<string id="hil_tell_nemez_0">
 		<text>Niemiec, twoi towarzysze ruszyli pomóc mi w Prypeci.</text>
 	</string>
@@ -1358,7 +1358,7 @@
 	<string id="hil_tell_nemez_4">
 		<text>Jednorazowy, mówisz? Dobra, pewnie sprawdzê sk¹d ten BTR siê wzi¹³.</text>
 	</string>
-	
+
 	<string id="assault_cnn_dialog_0">
 		<text>Gotowi?</text>
 	</string>
@@ -1368,7 +1368,7 @@
 	<string id="assault_cnn_dialog_2">
 		<text>Naprzód!</text>
 	</string>
-	
+
 	<string id="hacker_dialog_0">
 		<text>Mo¿esz troszkê podkrêciæ bazê stalkerskiej sieci?</text>
 	</string>
@@ -1417,7 +1417,7 @@
 	<string id="hacker_dialog_15">
 		<text>Nie, rozmyœli³em siê.</text>
 	</string>
-	
+
 	<string id="hil_budulay_dialog1_0">
 		<text>Barman powiedzia³, ¿e masz dla mnie robotê.</text>
 	</string>
@@ -1433,7 +1433,7 @@
 	<string id="hil_budulay_dialog1_4">
 		<text>Zgoda.</text>
 	</string>
-	
+
 	<string id="hil_budulay_dialog2_0">
 		<text>Znalaz³em twojego kole¿kê, Budu³aj. Daj, wypijemy - martwy on. Jakieœ dranie go wypatroszy³y.</text>
 	</string>
@@ -1443,7 +1443,7 @@
 	<string id="hil_budulay_dialog2_2">
 		<text>Bywaj.</text>
 	</string>
-	
+
 	<string id="hil_begemot_dialog_0">
 		<text>Witaj braciszku!</text>
 	</string>
@@ -1471,7 +1471,7 @@
 	<string id="hil_begemot_dialog_8">
 		<text>Strie³ok.</text>
 	</string>
-	
+
 	<string id="hil_renegade_dialog_0">
 		<text>Nie jestem dzisiaj w nastroju do dyskusji i sporów, wiêc - jeœli wierzycie w Boga - pomódlcie siê, zaraz przed nim staniecie.</text>
 	</string>
@@ -1514,7 +1514,7 @@
 	<string id="hil_renegade_dialog_13">
 		<text>Taa, ud³aw siê swoimi brudnymi pieniêdzmi!</text>
 	</string>
-	
+
 	<string id="hil_renegade_dialog2_0">
 		<text>Mam dla was dwie propozycje - pierwsze: likwidujecie swoje interesy, wypierdalacie z Zony i ratujecie swoje ¿ycie. Drugie: odrzucacie moj¹ pierwsz¹ propozycjê i wtedy wybijê was co do jednego.</text>
 	</string>
@@ -1551,7 +1551,7 @@
 	<string id="hil_renegade_dialog2_11">
 		<text>Bierz!</text>
 	</string>
-	
+
 	<string id="hil_doctor_dialog2_0">
 		<text>Witaj Doktorze. Wszystko za³atwi³em - Monolit, Powinnoœæ, Wolnoœæ, razem przemieszczaj¹ siê pod bramê CEA.</text>
 	</string>
@@ -1567,7 +1567,7 @@
 	<string id="hil_doctor_dialog2_4">
 		<text>Dobrze. Tak zrobiê.</text>
 	</string>
-	
+
 	<string id="hacker_notebook_dialog_0">
 		<text>S³uchaj, jakoœ mi wcale nie wygl¹dasz na stalkera. Bardziej mi przypominasz uczonego - studenta.</text>
 	</string>
@@ -1589,7 +1589,7 @@
 	<string id="hacker_notebook_dialog_6">
 		<text>Dobrze. Postaram siê odnaleŸæ twoj¹ maszynê.</text>
 	</string>
-	
+
 	<string id="hacker_find_notebook_dialog_0">
 		<text>Znalaz³em twojego notebooka - w siedzibie bandytów pod dŸwigiem by³.</text>
 	</string>
@@ -1599,7 +1599,7 @@
 	<string id="hacker_find_notebook_dialog_2">
 		<text>Koniecznie.</text>
 	</string>
-	
+
 	<string id="haron_last_dialog_0">
 		<text>Charon, Czarnobyl w naszych rêkach. Zosta³ ostatni zryw - przej¹æ punkt dowodzenia.</text>
 	</string>
@@ -1633,7 +1633,7 @@
 	<string id="haron_last_dialog_10">
 		<text>¯egnaj Charon.</text>
 	</string>
-	
+
 	<string id="sl_last_dialog_0">
 		<text>I co teraz z wasz¹ grup¹?</text>
 	</string>
@@ -1649,7 +1649,7 @@
 	<string id="sl_last_dialog_4">
 		<text>Tak? Dobrze, dziêkujê.</text>
 	</string>
-	
+
 	<string id="nemez_last_dialog_0">
 		<text>Witaj Niemiec! S³awik powiedzia³, ¿e masz dla mnie jakieœ dobre wieœci?</text>
 	</string>
@@ -1665,7 +1665,7 @@
 	<string id="nemez_last_dialog_4">
 		<text>Jak chcesz. Daj znaæ, jak siê zdecydujesz.</text>
 	</string>
-	
+
 	<string id="shuban_quest_dialog1_0">
 		<text>Witaj ¯wawy! Jak leci stalkerze?</text>
 	</string>
@@ -1687,7 +1687,7 @@
 	<string id="shuban_quest_dialog1_6">
 		<text>Dobrze, pomogê ci.</text>
 	</string>
-	
+
 	<string id="shuban_quest_dialog2_0">
 		<text>No i gotowe ¯wawy: na Kordonie nie ma ju¿ ani jednego bandyty.</text>
 	</string>
@@ -1697,7 +1697,7 @@
 	<string id="shuban_quest_dialog2_2">
 		<text>Dziêkujê ci, przyjacielu. Piêkna broñ.</text>
 	</string>
-	
+
     <string id="bman_weapon_0">
 		<text>Czeœæ, Barman. S³uchaj, dlaczego u ciebie taki asortyment sk¹py? Broni konkretnej nie masz?</text>
 	</string>
@@ -1713,7 +1713,7 @@
 	<string id="bman_weapon_4">
 		<text>Dobra. Porozmawiam z z Jermo³em.</text>.
 	</string>
-	
+
 	<string id="ermol_weapon1_0">
 		<text>Jest na sprzeda¿ coœ oprócz wódki i konserw?</text>
 	</string>
@@ -1741,7 +1741,7 @@
 	<string id="ermol_weapon1_8">
 		<text>Taa, Jermo³. Niebezpieczne to miejsce. Dobra, bêdziesz mia³ swój MP-5 zmodernizowany. Tym bardziej, ¿e w Zonie s¹ takie dwa.</text>.
 	</string>
-	
+
 	<string id="ermol_weapon2_0">
 		<text>Ale zadanie mi da³eœ. Masz swoj¹ zamówion¹ armatê.</text>.
 	</string>
@@ -1751,7 +1751,7 @@
 	<string id="ermol_weapon2_2">
 		<text>Umowa wa¿niejsza od pieniêdzy. Bierz automat. Poka¿ co tam masz na sprzeda¿!</text>
 	</string>
-	
+
 	<string id="cap_yar_dialog_ay_0">
 		<text>Kapitanie, na Jantarze wpadliœmy w zasadzkê. ¯o³nierze zginêli. Œmig³owiec...</text>
 	</string>
@@ -1767,7 +1767,7 @@
 	<string id="cap_yar_dialog_ay_4">
 		<text>Zobaczymy.</text>
 	</string>
-	
+
 	<string id="vor_detector_dialog_0">
 		<text>Generale, znalaz³em na Agropromie trzy detektory anomalii.</text>
 	</string>
@@ -1783,7 +1783,7 @@
 	<string id="vor_detector_dialog_4">
 		<text>Dobra. Pomyœlê nad tym.</text>
 	</string>
-	
+
 	<string id="fanat_dialog1_0">
 		<text>Szuka³eœ mnie, Fanat?</text>
 	</string>
@@ -1802,7 +1802,7 @@
 	<string id="fanat_dialog1_5">
 		<text>PóŸniej. Bez obrazy. Roboty mam du¿o</text>
 	</string>
-	
+
 	<string id="fanat_dialog2_0">
 		<text>Masz swoj¹ dyplomatkê. W dobry czas j¹ z X16 wydostaliœmy, ju¿ tam Ÿli ludzie jej szukali.</text>
 	</string>
@@ -1812,7 +1812,7 @@
 	<string id="fanat_dialog2_2">
 		<text>Dogadaliœmy siê.</text>
 	</string>
-	
+
 	<string id="wolf_quest_dialog1_0">
 		<text>Coœ ty taki zamyœlony, Wilk?</text>
 	</string>
@@ -1831,7 +1831,7 @@
 	<string id="wolf_quest_dialog1_5">
 		<text>Nie szkodzi, innym razem.</text>
 	</string>
-	
+
 	<string id="wolf_quest_dialog2_0">
 		<text>Oto twoja skrzynka, Wilk. Jakoœ bardzo na skrzynkê z dynamitem wygl¹da, jak myœlisz?</text>
 	</string>
@@ -1841,7 +1841,7 @@
 	<string id="wolf_quest_dialog2_2">
 		<text>No, byle by by³y baterie, a gdzie przyczepiæ - to sobie ju¿ znajdê.</text>
 	</string>
-	
+
 	<string id="fox_quest_dialog1_0">
 		<text>Czeœæ, Lis! Dawno siê nie widzieliœmy.</text>
 	</string>
@@ -1860,7 +1860,7 @@
 	<string id="fox_quest_dialog1_5">
 		<text>Nie, Lis. IdŸ sobie sam.</text>
 	</string>
-	
+
 	<string id="fox_quest_dialog2_0">
 		<text>Trzymaj swój kontener, Lis. Uwa¿aj, czujê, ¿e tam jakieœ drañstwo jest w œrodku.</text>
 	</string>
@@ -1870,18 +1870,18 @@
 	<string id="fox_quest_dialog2_2">
 		<text>Wpadnij, jakby co.</text>
 	</string>
-	
+
 	<string id="tolik_legend_dialog_0">
 		<text>Witaj Tolik! Przenios³eœ siê w pobli¿e wojskowych?</text>
 	</string>
 	<string id="tolik_legend_dialog_1">
-		<text>Witaj Strie³ok. Nie spodziewa³em siê jeszcze ciê zobaczyæ.</text>
+		<text>Witaj Strie³ok. Nie spodziewa³em siê jeszcze Ciê zobaczyæ.</text>
 	</string>
 	<string id="tolik_legend_dialog_2">
 		<text>A to dlaczego?</text>
 	</string>
 	<string id="tolik_legend_dialog_3">
-		<text>Boœ szalony, w³azisz tam, gdzie innych koñmi nie zaci¹gn¹.</text>
+		<text>Boœ szalony, w³azisz tam, gdzie innych wo³ami nie zaci¹gn¹.</text>
 	</string>
 	<string id="tolik_legend_dialog_4">
 		<text>No, ale tak sobie tylko siedzieæ w Zonie, to wed³ug mnie niebezpieczna g³upota. Co nowego s³ychaæ?</text>
@@ -1916,7 +1916,7 @@
 	<string id="tolik_legend_dialog_14">
 		<text>Ty tyle nie myœl, Tolik. Czarny, zanim t¹ siódemkê spotka³, pewnie parê œcie¿ek wci¹gn¹³. Brednie to wszystko.</text>
 	</string>
-	
+
 	<string id="kozel_dialog_0">
 		<text>Witaj stalkerze. Co tak sam stoisz?</text>
 	</string>
@@ -1938,7 +1938,7 @@
 	<string id="kozel_dialog_6">
 		<text>Tak rozumiem, rozumiem! ChodŸmy ju¿!</text>
 	</string>
-	
+
 	<string id="kozel_dialog2_0">
 		<text>Gdzie ten twój kumpel?</text>
 	</string>
@@ -1948,7 +1948,7 @@
 	<string id="kozel_dialog2_2">
 		<text>Jakie zwierzê?</text>
 	</string>
-	
+
 	<string id="kozel_dialog3_0">
 		<text>S³ysza³em, Gitler, ¿e ty drañ, ale nie, ¿e do takiego stopnia?!</text>
 	</string>
@@ -1958,7 +1958,7 @@
 	<string id="kozel_dialog3_2">
 		<text>G³upcem jesteœ Wañka. Obaj mogliœmy tu g³owê po³o¿yæ. Zgoda, zapomniane. Pieni¹dze oddawaj!</text>
 	</string>
-	
+
 	<string id="yar_escort_dialog_0">
 		<text>Kapitanie, Doktor powiedzia³, ¿e jest miejsce w œmig³owcu...</text>
 	</string>
@@ -1968,7 +1968,7 @@
 	<string id="yar_escort_dialog_2">
 		<text>Ju¿ biegnê!</text>
 	</string>
-	
+
 	<string id="barman_pro_concord_0">
 		<text>Barman, mam pytanie: jak uwolniæ siê od Serca Kontrolera?</text>
 	</string>
@@ -1981,7 +1981,7 @@
 	<string id="barman_pro_concord_3">
 		<text>Bierz. Przeklête mutanty.</text>
 	</string>
-	
+
 	<string id="vor_about_clearning_0">
 		<text>No co, towarzyszu  generale, bêdziemy siê ¿egnaæ?</text>
 	</string>
@@ -2021,7 +2021,7 @@
 	<string id="vor_about_clearning_12">
 		<text>Dobra, pójdê, popatrzê...</text>
 	</string>
-	
+
 	<string id="cap_ivanzov_dialog_0">
 		<text>Kapitanie, ja w zwi¹zku z rozstrzelanymi. Czy¿by naprawdê za papierosy?</text>
 	</string>
@@ -2037,7 +2037,7 @@
 	<string id="cap_ivanzov_dialog_4">
 		<text>Czyli: "Zabijaj wszystkich - Bóg rozpozna swoich"? Dobra. Pomyœlimy.</text>
 	</string>
-	
+
 	<string id="ex_apclps_dialog_0">
 		<text>Co nowego w Zonie?</text>
 	</string>
@@ -2047,7 +2047,7 @@
 	<string id="ex_apclps_dialog_2">
 		<text>No, to na razie.</text>
 	</string>
-	
+
 	<string id="vor_last_dialog_0">
 		<text>No, gotowe generale. Oczyszczona Zona.</text>
 	</string>
@@ -2057,7 +2057,7 @@
 	<string id="vor_last_dialog_2">
 		<text>Tak. Do zobaczenia, generale.</text>
 	</string>
-	
+
 	<string id="dm_intro_help_13">
 		<text>Daj apteczkê...</text>
 	</string>
@@ -2082,7 +2082,7 @@
 	<string id="dm_intro_help_20">
 		<text>Daj apteczkê...</text>
 	</string>
-	
+
 	<string id="sidor_joke1_0">
 		<text>Sidorowicz, a co to za rydwan u ciebie przy wejœciu stoi? FSO chcesz przej¹æ? Hehe..</text>
 	</string>
@@ -2098,7 +2098,7 @@
 	<string id="sidor_joke1_4">
 		<text>Nie z³oœæ siê, ¿artowa³em sobie. Nie nabra³eœ siê. Tylko nikomu nic nie mów, trzy setki  na tym dowcipie, co dzieñ mam.</text>
 	</string>
-	
+
 	<string id="sidor_joke2_0">
 		<text>Coœ nie dzia³a, Sidorowicz ta twoja "Bia³a b³yskawica."</text>
 	</string>
@@ -2112,9 +2112,9 @@
 		<text>Jeszcze czego! Pieni¹dze zatrzymam. Za naukê!</text>
 	</string>
 	<string id="sidor_joke2_4">
-		<text>Jeszcze czego! Pieni¹dze zatrzymam. Za naukê!</text>
+		<text>A spadaj!</text>
 	</string>
-	
+
 	<string id="barman_pro_black_soul_0">
 		<text>Przypadkowo znalaz³em "Czarn¹ Duszê." Nosiæ j¹ przy sobie jest doœæ niebezpiecznie. I wyrzuciæ te¿ strach - ktoœ nieobeznany powiesi na pasie - i tylko pamiêæ po nim zostanie. Co radzisz?</text>
 	</string>
@@ -2124,7 +2124,7 @@
 	<string id="barman_pro_black_soul_2">
 		<text>Bierz.</text>
 	</string>
-	
+
 	<string id="pro_radio_0">
 		<text>W X18 znalaz³em takie coœ.</text>
 	</string>
@@ -2134,7 +2134,7 @@
 	<string id="pro_radio_2">
 		<text>Cholera! Niepotrzebnie to taszczy³em!</text>
 	</string>
-	
+
 	<string id="pro_book_0">
 		<text>W X18 znalaz³em takie coœ.</text>
 	</string>
@@ -2144,7 +2144,7 @@
 	<string id="pro_book_2">
 		<text>Jak powiedzia³eœ - tak sprzedam.</text>
 	</string>
-	
+
 	<string id="pro_block_0">
 		<text>W X18 znalaz³em takie coœ.</text>
 	</string>
@@ -2154,7 +2154,7 @@
 	<string id="pro_block_2">
 		<text>Cholera! Niepotrzebnie to taszczy³em!</text>
 	</string>
-	
+
 	<string id="doc_pda_dialog_0">
 		<text>Doktorze, wszystko zrobi³em. Zabijaæ naukowców nie by³o rozkazu, ale... nie ja pierwszy otworzy³em ogieñ. I oto co znalaz³em przy ich g³ównym. Przy Numerze I.</text>
 	</string>
@@ -2176,7 +2176,7 @@
 	<string id="doc_pda_dialog_6">
 		<text>Dobrze, Dok. Do zobaczenia.</text>
 	</string>
-	
+
 	<string id="bc_dialog_0">
 		<text>Ej... Czarnego Stalkera udajesz?</text>
 	</string>
@@ -2198,7 +2198,7 @@
 	<string id="bc_dialog_6">
 		<text>A któ¿ to?</text>
 	</string>
-	
+
 	<string id="vst_v_cnn_0">
 		<text>Coœ chcia³eœ jeszcze powiedzieæ?</text>
 	</string>
@@ -2211,7 +2211,7 @@
 	<string id="vst_v_cnn_3">
 		<text>Jak to nie istnieje? A Duch? A Pinochet? Wybacz, ale zostajê w grupie Strie³oka.</text>
 	</string>
-	
+
 	<string id="val_new_rob_dialog_0">
 		<text>Przynios³eœ! Wiêc - trzymaj!</text>
 	</string>
@@ -2221,7 +2221,7 @@
 	<string id="val_new_rob_dialog_2">
 		<text>Bywaj.</text>
 	</string>
-	
+
 	<string id="hil_budulay_dialog3_0">
 		<text>Coœ taki smutny, stalkerze? Rozweseliæ ciê zajmuj¹c¹ histori¹?</text>
 	</string>
@@ -2249,54 +2249,54 @@
 	<string id="hil_budulay_dialog3_8">
 		<text>Bywaj.</text>
 	</string>
-	
+
 	<string id="ermol_hello_dialog_0">
 		<text>Jakiœ problem?</text>
 	</string>
-	
+
 	<string id="remezov_hello_dialog_0">
 		<text>Co teraz ze mn¹ bêdzie?</text>
 	</string>
-	
+
 	<string id="docktor_hello_dialog_0">
 		<text>Witaj, Strie³ok.</text>
 	</string>
-	
+
 	<string id="haron_hello_dialog_0">
 		<text>Witam ciê, stalkerze.</text>
 	</string>
-	
+
 	<string id="cnn_hello_dialog_0">
 		<text>S³ucham ciê uwa¿nie.</text>
 	</string>
-	
+
 	<string id="hacker_hello_dialog_0">
 		<text>Jak leci?</text>
 	</string>
-	
+
 	<string id="budulay_hello_dialog_0">
 		<text>Czego chcesz?</text>
 	</string>
-	
+
 	<string id="nemez_hello_dialog_0">
 		<text>B¹dŸ zdrów.</text>
 	</string>
-	
+
 	<string id="mehanik_hello_dialog_0">
 		<text>Witaj, stalkerze.</text>
 	</string>
-	
+
 	<string id="reuch_hello_dialog_0">
 		<text>Witajcie.</text>
 	</string>
-	
+
 	<string id="kozel_hello_dialog_0">
 		<text>Jak leci?</text>
 	</string>
-	
+
 	<string id="pinochet_hello_dialog_0">
 		<text>O co chcia³eœ zapytaæ?</text>
 	</string>
-	
+
 
 </string_table>
