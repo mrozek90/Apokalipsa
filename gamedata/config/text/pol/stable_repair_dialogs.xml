@@ -2,10 +2,10 @@
 <string_table>
 
 <string id="list_repair_0">
-<text>Koszt naprawy broni w pierwszym slocie:</text>
+<text>Koszt naprawy broni podrêcznej:</text>
 </string>
 <string id="list_repair_1">
-<text>Koszt naprawy broni w drugim slocie:</text>
+<text>Koszt naprawy broni g³ównej:</text>
 </string>
 <string id="list_repair_2">
 <text>Koszt naprawy kombinezonu:</text>
@@ -15,19 +15,19 @@
 <!-- Repair dialog start -->
 <!--********************************-->
 <string id="escape_repair_0">
-<text>A ty w ogóle remontujesz broñ?</text>
+<text>Zajmujesz siê napraw¹?</text>
 </string>
 <string id="escape_repair_1">
 <text>Coœ tam naprawiam. Ale uprzedzam: to nie s¹ tanie rzeczy. Im wiêksze zu¿ycie - tym dro¿ej. No to jak?\n \n Lista mo¿liwych napraw:</text>
 </string>
 <string id="escape_repair_2">
-<text>Remontuj pierwsz¹ broñ.</text>
+<text>Napraw podrêczn¹ broñ.</text>
 </string>
 <string id="escape_repair_3">
-<text>Remontuj drug¹ broñ.</text>
+<text>Napraw g³ówn¹ broñ.</text>
 </string>
 <string id="escape_repair_4">
-<text>Remontuj kombinezon.</text>
+<text>Napraw kombinezon.</text>
 </string>
 <string id="escape_repair_5">
 <text>Brak mi gotówki. Przyjdê kiedyœ indziej.</text>
@@ -52,4 +52,4 @@
 </string>
 
 
-</string_table> 
+</string_table>

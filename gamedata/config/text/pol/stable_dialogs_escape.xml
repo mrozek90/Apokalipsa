@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1250"?>
+Tobie<?xml version="1.0" encoding="windows-1250"?>
 <string_table>
 	<string id="esc_bridge_soldiers_start_11">
 		<text>Na ten obszar nie ma wstępu, stalkerze.</text>
@@ -7,19 +7,19 @@
 		<text>Ja wszędzie wchodzę za darmo</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_13">
-		<text>A nie wolno. No, ale jeśli bardzo musisz tam przejść to wolno, na przykład za pięć stówek.</text>
+		<text>A nie wolno. No, ale jeśli bardzo musisz tam przejść to można, na przykład za pięć stówek.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_14">
 		<text>Masz.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_15">
-		<text>He-he.Po prostu bogacz, dalej, przechodź.</text>
+		<text>He-he. Po prostu bogacz, dalej, przechodź.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_21">
 		<text>Powodzenia!</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_24">
-		<text>Nie dam ci pieniędzy.</text>
+		<text>Nie dam Ci pieniędzy.</text>
 	</string>
 	<string id="esc_bridge_soldiers_start_25">
 		<text>No jasne. Na żartach się nie znasz? Przechodź.</text>
@@ -43,7 +43,7 @@
 		<text>Przewodniku, muszę znaleźć Doktora.</text>
 	</string>
 	<string id="esc_provodnik_start_13">
-		<text>No coś takiego. A skąd ty wiesz o Doktorze?</text>
+		<text>No coś takiego. A skąd Ty wiesz o Doktorze?</text>
 	</string>
 	<string id="esc_provodnik_start_14">
 		<text>Duch mnie przysłał. Pomóż mi się skontaktować z Doktorem. To pilne.</text>
@@ -61,13 +61,13 @@
 		<text>Powiesz mi coś więcej o tym miejscu?</text>
 	</string>
 	<string id="esc_stalker_talk_level_1">
-		<text>Ta droga prowadzi do Zony. Na twoim miejscu nie zbliżałbym się za bardzo do placówki, bo jeszcze żołnierze cię zobaczą - a mają rozkaz strzelać bez ostrzeżenia. Dalej na północ jest zniszczony most, ale tam również ustawili placówkę. Otwarty teren roi się od dzikich psów, więc dla żółtodzioba to niezbyt bezpieczne miejsce. Aha, od czasu do czasu pojawi się też banda mutantów.</text>
+		<text>Ta droga prowadzi do Zony. Na Twoim miejscu nie zbliżałbym się za bardzo do placówki, bo jeszcze żołnierze Cię zobaczą - a mają rozkaz strzelać bez ostrzeżenia. Dalej na północ jest zniszczony most, ale tam również ustawili placówkę. Otwarty teren roi się od dzikich psów, więc dla żółtodzioba to niezbyt bezpieczne miejsce. Aha, od czasu do czasu pojawi się też banda mutantów.</text>
 	</string>
 	<string id="esc_stalker_talk_level_10">
 		<text>A co z żołnierzami przy moście? Muszę ich jakoś ominąć.</text>
 	</string>
 	<string id="esc_stalker_talk_level_11">
-		<text>Dobra, masz dwie opcje. Jeśli na służbie jest Kuzniecow, to pamiętaj, że gość ma pociąg do kasy. Spora szansa, że cię przepuści, jak dasz mu w łapę. Ale jak ci brakuje gotówki albo ktoś inny ma zmianę, jest jeszcze inny sposób. Idź po lewej stronie mostu, wzdłuż torów. Tylko pamiętaj, że nie mogą cię zobaczyć! Dojdziesz do małego tunelu, który przechodzi przez nasyp. I jeszcze jedno: tam w dole może cię czekać bliskie spotkanie z zombiakami.</text>
+		<text>Dobra, masz dwie opcje. Jeśli na służbie jest Kuzniecow, to pamiętaj, że gość ma pociąg do kasy. Spora szansa, że Cię przepuści, jak dasz mu w łapę. Ale jak Ci brakuje gotówki albo ktoś inny ma zmianę, jest jeszcze inny sposób. Idź po lewej stronie mostu, wzdłuż torów. Tylko pamiętaj, że nie mogą Cię zobaczyć! Dojdziesz do małego tunelu, który przechodzi przez nasyp. I jeszcze jedno: tam w dole może Cię czekać bliskie spotkanie z zombiakami.</text>
 	</string>
 	<string id="esc_stalker_talk_level_2">
 		<text>A co jest dalej na północ, za placówką?</text>
@@ -103,7 +103,7 @@
 		<text>Nooo, stary! To było coś! Załatwiłeś ich wszystkich i nic nam nie zostawiłeś. W życiu bym w to nie uwierzył, gdybym na własne oczy nie widział! Powaliłeś mnie, stary...</text>
 	</string>
 	<string id="escape_factory_assault_start_71">
-		<text>No i gdzie są te sterty wrogów, których zabiłeś? Mocny to ty tylko w gębie jesteś. Zjeżdżaj!</text>
+		<text>No i gdzie są te sterty wrogów, których zabiłeś? Mocny to Ty tylko w gębie jesteś. Zjeżdżaj!</text>
 	</string>
 	<string id="escape_fox_hello_dialog_2">
 		<text>Wybacz, stary, ale byłbym wdzięczny, gdybyś się ulotnił, okej? Czekam tu na kogoś...</text>
@@ -118,7 +118,7 @@
 		<text>Co możesz mi powiedzieć o Zonie?</text>
 	</string>
 	<string id="escape_fox_hello_dialog_21111">
-		<text>Tylko tyle chcesz wiedzieć? Weź tydzień wolnego i potem wróć do mnie. Słuchaj, ja sobie cenię swój czas i w tym momencie mam co robić. Podam ci podstawowe dane, a potem radź sobie sam. Jakieś trzy kilometry na północ stąd znajdziesz Wysypisko. To tam wywalano wszystkie odpady radioaktywne z Elektrowni. Wysoki poziom promieniowania, anomalie na każdym kroku, więc tym samym mnóstwo artefaktów... ale niezbyt cennych. Tylko uważaj na bandy i patrole "Powinności". Na zachód od Wysypiska jest dawny Instytut Badawczy Agroprom. Tam zbyt wielu artefaktów nie znajdziesz, więc możesz to olać. A na wschód leży Dolina Mroku. Kto wie... To jest dosyć dziwne miejsce. Wydaje się być spokojne, pomijając kilku bandziorów, którzy się tam włóczą. Ale coś czuję, że to miejsce kryje w sobie jakieś tajemnice. Aha, jest jeszcze fabryka Rostok, tuż za Wysypiskiem. To teren stalkerów. Znajdziesz tam wielu oblatanych kolesiów - od nich dowiesz się reszty.</text>
+		<text>Tylko tyle chcesz wiedzieć? Weź tydzień wolnego i potem wróć do mnie. Słuchaj, ja sobie cenię swój czas i w tym momencie mam co robić. Podam Ci podstawowe dane, a potem radź sobie sam. Jakieś trzy kilometry na północ stąd znajdziesz Wysypisko. To tam wywalano wszystkie odpady radioaktywne z Elektrowni. Wysoki poziom promieniowania, anomalie na każdym kroku, więc tym samym mnóstwo artefaktów... ale niezbyt cennych. Tylko uważaj na bandy i patrole "Powinności". Na zachód od Wysypiska jest dawny Instytut Badawczy Agroprom. Tam zbyt wielu artefaktów nie znajdziesz, więc możesz to olać. A na wschód leży Dolina Mroku. Kto wie... To jest dosyć dziwne miejsce. Wydaje się być spokojne, pomijając kilku bandziorów, którzy się tam włóczą. Ale coś czuję, że to miejsce kryje w sobie jakieś tajemnice. Aha, jest jeszcze fabryka Rostok, tuż za Wysypiskiem. To teren stalkerów. Znajdziesz tam wielu oblatanych kolesiów - od nich dowiesz się reszty.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_2113">
 		<text>Zmieniłem zdanie. Dzięki.</text>
@@ -130,7 +130,7 @@
 		<text>Handlarz powiedział mi, że możesz coś wiedzieć o Strieloku.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_311">
-		<text>Czemu ostatnio wszyscy się nim tak strasznie interesują? Nie mogę powiedzieć, żebym go znał osobiście. Ale "rozmawialiśmy" - moi ludzie kiedyś strzelili do niego kilka razy. Nikt nie został ranny - było jasne, że jego ekipa czekała tam na kogoś innego, więc się rozeszliśmy w pokoju. Obrzuciliśmy się bluzgami przez wąwóz i każdy ruszył w swoją drogę. Sieryj, mój brat, siedzi teraz w hangarze na Wysypisku - dam ci jego współrzędne, żebyście mogli sobie pogadać. On wie więcej o Strieloku. Bądź ostrożny przy wyjściu - jakaś mała banda się tam ulokowała. A tak przy okazji, ścigało mnie kilka poczwar i wygląda na to, że jeszcze nie odpuściły. Może byś mi z nimi pomógł? Spacerek, możesz mi wierzyć.</text>
+		<text>Czemu ostatnio wszyscy się nim tak strasznie interesują? Nie mogę powiedzieć, żebym go znał osobiście. Ale "rozmawialiśmy" - moi ludzie kiedyś strzelili do niego kilka razy. Nikt nie został ranny - było jasne, że jego ekipa czekała tam na kogoś innego, więc się rozeszliśmy w pokoju. Obrzuciliśmy się bluzgami przez wąwóz i każdy ruszył w swoją drogę. Sieryj, mój brat, siedzi teraz w hangarze na Wysypisku - dam Ci jego współrzędne, żebyście mogli sobie pogadać. On wie więcej o Strieloku. Bądź ostrożny przy wyjściu - jakaś mała banda się tam ulokowała. A tak przy okazji, ścigało mnie kilka poczwar i wygląda na to, że jeszcze nie odpuściły. Może byś mi z nimi pomógł? Spacerek, możesz mi wierzyć.</text>
 	</string>
 	<string id="escape_fox_hello_dialog_3111">
 		<text>Dzięki za informacje, doceniam to.</text>
@@ -151,7 +151,7 @@
 		<text>Dziękuję.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_121">
-		<text>Nasz szef chciał się z tobą widzieć. Ale to nie znaczy, że jesteś tu mile widziany. Ruszaj się.</text>
+		<text>Nasz szef chciał się z Tobą widzieć. Ale to nie znaczy, że jesteś tu mile widziany. Ruszaj się.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_2">
 		<text>Witaj Striełok.</text>
@@ -160,13 +160,13 @@
 		<text>Witaj.</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_212">
-		<text>Przechodź,niewidzisz że stoję na posterunku?</text>
+		<text>Przechodź, nie widzisz że stoję na posterunku?</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_2121">
-		<text>No,wybacz mi</text>
+		<text>No, wybacz mi</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_21211">
-		<text>Dalej,przechodź</text>
+		<text>Dalej, przechodź</text>
 	</string>
 	<string id="escape_lager_guard_start_dialog_2122">
 		<text>Co mogę zrobić, żeby ludzie zaczęli mi ufać?</text>
@@ -181,7 +181,7 @@
 		<text>Witaj, Striełok. Czego chcesz?</text>
 	</string>
 	<string id="escape_lager_leader_hello_11">
-		<text>Dobrze, że jesteś, Striełok! Przydałaby się nam twoja pomoc.</text>
+		<text>Dobrze, że jesteś, Striełok! Przydałaby się nam Twoja pomoc.</text>
 	</string>
 	<string id="escape_lager_leader_hello_111">
 		<text>Mów dalej.</text>
@@ -193,7 +193,7 @@
 		<text>No i co zamierzacie zrobić?</text>
 	</string>
 	<string id="escape_lager_leader_hello_111111">
-		<text>Urządzimy zasadzkę, bo frontalny atak to byłby pewnie nasz koniec. Mają sprzęt bojowy i tak dalej, no i jeszcze są przeszkoleni taktycznie tak, że w głowie się nie mieści. A u nas są same dzieciaki. Więc postanowiliśmy ukryć się w domach, żeby wyglądało na to, że odeszliśmy. No i jak przyjdzie właściwy moment, zaatakujemy. Takiego żołnierza jak ty właśnie teraz nam trzeba. Po wszystkim byśmy ci odpowiednio podziękowali. Wiesz, że dotrzymujemy słowa! No to co ty na to? Pomożesz nam?</text>
+		<text>Urządzimy zasadzkę, bo frontalny atak to byłby pewnie nasz koniec. Mają sprzęt bojowy i tak dalej, no i jeszcze są przeszkoleni taktycznie tak, że w głowie się nie mieści. A u nas są same dzieciaki. Więc postanowiliśmy ukryć się w domach, żeby wyglądało na to, że odeszliśmy. No i jak przyjdzie właściwy moment, zaatakujemy. Takiego żołnierza jak Ty właśnie teraz nam trzeba. Po wszystkim byśmy Ci odpowiednio podziękowali. Wiesz, że dotrzymujemy słowa! No to co Ty na to? Pomożesz nam?</text>
 	</string>
 	<string id="escape_lager_leader_hello_1111111">
 		<text>Pomogę.</text>
@@ -214,7 +214,7 @@
 		<text>Czekamy na tych harcerzyków. Coś mi mówi, że są tuż za rogiem.</text>
 	</string>
 	<string id="escape_lager_leader_hello_31">
-		<text>Prawdziwy z ciebie kiler, Striełok! Nie chciałbym ci stanąć na drodze. Nigdy!</text>
+		<text>Prawdziwy z Ciebie kiler, Striełok! Nie chciałbym Ci stanąć na drodze. Nigdy!</text>
 	</string>
 	<string id="escape_lager_leader_hello_311">
 		<text>Taa, coś w tym rodzaju.</text>
@@ -223,7 +223,7 @@
 		<text>Trzymaj, mam nadzieję, że o nas nie zapomnisz. A tak przy okazji - stokrotne dzięki za pomoc. Ocaliliśmy młodzież, Striełok.</text>
 	</string>
 	<string id="escape_lager_leader_hello_41">
-		<text>Hej, Striełok! Dobrze cię widzieć!</text>
+		<text>Hej, Striełok! Dobrze Cię widzieć!</text>
 	</string>
 	<string id="escape_lager_leader_hello_411">
 		<text>Witam również.</text>
@@ -241,7 +241,7 @@
 		<text>Śmiało, spróbuję pomóc.</text>
 	</string>
 	<string id="escape_lager_volk_info_10">
-		<text>Dziękuję..</text>
+		<text>Dziękuję.</text>
 	</string>
 	<string id="escape_lager_volk_info_2">
 		<text>Co wiesz o Zonie?</text>
@@ -289,7 +289,7 @@
 		<text>Co wiesz o "trupiarkach"?</text>
 	</string>
 	<string id="escape_lager_volk_info_41">
-		<text>Nie wiem nic i to mi jak najbardziej pasuje! Wybacz, słyszałem o tym, co ci się przydarzyło. Trochę za bardzo to tajemnicze. Człowiek miesiąc posiedzi w tych stronach i siłą rzeczy do końca życia staje się przesądny. Trupy w bagażniku, trupy za kółkiem... Kim one są, skąd się wzięły i po co? Mam tylko nadzieję, że nie wstały z grobu.</text>
+		<text>Nie wiem nic i to mi jak najbardziej pasuje! Wybacz, słyszałem o tym, co Ci się przydarzyło. Trochę za bardzo to tajemnicze. Człowiek miesiąc posiedzi w tych stronach i siłą rzeczy do końca życia staje się przesądny. Trupy w bagażniku, trupy za kółkiem... Kim one są, skąd się wzięły i po co? Mam tylko nadzieję, że nie wstały z grobu.</text>
 	</string>
 	<string id="escape_lager_volk_talk_11">
 		<text>Witam. Po co przyszedłeś?</text>
@@ -301,10 +301,10 @@
 		<text>Żwawy ma spore kłopoty. Niedaleko stąd jego grupę napadli bandyci. Ledwie dał radę wysłać mi sygnał SOS. Wyglądało na to, że resztę chłopaków załatwili. Moi ludzie powiedzieli mi, że sukinsyny są teraz na starym parkingu, tym po drugiej stronie drogi.</text>
 	</string>
 	<string id="escape_lager_volk_talk_11111">
-		<text>Swoich z więzienia nie wyciągniesz? To chyba kiepski z ciebie przyjaciel. A może po prostu jesteś za cienki?</text>
+		<text>Swoich z więzienia nie wyciągniesz? To chyba kiepski z Ciebie przyjaciel. A może po prostu jesteś za cienki?</text>
 	</string>
 	<string id="escape_lager_volk_talk_111111">
-		<text>Dałbym ci popalić, tylko po co? To nie takie proste. Mam za mało ludzi, a ci, których mam, to w większości koty. Nie mogę ryzykować. Jak stracimy obóz, to dla tych wszystkich stalkerów zrobi się niewesoło. No a ty? Jak się strasznie nie boisz, to schowam dumę do kieszeni i pozwolę sobie pomóc. To co, jak będzie z tymi bandziorami?</text>
+		<text>Dałbym Ci popalić, tylko po co? To nie takie proste. Mam za mało ludzi, a ci, których mam, to w większości koty. Nie mogę ryzykować. Jak stracimy obóz, to dla tych wszystkich stalkerów zrobi się niewesoło. No a Ty? Jak się strasznie nie boisz, to schowam dumę do kieszeni i pozwolę sobie pomóc. To co, jak będzie z tymi bandziorami?</text>
 	</string>
 	<string id="escape_lager_volk_talk_1111111">
 		<text>Myślisz, że sam dałbym radę?</text>
@@ -316,7 +316,7 @@
 		<text>Spróbuję.</text>
 	</string>
 	<string id="escape_lager_volk_talk_1111111111">
-		<text>I o to chodzi! Dobra, dałem ci współrzędne chłopaków. Zaraz ich o tobie powiadomię.</text>
+		<text>I o to chodzi! Dobra, dałem ci współrzędne chłopaków. Zaraz ich o Tobie powiadomię.</text>
 	</string>
 	<string id="escape_lager_volk_talk_111111112">
 		<text>Odwagę mam, ale nie pójdę.</text>
@@ -361,13 +361,13 @@
 		<text>Co powiesz, stalkerze?</text>
 	</string>
 	<string id="escape_lager_volk_talk_511">
-		<text>Co ja ci mogę powiedzieć? Na ATP byli bandyci, więc trochę poczyściliśmy. To chyba tyle.</text>
+		<text>Co ja Ci mogę powiedzieć? Na ATP byli bandyci, więc trochę poczyściliśmy. To chyba tyle.</text>
 	</string>
 	<string id="escape_lager_volk_talk_5111">
 		<text>Nie lubisz się przechwalać, co? Słuchaj, skoro załatwiłeś tamtych bandziorów, nie mogę cię tak puścić z niczym...</text>
 	</string>
 	<string id="escape_shustryi_start_11">
-		<text>Dzięki, brachu! Wyświadczyłeś nam wielką przysługę! Nie wiem nawet, jak ci dziękować....</text>
+		<text>Dzięki, brachu! Wyświadczyłeś nam wielką przysługę! Nie wiem nawet, jak Ci dziękować....</text>
 	</string>
 	<string id="escape_shustryi_start_111">
 		<text>Słuchaj, potrzebny mi ten pendrive, który miałeś zabrać do Handlarza. Masz go?</text>
@@ -430,22 +430,22 @@
 		<text>Nie, jeszcze nie mogę tego wziąć.</text>
 	</string>
 	<string id="escape_trader_jobs_521">
-		<text>Ej no, stary, to tylko się wydaje ciężkie. Banda pijanych rekrutów zielonych jak trawa i jeden podoficer... Szkoda, bo liczyłem na ciebie, Striełok...</text>
+		<text>Ej no, stary, to tylko się wydaje ciężkie. Banda pijanych rekrutów zielonych jak trawa i jeden podoficer... Szkoda, bo liczyłem na Ciebie, Striełok...</text>
 	</string>
 	<string id="escape_trader_jobs_6">
-		<text>Słuchaj.. Parę spraw sobie przemyślałem i mam dla ciebie propozycję... Ogólnie rzecz biorąc, dla ciebie liczy się znalezienie Strieloka. Zgadza się?</text>
+		<text>Słuchaj.. Parę spraw sobie przemyślałem i mam dla Ciebie propozycję... Ogólnie rzecz biorąc, dla Ciebie liczy się znalezienie Strieloka. Zgadza się?</text>
 	</string>
 	<string id="escape_trader_jobs_61">
 		<text>Przyjmijmy, że tak.</text>
 	</string>
 	<string id="escape_trader_jobs_611">
-		<text>No więc opowiem ci o Strieloku. Istnieje stalker o takiej ksywie. Mówi się, że odkrył drogę na północ Zony, do dziewiczych terenów... prawdziwej żyły złota... taa... No więc sprawa wygląda następująco: pomogę ci go znaleźć, ale nie ma nic za darmo - będziesz musiał na to zapracować. Ostatecznie jednak obaj na tym zyskamy - ty załatwisz tego Strieloka i dowiesz się, co ci się przydarzyło, a ja w tym czasie znajdę... eee, to znaczy, wezmę swoją działkę z naszego wspólnego zysku. Wchodzisz w to?</text>
+		<text>No więc opowiem Ci o Strieloku. Istnieje stalker o takiej ksywie. Mówi się, że odkrył drogę na północ Zony, do dziewiczych terenów... prawdziwej żyły złota... taa... No więc sprawa wygląda następująco: pomogę ci go znaleźć, ale nie ma nic za darmo - będziesz musiał na to zapracować. Ostatecznie jednak obaj na tym zyskamy - Ty załatwisz tego Strieloka i dowiesz się, co Ci się przydarzyło, a ja w tym czasie znajdę... eee, to znaczy, wezmę swoją działkę z naszego wspólnego zysku. Wchodzisz w to?</text>
 	</string>
 	<string id="escape_trader_jobs_6111">
 		<text>Mów dalej.</text>
 	</string>
 	<string id="escape_trader_jobs_61111">
-		<text>Jesteś konkretnym facetem, a my potrzebujemy takich jak ty. Razem z kilkoma handlarzami prowadzimy drobne badania. Chcemy otworzyć drogę na północ, do centrum Zony. Ale blisko centrum coś lub ktoś stara się nas zatrzymać... Cholera wie, jak ten cały Strielok zdołał się prześliznąć... Tak czy siak, żeby nie przedłużać - paru chłopaków szpiegowało dla mnie wojskowych w okolicy. Wygląda na to, że ci z Instytutu Agroprom do czegoś się dokopali. Do czegoś ważnego. Przypuszczam, że ma to związek z centrum Zony. Cokolwiek by to było, trzymają to gdzieś na drugim piętrze Instytutu. A nam by się to coś przydało. Kapujesz?</text>
+		<text>Jesteś konkretnym facetem, a my potrzebujemy takich jak Ty. Razem z kilkoma handlarzami prowadzimy drobne badania. Chcemy otworzyć drogę na północ, do centrum Zony. Ale blisko centrum coś lub ktoś stara się nas zatrzymać... Cholera wie, jak ten cały Strielok zdołał się prześliznąć... Tak czy siak, żeby nie przedłużać - paru chłopaków szpiegowało dla mnie wojskowych w okolicy. Wygląda na to, że Ci z Instytutu Agroprom do czegoś się dokopali. Do czegoś ważnego. Przypuszczam, że ma to związek z centrum Zony. Cokolwiek by to było, trzymają to gdzieś na drugim piętrze Instytutu. A nam by się to coś przydało. Kapujesz?</text>
 	</string>
 	<string id="escape_trader_jobs_611111">
 		<text>Chyba tak.</text>
@@ -460,7 +460,7 @@
 		<text>Prześlę ci współrzędne i wszystkie potrzebne dane na PDA. Dobra, idziesz na pólnoc przez wysypisko i potem skręcasz na zachód. Po paru kilometrach dochodzisz do instytutu. Uważaj, poziom promieniowania na wysypisku jest dość kozacki, więc lepiej kup u mnie leki przeciwpromienne albo wódę. Powodzenia!</text>
 	</string>
 	<string id="escape_trader_start_dialog_111">
-		<text>Mam dla ciebie robotę, Striełok... Chcę, żebyś odszukał stalkera zwanego Żwawym - miał przy sobie pewne bardzo ważne informacje. Wcięło go gdzieś w okolicy mostu. Znajdź go. Żywy, martwy - bez znaczenia. Liczy się jego pendrive z danymi. Odwiedź Wilka tu w obozie i wypytaj go. Na pewno wie, gdzie może być ten koleś.</text>
+		<text>Mam dla Ciebie robotę, Striełok... Chcę, żebyś odszukał stalkera zwanego Żwawym - miał przy sobie pewne bardzo ważne informacje. Wcięło go gdzieś w okolicy mostu. Znajdź go. Żywy, martwy - bez znaczenia. Liczy się jego pendrive z danymi. Odwiedź Wilka tu w obozie i wypytaj go. Na pewno wie, gdzie może być ten koleś.</text>
 	</string>
 	<string id="escape_trader_start_dialog_1111">
 		<text>To wszystko?</text>
@@ -469,7 +469,7 @@
 		<text>Witaj Striełok.Jakie wieści mi przynosisz?</text>
 	</string>
 	<string id="escape_trader_start_dialog_181">
-		<text>Co ty tu robisz, Striełok? Kazałem ci znaleźć Żwawego!</text>
+		<text>Co Ty tu robisz, Striełok? Kazałem Ci znaleźć Żwawego!</text>
 	</string>
 	<string id="escape_trader_start_dialog_191">
 		<text>Czyli wpadłeś do X18, tak? Masz dokumenty?</text>
@@ -478,10 +478,10 @@
 		<text>Tak. To one.</text>
 	</string>
 	<string id="escape_trader_start_dialog_19111">
-		<text>No, no, no... rozumiem... Coś takiego, kto by pomyślał?! Nikt by mi nie uwierzył! Hm... Taa... O! No spójrz tylko! W życiu bym się tego nie spodziewał... nie za dobrze... No nic, weź je i zanieś Barmanowi. Aha, jestem ci coś winny za fatygę.</text>
+		<text>No, no, no... rozumiem... Coś takiego, kto by pomyślał?! Nikt by mi nie uwierzył! Hm... Taa... O! No spójrz tylko! W życiu bym się tego nie spodziewał... nie za dobrze... No nic, weź je i zanieś Barmanowi. Aha, jestem Ci coś winny za fatygę.</text>
 	</string>
 	<string id="escape_trader_start_dialog_199">
-		<text>Czekaj. Weź ten pistolet i amunicję. Bez broni w Zonie nie przetrwasz dwóch sekund! Tak przy okazji - jak cię tu przywieźli, miałeś przy sobie nóż. Zabrałem ci go, na wypadek gdybyś miał coś nie tak z głową. Wydajesz się zdrowy, więc proszę.</text>
+		<text>Czekaj. Weź ten pistolet i amunicję. Bez broni w Zonie nie przetrwasz dwóch sekund! Tak przy okazji - jak cię tu przywieźli, miałeś przy sobie nóż. Zabrałem Ci go, na wypadek gdybyś miał coś nie tak z głową. Wydajesz się zdrowy, więc proszę.</text>
 	</string>
 	<string id="escape_trader_start_dialog_1999">
 		<text>Dziękuję.</text>
@@ -493,16 +493,16 @@
 		<text>Witaj Striełok! Nie myślałem że cię jeszcze zobaczę</text>
 	</string>
 	<string id="escape_trader_start_dialog_300">
-		<text>Witaj, Striełok! Idealne wyczucie czasu, mam dla ciebie jedno małe zlecenie.</text>
+		<text>Witaj, Striełok! Idealne wyczucie czasu, mam dla Ciebie jedno małe zlecenie.</text>
 	</string>
 	<string id="escape_trader_start_dialog_31">
 		<text>Wojskowi z Prypeci mnie wyciągnęli .</text>
 	</string>
 	<string id="escape_trader_start_dialog_32">
-		<text>Problem tu mam jeden z tobą, Sidorowicz</text>
+		<text>Problem tu mam jeden z Tobą, Sidorowicz</text>
 	</string>
 	<string id="escape_trader_start_dialog_321">
-		<text>Mam dla ciebie robotę, Striełok.. Chcę, żebyś odszukał stalkera zwanego Żwawym - miał przy sobie pewne bardzo ważne informacje. Wcięło go gdzieś w okolicy mostu. Znajdź go. Żywy, martwy - bez znaczenia. Liczy się jego pendrive z danymi. Odwiedź Wilka tu w obozie i wypytaj go. Na pewno wie, gdzie może być ten koleś</text>
+		<text>Mam dla Ciebie robotę, Striełok.. Chcę, żebyś odszukał stalkera zwanego Żwawym - miał przy sobie pewne bardzo ważne informacje. Wcięło go gdzieś w okolicy mostu. Znajdź go. Żywy, martwy - bez znaczenia. Liczy się jego pendrive z danymi. Odwiedź Wilka tu w obozie i wypytaj go. Na pewno wie, gdzie może być ten koleś</text>
 	</string>
 	<string id="escape_trader_start_dialog_3211">
 		<text>Mów dalej.</text>
@@ -517,7 +517,7 @@
 		<text>Cześć, Striełok. Cieszę się, że żyjesz.</text>
 	</string>
 	<string id="escape_trader_start_dialog_5">
-		<text>Witam cię, Striełok! Udało ci się?</text>
+		<text>Witam cię, Striełok! Udało Ci się?</text>
 	</string>
 	<string id="escape_trader_start_dialog_51">
 		<text>Zadanie wykonane. Tu masz artefakt.</text>
@@ -565,7 +565,7 @@
 		<text>No to dopóki mi go nie przyniesiesz, nie mamy o czym gadać. Kapujesz?</text>
 	</string>
 	<string id="escape_trader_start_dialog_6">
-		<text>Powiedziałem ci już wszystko, Striełok. Zjeżdżaj stąd!</text>
+		<text>Powiedziałem Ci już wszystko, Striełok. Zjeżdżaj stąd!</text>
 	</string>
 	<string id="escape_trader_start_dialog_661">
 		<text>Jak tam, Striełok? Jakieś nowinki?</text>
@@ -598,7 +598,7 @@
 		<text>A co jest takiego niebezpiecznego w tym "innym świecie"?</text>
 	</string>
 	<string id="escape_trader_talk_info_3111">
-		<text>Hm... Nic takiego poza tym, że w każdej chwili możesz wykitować, nie wiedząc, co cię rąbnęło. Kulka od durnego żołnierza to najmniejszy z twoich problemów, chociaż fakt jest taki, że ostatnio sporo wojska tam ściągnęli. Śmierć od kuli to zresztą najłagodniejszy sposób na zejście w Zonie. Anomalie - to jest coś dla ciebie... Zginąć w anomalii to coś potwornego. Nawet mutanty starają się ich unikać. A właśnie, mutanty. "Dzieci Zony" to kolejny z problemów, więc bez broni się nigdzie nie ruszaj. A jak chcesz się dowiedzieć czegoś o reszcie zagrożeń, popytaj innych stalkerów.</text>
+		<text>Hm... Nic takiego poza tym, że w każdej chwili możesz wykitować, nie wiedząc, co cię rąbnęło. Kulka od durnego żołnierza to najmniejszy z twoich problemów, chociaż fakt jest taki, że ostatnio sporo wojska tam ściągnęli. Śmierć od kuli to zresztą najłagodniejszy sposób na zejście w Zonie. Anomalie - to jest coś dla Ciebie... Zginąć w anomalii to coś potwornego. Nawet mutanty starają się ich unikać. A właśnie, mutanty. "Dzieci Zony" to kolejny z problemów, więc bez broni się nigdzie nie ruszaj. A jak chcesz się dowiedzieć czegoś o reszcie zagrożeń, popytaj innych stalkerów.</text>
 	</string>
 	<string id="escape_trader_talk_info_312">
 		<text>Jak się tu można wzbogacić?</text>
@@ -616,7 +616,7 @@
 		<text>Wiesz, co się ze mną stało?</text>
 	</string>
 	<string id="escape_trader_talk_info_41">
-		<text>A co to za pytanie, stary? Widzisz, to jest jakaś mętna sprawa... Znaleźli cię w "Trupiarce", to taka... jakby ciężarówka-karawan, rozumiesz? Co pewien czas te ciężarówki przyjeżdżają z centrum Zony wypełnione zwłokami. Nikt nie wie, dokąd jadą. No i jedna z nich w coś wjechała. I to jest właśnie najbardziej niezwykłe. Już wcześniej znajdowaliśmy zepsute "Trupiarki", ale nikt nigdy nie wyszedł z nich żywy. Przykro mi, brachu, ale bardziej ci już nie dam rady pomóc. Reszty musisz się sam dowiedzieć.</text>
+		<text>A co to za pytanie, stary? Widzisz, to jest jakaś mętna sprawa... Znaleźli cię w "Trupiarce", to taka... jakby ciężarówka-karawan, rozumiesz? Co pewien czas te ciężarówki przyjeżdżają z centrum Zony wypełnione zwłokami. Nikt nie wie, dokąd jadą. No i jedna z nich w coś wjechała. I to jest właśnie najbardziej niezwykłe. Już wcześniej znajdowaliśmy zepsute "Trupiarki", ale nikt nigdy nie wyszedł z nich żywy. Przykro mi, brachu, ale bardziej Ci już nie dam rady pomóc. Reszty musisz się sam dowiedzieć.</text>
 	</string>
 	<string id="escape_trader_talk_info_5">
 		<text>Kim jest Strielok?</text>
@@ -709,7 +709,7 @@
 		<text>Trzymaj.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_21">
-		<text>Dzięki, przyjacielu. Jeszcze chwila i... Mam wobec ciebie dług.</text>
+		<text>Dzięki, przyjacielu. Jeszcze chwila i... Mam wobec Ciebie dług.</text>
 	</string>
 	<string id="tutorial_wounded_give_medkit_211">
 		<text>Co się stało, do cholery?!</text>

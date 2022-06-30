@@ -47,7 +47,7 @@
 		<text>Sam powiedzia³eœ - szajka.</text>
 	</string>
 	<string id="new_barman_dialog_15">
-		<text>Aaa, ja tak po ojcowsku. Nie ma w¹tpliwoœci, ch³opaki s¹ w porz¹dku. Twardzi, ale porz¹dni. Nazywaj¹ siebie Poszukiwaczami. Zaginionych bez wieœci, na proœbê krewnych, szukaj¹ w Zonie. Prawie za darmo.</text>
+		<text>Aaa, ja tak po ojcowsku. Nie ma w¹tpliwoœci - ch³opaki s¹ w porz¹dku. Twardzi, ale porz¹dni. Nazywaj¹ siebie Poszukiwaczami. Na proœby krewnych szukaja zaginionych bez wieœci. Tu w Zonie. Prawie za darmo.</text>
 	</string>
 	<string id="new_barman_dialog_16">
 		<text>Dobra. Pójdê pogadaæ sobie z tym Merkiem.</text>
@@ -57,16 +57,16 @@
 		<text>Witaj! Ty jesteœ z grupy Poszukiwaczy?</text>
 	</string>
 	<string id="sl_dialog_1">
-		<text>A ty kto taki i czego tu szukasz?</text>
+		<text>A Ty kto taki i czego tu szukasz?</text>
 	</string>
 	<string id="sl_dialog_2">
-		<text>Coœ ty taki gburowaty? Zw¹ mnie Strie³ok, szukam Merka, ludzie mówili, ¿e tu go mo¿na znaleŸæ.</text>
+		<text>Coœ Ty taki gburowaty? Zw¹ mnie Strie³ok, szukam Merka. Ludzie mówili, ¿e tu go mo¿na znaleŸæ.</text>
 	</string>
 	<string id="sl_dialog_3">
-		<text>Strie³ok powiadasz? S³ysza³em, s³ysza³em. A do czego ci Merk potrzebny?</text>
+		<text>Strie³ok powiadasz? S³ysza³em, s³ysza³em... A do czego Ci Merk potrzebny?</text>
 	</string>
 	<string id="sl_dialog_4">
-		<text>Mówili, ¿e na Jantarze by³, jak siê tam Powinnoœæ z Wolnoœci¹ star³a. K³amali?</text>
+		<text>Mówili, ¿e na Jantarze by³ jak siê tam Powinnoœæ z Wolnoœci¹ star³a. K³amali?</text>
 	</string>
 	<string id="sl_dialog_5">
 		<text>K³amali.</text>
@@ -85,7 +85,7 @@
 		<text>Witaj stalkerze! Nie widzia³eœ gdzieœ Merka?</text>
 	</string>
 	<string id="tzar2_dialog_1">
-		<text>Spadaj braciszku, nie dla ciebie on.</text>
+		<text>Spadaj braciszku, nie dla Ciebie on.</text>
 	</string>
 	<string id="tzar2_dialog_2">
 		<text>Interes mam do niego.</text>
@@ -101,7 +101,7 @@
 		<text>Jak leci Sania? Gdzie wasz dowódca?</text>
 	</string>
 	<string id="tzar1_dialog_1">
-		<text>PrzyjdŸ póŸniej, gdzieœ za rok</text>
+		<text>PrzyjdŸ póŸniej, gdzieœ za rok.</text>
 	</string>
 	<string id="tzar1_dialog_2">
 		<text>Co z was wszystkich za gbury?</text>
@@ -111,38 +111,38 @@
 		<text>Ty jesteœ Andriej Cze?</text>
 	</string>
 	<string id="andry_dialog_1">
-		<text>Tak, tak siê nazywam. A ty to kto?</text>
+		<text>Tak, tak siê nazywam. A Ty to kto?</text>
 	</string>
 	<string id="andry_dialog_2">
 		<text>Strie³ok. Szukam Merka. Gdzie go znajdê?</text>
 	</string>
 	<string id="andry_dialog_3">
-		<text>A po drodze tu go nie spotka³eœ? Dziwne. S³uchaj Strie³ok, ja ci tylko dobrze radzê, spotkasz Merka - nie stawiaj mu, ju¿ drugi dzieñ jak chleje wódê, rozebra³o go zwyczajnie, jak ma³¹ dziewczynkê.</text>
+		<text>A po drodze tu go nie spotka³eœ? Dziwne. S³uchaj Strie³ok, ja Ci tylko dobrze radzê, spotkasz Merka - nie stawiaj mu. Ju¿ drugi dzieñ jak chleje wódê, rozebra³o go zwyczajnie, jak ma³¹ dziewczynkê.</text>
 	</string>
 	<string id="andry_dialog_4">
 		<text>A czemu on tak? Sta³o siê coœ?</text>
 	</string>
 	<string id="andry_dialog_5">
-		<text>Z nim zawsze siê coœ dzieje.Taki on ju¿ pokrêcony. Tylko mu nie stawiaj!</text>
+		<text>Z nim zawsze siê coœ dzieje. Taki jest ju¿ pokrêcony. Tylko mu nie stawiaj!</text>
 	</string>
 	<string id="andry_dialog_6">
 		<text>Postaram siê.</text>
 	</string>
 
 	<string id="mercul_dialog_0">
-		<text>No, dziêki Bogu ciê znalaz³em. Witaj Timosza!</text>
+		<text>No, dziêki Bogu Ciê znalaz³em. Witaj Timosza!</text>
 	</string>
 	<string id="mercul_dialog_1">
-		<text>Witaj Strie³ok. S³awik mówi³ mi, ¿e mnie szukasz. Wiem dlaczego, ale nic ci nie powiem. Dopóki nie postawisz mi kolejki.</text>
+		<text>Witaj Strie³ok. S³awik mówi³ mi, ¿e mnie szukasz. Wiem dlaczego, ale nic Ci nie powiem. Dopóki nie postawisz mi kolejki.</text>
 	</string>
 	<string id="mercul_dialog_2">
-		<text>Twoi przyjaciele prosili, by ci wódki nie dawaæ .</text>
+		<text>Twoi przyjaciele prosili, ¿eby wódki Ci nie dawaæ.</text>
 	</string>
 	<string id="mercul_dialog_3">
-		<text>No. Tu nikt nie stawia. Nawet Barman tylko dowcipkuje o w¹trobie. Niby, ³yknij raz mineralnej, zadziw swoj¹ w¹trobê. Co ja nie proponowa³em za sto gram - nie i ju¿! A ja jestem chory, rozumiesz?</text>
+		<text>No. Tu nikt nie stawia. Nawet Barman tylko dowcipkuje o w¹trobie. Mówi ""³yknij raz mineralnej - zadziw swoj¹ w¹trobê. Co ja nie proponowa³em za sto gram - nie i ju¿! A ja jestem chory, rozumiesz?</text>
 	</string>
 	<string id="mercul_dialog_4">
-		<text>Dobrze, postawiê ci flaszkê.</text>
+		<text>Dobrze, postawiê Ci flaszkê.</text>
 	</string>
 	<string id="mercul_dialog_5">
 		<text>Sam piæ nie bêdê. Nalej i sobie. Sobie mo¿esz mniej.</text>
@@ -157,7 +157,7 @@
 		<text>Poszukiwacze. Barman mówi³, ¿e wy ludzi ratujecie?</text>
 	</string>
 	<string id="mercul_dialog_9">
-		<text>To zale¿y. Czasami kogoœ uratujemy. Czêœciej rodzinie rzeczy zaginionego oddajemy. Zona. No, coœ tak miêdzy pierwszym a drugim...</text>
+		<text>To zale¿y. Czasami kogoœ uratujemy. Czêœciej rodzinie rzeczy zaginionego oddajemy... Zona... No, coœ tak miêdzy pierwszym a drugim...</text>
 	</string>
 	<string id="mercul_dialog_10">
 		<text>...jeszcze trochê zosta³o. Dalej, za Zonê, do diab³a z ni¹!</text>
@@ -169,13 +169,13 @@
 		<text>Parê dni temu by³eœ ze sw¹ grup¹ na Jantarze.</text>
 	</string>
 	<string id="mercul_dialog_13">
-		<text>Byliœmy tam. I wiem o co zaraz zapytasz. Ogólnie to tak, trzeciego dnia przeszliœmy na Jantar od strony... W sumie nie jest wa¿ne, z której strony przyszliœmy. Ch³opaki zeszli do laboratorium X16, ja ukry³em siê przy wejœciu i obserwowa³em obóz przez lornetkê, cholera wie co sojusznikom do ³bów strzeli. Przez pó³tora godziny dwa snorki widzia³em, i nagle zaczê³o siê.... Ty nalewaj, zasn¹³eœ czy co?</text>
+		<text>Byliœmy tam. I wiem o co zaraz zapytasz. Ogólnie to tak, trzeciego dnia przeszliœmy na Jantar od strony... W sumie nie jest wa¿ne, z której strony przyszliœmy. Ch³opaki zeszli do laboratorium X16, ja ukry³em siê przy wejœciu i obserwowa³em obóz przez lornetkê, cholera wie co sojusznikom do ³bów strzeli. Przez pó³tora godziny dwa snorki widzia³em, i nagle zaczê³o siê.... Ty! nalewaj, zasn¹³eœ czy co?</text>
 	</string>
 	<string id="mercul_dialog_14">
 		<text>Dalej! Za bractwo stalkerów!</text>
 	</string>
 	<string id="mercul_dialog_15">
-		<text>Taa... zaczê³o siê. Najpierw powia³o niesamowitym ch³odem, œciemni³o siê, w³¹czy³em noktowizor - ni cholery! Ledwo - ledwo co widaæ. S³yszê tylko - jak zawy³o, zajêcza³o, zazgrzyta³o zêbami, ale nie uszami s³yszê, a w samej g³owie. Nagle siê rozjaœni³o... Lepiej by siê nie rozjaœnia³o... Wszêdzie mutanty... Zombie, od strony bunkra syrena, helikopter siê podniós³, wali rakietami we wszystkie strony, w obozie piek³o, ze œrodka nikt nie wybiega, a huk taki jak z pola bitwy. Dalej niewiele pamiêtam: strzela³em, potem jak nabojów zabrak³o, ci¹³em no¿em. Ucieka³em do tunelu, trzeba by³o oczywiœcie do laboratorium, ale nie myœla³em ju¿ wcale... I nagle, jak grom z jasnego nieba, si³a wybuchu wyrzuci³a mnie w bagno... Ockn¹³em siê w tunelu. Ch³opaki w pobli¿u. Nic nie widzieli. I mi nie wierzyli, dopóki na powierzchniê nie wyszliœmy. Ani jednego ¿ywego stworzenia, nawet snorków, których nic nie rusza. </text>
+		<text>Taa... zaczê³o siê. Najpierw powia³o niesamowitym ch³odem, œciemni³o siê, w³¹czy³em noktowizor - ni cholery! Ledwo - ledwo co widaæ. S³yszê tylko - jak zawy³o, zajêcza³o, zazgrzyta³o zêbami, ale nie uszami s³yszê, a w samej g³owie. Nagle siê rozjaœni³o... Lepiej by siê nie rozjaœnia³o... Wszêdzie mutanty... Zombie, od strony bunkra syrena, helikopter siê podniós³, wali rakietami we wszystkie strony, w obozie piek³o, ze œrodka nikt nie wybiega, a huk taki jak z pola bitwy. Dalej niewiele pamiêtam: strzela³em, a potem jak nabojów zabrak³o - ci¹³em no¿em. Ucieka³em do tunelu, trzeba by³o oczywiœcie do laboratorium, ale nie myœla³em ju¿ wcale... I nagle, jak grom z jasnego nieba, si³a wybuchu wyrzuci³a mnie w bagno... Ockn¹³em siê w tunelu. Ch³opaki w pobli¿u. Nic nie widzieli. I mi nie wierzyli, dopóki na powierzchniê nie wyszliœ. Ani jednego ¿ywego stworzenia! Nawet snorków, których nic nie rusza. </text>
 	</string>
 	<string id="mercul_dialog_16">
 		<text>Daj jeszcze po maluchu... Jak myœlisz, emisja?</text>
@@ -187,23 +187,23 @@
 		<text>Znaczy siê, broñ powiadasz. "WuWa".</text>
 	</string>
 	<string id="mercul_dialog_19">
-		<text>Dok³adnie tak, Strie³ok. Wunderwaffe. Od kiedy ty takie s³owa znasz?</text>
+		<text>Dok³adnie tak, Strie³ok. Wunderwaffe. Od kiedy Ty takie s³owa znasz?</text>
 	</string>
 	<string id="mercul_dialog_20">
-		<text>Nie pamiêtam. S³uchaj Merk, Barman zarekomendowa³ wasz¹ grupê jako porz¹dn¹ i szanowan¹ w ca³ej Zonie. Jak coœ, to pomo¿ecie siê z t¹ "wuw¹" rozprawiæ?</text>
+		<text>Nie pamiêtam. S³uchaj Merk, Barman zarekomendowa³ wasz¹ grupê jako porz¹dn¹ i szanowan¹ w ca³ej Zonie. Jak coœ, to pomo¿ecie mi siê z t¹ "Wuw¹" rozprawiæ?</text>
 	</string>
 	<string id="mercul_dialog_21">
 		<text>W zasadzie niczego siê nie bojê, z wyj¹tkiem g³odówki. Ale co do pomocy rozmawiaj ze S³awikiem - on u nas za starszego.</text>
 	</string>
 	<string id="mercul_dialog_22">
-		<text>Dziêkujê ci za rozmowê. Powodzenia stalkerze!</text>
+		<text>Dziêkujê Ci za rozmowê. Powodzenia stalkerze!</text>
 	</string>
 
 	<string id="cap_yar_dialog_0">
 		<text>Kapitanie, ja muszê siê st¹d wynieœæ, i tak ju¿ ponad rok siedzê w Zonie.</text>
 	</string>
 	<string id="cap_yar_dialog_1">
-		<text>Obiecaliœmy pomóc - pomo¿emy. ZnaleŸliœmy nowe przejœcie. Rozpoznamy i przeprawimy ciê na Wielk¹ Ziemiê.</text>
+		<text>Obiecaliœmy pomóc - pomo¿emy. ZnaleŸliœmy nowe przejœcie. Rozpoznamy i przeprawimy Ciê na Wielk¹ Ziemiê.</text>
 	</string>
 	<string id="cap_yar_dialog_2">
 		<text>D³ugo bêdziecie rozpoznawaæ?</text>
@@ -212,7 +212,7 @@
 		<text>A to ju¿ zale¿y jak pójdzie. Trzy do piêciu dni.</text>
 	</string>
 	<string id="cap_yar_dialog_4">
-		<text>No có¿, to mnie urz¹dza. W koñcu siê wyœpiê.</text>
+		<text>No có¿... to mnie urz¹dza. W koñcu siê wyœpiê.</text>
 	</string>
 	<string id="cap_yar_dialog_5">
 		<text>Tak w³aœnie zrób. Jak to mówi¹: ¿o³nierz œpi - s³u¿ba leci.</text>
@@ -228,31 +228,31 @@
 		<text>Nazywam siê Strie³ok.</text>
 	</string>
 	<string id="new_sid_dialog_3">
-		<text>Ha! Znaczy pamiêtasz? Plon, podejdŸ no, na mnie tu ju¿ naostrzon¹ brzytwê szykuj¹.</text>
+		<text>Ha! Znaczy pamiêtasz? Ej no podejdŸ, na mnie tu ju¿ naostrzon¹ brzytwê szykuj¹.</text>
 	</string>
 	<string id="new_sid_dialog_4">
 		<text>Jesteœmy sami - i co teraz myœlisz?</text>
 	</string>
 	<string id="new_sid_dialog_5">
-		<text>A myœlê sobie Strie³ok, ¿e nic ci nie jestem winny. Có¿, wykorzysta³em ciê, ale te¿ uratowa³em ci ¿ycie.</text>
+		<text>A myœlê sobie Strie³ok, ¿e nic Ci nie jestem winny. Có¿, wykorzysta³em Ciê, ale te¿ uratowa³em Ci ¿ycie.</text>
 	</string>
 	<string id="new_sid_dialog_6">
 		<text>Czemu od razu nie powiedzia³eœ, ¿e Strie³ok to ja?</text>
 	</string>
 	<string id="new_sid_dialog_7">
-		<text>No co ty, Strie³ok! Opowiem ci kim jesteœ, czemu znalaz³eœ siê na Kordonie pó³martwy i bez mózgu, ¿e pó³ Zony na twoj¹ g³owê poluje - poszed³byœ jeszcze raz do serca Zony?</text>
+		<text>No co Ty, Strie³ok! Powiedzia³ bym Ci kim jesteœ, czemu znalaz³eœ siê na Kordonie pó³martwy i bez mózgu, ¿e pó³ Zony na Twoj¹ g³owê poluje - poszed³byœ jeszcze raz do serca Zony?</text>
 	</string>
 	<string id="new_sid_dialog_8">
 		<text>Nie wiem.</text>
 	</string>
 	<string id="new_sid_dialog_9">
-		<text>O to w³aœnie chodzi. Mia³eœ tu zostaæ bez pieniêdzy, bez przesz³oœci. Tego ci by³o trzeba?</text>
+		<text>O to w³aœnie chodzi. Mia³eœ tu zostaæ bez pieniêdzy, bez przesz³oœci. Tego Ci by³o trzeba?</text>
 	</string>
 	<string id="new_sid_dialog_10">
-		<text>Taa... Wiêc uwa¿asz - wszystko jest w porz¹dku?</text>
+		<text>Taa... Wiêc uwa¿asz ¿e wszystko jest w porz¹dku?</text>
 	</string>
 	<string id="new_sid_dialog_11">
-		<text>Uwa¿am ¿e TAK! Przywróci³em ciê do ¿ycia, ty przetar³eœ szlak do centrum Zony. Ale, jeœli chcesz, mogê jeszcze dorzuciæ trochê szmalu. Sto kawa³ków wystarczy?</text>
+		<text>Uwa¿am ¿e TAK! Przywróci³em Ciê do ¿ycia, Ty przetar³eœ szlak do centrum Zony. Ale, jeœli chcesz, mogê jeszcze dorzuciæ trochê szmalu. Sto kawa³ków wystarczy?</text>
 	</string>
 	<string id="new_sid_dialog_12">
 		<text>Dziêkujê Sidorowicz. Pieniêdzy mam doœæ.</text>
@@ -273,7 +273,7 @@
 		<text>Dobra. Wpadnij, jakby co. Udanych ³owów stalkerze.</text>
 	</string>
 	<string id="new_sid_dialog_18">
-		<text>I ty b¹dŸ zdrów Sidorowicz.</text>
+		<text>I Ty b¹dŸ zdrów Sidorowicz.</text>
 	</string>
 
 	<string id="new_wolf_dialog_0">
@@ -289,7 +289,7 @@
 		<text>Takie sprawy... To jak to by³o - na samego siebie zlecenie wzi¹³eœ? Taa... W Zonie nie takie rzeczy siê dzia³y.</text>
 	</string>
 	<string id="new_wolf_dialog_4">
-		<text>Nic ju¿ mów, Wilk. Kto jeszcze z naszych jest tutaj?</text>
+		<text>Nic nie mów... Wilk, kto jeszcze z naszych jest tutaj?</text>
 	</string>
 	<string id="new_wolf_dialog_5">
 		<text>Pietruchê pamiêtasz? Gdzieœ siê tu krêci. Tylko... Jakiœ dziwny jest ostatnio.</text>
@@ -301,10 +301,10 @@
 		<text>Widzisz Strie³ok, oni utworzyli organizacjê. Weterani Zony. Czym siê zajmuj¹ - nikt nie wie. Ale ich ludzie s¹ wszêdzie.</text>
 	</string>
 	<string id="new_wolf_dialog_8">
-		<text>Aha! Jeœli ty nie jesteœ paranoikiem - to jeszcze nie znaczy ¿e ONI ciê nie œledz¹!</text>
+		<text>Aha! Jeœli Ty nie jesteœ paranoikiem - to jeszcze nie znaczy ¿e ONI Ciê nie œledz¹!</text>
 	</string>
 	<string id="new_wolf_dialog_9">
-		<text>Œmiej siê Strie³ok. Powiem ci, ¿e w Zonie coœ siê szykuje. Widzia³eœ ile techniki wojsko naœci¹ga³o? Jakby do wojny siê gotowali. Pe³no podejrzanych typów, ³owców. Ciekawe na kogo bêd¹ polowaæ?</text>
+		<text>Œmiej siê Strie³ok. Powiem Ci, ¿e w Zonie coœ siê szykuje. Widzia³eœ ile techniki wojsko naœci¹ga³o? Jakby do wojny siê gotowali. Pe³no podejrzanych typów, ³owców. Ciekawe na kogo bêd¹ polowaæ?</text>
 	</string>
 	<string id="new_wolf_dialog_10">
 		<text>To ju¿ nie moja wojna.</text>
@@ -329,7 +329,7 @@
 		<text>Pamiêtasz jak we czterech ATP braciakom odbiliœmy?</text>
 	</string>
 	<string id="new_petr_dialog_3">
-		<text>Naznaczony? Nie pozna³em ciê.</text>
+		<text>Naznaczony? Nie pozna³em Ciê.</text>
 	</string>
 	<string id="new_petr_dialog_4">
 		<text>Nazywam siê Strie³ok.</text>
@@ -338,7 +338,7 @@
 		<text>Strie³ok? No, cholera, nieczêsto ¿yw¹ legendê Zony mo¿na zobaczyæ. S³uchaj, a mo¿e wst¹pisz do nas, do Weteranów Zony?</text>
 	</string>
 	<string id="new_petr_dialog_6">
-		<text>Nie, dziêkujê, ja zawsze sam dla siebie.</text>
+		<text>Nie, dziêkujê. Ja zawsze sam dla siebie.</text>
 	</string>
 	<string id="new_petr_dialog_7">
 		<text>No, jak siê namyœlisz - znajdziesz mnie tutaj. Powodzenia Strie³ok.</text>
@@ -351,7 +351,7 @@
 		<text>A ja s³ysza³em - major KuŸniecow zabity w boju.</text>
 	</string>
 	<string id="new_kuz_dialog_1">
-		<text>Mój imiennik. A ty, zdaje siê - Strie³ok?</text>
+		<text>Mój imiennik. A Ty, zdaje siê - Strie³ok?</text>
 	</string>
 	<string id="new_kuz_dialog_2">
 		<text>Strie³ok. Mogê przejœæ?</text>
@@ -392,13 +392,13 @@
 		<text>Jeœli trzeba kogoœ sprz¹tn¹æ - to nie do mnie.</text>
 	</string>
 	<string id="ask_yar_3">
-		<text>Nic z tych rzeczy, sami kogo zechcesz uprz¹tniemy... do piwnicy. Towar trzeba by przerzuciæ do naszego obozu na Jantarze.</text>
+		<text>Nic z tych rzeczy, sami kogo zechcemy to sprz¹tniemy... do piwnicy. Towar trzeba by przerzuciæ do naszego obozu na Jantarze.</text>
 	</string>
 	<string id="ask_yar_4">
-		<text>Tak daleko? Na piechotê? Myœlisz, ¿e z drzewa spad³em?</text>
+		<text>Tak daleko. Na piechotê? Myœlisz, ¿e z drzewa spad³em?</text>
 	</string>
 	<string id="ask_yar_5">
-		<text>Dlaczego na piechotê? Polecisz helikopterem. Radiostacje, rozumiesz, na Jantarze zamilk³y. Rozejrzyj siê tam dok³adnie, jesteœ dobrym stalkerem. Czekaj.. pó³ oddzia³u z tob¹ pójdzie. Wyposa¿enie ci dam, automat, pancerz. No to jak, pójdziesz?</text>
+		<text>Dlaczego na piechotê? Polecisz helikopterem. Rozumiesz, radiostacje na Jantarze zamilk³y. Rozejrzyj siê tam dok³adnie, jesteœ dobrym stalkerem. Czekaj... pó³ oddzia³u z Tob¹ pójdzie. Wyposa¿enie Ci dam, automat, pancerz. No to jak, pójdziesz?</text>
 	</string>
 	<string id="ask_yar_6">
 		<text>No, jeœli zwiad przeprowadziæ, zawsze jestem gotowy.</text>
@@ -412,19 +412,19 @@
 		<text>Witaj Strie³ok.</text>
 	</string>
 	<string id="new_ghost_dialog_2">
-		<text>Przecie¿ widzia³em twojego trupa! Tu, w tym laboratorium!</text>
+		<text>Przecie¿ widzia³em Twojego trupa! Tu, w tym laboratorium!</text>
 	</string>
 	<string id="new_ghost_dialog_3">
-		<text>A co, wed³ug ciebie, wygl¹dam na ¿ywego?</text>
+		<text>A wed³ug Ciebie wygl¹dam na ¿ywego?</text>
 	</string>
 	<string id="new_ghost_dialog_4">
-		<text>Faktycznie - nie za bardzo.</text>
+		<text>Faktycznie... nie za bardzo.</text>
 	</string>
 	<string id="new_ghost_dialog_5">
 		<text>Zona bawi siê nami nawet po naszej œmierci.</text>
 	</string>
 	<string id="new_ghost_dialog_6">
-		<text>Taa, mogê ci jakoœ pomóc?</text>
+		<text>Taa, mogê Ci jakoœ pomóc?</text>
 	</string>
 	<string id="new_ghost_dialog_7">
 		<text>Zastrzel mnie. Ha-ha. No, ale nie wróci³eœ tu tak bez powodu, prawda?</text>
@@ -433,7 +433,7 @@
 		<text>Jaros³awkin, kapitan z posterunku wojskowego, prosi³ mnie, bym do miejscowego obozu przerzuci³ zaopatrzenie. Zaraz po przylocie wpadliœmy w zasadzkê £owców. Potem rozejrza³em siê trochê. Nikogo ¿ywego. Nawet snorków nie ma. Czy¿by £owcy tak wysprz¹tali? Ich tylko kilkunastu by³o.</text>
 	</string>
 	<string id="new_ghost_dialog_9">
-		<text>Bitwa by³a na zewn¹trz, Strie³ok, straszna bitwa. Zasadzka w któr¹ wpadliœcie, to przy tym dziecinna zabawa w wojenkê. A przedtem, kto przeciw komu - nie wiem. Potem, jak grzmotnê³o! Jakby dwieœcie ton trotylu wybuch³o. I nagle cisza.</text>
+		<text>Bitwa by³a na zewn¹trz, Strie³ok. Straszna bitwa. Zasadzka w któr¹ wpadliœcie, to przy tym dziecinna zabawa w wojenkê. A przedtem, kto przeciw komu - nie wiem. Potem, jak grzmotnê³o! Jakby dwieœcie ton trotylu wybuch³o. I nagle cisza.</text>
 	</string>
 	<string id="new_ghost_dialog_10">
 		<text>Emisja?</text>
@@ -448,7 +448,7 @@
 		<text>A sk¹d mam wiedzieæ? Mo¿e godzinê temu, a mo¿e trzysta lat ju¿ minê³o.</text>
 	</string>
 	<string id="new_ghost_dialog_14">
-		<text>No nie. Mo¿e ty jesteœ tylko przywidzeniem!</text>
+		<text>Fakt. Mo¿e Ty jesteœ tylko przywidzeniem!</text>
 	</string>
 	<string id="new_ghost_dialog_15">
 		<text>No tak... Zagadka Zony. W po³owie trup, a w po³owie Duch.</text>
@@ -460,7 +460,7 @@
 		<text>Drobiazg. Poszperaj tu dooko³a, mo¿e coœ znajdziesz. A jak znajdziesz - przyjdŸ, razem siê zastanowimy. K³a nie spotka³eœ?</text>
 	</string>
 	<string id="new_ghost_dialog_18">
-		<text>Tylko twojego Pinocheta. A Kie³... Co... On te¿?...</text>
+		<text>Tylko Twojego Pinocheta. A Kie³... Co... On te¿?...</text>
 	</string>
 	<string id="new_ghost_dialog_19">
 		<text>W Zonie nie ma nic niemo¿liwego. Dobra, bêdzie coœ nowego - przychodŸ.</text>
@@ -470,10 +470,10 @@
 	</string>
 
 	<string id="ghost_ob_poi_0">
-		<text>Wiêc obejrza³em sobie te trupy. Oni, jakby ci to powiedzieæ, po prostu umarli. Nie ma ran ani krwi. Po prostu padli na ziemiê i umarli. Kontrolera spotka³em, jeszcze mnie g³owa boli. Ale to nie jego robota, niedawno siê pojawi³, w bunkrze siê zaczai³, nie wyci¹gniesz go. Jeszcze ³owców widzia³em. Ostrzelali mnie. Te¿ w Zonie nieobyci.</text>
+		<text>Wiêc obejrza³em sobie te trupy. Oni, jakby Ci to powiedzieæ, po prostu umarli. Nie ma ran ani krwi. Po prostu padli na ziemiê i umarli. Kontrolera spotka³em, jeszcze mnie g³owa boli. Ale to nie jego robota, niedawno siê pojawi³, w bunkrze siê zaczai³, nie wyci¹gniesz go. Jeszcze ³owców widzia³em. Ostrzelali mnie. Jacyœ w Zonie nieobyci.</text>
 	</string>
 	<string id="ghost_ob_poi_1">
-		<text>Ale s³ysza³em w tym dniu odg³osy walki na powierzchni. Pamiêtam! W czasie bitwy w laboratorium by³a grupa stalkerów. Na powierzchniê wyszli ju¿ po bitwie i fina³owym wybuchu. Mo¿e ktoœ z nich coœ wie. Nie bez powodu tu wchodzili. Popytaj ludzi - ciebie szanuj¹, mo¿e ktoœ coœ podpowie. I wpadnij, jakby co.</text>
+		<text>Ale s³ysza³em w tym dniu odg³osy walki na powierzchni. Pamiêtam! W czasie bitwy w laboratorium by³a grupa stalkerów. Na powierzchniê wyszli ju¿ po bitwie i fina³owym wybuchu. Mo¿e ktoœ z nich coœ wie. Nie bez powodu tu wchodzili. Popytaj ludzi - Ciebie szanuj¹, mo¿e ktoœ coœ podpowie. I wpadnij, jakby co.</text>
 	</string>
 	<string id="ghost_ob_poi_2">
 		<text>Dobra, spróbujê siê czegoœ dowiedzieæ.</text>
@@ -496,7 +496,7 @@
 		<text>Opuszczam was na razie. Nie pogniewacie siê?</text>
 	</string>
 	<string id="yar_chc_out_1">
-		<text>Rób co chcesz. Zdecydujesz siê wróciæ, zawsze przyjmiemy ciê z powrotem.</text>
+		<text>Rób co chcesz. Zdecydujesz siê wróciæ, zawsze przyjmiemy Ciê z powrotem.</text>
 	</string>
 	<string id="yar_chc_out_2">
 		<text>Po¿yjemy - zobaczymy.</text>
@@ -509,10 +509,10 @@
 		<text>Co - tak Ÿle jest?</text>
 	</string>
 	<string id="hil_barman_dialog1_2">
-		<text>Myœlê, ¿e tak. Rozmawia³em z Merkiem. Opowiedzia³ mi, ¿e widzia³ test jakiejœ nowej broni, "wuwa" - tak powiedzia³. Co to takiego "wuwa", mam nadziejê, ¿e wiesz.</text>
+		<text>Myœlê, ¿e tak. Rozmawia³em z Merkiem. Opowiedzia³ mi, ¿e widzia³ test jakiejœ nowej broni, "Wuwa" - tak powiedzia³. Co to takiego "Wuwa", mam nadziejê, ¿e wiesz.</text>
 	</string>
 	<string id="hil_barman_dialog1_3">
-		<text>Urodzi³em siê i wychowa³em w bardzo oczytanym kraju, Strie³ok. A Merk niczego nie pomyli³? Mo¿e to nie broñ tylko jakaœ nowa anomalia,  taki kaprys Zony?</text>
+		<text>Urodzi³em siê i wychowa³em w bardzo oczytanym kraju, Strie³ok. A Merk niczego nie pomyli³? Mo¿e to nie broñ tylko jakaœ nowa anomalia, taki kaprys Zony?</text>
 	</string>
 	<string id="hil_barman_dialog1_4">
 		<text>Diabli wiedz¹, Barman.</text>
@@ -524,14 +524,14 @@
 		<text>Przez kilka dni bêdê odpoczywa³, wojskowi obiecali mnie wyci¹gn¹æ. No, a póki tu jestem, spróbujê siê czegoœ dowiedzieæ.</text>
 	</string>
 	<string id="hil_barman_dialog1_7">
-		<text>Nigdy nie myli³em siê co do ciebie, Strie³ok. Ty - nasz cz³owiek. Bêdziesz czegoœ potrzebowa³ - pieniêdzy, wyposa¿enia, informacji - mo¿esz na mnie liczyæ.</text>
+		<text>Nigdy nie myli³em siê co do Ciebie, Strie³ok. Ty - nasz cz³owiek. Bêdziesz czegoœ potrzebowa³ - pieniêdzy, wyposa¿enia, informacji - mo¿esz na mnie liczyæ.</text>
 	</string>
 	<string id="hil_barman_dialog1_8">
 		<text>Dogadaliœmy siê.</text>
 	</string>
 
 	<string id="hil_lu_dialog1_0">
-		<text>Czeœæ £ukasz. Jest interes do ciebie.</text>
+		<text>Czeœæ £ukasz. Jest interes do Ciebie.</text>
 	</string>
 	<string id="hil_lu_dialog1_1">
 		<text>¯ywy? No, witaj Strie³ok. Z czym przychodzisz?</text>
@@ -546,13 +546,13 @@
 		<text>£ukasz - tu wszystko tak œmierdzi! Ty coœ wiesz?</text>
 	</string>
 	<string id="hil_lu_dialog1_5">
-		<text>Trochê siê domyœlam. Ale pachnie z tych domys³ów bardzo brzydko. Jak myœlisz, ile po¿yjesz jak siê nimi z tob¹ podzielê?</text>
+		<text>Trochê siê domyœlam. Ale pachnie z tych domys³ów bardzo brzydko. Jak myœlisz, ile po¿yjesz jak siê nimi z Tob¹ podzielê?</text>
 	</string>
 	<string id="hil_lu_dialog1_6">
-		<text>Straszysz mnie czy co? Uwa¿aj. W pojedynkê rozniosê twoj¹ bazê, jeœli tylko jedna lufa skieruje siê w moj¹ stronê.</text>
+		<text>Straszysz mnie czy co? Uwa¿aj. W pojedynkê rozniosê Twoj¹ bazê, jeœli tylko jedna lufa skieruje siê w moj¹ stronê.</text>
 	</string>
 	<string id="hil_lu_dialog1_7">
-		<text>Nie wymyœlaj. Ostrzegam ciê tylko. Widzia³eœ siê niedawno z Woroninem?</text>
+		<text>Nie wymyœlaj. Ostrzegam Ciê tylko. Widzia³eœ siê niedawno z Woroninem?</text>
 	</string>
 	<string id="hil_lu_dialog1_8">
 		<text>On te¿ jest w to zamieszany?</text>
@@ -568,7 +568,7 @@
 		<text>Jak siê masz, przyjacielu?</text>
 	</string>
 	<string id="hil_sckr_dialog1_1">
-		<text>Strie³ok! Sk¹d siê tu wzi¹³eœ? S³ysza³em, ¿e wojaki i kagiebiœci pomogli ci wydostaæ siê z Prypeci. ¯e do Kijowa ciê wywieŸli. Do kliniki na eksperymenty, ha-ha!</text>
+		<text>Strie³ok! Sk¹d siê tu wzi¹³eœ? S³ysza³em, ¿e wojaki i kagiebiœci pomogli Ci wydostaæ siê z Prypeci. ¯e do Kijowa Ciê wywieŸli. Do kliniki na eksperymenty, ha-ha!</text>
 	</string>
 	<string id="hil_sckr_dialog1_2">
 		<text>Wkrótce wyjadê, jeœli do¿yjê. £ukasz u siebie?</text>
@@ -581,7 +581,7 @@
 	</string>
 
 	<string id="hil_max_dialog1_0">
-		<text>Maks! Cieszê siê, ¿e ciê widzê, przyjacielu!</text>
+		<text>Maks! Cieszê siê, ¿e Ciê widzê, przyjacielu!</text>
 	</string>
 	<string id="hil_max_dialog1_1">
 		<text>Naznaczony?</text>
@@ -590,19 +590,19 @@
 		<text>Strie³ok.</text>
 	</string>
 	<string id="hil_max_dialog1_3">
-		<text>Wybacz. Jesteœ bardzo podobny do Naznaczonego. To twój brat?</text>
+		<text>Wybacz. Jesteœ bardzo podobny do Naznaczonego. To Twój brat?</text>
 	</string>
 	<string id="hil_max_dialog1_4">
 		<text>Wszyscy ludzie to bracia.</text>
 	</string>
 	<string id="hil_max_dialog1_5">
-		<text>Aha. A¿ miêdzy nimi worek pieniêdzy nie stanie.</text>
+		<text>A-no. A¿ miêdzy nimi worek pieniêdzy nie stanie.</text>
 	</string>
 	<string id="hil_max_dialog1_6">
 		<text>Czym siê martwisz, Maks?</text>
 	</string>
 	<string id="hil_max_dialog1_7">
-		<text>Dziesiêciu naszych, na kontrakcie u uczonych, na Jantarze pracowa³o. I tak ju¿ drug¹ dobê pijê i rozpamiêtujê. Rodzina rozumiesz? Te¿... Te¿ tam gdzieœ niepogrzebani le¿¹... Takie to sprawy. Mi... wybacz Strie³ok.</text>
+		<text>Dziesiêciu naszych u uczonych na kontrakcie - na Jantarze - pracowa³o. I tak ju¿ drug¹ dobê pijê i rozpamiêtujê. Rodzina rozumiesz? Te¿... Te¿ tam gdzieœ niepogrzebani le¿¹... Takie to sprawy. Mi... wybacz Strie³ok.</text>
 	</string>
 	<string id="hil_max_dialog1_8">
 		<text>A co na to £ukasz?</text>
@@ -618,7 +618,7 @@
 		<text>Du¿o zdrowia, towarzyszu generale.</text>
 	</string>
 	<string id="hil_vor_dialog1_1">
-		<text>Witaj Strie³ok. Czeka³em na ciebie. Kapitan Jaros³awkin powiadomi³ mnie o twoim powrocie. Pomog³eœ nam, szkoda, ¿e na pró¿no. Droga do elektrowni jest znów zablokowana. Wojsko szykuje szturm. Myœlê, ¿e tylko ludzie na pró¿no pogin¹.</text>
+		<text>Witaj Strie³ok. Czeka³em na Ciebie. Kapitan Jaros³awkin powiadomi³ mnie o Twoim powrocie. Pomog³eœ nam. Szkoda, ¿e na pró¿no. Droga do elektrowni jest znów zablokowana. Wojsko szykuje szturm. Myœlê, ¿e tylko ludzie na pró¿no pogin¹.</text>
 	</string>
 	<string id="hil_vor_dialog1_2">
 		<text>Wyjaœnijcie, generale.</text>
@@ -648,7 +648,7 @@
 		<text>Wyœlijcie ludzi, niech sprawdz¹.</text>
 	</string>
 	<string id="hil_vor_dialog1_11">
-		<text>A jeœli poprosi³bym ciebie? Zgodzi³byœ siê pomóc Powinnoœci?</text>
+		<text>A jeœli poprosi³bym Ciebie? Zgodzi³byœ siê pomóc Powinnoœci?</text>
 	</string>
 	<string id="hil_vor_dialog1_12">
 		<text>Tak, tylko bez d³ugów, które w Powinnoœci zawsze sp³acaj¹. S³ysza³em du¿o o tym.</text>
@@ -672,7 +672,7 @@
 		<text>No to ju¿ jest œwiñstwo, generale! Znowu?</text>
 	</string>
 	<string id="hil_vor_dialog1_19">
-		<text>Znowu. Zapamiêtaj - g³ówny u nich - Behemot. Myœlê, ¿e klucze s¹ u niego. WeŸ to - M-1000 Sztylet. Ze stopu tytanu, kaliber 0.45 - najbardziej stabilna i mordercza broñ w Zonie. Jakoœ wydaje mi siê, ¿e mo¿e ci siê przydaæ.</text>
+		<text>Znowu. Zapamiêtaj - g³ówny u nich - Behemot. Myœlê, ¿e klucze s¹ u niego. WeŸ to - M-1000 Sztylet. Ze stopu tytanu, kaliber 0.45 - najbardziej stabilna i mordercza broñ w Zonie. Jakoœ wydaje mi siê, ¿e mo¿e Ci siê przydaæ.</text>
 	</string>
 	<string id="hil_vor_dialog1_20">
 		<text>Tak. S³ysza³em o  tym M-1000, ale nigdy nie myœla³em, ¿e bêdê go trzyma³ w rêkach. Towar specjalny. No dobra, jak to mówi¹, jeœli nie wrócê - proszê zapisaæ mnie do komunistów.</text>
@@ -685,10 +685,10 @@
 		<text>Kluczy potrzebujesz? Mam je. £¹cznie za 50000 rubli.</text>
 	</string>
 	<string id="hil_osv_dialog1_2">
-		<text>S³uchaj no! Ja dopiero co z piêædziesiêciu takich gnoi jak ty za³atwi³em, a jeszcze siê nie uspokoi³em. Masz wybór - mi³osierdzie czy serce wybierasz.</text>
+		<text>S³uchaj no! Ja dopiero co z piêædziesiêciu takich gnoi jak Ty za³atwi³em, a jeszcze siê nie uspokoi³em. Masz wybór - mi³osierdzie czy serce wybierasz.</text>
 	</string>
 	<string id="hil_osv_dialog1_3">
-		<text>Po co ci to, Strie³ok. Rozumiesz, ¿ywy byœ z baru nie wyszed³. Mam dla ciebie propozycjê: pomo¿esz mi, a ja pomogê tobie.</text>
+		<text>Po co Ci to, Strie³ok. Zrozum, ¿ywy byœ z baru nie wyszed³. Mam dla Ciebie propozycjê: pomo¿esz mi, a ja pomogê Tobie.</text>
 	</string>
     <string id="hil_osv_dialog1_4">
 		<text>Czego chcesz?</text>
@@ -716,7 +716,7 @@
 		<text>Kret nie ¿yje. Przyczepi³ artefakt do pasa... i po wszystkim. Co to za œwiñstwo?!</text>
 	</string>
 	<string id="hil_osv_dialog3_1">
-		<text>A to ju¿ nie twoja sprawa, Strie³ok. Oto twoje klucze, dawaj artefakt!</text>
+		<text>A to ju¿ nie Twoja sprawa, Strie³ok. Oto Twoje klucze, dawaj artefakt!</text>
 	</string>
 	<string id="hil_osv_dialog3_2">
 		<text>Masz. Patrz by sam do trumny nie trafiæ. Chocia¿... Kreta ¿al. Ciebie nie.</text>.
@@ -726,20 +726,20 @@
 		<text>A co siê sta³o z Kablem?</text>
 	</string>
 	<string id="barman_osv_dialog_1">
-		<text>Nie wiem, Strie³ok. Grzeba³ coœ przy pasie, potem zawy³, zajêcza³, upad³ - i ju¿! Gotowy.</text>.
+		<text>Nie wiem, Strie³ok. Grzeba³ coœ przy pasie, potem zawy³, zajêcza³, upad³ - i ju¿! Sztywny.</text>.
 	</string>
 	<string id="barman_osv_dialog_2">
-		<text>"Czarn¹ Duszê" dureñ do pasa przyczepi³. Pochowacie go, Barman?</text>
+		<text>"Czarn¹ Duszê" dureñ do pasa przyczepi³. Pochowasz go, Barman?</text>
 	</string>
 	<string id="barman_osv_dialog_3">
-		<text>Stalkerzy boj¹ siê go dotykaæ. Mo¿e ty?</text>.
+		<text>Stalkerzy boj¹ siê go dotykaæ. Mo¿e Ty?</text>.
 	</string>
 	<string id="barman_osv_dialog_4">
 		<text>Nie. Jakoœ nie mam ochoty. Chocia¿... Wyniosê go na zewn¹trz.</text>.
 	</string>
 
     <string id="hil_barman_dialog2_0">
-		<text>Mam do ciebie pytanie, Barman. Co wiesz o ugrupowaniu Apokalipsa?</text>
+		<text>Mam do Ciebie pytanie, Barman. Co wiesz o ugrupowaniu Apokalipsa?</text>
 	</string>
 	<string id="hil_barman_dialog2_1">
 		<text>Apokalipsa? Hmm, nigdy o nich nie s³ysza³em. Jacyœ nowicjusze?</text>
@@ -757,7 +757,7 @@
 		<text>A mówili - wejœcie zamkniête. £gali, znaczy siê. Co jeszcze interesuj¹cego masz w tym temacie?</text>
 	</string>
 	<string id="hil_barman_dialog2_6">
-		<text>Walizkê stamt¹d przynios³em. Jak myœlisz, jeœli na razie pole¿y u ciebie, nie bêdzie problemu?</text>
+		<text>Walizkê stamt¹d przynios³em. Jak myœlisz, jeœli na razie pole¿y u Ciebie, nie bêdzie problemu?</text>
 	</string>
 	<string id="hil_barman_dialog2_7">
 		<text>Eee, Naznaczony, to jest Strie³ok... To... Ty lepiej Woroninowi to zanieœ do depozytu, tak bezpieczniej bêdzie.</text>
@@ -769,7 +769,7 @@
 		<text>No, powinnoœciowi hackerzy szybko sobie z tym poradz¹... Wybacz Strie³ok, ale ja naprawdê siê bojê trzymaæ ten pojemnik u siebie. Starzejê siê pewnie.</text>
 	</string>
 	<string id="hil_barman_dialog2_10">
-		<text>No, nie gniewam siê na ciebie, rozumiem. Pójdê do genera³a.</text>
+		<text>No, nie gniewam siê na Ciebie, rozumiem. Pójdê do genera³a.</text>
 	</string>
 
 	<string id="hil_vor_dialog2_0">
@@ -794,20 +794,20 @@
 		<text>Wiecie coœ o nich?</text>
 	</string>
 	<string id="hil_vor_dialog2_7">
-		<text>Przekazano mi, ¿e jeden stalker coœ tam plót³ w barze, niby ¿e widzia³ oddzia³ na Wysypisku, dobrze wyekwipowani, szli ukradkiem w stronê Doliny Mroku. Mo¿e to oni? Jak myœlisz?</text>
+		<text>Przekazano mi, ¿e jeden stalker coœ tam plót³ w barze, niby ¿e widzia³ oddzia³ na Wysypisku. Dobrze wyekwipowani, szli ukradkiem w stronê Doliny Mroku. Mo¿e to oni? Jak myœlisz?</text>
 	</string>
 	<string id="hil_vor_dialog2_8">
 		<text>Byæ mo¿e. Czyste bestie, od razu atakowali, nawet nie próbowali ¿ywcem wzi¹æ. Oto co od nich przynios³em. Niech popatrz¹ wasi technicy - mo¿e otworz¹?</text>
 	</string>
 	<string id="hil_vor_dialog2_9">
-		<text>Daj. Hmm, znajomy pojemnik. Dam ci znaæ jak dok³adniej obejrzê.</text>
+		<text>Daj. Hmm... znajomy pojemnik. Dam Ci znaæ jak dok³adniej obejrzê.</text>
 	</string>
 	<string id="hil_vor_dialog2_10">
 		<text>Dobrze. Bêdê czekaæ.</text>
 	</string>
 
 	<string id="hil_osv_dialog2_0">
-		<text>W mordê chcesz? To twoi przyjaciele tam na mnie czekali?</text>
+		<text>W mordê chcesz? To Twoi przyjaciele tam na mnie czekali?</text>
 	</string>
 	<string id="hil_osv_dialog2_1">
 		<text>Ja nie mam przyjació³.</text>
@@ -836,7 +836,7 @@
 		<text>Witaj dowódco!</text>
 	</string>
 	<string id="hil_apn11_dialog_1">
-		<text>A ty kim jesteœ?</text>
+		<text>A Ty kim jesteœ?</text>
 	</string>
 	<string id="hil_apn11_dialog_2">
 		<text>Zwyk³y handlarz.</text>
@@ -873,13 +873,13 @@
 	</string>
 
 	<string id="hil_reuch_dialog_0">
-		<text>Teraz sobie porozmawiamy i od twojej prawdomównoœci zale¿y czy zobaczysz dzisiaj zachód s³oñca, czy nie. Wiêc kim jesteœ?</text>
+		<text>Teraz sobie porozmawiamy i od Twojej prawdomównoœci zale¿y czy zobaczysz dzisiaj zachód s³oñca, czy nie. Wiêc kim jesteœ?</text>
 	</string>
 	<string id="hil_reuch_dialog_1">
 		<text>Doktor Remezow.</text>
 	</string>
 	<string id="hil_reuch_dialog_2">
-		<text>Nienawidzê doktorków. Ty zatrudni³eœ grupê Apokalipsa, albo to oni zatrudnili ciebie?</text>
+		<text>Nienawidzê doktorków. Ty zatrudni³eœ grupê Apokalipsa, albo to oni zatrudnili Ciebie?</text>
 	</string>
 	<string id="hil_reuch_dialog_3">
 		<text>Stalkerze, jestem prostym cz³owiekiem, co mi kazali to robi³em. Przewa¿nie odczytywa³em pomiary. Przed i po zastosowaniu PRO-66.</text>
@@ -891,13 +891,13 @@
 		<text>Maszyna zdolna do przekierowania energii Monolitu.</text>
 	</string>
 	<string id="hil_reuch_dialog_6">
-		<text>Do diab³a z tob¹! Czy ty rozumiesz, ¿e to jest straszna broñ, botaniku nieszczêsny?!</text>
+		<text>Do diab³a z Tob¹! Czy Ty rozumiesz, ¿e to jest straszna broñ, botaniku nieszczêsny?!</text>
 	</string>
 	<string id="hil_reuch_dialog_7">
 		<text>Mnie interesuje tylko teoretyczna strona tego zagadnienia.</text>
 	</string>
 	<string id="hil_reuch_dialog_8">
-		<text>Ty draniu. Ilu ludzi przez ciebie zginê³o na Jantarze. Mam nadziejê zobaczyæ twoje flaki wyp³ywaj¹ce z t³ustego brzucha.</text>
+		<text>Ty draniu. Ilu ludzi przez Ciebie zginê³o na Jantarze. Mam nadziejê zobaczyæ Twoje flaki wyp³ywaj¹ce z t³ustego brzucha.</text>
 	</string>
 	<string id="hil_reuch_dialog_9">
 		<text>Jestem zwyk³ym naukowcem! Za co?</text>
@@ -925,22 +925,22 @@
 		<text>Wiem ju¿ - Woronin da³ znaæ. W czym mogê - pomogê.</text>
 	</string>
 	<string id="hil_good_sidorych_dialog_2">
-		<text>Wymyœli³em sobie, Sidorowicz , ¿e Apokalipsa nie zaatakuje handlarza...</text>
+		<text>Wymyœli³em sobie, ¿e Apokalipsa nie zaatakuje handlarza...</text>
 	</string>
 	<string id="hil_good_sidorych_dialog_3">
-		<text>Nie s³ysza³em o nich, ale Woronin opowiada³, ¿e siê pojawili. Znaczy, mam siê o nic nie martwiæ? Dobra, dobra. W³aœciwie to problem nie tylko twój i Woronina.</text>
+		<text>Nie s³ysza³em o nich, ale Woronin opowiada³, ¿e siê pojawili. Znaczy, mam siê o nic nie martwiæ? Dobra, dobra. W³aœciwie to problem nie tylko Twój i Woronina.</text>
 	</string>
 	<string id="hil_good_sidorych_dialog_4">
 		<text>Móg³bym siê przebraæ za handlarza...</text>
 	</string>
 	<string id="hil_good_sidorych_dialog_5">
-		<text>Tak bêdzie. Ju¿ po sieci puœci³em info, ¿e pojawi³ siê nowy handlarz. M³ody i g³upi. Chce punkt na Radarze otworzyæ. To o tobie.</text>
+		<text>Dobra. Ju¿ po sieci puœci³em info, ¿e pojawi³ siê nowy handlarz. M³ody i g³upi. Chce punkt na Radarze otworzyæ. To o Tobie.</text>
 	</string>
 	<string id="hil_good_sidorych_dialog_6">
 		<text>Dziêki Sidorowicz.</text>
 	</string>
 	<string id="hil_good_sidorych_dialog_7">
-		<text>I dokumenty ci przygotowa³em. Certyfikat handlarza w Zonie. Lipa oczywiœcie, ale myœlê ¿e wystarczy. Bierz. I uwa¿aj na siebie, ³owcy pojawili siê w okolicy.</text>
+		<text>I dokumenty Ci przygotowa³em. Certyfikat handlarza w Zonie. Lipa oczywiœcie, ale myœlê ¿e wystarczy. Bierz. I uwa¿aj na siebie, ³owcy pojawili siê w okolicy.</text>
 	</string>
 	<string id="hil_good_sidorych_dialog_8">
 		<text>£owcy to nie problem. Œwietne dokumenty. No to ¿egnaj Sidorowicz. Da Bóg - spotkamy siê jeszcze!</text>
@@ -950,7 +950,7 @@
 		<text>Jak nasze sprawy, towarzyszu generale? Uda³o siê?</text>
 	</string>
 	<string id="hil_vor_dialog3_1">
-		<text>Tak, mój mechanik  otworzy³ twój pojemnik.  W œrodku by³ notebook. Z bardzo interesuj¹cymi informacjami. Ta grupa Apokalipsa, wynajê³a naukowców i prowadzi w Zonie badania broni klimatycznej.</text>
+		<text>Tak, mój mechanik otworzy³ Twój pojemnik. W œrodku by³ notebook. Z bardzo interesuj¹cymi informacjami. Ta grupa Apokalipsa, wynajê³a naukowców i prowadzi w Zonie badania broni klimatycznej.</text>
 	</string>
 	<string id="hil_vor_dialog3_2">
 		<text>Merk mia³ racjê.</text>
@@ -972,7 +972,7 @@
 		<text>Nie jest dobrze. Powiem jedno - ugrupowanie Apokalipsa - najpotê¿niejsza frakcja w Zonie na dzisiejszy dzieñ. Tylko na Radarze jest ich oko³o setki.</text>
 	</string>
 	<string id="hil_vor_dialog4_3">
-		<text>Oko³o setki? Nie mo¿e to byæ! Jak?! Czemu nikt nic nie s³ysza³ ani nie widzia³?!</text>
+		<text>Oko³o setki? Nie mo¿e byæ! Jak?! Czemu nikt nic nie s³ysza³ ani nie widzia³?!</text>
 	</string>
 	<string id="hil_vor_dialog4_4">
 		<text>Przypadkowych œwiadków nie zostawiaj¹ wœród ¿ywych. S¹ dobrze wyekwipowani, niczego im nie brakuje, w przeciwnym razie - dlaczego by napadli na handlarza?</text>
@@ -990,73 +990,73 @@
 		<text>PRO-66. Póki co, na oczy jej nie widzia³em, ale bardzo chcê zobaczyæ. Z przywi¹zan¹ do niej kostk¹ trotylu.</text>
 	</string>
 	<string id="hil_vor_dialog4_9">
-		<text>No tak. Doktor siê pojawi³. Prosi³ by ci przekazaæ, ¿ebyœ szybko siê z nim spotka³.</text>
+		<text>No tak. Doktor siê pojawi³. Prosi³ by Ci przekazaæ, ¿ebyœ szybko siê z nim spotka³.</text>
 	</string>
 	<string id="hil_vor_dialog4_10">
 		<text>Doktor?! On ¿yje?! Uciekam towarzyszu generale. Bêdzie coœ nowego - dam znaæ.</text>
 	</string>
 
 	<string id="hil_doc_dialog_0">
-		<text>Doktor! Cieszê siê, ¿e ciê widzê!</text>
+		<text>Doktor! Cieszê siê, ¿e Ciê widzê!</text>
 	</string>
 	<string id="hil_doc_dialog_1">
-		<text>Ja te¿ Strie³ok. O tobie w Zonie legendy kr¹¿¹. No, ale czasu mamy ma³o, wiêc s³uchaj. Sprzedajni naukowcy badaj¹ mo¿liwoœæ wykorzystania nietypowej energii Zony do celów wojskowych. Na razie uda³o im siê wywo³aæ lokaln¹ emisjê na Jantarze, ale to tylko pocz¹tek: Na razie maj¹ prototyp przetwornika, ma ma³¹ moc, niemniej to wystarczy³o by zamieniæ Jantar w martw¹ strefê. Nastêpny test prawdopodobnie bêdzie na Agropromie. Na jego terenie s¹ rozmieszczone trzy skanery. Sonduj¹ aktywnoœæ anomalii. Rozumiesz o czym mówiê? ZnajdŸ je i odnieœ genera³owi. Bêdzie wiedzia³ co z nimi zrobiæ. Czekaj, co tam masz? "Cordium Controlleri"? Serce Kontrolera! Czyœ ty zg³upia³, Strie³ok? Wyrzuæ je! Albo lepiej mi oddaj, odniosê je na miejsce. Ty naprawdê nie wiesz? Jeœli Serce Kontrolera straci w³aœciciela, a ty nim w ¿adnym wypadku nie jesteœ, Zona wysy³a na jego poszukiwanie t³umy kontrolerów i pijawek. Oddaj, nie igraj z Zon¹!</text>
+		<text>Ja te¿ Strie³ok. O Tobie w Zonie legendy kr¹¿¹. No, ale czasu mamy ma³o, wiêc s³uchaj. Sprzedajni naukowcy badaj¹ mo¿liwoœæ wykorzystania nietypowej energii Zony do celów wojskowych. Na razie uda³o im siê wywo³aæ lokaln¹ emisjê na Jantarze, ale to tylko pocz¹tek: Na razie maj¹ prototyp przetwornika, ma ma³¹ moc, niemniej to wystarczy³o by zamieniæ Jantar w martw¹ strefê. Nastêpny test prawdopodobnie bêdzie na Agropromie. Na jego terenie s¹ rozmieszczone trzy skanery. Sonduj¹ aktywnoœæ anomalii. Rozumiesz o czym mówiê? ZnajdŸ je i odnieœ genera³owi. Bêdzie wiedzia³ co z nimi zrobiæ. Czekaj, co tam masz? "Cordium Controlleri"? Serce Kontrolera! Czyœ Ty zg³upia³, Strie³ok? Wyrzuæ to! Albo lepiej mi oddaj, odniosê je na miejsce. Ty naprawdê nie wiesz? Jeœli Serce Kontrolera straci w³aœciciela, a Ty nim w ¿adnym wypadku nie jesteœ, Zona wysy³a na jego poszukiwanie t³umy kontrolerów i pijawek. Oddaj, nie igraj z Zon¹!</text>
 	</string>
 	<string id="hil_doc_dialog_2">
 		<text>No, a ja siê zastanawia³em, co siê dzieje? Bierz. Wracaj¹c do sprawy, co wiesz o Apokalipsie?</text>
 	</string>
 	<string id="hil_doc_dialog_3">
-		<text>Ochrona projektu. Umo¿liwili mi swobodne spotkanie z tob¹. Zrozumia³eœ ju¿ wszystko?</text>
+		<text>Ochrona projektu. Umo¿liwili mi swobodne spotkanie z Tob¹. Zrozumia³eœ ju¿ wszystko?</text>
 	</string>
 	<string id="hil_doc_dialog_4">
 		<text>Pu³apka.</text>
 	</string>
 	<string id="hil_doc_dialog_5">
-		<text>Tak Strie³ok. Sprz¹taæ za sob¹ trzeba dok³adniej. Na ciebie zaczê³o siê polowanie. Na razie tylko Apokalipsa, ale oni s¹ nowi w Zonie, wiêc nied³ugo do³¹cz¹ do nich najemnicy, bandyci, czy te¿ ³owcy. £owcy ciê wczeœniej atakowali bo maj¹ stare zlecenie "Zabiæ Strie³oka." Powróci³eœ do imienia Strie³ok, tak i oni zaczêli ciê tropiæ. No, a teraz jeszcze drugie zlecenie. Ale chcia³em siê z tob¹ spotkaæ dlatego, ¿e mam dla ciebie ustne zaproszenie na rozmowê od samego Charona.</text>
+		<text>Tak Strie³ok. Sprz¹taæ za sob¹ trzeba dok³adniej. Na Ciebie zaczê³o siê polowanie. Na razie tylko Apokalipsa, ale oni s¹ nowi w Zonie, wiêc nied³ugo do³¹cz¹ do nich najemnicy, bandyci, czy te¿ ³owcy. £owcy Ciê wczeœniej atakowali bo maj¹ stare zlecenie "Zabiæ Strie³oka." Powróci³eœ do imienia Strie³ok, to i oni zaczêli Ciê tropiæ. No, a teraz jeszcze drugie zlecenie. Ale chcia³em siê z Tob¹ spotkaæ dlatego, ¿e mam dla Ciebie ustne zaproszenie na rozmowê od samego Charona.</text>
 	</string>
 	<string id="hil_doc_dialog_6">
 		<text>Dowódcy Monolitu? Przecie¿ to wrogowie!</text>
 	</string>
 	<string id="hil_doc_dialog_7">
-		<text>Tak. Ale nie idioci i fanatycy, jakimi siê ich przedstawia. Charon proponuje tymczasowy sojusz. Wojsko, Wolnoœæ, wojskowi Stalkerzy, Powinnoœæ i Monolit. Przed spotkaniem z Charonem musisz przekonaæ dowódców tych ugrupowañ do zgody na ten sojusz. Potem mo¿esz iœæ na spotkanie z Charonem. Prypeæ w rêkach Apokalipsy, by dostaæ siê na miejsce spotkania z Charonem, bêdziesz potrzebowa³ pomocy moich ch³opców - grupy Poszukiwaczy. Kiedy wszystko bêdzie gotowe - pogadaj ze S³awikiem - on i jego oddzia³ wespr¹ twoj¹ grupê. S¹ naprawdê dobrzy - mo¿esz mi wierzyæ. O... wydaje siê, ¿e mamy goœci... Ale jesteœmy przygotowani, czy¿ nie?</text>
+		<text>Tak. Ale nie idioci i fanatycy, jakimi siê ich przedstawia. Charon proponuje tymczasowy sojusz. Wojsko, Wolnoœæ, wojskowi Stalkerzy, Powinnoœæ i Monolit. Przed spotkaniem z Charonem musisz przekonaæ dowódców tych ugrupowañ do zgody na ten sojusz. Potem mo¿esz iœæ na spotkanie z Charonem. Prypeæ w rêkach Apokalipsy, by dostaæ siê na miejsce spotkania z Charonem, bêdziesz potrzebowa³ pomocy moich ch³opców - grupy Poszukiwaczy. Kiedy wszystko bêdzie gotowe - pogadaj ze S³awikiem - on i jego oddzia³ wespr¹ Twoj¹ grupê. S¹ naprawdê dobrzy - mo¿esz mi wierzyæ. O... wydaje siê, ¿e mamy goœci... Ale jesteœmy przygotowani, czy¿ nie?</text>
 	</string>
 	<string id="hil_doc_dialog_8">
-		<text>W porz¹dku, Dok! Poci¹gnê ich za sob¹. Powodzenia!</text>
+		<text>W porz¹dku, Doktorku! Poci¹gnê ich za sob¹. Powodzenia!</text>
 	</string>
 	<string id="hil_doc_dialog_9">
 		<text>Nie. Nie oddam. Przyzwyczai³em siê ju¿ do niego... Mo¿e póŸniej... Co wiesz o Apokalipsie?</text>
 	</string>
 
 	<string id="hil_doc_dialog_dub_0">
-		<text>Doktor! Cieszê siê, ¿e ciê widzê!</text>
+		<text>Doktor! Cieszê siê, ¿e Ciê widzê!</text>
 	</string>
 	<string id="hil_doc_dialog_dub_1">
-		<text>Ja te¿ Strie³ok. O tobie w Zonie legendy kr¹¿¹. No, ale czasu mamy ma³o, wiêc s³uchaj. Sprzedajni naukowcy badaj¹ mo¿liwoœæ wykorzystania nietypowej energii Zony do celów wojskowych. Na razie uda³o im siê wywo³aæ lokaln¹ emisjê na Jantarze, ale to tylko pocz¹tek: Na razie maj¹ prototyp przetwornika, ma ma³¹ moc, niemniej to wystarczy³o by zamieniæ Jantar w martw¹ strefê. Nastêpny test prawdopodobnie bêdzie na Agropromie. Na jego terenie s¹ rozmieszczone trzy skanery. Sonduj¹ aktywnoœæ anomalii. Rozumiesz o czym mówiê? ZnajdŸ je i odnieœ genera³owi. Bêdzie wiedzia³ co z nimi zrobiæ.</text>
+		<text>Ja te¿ Strie³ok. O Tobie w Zonie legendy kr¹¿¹. No, ale czasu mamy ma³o, wiêc s³uchaj. Sprzedajni naukowcy badaj¹ mo¿liwoœæ wykorzystania nietypowej energii Zony do celów wojskowych. Na razie uda³o im siê wywo³aæ lokaln¹ emisjê na Jantarze, ale to tylko pocz¹tek: Na razie maj¹ prototyp przetwornika, ma ma³¹ moc, niemniej to wystarczy³o by zamieniæ Jantar w martw¹ strefê. Nastêpny test prawdopodobnie bêdzie na Agropromie. Na jego terenie s¹ rozmieszczone trzy skanery. Sonduj¹ aktywnoœæ anomalii. Rozumiesz o czym mówiê? ZnajdŸ je i odnieœ genera³owi. Bêdzie wiedzia³ co z nimi zrobiæ.</text>
 	</string>
 	<string id="hil_doc_dialog_dub_2">
 		<text>Wszystko jasne. A co wiesz o Apokalipsie?</text>
 	</string>
 	<string id="hil_doc_dialog_dub_3">
-		<text>Ochrona projektu. Umo¿liwili mi swobodne spotkanie z tob¹. Zrozumia³eœ ju¿ wszystko?</text>
+		<text>Ochrona projektu. Umo¿liwili mi swobodne spotkanie z Tob¹. Zrozumia³eœ ju¿ wszystko?</text>
 	</string>
 	<string id="hil_doc_dialog_dub_4">
 		<text>Pu³apka</text>
 	</string>
 	<string id="hil_doc_dialog_dub_5">
-		<text>Tak Strie³ok. Sprz¹taæ za sob¹ trzeba dok³adniej. Na ciebie zaczê³o siê polowanie. Na razie tylko Apokalipsa, ale oni s¹ nowi w Zonie, wiêc nied³ugo do³¹cz¹ do nich najemnicy, bandyci, czy te¿ ³owcy. £owcy ciê wczeœniej atakowali bo maj¹ stare zlecenie "Zabiæ Strie³oka." Powróci³eœ do imienia Strie³ok, tak i oni zaczêli ciê tropiæ. No, a teraz jeszcze drugie zlecenie. Ale chcia³em siê z tob¹ spotkaæ dlatego, ¿e mam dla ciebie ustne zaproszenie na rozmowê od samego Charona.</text>
+		<text>Tak Strie³ok. Sprz¹taæ za sob¹ trzeba dok³adniej. Na Ciebie zaczê³o siê polowanie. Na razie tylko Apokalipsa, ale oni s¹ nowi w Zonie, wiêc nied³ugo do³¹cz¹ do nich najemnicy, bandyci, czy te¿ ³owcy. £owcy ciê wczeœniej atakowali bo maj¹ stare zlecenie "Zabiæ Strie³oka." Powróci³eœ do imienia Strie³ok, to i oni zaczêli Ciê tropiæ. No, a teraz jeszcze drugie zlecenie. Ale chcia³em siê z Tob¹ spotkaæ dlatego, ¿e mam dla Ciebie ustne zaproszenie na rozmowê od samego Charona.</text>
 	</string>
 	<string id="hil_doc_dialog_dub_6">
 		<text>Dowódcy Monolitu? Przecie¿ to wrogowie!</text>
 	</string>
 	<string id="hil_doc_dialog_dub_7">
-		<text>Tak. Ale nie idioci i fanatycy, jakimi siê ich przedstawia. Charon proponuje tymczasowy sojusz. Wojsko, Wolnoœæ, wojskowi Stalkerzy, Powinnoœæ i Monolit. Przed spotkaniem z Charonem musisz przekonaæ dowódców tych ugrupowañ do zgody na ten sojusz. Potem mo¿esz iœæ na spotkanie z Charonem. Prypeæ w rêkach Apokalipsy, by dostaæ siê na miejsce spotkania z Charonem, bêdziesz potrzebowa³ pomocy moich ch³opców - grupy Poszukiwaczy. Kiedy wszystko bêdzie gotowe - pogadaj ze S³awikiem - on i jego oddzia³ wespr¹ twoj¹ grupê. S¹ naprawdê dobrzy - mo¿esz mi wierzyæ. O... wydaje siê, ¿e mamy goœci... Ale jesteœmy przygotowani, czy¿ nie?</text>
+		<text>Tak. Ale nie idioci i fanatycy, jakimi siê ich przedstawia. Charon proponuje tymczasowy sojusz. Wojsko, Wolnoœæ, wojskowi Stalkerzy, Powinnoœæ i Monolit. Przed spotkaniem z Charonem musisz przekonaæ dowódców tych ugrupowañ do zgody na ten sojusz. Potem mo¿esz iœæ na spotkanie z Charonem. Prypeæ w rêkach Apokalipsy, by dostaæ siê na miejsce spotkania z Charonem, bêdziesz potrzebowa³ pomocy moich ch³opców - grupy Poszukiwaczy. Kiedy wszystko bêdzie gotowe - pogadaj ze S³awikiem - on i jego oddzia³ wespr¹ Twoj¹ grupê. S¹ naprawdê dobrzy - mo¿esz mi wierzyæ. O... wydaje siê, ¿e mamy goœci... Ale jesteœmy przygotowani, czy¿ nie?</text>
 	</string>
 	<string id="hil_doc_dialog_dub_8">
-		<text>W porz¹dku, Dok! Poci¹gnê ich za sob¹. Powodzenia!</text>
+		<text>W porz¹dku, Doktorku! Poci¹gnê ich za sob¹. Powodzenia!</text>
 	</string>
 
 	<string id="otdat_cc_0">
-		<text>Odnoœnie Serca Kontrolera, Dok...</text>
+		<text>Odnoœnie Serca Kontrolera, Doktorku...</text>
 	</string>
 	<string id="otdat_cc_1">
 		<text>Namyœli³eœ siê?</text>.
@@ -1066,10 +1066,10 @@
 	</string>
 
 	<string id="hil_vor_dialog5_0">
-		<text>Generale! Stalkerzy oferuj¹ zjednoczyæ siê i szturmowaæ CEA.</text>
+		<text>Generale! Stalkerzy oferuj¹ by zjednoczyæ siê i szturmowaæ CEA.</text>
 	</string>
 	<string id="hil_vor_dialog5_1">
-		<text>O czym ty teraz do licha mówisz?</text>
+		<text>O czym Ty teraz do licha mówisz?</text>
 	</string>
 	<string id="hil_vor_dialog5_2">
 		<text>Stworzymy sojusz. W jego sk³ad wejd¹ Powinnoœæ, wojskowi i wolni stalkerzy, Wolnoœæ i Monolit.</text>
@@ -1085,13 +1085,13 @@
 		<text>S³uchaj £ukasz, koniec z ukrywaniem siê! Nadszed³ czas by wyjœæ i pourywaæ tym demonom g³owy.</text>
 	</string>
 	<string id="hil_lukash_dialog2_1">
-		<text>Nie masz pojêcia jacy oni silni.</text>
+		<text>Nie masz pojêcia jacy oni s¹ silni.</text>
 	</string>
 	<string id="hil_lukash_dialog2_2">
 		<text>Spotka³em siê z Apokalips¹. ¯o³nierze powa¿ni, ale i my nie palcem zrobieni! Stalkerzy zwi¹¿¹ siê sojuszem. Wszyscy. I Monolit te¿.</text>
 	</string>
 	<string id="hil_lukash_dialog2_3">
-		<text>Monolit? Myœla³em, ¿e ich ju¿ za du¿o nie ma na CEA. Teraz na barierze, na naszym skrzydle siedz¹. Dobrze. Uwa¿aj Strie³ok, ¿e jesteœmy z wami.</text>
+		<text>Monolit? Myœla³em, ¿e ich ju¿ za du¿o nie ma na CEA. Teraz na barierze, na naszym skrzydle siedz¹. Dobrze. Wiedz Strie³ok, ¿e jesteœmy z wami.</text>
 	</string>
 	<string id="hil_lukash_dialog2_4">
 		<text>Wcale nie w¹tpi³em.</text>
@@ -1130,7 +1130,7 @@
 	</string>
 
 	<string id="hil_haron_dialog1_0">
-		<text>Pozdrawiam ciê Charon.</text>
+		<text>Pozdrawiam Ciê Charon.</text>
 	</string>
 	<string id="hil_haron_dialog1_1">
 		<text>Witaj Strie³ok. No i spotkaliœmy siê. Rozmawia³eœ z stalkerami i wojskowymi?</text>
@@ -1152,7 +1152,7 @@
 	</string>
 
 	<string id="hil_sl_dialog2_0">
-		<text>Doktor powiedzia³, ¿e mogê liczyæ na pomoc twojej grupy.</text>
+		<text>Doktor powiedzia³, ¿e mogê liczyæ na pomoc Twojej grupy.</text>
 	</string>
 	<string id="hil_sl_dialog2_1">
 		<text>Kiedy wyruszamy?</text>
@@ -1161,13 +1161,13 @@
 		<text>To dobrze, ¿e jesteœcie gotowi. A jakichœ pancerzy lepszych od waszych p³aszczy nie macie? No i broñ musicie mieæ skuteczniejsz¹.</text>
 	</string>
 	<string id="hil_sl_dialog2_3">
-		<text>Pancerze mamy. Szeœæ kompletów monolitowskich egzoszkieletów. Sztyletów takich jak u ciebie, oczywiœcie nie mamy, zadowalamy siê OC-14. To te¿ jak wiesz, nie byle jaka pukawka.</text>
+		<text>Pancerze mamy. Szeœæ kompletów monolitowskich egzoszkieletów. Sztyletów takich jak u Ciebie, oczywiœcie nie mamy, zadowalamy siê OC-14. To te¿ jak wiesz, nie byle jaka pukawka.</text>
 	</string>
 	<string id="hil_sl_dialog2_4">
 		<text>Sztylety wam za³atwiê. Przejdziemy przez Prypeæ jak Czyngis Chan przez Azjê Œrodkow¹. A dlaczego szeœæ? Niemiec te¿ bêdzie dzia³a³?</text>
 	</string>
 	<string id="hil_sl_dialog2_5">
-		<text>Nie, on u nas od ³¹cznoœci. Ale jest jeszcze Igor Gonczar. Spotkamy siê z nim w Prypeci. A o Sztyletach powiem - ja ciebie za jêzyk nie ci¹gn¹³em.</text>
+		<text>Nie, on u nas od ³¹cznoœci. Ale jest jeszcze Igor Gonczar. Spotkamy siê z nim w Prypeci. A o Sztyletach powiem - ja Ciebie za jêzyk nie ci¹gn¹³em.</text>
 	</string>
 	<string id="hil_sl_dialog2_6">
 		<text>Powiedzia³em zdobêdê - to znaczy, ¿e zdobêdê. Poczekaj tu.</text>
@@ -1177,7 +1177,7 @@
 		<text>Pamiêtasz, mówi³eœ mi, ¿e jak coœ - to pomo¿esz?</text>
 	</string>
 	<string id="hil_barman_dialog3_1">
-		<text>Oczywiœcie! Jak mówi³ Smirnow. " Czeœæ wiêkszej korzyœci! " Jeœli coœ obieca³em - tak bêdzie.</text>
+		<text>Oczywiœcie! Jak mówi³ Smirnow. "Czeœæ wiêkszej korzyœci!". Jeœli coœ obieca³em - tak bêdzie.</text>
 	</string>
 	<string id="hil_barman_dialog3_2">
 		<text>Który Smirnow? Witalik?</text>
@@ -1207,23 +1207,23 @@
 		<text>Jesteœ inteligentny. Myœl jak zarobiæ.</text>
 	</string>
 	<string id="hil_barman_dialog3_11">
-		<text>Kto ci tu tak¹ robo... Chocia¿, poczekaj... Jermo³, coœ tam wspomina³. Tam stoi przy stoliku. IdŸ pogadaæ, mo¿e coœ dostaniesz. IdŸ te¿ pogadaæ z Budu³ajem.</text>
+		<text>Kto Ci tu tak¹ robo... Chocia¿, poczekaj... Jermo³, coœ tam wspomina³. Tam stoi przy stoliku. IdŸ pogadaæ, mo¿e coœ dostaniesz. IdŸ te¿ pogadaæ z Budu³ajem.</text>
 	</string>
 	<string id="hil_barman_dialog3_12">
-		<text>No dobrze.A kto to? I gdzie...</text>
+		<text>No dobrze. A kto to? I gdzie...</text>
 	</string>
 
 	<string id="hil_ermol_dialog1_0">
 		<text>Potrzebujê szybko zarobiæ. I to bardzo du¿¹ kwotê.</text>
 	</string>
 	<string id="hil_ermol_dialog1_1">
-		<text>Znam ciê, Strie³ok. Tobie mo¿na zaufaæ. Braciaków siê nie boisz. S³ysza³eœ o Behemocie?</text>
+		<text>Znam Ciê, Strie³ok. Tobie mo¿na zaufaæ. Braciaków siê nie boisz. S³ysza³eœ o Behemocie?</text>
 	</string>
 	<string id="hil_ermol_dialog1_2">
 		<text>To ten typ, który w Dolinie Mroku rz¹dzi?</text>
 	</string>
 	<string id="hil_ermol_dialog1_3">
-		<text>On. Przekrêci³ mnie na pó³tora miliona zielonych. Partiê artefaktów, któr¹ przerzuca³em na Wielk¹ Ziemiê przechwyci³. Moich ludzi jego braciaki wystrzelali.</text>
+		<text>Ten sam. Przekrêci³ mnie na pó³tora miliona zielonych. Partiê artefaktów, któr¹ przerzuca³em na Wielk¹ Ziemiê przechwyci³. Moich ludzi jego braciaki wystrzelali.</text>
 	</string>
 	<string id="hil_ermol_dialog1_4">
 		<text>Jasne. Ile p³acisz?</text>
@@ -1251,7 +1251,7 @@
 		<text>Oczyœci³em terytorium. Wierz mi, wszystkich wybi³em.</text>
 	</string>
 	<string id="hil_ermol_dialog2_3">
-		<text>Wierzê ci, potrzebowa³eœ piêæ milionów? No có¿, piêciu nie mam. Mam milion sto. Proszê, weŸ.</text>
+		<text>Wierzê Ci, potrzebowa³eœ piêæ milionów? No có¿, piêciu nie mam. Mam milion sto. Proszê, weŸ.</text>
 	</string>
 	<string id="hil_ermol_dialog2_4">
 		<text>Nie rozumiem?</text>
@@ -1270,14 +1270,14 @@
 		<text>Szybki jesteœ. Trzymaj swoje karabiny.</text>
 	</string>
 	<string id="hil_barman_dialog4_2">
-		<text>Pójdê ch³opaków przezbroiæ.</text>
+		<text>Pójdê ch³opaków dozbroiæ.</text>
 	</string>
 
 	<string id="hil_good_sidorych_dialog1_0">
 		<text>Sidorowicz, ja tylko...</text>
 	</string>
 	<string id="hil_good_sidorych_dialog1_1">
-		<text>Wiem. Bierz pieni¹dze i wracaj z powrotem. Stój! By³bym zapomnia³: Fanat ciê szuka³, jest tu w obozie. No, powodzenia stalkerze. </text>
+		<text>Wiem. Bierz pieni¹dze i wracaj z powrotem. Stój! By³bym zapomnia³: Fanat Ciê szuka³, jest tu w obozie. No, powodzenia stalkerze. </text>
 	</string>
 	<string id="hil_good_sidorych_dialog1_2">
 		<text>Sidorowicz, choæ jesteœ pijawk¹, to nasz¹ pijawk¹!</text>
@@ -1344,7 +1344,7 @@
 	</string>
 
 	<string id="hil_tell_nemez_0">
-		<text>Niemiec, twoi towarzysze ruszyli pomóc mi w Prypeci.</text>
+		<text>Niemiec, Twoi towarzysze ruszyli pomóc mi w Prypeci.</text>
 	</string>
 	<string id="hil_tell_nemez_1">
 		<text>W Prypeci? Cholera! To i ja z wami.</text>
@@ -1379,7 +1379,7 @@
 		<text>Zmieniæ ugrupowanie.</text>
 	</string>
 	<string id="hacker_dialog_3">
-		<text>Za to bêdzie 500$. Jak¹ przynale¿noœæ wpisaæ w twój PDA?</text>
+		<text>Za to bêdzie 500$. Jak¹ przynale¿noœæ wpisaæ w Twój PDA?</text>
 	</string>
 	<string id="hacker_dialog_4">
 		<text>Powinnoœæ.</text>
@@ -1397,7 +1397,7 @@
 		<text>Najemników mo¿esz?</text>
 	</string>
 	<string id="hacker_dialog_9">
-		<text>No i ju¿ ty powinnoœciowiec.</text>
+		<text>No i ju¿ powinnoœciowiec z Ciebie malowany.</text>
 	</string>
 	<string id="hacker_dialog_10">
 		<text>Piêkny przebieg s³u¿by, ¿o³nierzu.</text>
@@ -1412,7 +1412,7 @@
 		<text>¯e jak? Najemnik to nie grupa a reputacja.</text>
 	</string>
 	<string id="hacker_dialog_14">
-		<text>Dobrze. Jak ty to tak szybko?</text>
+		<text>Dobrze. Jak Ty to tak szybko?</text>
 	</string>
 	<string id="hacker_dialog_15">
 		<text>Nie, rozmyœli³em siê.</text>
@@ -1428,17 +1428,17 @@
 		<text>Ró¿nie bywa³o. Co to za robota. Tylko pamiêtaj - nie jestem morderc¹.</text>
 	</string>
 	<string id="hil_budulay_dialog1_3">
-		<text>Przyjaciel mój zagin¹³ gdzieœ w Dziczy. ZnajdŸ go Strie³ok, a zap³acê ci æwieræ miliona w rublach.</text>
+		<text>Przyjaciel mój zagin¹³ gdzieœ w Dziczy. ZnajdŸ go Strie³ok, a zap³acê Ci æwieræ miliona w rublach.</text>
 	</string>
 	<string id="hil_budulay_dialog1_4">
 		<text>Zgoda.</text>
 	</string>
 
 	<string id="hil_budulay_dialog2_0">
-		<text>Znalaz³em twojego kole¿kê, Budu³aj. Daj, wypijemy - martwy on. Jakieœ dranie go wypatroszy³y.</text>
+		<text>Znalaz³em Twojego kole¿kê, Budu³aj. Daj, wypijemy - martwy on. Jakieœ dranie go wypatroszy³y.</text>
 	</string>
 	<string id="hil_budulay_dialog2_1">
-		<text>Jak to tak?... My razem od pierwszej klasy... Ech Witek... Co ja twojej ¿onie powiem? Oto twoje pieni¹dze, Strie³ok. Dziêkujê.</text>
+		<text>Jak to tak?... My razem od pierwszej klasy... Ech Witek... Co ja Twojej ¿onie powiem? Oto Twoje pieni¹dze, Strie³ok. Dziêkujê.</text>
 	</string>
 	<string id="hil_budulay_dialog2_2">
 		<text>Bywaj.</text>
@@ -1460,13 +1460,13 @@
 		<text>Okrad³eœ go.</text>
 	</string>
 	<string id="hil_begemot_dialog_5">
-		<text>Coœ ty! Oszala³eœ? Wystarczy, ¿e mrugnê i braciaki ciê za³atwi¹!</text>
+		<text>Coœ Ty! Oszala³eœ? Wystarczy, ¿e mrugnê i braciaki Ciê za³atwi¹!</text>
 	</string>
 	<string id="hil_begemot_dialog_6">
-		<text>Twoi ³otrzyki dobrych ludzi pozabijali. Za to ci przyjdzie zap³aciæ. Gdzie walizka?</text>
+		<text>Twoi ³otrzyki dobrych ludzi pozabijali. Za to Ci przyjdzie zap³aciæ. Gdzie walizka?</text>
 	</string>
 	<string id="hil_begemot_dialog_7">
-		<text>A ty kto?!</text>
+		<text>A Ty kto?!</text>
 	</string>
 	<string id="hil_begemot_dialog_8">
 		<text>Strie³ok.</text>
@@ -1488,16 +1488,16 @@
 		<text>Wszystko jedno. Do zobaczenia w piekle.</text>
 	</string>
 	<string id="hil_renegade_dialog_5">
-		<text>No. A co ty mo¿esz mi zaproponowaæ?</text>
+		<text>No. A co Ty mo¿esz mi zaproponowaæ?</text>
 	</string>
 	<string id="hil_renegade_dialog_6">
-		<text>1000000$. I robotê dla nas.</text>
+		<text>1 000 000$. I robotê dla nas.</text>
 	</string>
 	<string id="hil_renegade_dialog_7">
 		<text>Hmm... Kusz¹ce. Zgadzam siê.</text>
 	</string>
 	<string id="hil_renegade_dialog_8">
-		<text>Ach tak. Myœlisz - ka¿dego mo¿na kupiæ? Ale w przeciwieñstwie do ciebie ja jestem cz³owiekiem.</text>
+		<text>Ach tak. Myœlisz - ka¿dego mo¿na kupiæ? Ale w przeciwieñstwie do Ciebie ja jestem cz³owiekiem.</text>
 	</string>
 	<string id="hil_renegade_dialog_9">
 		<text>A teraz zejdziesz na dó³ i... "przekonasz" swoich dawnych przyjació³. Oni mog¹ zaszkodziæ naszej sprawie.</text>
@@ -1509,7 +1509,7 @@
 		<text>Ja tego nie zrobiê.</text>
 	</string>
 	<string id="hil_renegade_dialog_12">
-		<text> Odmawiasz pracy dla nas? W takim razie oddawaj pieni¹dze!</text>
+		<text>Odmawiasz pracy dla nas? W takim razie oddawaj pieni¹dze!</text>
 	</string>
 	<string id="hil_renegade_dialog_13">
 		<text>Taa, ud³aw siê swoimi brudnymi pieniêdzmi!</text>
@@ -1584,14 +1584,14 @@
 		<text>Mo¿esz pomóc po hackersku: PDA poprawiæ?</text>
 	</string>
 	<string id="hacker_notebook_dialog_5">
-		<text>Mogê. Tylko czym: gdzieœ na Wysypisku napadli na mnie... Zabrali mi notebooka. Na tym co na stole - tylko bajki mo¿na ogl¹daæ lub w Countera graæ. A bêdzie sprzêt - bêdziemy dzia³aæ.</text>
+		<text>Mogê. Tylko czym: gdzieœ na Wysypisku napadli na mnie... Zabrali mi notebooka. Na tym co na stole - tylko bajki mo¿na ogl¹daæ lub w Countera graæ. A gdy bêdzie lepszy sprzêt - bêdziemy dzia³aæ.</text>
 	</string>
 	<string id="hacker_notebook_dialog_6">
-		<text>Dobrze. Postaram siê odnaleŸæ twoj¹ maszynê.</text>
+		<text>Dobrze. Postaram siê odnaleŸæ Twoj¹ maszynê.</text>
 	</string>
 
 	<string id="hacker_find_notebook_dialog_0">
-		<text>Znalaz³em twojego notebooka - w siedzibie bandytów pod dŸwigiem by³.</text>
+		<text>Znalaz³em Twojego notebooka - w siedzibie bandytów pod dŸwigiem by³.</text>
 	</string>
 	<string id="hacker_find_notebook_dialog_1">
 		<text>Bardzo dziêkujê! Aleœ mnie ucieszy³! No tak, jeœli bêdziesz czegoœ potrzebowa³ - tylko powiedz.</text>
@@ -1613,7 +1613,7 @@
 		<text>Ja nie ¿yjê. Po tym jak Apokalipsa wybi³a nas na Czarnobylu, moim jedynym celem i pragnieniem by³o wróciæ tutaj, zobaczyæ Monolit, s³u¿yæ Monolitowi, ¿yæ przy Monolicie... Widzia³eœ ju¿? Nie ma Monolitu... Racjê mieli ci co twierdzili, ¿e Monolit to tylko iluzja. Strie³ok, ja s³u¿y³em iluzji, moi ludzie oddawali swoje ¿ycie w imiê iluzji.</text>
 	</string>
 	<string id="haron_last_dialog_4">
-		<text>Jeœli to dla ciebie takie wa¿ne - po wszystkim uruchomimy generator - i s³u¿cie sobie dalej.</text>
+		<text>Jeœli to dla Ciebie takie wa¿ne - po wszystkim uruchomimy generator - i s³u¿cie sobie dalej.</text>
 	</string>
 	<string id="haron_last_dialog_5">
 		<text>Nie Strie³ok... Nie mo¿na s³u¿yæ iluzji... ¯egnaj.</text>
@@ -1628,7 +1628,7 @@
 		<text>No, a co z Jantarem?</text>
 	</string>
 	<string id="haron_last_dialog_9">
-		<text>Nie wiem, Strie³ok. Myœlê, ¿e po prostu lokalna emisja. Wykorzysta³em j¹, to ja rozpuœci³em plotki o testowaniu nowej broni, ja po³¹czy³em Zonê, ¿eby odbiæ elektrowniê Apokalipsie. Ale celem by³o - powróciæ do s³u¿by Monolitowi. Monolitu nie ma... Moje ¿ycie by³o iluzj¹, wiêc siê z nim rozstajê. Pamiêtaj Strie³ok, kiedy przyjdzie czas na najwa¿niejszy w twoim ¿yciu wybór - nie pomyl siê - drugiej szansy nie bêdzie. ¯egnaj...</text>
+		<text>Nie wiem, Strie³ok. Myœlê, ¿e po prostu lokalna emisja. Wykorzysta³em j¹, to ja rozpuœci³em plotki o testowaniu nowej broni, ja po³¹czy³em Zonê, ¿eby odbiæ elektrowniê Apokalipsie. Ale celem by³o - powróciæ do s³u¿by Monolitowi. Monolitu nie ma... Moje ¿ycie by³o iluzj¹, wiêc siê z nim rozstajê. Pamiêtaj Strie³ok, kiedy przyjdzie czas na najwa¿niejszy w Twoim ¿yciu wybór - nie pomyl siê - drugiej szansy nie bêdzie. ¯egnaj...</text>
 	</string>
 	<string id="haron_last_dialog_10">
 		<text>¯egnaj Charon.</text>
@@ -1644,7 +1644,7 @@
 		<text>Powodzenia.</text>
 	</string>
 	<string id="sl_last_dialog_3">
-		<text>Hej, poczekaj chwilê! OdwiedŸ Niemca - ma dla ciebie dobre wieœci.</text>
+		<text>Hej, poczekaj chwilê! OdwiedŸ Niemca - ma dla Ciebie dobre wieœci.</text>
 	</string>
 	<string id="sl_last_dialog_4">
 		<text>Tak? Dobrze, dziêkujê.</text>
@@ -1660,7 +1660,7 @@
 		<text>No wreszcie! Pewnie, ¿e gotowy!</text>
 	</string>
 	<string id="nemez_last_dialog_3">
-		<text>Wiesz co, Niemiec, daj mi jeszcze chwilkê.</text>
+		<text>Wiesz co, daj mi jeszcze chwilkê.</text>
 	</string>
 	<string id="nemez_last_dialog_4">
 		<text>Jak chcesz. Daj znaæ, jak siê zdecydujesz.</text>
@@ -1673,19 +1673,19 @@
 		<text>Tak jakoœ... Kiepsko...</text>
 	</string>
 	<string id="shuban_quest_dialog1_2">
-		<text>Coœ ty taki blady? Znowu w piwnicy pod kluczem siedzia³eœ?</text>
+		<text>Coœ Ty taki blady? Znowu w piwnicy pod kluczem siedzia³eœ?</text>
 	</string>
 	<string id="shuban_quest_dialog1_3">
 		<text>Œmiej siê Strie³ok... Bojê siê z obozu wychodziæ po tej imprezie z bandytami. Nie mogê siê zmusiæ. Do domu trzeba siê bêdzie zbieraæ... Co wspomnê jak oni mi palce ³amali...</text>
 	</string>
 	<string id="shuban_quest_dialog1_4">
-		<text>Tabletek na odwagê ci przynieœæ?</text>
+		<text>Tabletek na odwagê Ci przynieœæ?</text>
 	</string>
 	<string id="shuban_quest_dialog1_5">
 		<text>Nabijasz siê ze mnie...</text>
 	</string>
 	<string id="shuban_quest_dialog1_6">
-		<text>Dobrze, pomogê ci.</text>
+		<text>Dobrze, pomogê Ci.</text>
 	</string>
 
 	<string id="shuban_quest_dialog2_0">
@@ -1695,11 +1695,11 @@
 		<text>Dziêkujê Strie³ok. Z pieniêdzmi po prawdzie u mnie... WeŸ tego mauzera. Rarytas. Mówi¹, ¿e samego kombryga Kotowskiego zabawka.</text>
 	</string>
 	<string id="shuban_quest_dialog2_2">
-		<text>Dziêkujê ci, przyjacielu. Piêkna broñ.</text>
+		<text>Dziêkujê Ci, przyjacielu. Piêkna broñ.</text>
 	</string>
 
     <string id="bman_weapon_0">
-		<text>Czeœæ, Barman. S³uchaj, dlaczego u ciebie taki asortyment sk¹py? Broni konkretnej nie masz?</text>
+		<text>Czeœæ, Barman. S³uchaj, dlaczego u Ciebie taki asortyment sk¹py? Broni konkretnej nie masz?</text>
 	</string>
 	<string id="bman_weapon_1">
 		<text>Ca³y handel broni¹ przej¹³ Jermo³, z nim rozmawiaj.</text>.
@@ -1711,7 +1711,7 @@
 		<text>To nie tak. Procent mam z jego interesu. Zawracania g³owy mniej, pieni¹dze te same. </text>.
 	</string>
 	<string id="bman_weapon_4">
-		<text>Dobra. Porozmawiam z z Jermo³em.</text>.
+		<text>Dobra. Porozmawiam z Jermo³em.</text>.
 	</string>
 
 	<string id="ermol_weapon1_0">
@@ -1721,7 +1721,7 @@
 		<text>U Jermo³a jak w Kanadzie, wszystko jest. Ale nie dla wszystkich.</text>.
 	</string>
 	<string id="ermol_weapon1_2">
-		<text>Nie rozumiem, mój wyraz twarzy ci siê nie podoba?</text>
+		<text>Nie rozumiem, mój wyraz twarzy Ci siê nie podoba?</text>
 	</string>
 	<string id="ermol_weapon1_3">
 		<text>Mo¿e i podoba. Sprawdziæ by trzeba. Z³oœci mnie to, jak zielony m³odziak z pieniêdzmi kupuje sobie doskona³¹ broñ i potem rozrabia w Zonie.</text>.
@@ -1756,7 +1756,7 @@
 		<text>Kapitanie, na Jantarze wpadliœmy w zasadzkê. ¯o³nierze zginêli. Œmig³owiec...</text>
 	</string>
 	<string id="cap_yar_dialog_ay_1">
-		<text>Ju¿ o tym wiem. O naukowcach te¿. Nie zamartwiaj siê, nie ma w tym twojej winy, ¿e ¿o³nierzy postrzelali... Niepotrzebnie ³owcy armiê obrazili...</text>
+		<text>Ju¿ o tym wiem. O naukowcach te¿. Nie zamartwiaj siê, nie ma w tym Twojej winy, ¿e ¿o³nierzy postrzelali... Niepotrzebnie ³owcy armiê obrazili...</text>
 	</string>
 	<string id="cap_yar_dialog_ay_2">
 		<text>Co mam robiæ?</text>
@@ -1794,10 +1794,10 @@
 		<text>Po co mi to opowiadasz? Z laboratorium X16 skoñczone.</text>
 	</string>
 	<string id="fanat_dialog1_3">
-		<text>W poœpiechu zostawi³em tam aktówkê z wszystkimi dokumentami i notesami, i tak sobie pomyœla³em: jeœli Strie³ok przyniesie mi aktówkê (znaleŸæ nietrudno - jak zejdziesz w dó³, zaraz na pierwszym stanowisku operatora zostawi³em aktówkê, lub gdzieœ w okolicy), to ja podarujê Strie³okowi doœwiadczalny prototyp stunnera. To prototyp, nie by³ przygotowany do dzia³añ wojennych, tak wiêc optyki czy te¿ granatnika nie przyczepisz. Ale ma wielk¹ moc. Ca³kowicie gasi fale alfa mózgu celu.</text>
+		<text>W poœpiechu zostawi³em tam aktówkê z wszystkimi dokumentami i notesami, i tak sobie pomyœla³em: jeœli Strie³ok przyniesie mi aktówkê (znaleŸæ nietrudno - jak zejdziesz w dó³, zaraz na pierwszym stanowisku operatora zostawi³em aktówkê, lub gdzieœ w okolicy), to ja podarujê Strie³okowi doœwiadczalny prototyp Stunnera. To prototyp, nie by³ przygotowany do dzia³añ wojennych, tak wiêc optyki czy te¿ granatnika nie przyczepisz. Ale ma wielk¹ moc. Ca³kowicie gasi fale alfa mózgu celu.</text>
 	</string>
 	<string id="fanat_dialog1_4">
-		<text>Sprytny jesteœ. Wiesz czym mnie zainteresowaæ. Dobrze, znajdê ci tê twoj¹ aktówkê.</text>
+		<text>Sprytny jesteœ. Wiesz czym mnie zainteresowaæ. Dobrze, znajdê Ci tê Twoj¹ aktówkê.</text>
 	</string>
 	<string id="fanat_dialog1_5">
 		<text>PóŸniej. Bez obrazy. Roboty mam du¿o</text>
@@ -1807,14 +1807,14 @@
 		<text>Masz swoj¹ dyplomatkê. W dobry czas j¹ z X16 wydostaliœmy, ju¿ tam Ÿli ludzie jej szukali.</text>
 	</string>
 	<string id="fanat_dialog2_1">
-		<text>Bardzo dziêkujê! Trzymaj stunnera. I baterie do niego. 120 ³adunków. Jeœli siê uda - zrobiê ci jeszcze.</text>
+		<text>Bardzo dziêkujê! Trzymaj Stunnera. I baterie do niego. 120 ³adunków. Jeœli siê uda - zrobiê Ci jeszcze.</text>
 	</string>
 	<string id="fanat_dialog2_2">
 		<text>Dogadaliœmy siê.</text>
 	</string>
 
 	<string id="wolf_quest_dialog1_0">
-		<text>Coœ ty taki zamyœlony, Wilk?</text>
+		<text>Coœ Ty taki zamyœlony, Wilk?</text>
 	</string>
 	<string id="wolf_quest_dialog1_1">
 		<text>Tak sobie myœlê. Na Magazynach Wojskowych, w chutorze, widzia³em skrzynkê ciekaw¹. Nie wzi¹³em - za ciê¿ka siê okaza³a. A teraz ¿al bierze.</text>
@@ -1823,7 +1823,7 @@
 		<text>A w skrzynce - dynamit, co?</text>
 	</string>
 	<string id="wolf_quest_dialog1_3">
-		<text>Raczej nie. To ma³o prawdopodobne. Jak bêdziesz w okolicy to j¹ zabierz, jeœli nie bêdzie za ciê¿ka. A ja ci te¿ jeden drobiazg ciekawy za³atwiê.</text>
+		<text>Raczej nie. To ma³o prawdopodobne. Jak bêdziesz w okolicy to j¹ zabierz, jeœli nie bêdzie za ciê¿ka. A ja Ci te¿ jeden drobiazg ciekawy za³atwiê.</text>
 	</string>
 	<string id="wolf_quest_dialog1_4">
 		<text>Dobra. Na nos padnê a przytaszczê.</text>
@@ -1833,10 +1833,10 @@
 	</string>
 
 	<string id="wolf_quest_dialog2_0">
-		<text>Oto twoja skrzynka, Wilk. Jakoœ bardzo na skrzynkê z dynamitem wygl¹da, jak myœlisz?</text>
+		<text>Oto Twoja skrzynka, Wilk. Jakoœ bardzo na skrzynkê z dynamitem wygl¹da, jak myœlisz?</text>
 	</string>
 	<string id="wolf_quest_dialog2_1">
-		<text>Czy¿by... Trochê tylko podobna i tyle. A dla ciebie, proszê - baterie. Nie wiem od czego, ale pojemne - zgroza. Dla próby jedn¹ na detonator postawi³em, odbieg³em, ukry³em siê - eksplozja pó³ ceglanego domu roznios³a.</text>
+		<text>Czy¿by... Trochê tylko podobna i tyle. A dla Ciebie, proszê - baterie. Nie wiem od czego, ale pojemne - zgroza. Dla próby jedn¹ na detonator postawi³em, odbieg³em, ukry³em siê - eksplozja pó³ ceglanego domu roznios³a.</text>
 	</string>
 	<string id="wolf_quest_dialog2_2">
 		<text>No, byle by by³y baterie, a gdzie przyczepiæ - to sobie ju¿ znajdê.</text>
@@ -1862,7 +1862,7 @@
 	</string>
 
 	<string id="fox_quest_dialog2_0">
-		<text>Trzymaj swój kontener, Lis. Uwa¿aj, czujê, ¿e tam jakieœ drañstwo jest w œrodku.</text>
+		<text>Trzymaj swój kontener, Lis. Uwa¿aj. Czujê, ¿e tam jakieœ drañstwo jest w œrodku.</text>
 	</string>
 	<string id="fox_quest_dialog2_1">
 		<text>Dziêkujê. Za kontener i za ostrze¿enie. Trzymaj kasê.</text>
@@ -1887,7 +1887,7 @@
 		<text>No, ale tak sobie tylko siedzieæ w Zonie, to wed³ug mnie niebezpieczna g³upota. Co nowego s³ychaæ?</text>
 	</string>
 	<string id="tolik_legend_dialog_5">
-		<text>Innemu bym nie opowiedzia³. I tobie, myœlê, ¿e te¿ nie mo¿na: zginiesz z powodu mojej opowieœci, a ja ci ¿ycie jestem winny. Nie, nic nie ma nowego.</text>
+		<text>Innemu bym nie opowiedzia³. I Tobie, myœlê, ¿e te¿ nie mo¿na: zginiesz z powodu mojej opowieœci, a ja Ci ¿ycie jestem winny. Nie, nic nie ma nowego.</text>
 	</string>
 	<string id="tolik_legend_dialog_6">
 		<text>Przestañ jêczeæ, opowiadaj.</text>
@@ -1899,10 +1899,10 @@
 		<text>Nie. Oœwieæ mnie.</text>
 	</string>
 	<string id="tolik_legend_dialog_9">
-		<text>Jest w Zonie unikatowy artefakt, nazywa siê Serce Kontrolera. Jeœli powiesisz go na pasie - bêdzie ciê broni³ przed wszystkimi oddzia³ywaniami Zony. Nie³atwo go znaleŸæ, a jeszcze trudniej nim zaw³adn¹æ!.. Trzech kontrolerów i trzy pijawki strzeg¹ go dniem i noc¹, a komenderuje nimi stary, mówi¹ starszy od samej Zony kontroler.</text>
+		<text>Jest w Zonie unikatowy artefakt, nazywa siê Serce Kontrolera. Jeœli powiesisz go na pasie - bêdzie Ciê broni³ przed wszystkimi oddzia³ywaniami Zony. Nie³atwo go znaleŸæ, a jeszcze trudniej nim zaw³adn¹æ!.. Trzech kontrolerów i trzy pijawki strzeg¹ go dniem i noc¹, a komenderuje nimi stary, mówi¹ starszy od samej Zony kontroler.</text>
 	</string>
 	<string id="tolik_legend_dialog_10">
-		<text>Hehe... Sam to wymyœli³eœ, £ukanienko ty nasz? Gdzieœ ty widzia³ by czterech kontrolerów na jednym terytorium siê uchowa³o. Oni by jeden drugiemu mózgi wyjedli.</text>
+		<text>Hehe... Sam to wymyœli³eœ, £ukanienko? Gdzieœ Ty widzia³ by czterech kontrolerów na jednym terytorium siê uchowa³o. Oni by jeden drugiemu mózgi wyjedli.</text>
 	</string>
 	<string id="tolik_legend_dialog_11">
 		<text>Kie³ opowiada³.</text>.
@@ -1950,10 +1950,10 @@
 	</string>
 
 	<string id="kozel_dialog3_0">
-		<text>S³ysza³em, Gitler, ¿e ty drañ, ale nie, ¿e do takiego stopnia?!</text>
+		<text>S³ysza³em, Gitler, ¿e z Ciebie drañ, ale nie, ¿e do takiego stopnia?!</text>
 	</string>
 	<string id="kozel_dialog3_1">
-		<text>Nie z³oœæ siê, Strie³ok. Od razu ciê pozna³em. Przypomnia³em sobie, ¿e by³em ci winny trochê pieniêdzy. I nagle zw¹tpi³em: a co jeœli to nie Strie³ok? Spotykali stalkerzy jednego typa, bardzo podobnego do ciebie. Dziwny on jakiœ by³. Jakby nikogo nie widzia³ i nie s³ysza³. No i sobie pomyœla³em: prawdziwy Strie³ok rozprawi siê z czterema pijawkami jak dziecko z kaszk¹. Wiêc postanowi³em sprawdziæ.</text>
+		<text>Nie z³oœæ siê, Strie³ok. Od razu Ciê pozna³em. Przypomnia³em sobie, ¿e by³em Ci winny trochê pieniêdzy. I nagle zw¹tpi³em: a co jeœli to nie Strie³ok? Spotykali stalkerzy jednego typa, bardzo podobnego do Ciebie. Dziwny on jakiœ by³. Jakby nikogo nie widzia³ i nie s³ysza³. No i sobie pomyœla³em: prawdziwy Strie³ok rozprawi siê z czterema pijawkami jak dziecko z kaszk¹. Wiêc postanowi³em sprawdziæ.</text>
 	</string>
 	<string id="kozel_dialog3_2">
 		<text>G³upcem jesteœ Wañka. Obaj mogliœmy tu g³owê po³o¿yæ. Zgoda, zapomniane. Pieni¹dze oddawaj!</text>
@@ -1963,7 +1963,7 @@
 		<text>Kapitanie, Doktor powiedzia³, ¿e jest miejsce w œmig³owcu...</text>
 	</string>
 	<string id="yar_escort_dialog_1">
-		<text>Jasne, dla takich jak ty, spóŸnialskich. Dawaj biegiem, œmig³owiec w³aœnie siê podnosi!</text>
+		<text>Jasne, dla takich jak Ty, spóŸnialskich. Dawaj biegiem, œmig³owiec w³aœnie siê podnosi!</text>
 	</string>
 	<string id="yar_escort_dialog_2">
 		<text>Ju¿ biegnê!</text>
@@ -1973,7 +1973,7 @@
 		<text>Barman, mam pytanie: jak uwolniæ siê od Serca Kontrolera?</text>
 	</string>
 	<string id="barman_pro_concord_1">
-		<text>Po coœ je podnosi³? Po prostu jak dzieci! Tylko z wiêkszymi siusiakami. Zgoda, oddaj mi je i zapomnij.</text>
+		<text>Po coœ je podnosi³? Gorzej ni¿ dzieci! Tylko z wiêkszymi siusiakami. Dobra, oddaj mi je i zapomnij.</text>
 	</string>
 	<string id="barman_pro_concord_2">
 		<text>Jak to - oddaj? Nie. Szkoda mi go.</text>
@@ -2010,7 +2010,7 @@
 		<text>Tak. Sprawiedliwie.</text>
 	</string>
 	<string id="vor_about_clearning_9">
-		<text>No i widzisz, Strie³ok. I u ciebie gniew na nich, jestem pewny, ¿e im nie odpuœcisz.</text>
+		<text>No i widzisz, Strie³ok. I u Ciebie jest gniew do nich. Jestem pewny, ¿e im nie odpuœcisz.</text>
 	</string>
 	<string id="vor_about_clearning_10">
 		<text>Dobrze. Zrobiê na koniec dobry uczynek. Tylko jak ich rozpoznaæ skoro siê maskuj¹?</text>
@@ -2019,7 +2019,7 @@
 		<text>Moi ch³opcy zatrzymali podejrzan¹ parkê. Przes³uchali i rozstrzelali. Tam w rowie le¿¹. IdŸ, popatrz, pomyœl. Nie mogli wszystkiego przewidzieæ! Iwancowowi nie podoba³o siê, ¿e oni papierosy Extra Mocne palili. Ju¿ bardzo rzadkie. Tym bardziej w Zonie. W ogóle porozgl¹daj siê. G³upi przecie¿ nie jesteœ.</text>.
 	</string>
 	<string id="vor_about_clearning_12">
-		<text>Dobra, pójdê, popatrzê...</text>
+		<text>Dobra. Pójdê, popatrzê...</text>
 	</string>
 
 	<string id="cap_ivanzov_dialog_0">
@@ -2084,7 +2084,7 @@
 	</string>
 
 	<string id="sidor_joke1_0">
-		<text>Sidorowicz, a co to za rydwan u ciebie przy wejœciu stoi? FSO chcesz przej¹æ? Hehe..</text>
+		<text>Sidorowicz, a co to za rydwan u Ciebie przy wejœciu stoi? FSO chcesz przej¹æ? Hehe..</text>
 	</string>
 	<string id="sidor_joke1_1">
 		<text>Sam ¿eœ jest FSO. Widzia³eœ film "Czarna b³yskawica"? A to jest moja "Bia³a b³yskawica." Przele¿a³a pó³tora roku w "elektrze", wojacy BTR-em wyci¹gnêli i okaza³o siê... Lata teraz trochê wolniej od helikoptera i trochê ni¿ej. Za to bardzo cicho. Sprzedaæ nie sprzedam, ale mogê wynaj¹æ. Doba - sto baksów.</text>
@@ -2096,14 +2096,14 @@
 		<text>Za durnia mnie bierzesz? IdŸ do diab³a, Sidorowicz.</text>
 	</string>
 	<string id="sidor_joke1_4">
-		<text>Nie z³oœæ siê, ¿artowa³em sobie. Nie nabra³eœ siê. Tylko nikomu nic nie mów, trzy setki  na tym dowcipie, co dzieñ mam.</text>
+		<text>Nie z³oœæ siê, ¿artowa³em sobie. Nie nabra³eœ siê. Tylko nikomu nic nie mów, trzy setki  na tym dowcipie dziennie mam.</text>
 	</string>
 
 	<string id="sidor_joke2_0">
-		<text>Coœ nie dzia³a, Sidorowicz ta twoja "Bia³a b³yskawica."</text>
+		<text>Coœ nie dzia³a, Sidorowicz ta Twoja "Bia³a b³yskawica."</text>
 	</string>
 	<string id="sidor_joke2_1">
-		<text>Kiedy wy wydoroœlejecie, ch³opaki, w ka¿d¹ bzdurê uwierzycie. Trzysta baksów co dzieñ z tej zardzewia³ej kupy ¿elaza mam. No nie mo¿e samochód po niebie lataæ - i koniec!</text>
+		<text>Kiedy wy wydoroœlejecie, ch³opaki. W ka¿d¹ bzdurê uwierzycie. Trzysta baksów co dzieñ z tej zardzewia³ej kupy ¿elaza mam. No nie mo¿e samochód po niebie lataæ - i koniec!</text>
 	</string>
 	<string id="sidor_joke2_2">
 		<text>Pieni¹dze zwróæ.</text>
@@ -2119,7 +2119,7 @@
 		<text>Przypadkowo znalaz³em "Czarn¹ Duszê." Nosiæ j¹ przy sobie jest doœæ niebezpiecznie. I wyrzuciæ te¿ strach - ktoœ nieobeznany powiesi na pasie - i tylko pamiêæ po nim zostanie. Co radzisz?</text>
 	</string>
 	<string id="barman_pro_black_soul_1">
-		<text>Taa, ¿e te¿ ty w rzeczy samej zawsze na jakieœ œwiñstwo natrafisz! Dawaj j¹ tu - schowam j¹ g³êboko.</text>
+		<text>Taa, ¿e te¿ Ty zawsze na jakieœ œwiñstwo natrafisz! Dawaj j¹ tu - schowam g³êboko.</text>
 	</string>
 	<string id="barman_pro_black_soul_2">
 		<text>Bierz.</text>
@@ -2139,7 +2139,7 @@
 		<text>W X18 znalaz³em takie coœ.</text>
 	</string>
 	<string id="pro_book_1">
-		<text>Netbook? "ASUS"? Dobra maszyna. Za piêtnaœcie tysiêcy mo¿na sprzedaæ.</text>
+		<text>Netbook? "DELL"? Dobra maszyna. Za piêtnaœcie tysiêcy mo¿na sprzedaæ.</text>
 	</string>
 	<string id="pro_book_2">
 		<text>Jak powiedzia³eœ - tak sprzedam.</text>
@@ -2149,7 +2149,7 @@
 		<text>W X18 znalaz³em takie coœ.</text>
 	</string>
 	<string id="pro_block_1">
-		<text>Gdzie ty tak¹ staroæ znalaz³eœ? Akurat by muzeum na Wysypisku zorganizowaæ.</text>
+		<text>Gdzie Ty tak¹ staroæ znalaz³eœ? Akurat by muzeum na Wysypisku zorganizowaæ.</text>
 	</string>
 	<string id="pro_block_2">
 		<text>Cholera! Niepotrzebnie to taszczy³em!</text>
@@ -2159,7 +2159,7 @@
 		<text>Doktorze, wszystko zrobi³em. Zabijaæ naukowców nie by³o rozkazu, ale... nie ja pierwszy otworzy³em ogieñ. I oto co znalaz³em przy ich g³ównym. Przy Numerze I.</text>
 	</string>
 	<string id="doc_pda_dialog_1">
-		<text>PDA? Interesuj¹ce. Rozszyfrujemy, poczytamy, dowiemy siê nad czym pracowali... Zdaje siê, ¿e ty jeszcze nie skoñczy³eœ...</text>
+		<text>PDA? Interesuj¹ce. Rozszyfrujemy, poczytamy, dowiemy siê nad czym pracowali... Zdaje siê, ¿e Ty jeszcze nie skoñczy³eœ...</text>
 	</string>
 	<string id="doc_pda_dialog_2">
 		<text>Doktorze, w bunkrze widzia³em samego siebie. Takiego, jakim by³em  pó³tora roku temu.</text>
@@ -2168,13 +2168,13 @@
 		<text>Taa... Ile dni ju¿ nie spa³eœ? Przywidzenia zaczynaj¹ siê zazwyczaj po pi¹tym dniu...</text>
 	</string>
 	<string id="doc_pda_dialog_4">
-		<text>To nie by³y zwidy, Dok. Kiedy zaczê³a siê bitwa, on o¿y³ i walczy³ po mojej stronie.</text>
+		<text>To nie by³y zwidy, Doktorze. Kiedy zaczê³a siê bitwa, on o¿y³ i walczy³ po mojej stronie.</text>
 	</string>
 	<string id="doc_pda_dialog_5">
-		<text>Ty sam siebie s³yszysz? Strie³ok, bredzisz. Odpoczniesz na Wielkiej Ziemi, wrócisz, i  jeszcze o tym pogadamy.</text>
+		<text>Ty sam siebie s³yszysz? Bredzisz, Strie³ok. Odpoczniesz na Wielkiej Ziemi, wrócisz, i  jeszcze o tym pogadamy.</text>
 	</string>
 	<string id="doc_pda_dialog_6">
-		<text>Dobrze, Dok. Do zobaczenia.</text>
+		<text>Dobrze, Doktorze. Do zobaczenia.</text>
 	</string>
 
 	<string id="bc_dialog_0">
@@ -2184,7 +2184,7 @@
 		<text>Tak. Odstraszam ró¿nych durni od laboratorium.</text>
 	</string>
 	<string id="bc_dialog_2">
-		<text>Dlaczego siê przedstawiasz jako stalker  z grupy Strie³oka?</text>
+		<text>Dlaczego siê przedstawiasz jako stalker z grupy Strie³oka?</text>
 	</string>
 	<string id="bc_dialog_3">
 		<text>Bo ja jestem stalkerem z grupy Strie³oka.</text>
@@ -2193,7 +2193,7 @@
 		<text>No, wiêc siê zapoznajmy - Strie³ok.</text>
 	</string>
 	<string id="bc_dialog_5">
-		<text>Wiem. I wiem, kto ci jest potrzebny.</text>
+		<text>Wiem. I wiem, kto Ci jest potrzebny.</text>
 	</string>
 	<string id="bc_dialog_6">
 		<text>A któ¿ to?</text>
@@ -2203,7 +2203,7 @@
 		<text>Coœ chcia³eœ jeszcze powiedzieæ?</text>
 	</string>
 	<string id="vst_v_cnn_1">
-		<text>Tak. Grupa Strie³oka nie istnieje, sam wiesz. Moi ch³opcy z radoœci¹ przyjm¹ ciê w swoje szeregi.</text>
+		<text>Tak. Grupa Strie³oka nie istnieje, sam wiesz. Moi ch³opcy z radoœci¹ przyjm¹ Ciê w swoje szeregi.</text>
 	</string>
 	<string id="vst_v_cnn_2">
 		<text>Sami przyszliœcie z propozycj¹? Dobra. Zgadzam siê.</text>
@@ -2223,10 +2223,10 @@
 	</string>
 
 	<string id="hil_budulay_dialog3_0">
-		<text>Coœ taki smutny, stalkerze? Rozweseliæ ciê zajmuj¹c¹ histori¹?</text>
+		<text>Coœ taki smutny, stalkerze? Rozweseliæ Ciê zajmuj¹c¹ histori¹?</text>
 	</string>
 	<string id="hil_budulay_dialog3_1">
-		<text>He! Sam mogê ciê rozbawiæ. S³ysza³eœ o grupie Leñki-Brzytwy?</text>
+		<text>He! Sam mogê Ciê rozbawiæ. S³ysza³eœ o grupie Leñki-Brzytwy?</text>
 	</string>
 	<string id="hil_budulay_dialog3_2">
 		<text>Kopacze? Kilka razy sie z nimi spotka³em. I co siê im przydarzy³o?</text>
@@ -2263,11 +2263,11 @@
 	</string>
 
 	<string id="haron_hello_dialog_0">
-		<text>Witam ciê, stalkerze.</text>
+		<text>Witam Ciê, stalkerze.</text>
 	</string>
 
 	<string id="cnn_hello_dialog_0">
-		<text>S³ucham ciê uwa¿nie.</text>
+		<text>S³ucham Ciê uwa¿nie.</text>
 	</string>
 
 	<string id="hacker_hello_dialog_0">
