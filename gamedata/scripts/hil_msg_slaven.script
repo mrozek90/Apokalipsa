@@ -3,7 +3,7 @@ function slaven_msg(first_speaker, second_speaker)
 	local snd_obj = xr_sound.get_safe_sound_object( [[msgs\slaven_1]] )
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]S³awik:\n%c[default] Strie³ok! Gdzie ty siê podziewasz? Czekamy na punkcie zbornym.", nil, nil, 35000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]S³awik:\n%c[default] Strie³ok! Gdzie Ty siê podziewasz? Czekamy na punkcie zbornym.", nil, nil, 25000)
 end
 
 function slaven_msg1(first_speaker, second_speaker)
@@ -11,7 +11,7 @@ function slaven_msg1(first_speaker, second_speaker)
 	local snd_obj = xr_sound.get_safe_sound_object( [[msgs\slaven_2]] )
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]S³awik:\n%c[default] Strie³ok! D³ugo przejœcia nie utrzymamy! Decyduj siê szybciej!", nil, nil, 35000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]S³awik:\n%c[default] Strie³ok! D³ugo przejœcia nie utrzymamy! Decyduj siê szybciej!", nil, nil, 25000)
 end
 
 function slaven_msg2(first_speaker, second_speaker)

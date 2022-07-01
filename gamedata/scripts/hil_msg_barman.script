@@ -3,5 +3,5 @@ function barman_msg1(first_speaker, second_speaker)
 	local snd_obj = xr_sound.get_safe_sound_object( [[msgs\barman]] )
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 
-	news_manager.send_tip(db.actor, "%c[255,200,0,0] Barman:\n%c[default] Strie³ok, interesuj¹ siê tob¹ jakieœ podejrzane typy. Nie podoba mi siê to. B¹dŸ ostro¿ny.", nil, nil, 35000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0] Barman:\n%c[default] Strie³ok, interesuj¹ siê Tob¹ jakieœ podejrzane typy. Nie podoba mi siê to. B¹dŸ ostro¿ny.", nil, nil, 25000)
 end

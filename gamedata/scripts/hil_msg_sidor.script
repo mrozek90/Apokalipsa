@@ -3,5 +3,5 @@ function sidor_msg1(first_speaker, second_speaker)
 	local snd_obj = xr_sound.get_safe_sound_object( [[msgs\sidor]] )
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Sidorowicz:\n%c[default] Stalkerze! Masz PDA mojego zmar³ego przyjaciela, Naznaczonego. Wpadnij do mnie. Dobrze ci za nie zap³acê.", nil, nil, 35000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Sidorowicz:\n%c[default] Stalkerze! Masz PDA mojego zmar³ego przyjaciela, Naznaczonego. Wpadnij do mnie. Dobrze Ci za nie zap³acê.", nil, nil, 25000)
 end
