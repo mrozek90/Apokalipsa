@@ -43,11 +43,11 @@
 	<string id="documents_5">
 		<text>Wczoraj w eksperymencie na doœwiadczalnych by³o spróbowane psi-promieniowanie nowej modulacji. Powsta³o wra¿enie, ¿e nimi prosto wypali³o mó¿d¿ek. Z trudem mogê sobie przedstawiæ, jak to promieniowanie mo¿e podzia³aæ na cz³owieka. Opróbowaliœmy wszystkie typy promieniowañ. Rezultaty zgadzaj¹ siê z danymi z innych laboratoriów. Eksperyment mo¿na liczyæ zakoñczonym. Myœlê, ¿e za tydzieñ bêdziemy gotowi do przeprowadzenia eksperymentu na wiêcej du¿ych istotach</text>
 	</string>
-	<string id="LabX18 first key">
-		<text>Kod dostêpu na drugi poziom</text>
+	<string id="LabX18_first_key">
+		<text>Kod dostêpu na drugi poziom: 906947.</text>
 	</string>
-	<string id="LabX18 second key">
-		<text>Kod dostêpu na pierwszy poziom</text>
+	<string id="LabX18_second_key">
+		<text>Kod dostêpu na pierwszy poziom: 9250.</text>
 	</string>
 	<string id="LabX18_information">
 		<text>Informacje z X18</text>

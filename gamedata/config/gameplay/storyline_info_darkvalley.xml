@@ -1,22 +1,22 @@
 <article article_type="journal" group="Found_PDA" id="dar_password_info1" name="Pierwszy kod dostêpu do X18">
     <text>
-        pass_to_1st_door
+        Kod dostêpu: 906947.
     </text>
 </article>
 <article article_type="journal" group="Found_PDA" id="dar_password_info2" name="Drugi kod dostêpu do X18">
     <text>
-        pass_to_2nd_door
+        Kod do œrodkowego laboratorium: 9250.
     </text>
 </article>
 
 <article article_type="task" group="dar_codedoor_1/0" id="dar_password_info11" name="LabX18 first key">
     <text>
-        pass_to_1st_door
+        Kod dostêpu: 906947.
     </text>
 </article>
 <article article_type="task" group="dar_codedoor_2/0" id="dar_password_info22" name="LabX18 second key">
     <text>
-        pass_to_2nd_door
+        Kod do œrodkowego laboratorium: 9250.
     </text>
 </article>
 
